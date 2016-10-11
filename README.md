@@ -43,40 +43,40 @@ Each publisher has a single JSON file with straightforward properties. Notables:
     <code>commercial_support</code>: link to a resource/page describing the type of commerical support provided for the respective Free Software
     (empty if commercial support is only available for another (version of the) software that can be downloaded using <code>source_code_download</code>).  
   </li>
-  <li>wikipedia_url: link to the wikipedia page of the Free Software</li>
-  <li>openhub_url: link to the openhub page of the Free Software</li>
-  <li>language: the language of a success case (<a href="https://en.wikipedia.org/wiki/ISO_639-1">ISO 639-1</a>)</li>
+  <li><code>wikipedia_url</code>: link to the wikipedia page of the Free Software</li>
+  <li><code>openhub_url</code>: link to the openhub page of the Free Software</li>
+  <li><code>language</code>: the language of a success case (<a href="https://en.wikipedia.org/wiki/ISO_639-1">ISO 639-1</a>)</li>
 </ul>
 <p>
 The full JSON schema is here:
 </p>
 <pre><code>
 {
-	"title": [company title],
-	"logo": [url to company logo],
-	"country": [origin country of the publishe],
-	"presence": [countries the publisher has a presense, e.g. ["us", "gb"]],
-	"website": [url to company website],
-	"founded_year": [year company was founded],
+	"title": &lt;&lt;company title&gt;&gt;,
+	"logo": &lt;&lt;url to company logo&gt;&gt;,
+	"country": &lt;&lt;origin country of the publishe&gt;&gt;,
+	"presence": &lt;&lt;countries the publisher has a presense, e.g. ["us", "gb"]&gt;&gt;,
+	"website": &lt;&lt;url to company website&gt;&gt;,
+	"founded_year": &lt;&lt;year company was founded&gt;&gt;,
 	"free_software_list": [{
-		"title": [software title],
-		"logo": [url to software logo],
-		"category_list": [list of categories, e.g. ["communication", "database"]],
-		"source_code_download": [link to an archive with all source code],
-		"commercial_support": [link to a resource/page describing the type of commerical support provided],
-		"wikipedia_url": [link to the wikipedia page of the Free Software],
+		"title": &lt;&lt;software title&gt;&gt;,
+		"logo": &lt;&lt;url to software logo&gt;&gt;,
+		"category_list": &lt;&lt;list of categories, e.g. ["communication", "database"]&gt;&gt;,
+		"source_code_download": &lt;&lt;link to an archive with all source code&gt;&gt;,
+		"commercial_support": &lt;&lt;link to a resource/page describing the type of commerical support provided&gt;&gt;,
+		"wikipedia_url": &lt;&lt;link to the wikipedia page of the Free Software&gt;&gt;,
 		"success_case_list": [{
-			"title": [title of success case],
-			"image": [url to screenshot of success case],
-			"customer": [name of client/customer],
-			"country": [country of origin of customer],
-			"language": [language of success case],
-			"url": [url to success case]
+			"title": &lt;&lt;title of success case&gt;&gt;,
+			"image": &lt;&lt;url to screenshot of success case&gt;&gt;,
+			"customer": &lt;&lt;name of client/customer&gt;&gt;,
+			"country": &lt;&lt;country of origin of customer&gt;&gt;,
+			"language": &lt;&lt;language of success case&gt;&gt;,
+			"url": &lt;&lt;url to success case&gt;&gt;
 		}, {
-			[...next success case...]
+			&lt;&lt;...next success case...&gt;&gt;
 		}]
 	}, {
-	  [... next Free Software ...]
+	  &lt;&lt;... next Free Software ...&gt;&gt;
 	}]
 }
 </code></pre>
@@ -116,4 +116,5 @@ application is persistent and communication is not. Email messaging can thus be
 considered in some cases as communication and in other cases as application
 (such as in a CRM).
 </p>
+
 
