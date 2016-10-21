@@ -9,9 +9,9 @@
 		"title": "PrestaShop",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/PrestaShop_Logo_2015.png",
 		"category_list": ["Application"],
-                "website": "https://www.prestashop.com/",
+		"website": "https://www.prestashop.com/",
 		"source_code_download": "https://github.com/PrestaShop/PrestaShop/archive/develop.zip",
-                "source_code_profile": "https://www.openhub.net/p/PrestaShop/analyses/latest/languages_summary";
+		"source_code_profile": "https://www.openhub.net/p/PrestaShop/analyses/latest/languages_summary",
 		"commercial_support": "http://addons.prestashop.com/en/388-support",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/PrestaShop",
 		"success_case_list": [{
