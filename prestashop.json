@@ -1,38 +1,33 @@
 {
-	"title": "BlueMind",
-	"logo": "https://blog-centreon-wordpress.s3.amazonaws.com/wp-content/uploads/2013/09/logo_bluemind_1000px.jpg",
+	"title": "PrestaShop SA",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/PrestaShop_Logo_2015.png",
 	"country": "fr",
-	"presence": ["fr"],
-	"website": "https://www.bluemind.net/en/",
-	"founded_year": "2000",
+	"presence": ["fr", "us"],
+	"website": "https://www.prestashop.com",
+	"founded_year": "2007",
 	"free_software_list": [{
-		"title": "BlueMind",
-		"logo": "https://blog-centreon-wordpress.s3.amazonaws.com/wp-content/uploads/2013/09/logo_bluemind_1000px.jpg",
-		"category_list": ["Webmail", "Calendars", "Contacts and address books", "Tasks", "Instant messaging", "Unified communications", "Admin console", "Security", "LDAP directory synchronization"],
-		"source_code_download": "http://git.blue-mind.net/gitlist/bluemind/tarball/release/3",
-		"commercial_support": "https://www.bluemind.net/en/purchasing-bluemind/",
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Blue_Mind_(logiciel)",
+		"title": "PrestaShop",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/PrestaShop_Logo_2015.png",
+		"category_list": ["Application"],
+                "website": "https://www.prestashop.com/",
+		"source_code_download": "https://github.com/PrestaShop/PrestaShop/archive/develop.zip",
+                "source_code_profile": "https://www.openhub.net/p/PrestaShop/analyses/latest/languages_summary";
+		"commercial_support": "http://addons.prestashop.com/en/388-support",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/PrestaShop",
 		"success_case_list": [{
-			"title": "Migration to BlueMind at Saint-Ouen City Council",
-			"image": "https://www.bluemind.net/wp-content/uploads/2016/01/sto_quadri_base-300x209.jpg",
-			"customer": "Saint-Ouen City Council",
-			"country": "fr",
+			"title": "eCommerce Success Story: Selling Fly clothing since 2000",
+			"image": "https://www.prestashop.com/blog/en/files/2016/04/FlyClothing_SucessStory-657x345.jpg",
+			"customer": "FlyClothing.com",
+			"country": "us",
 			"language": "en",
-			"url": "https://www.bluemind.net/en/client-case-studies/saint-ouen-city-council/"
+			"url": "https://www.prestashop.com/blog/en/ecommerce-success-story-selling-fly-clothing-since-2000/#more-21472"
 		}, {
-			"title": "Migration to BlueMind at Groupe Gagneraud",
-			"image": "https://www.bluemind.net/wp-content/uploads/2016/03/Groupe-Gagneraud-1.jpg",
-			"customer": "Groupe Gagneraud",
-			"country": "fr",
+			"title": "Social Media Case Study: Take a ride with Wobybi",
+			"image": "https://www.prestashop.com/blog/en/files/2016/02/Success_story_Wobybi-657x345.jpg",
+			"customer": "Wobybi",
+			"country": "es",
 			"language": "en",
-			"url": "https://www.bluemind.net/en/client-case-studies/groupe-gagneraud/"
-		}, {
-			"title": "Migration to BlueMind at Centre Hospitalier des Pyrénées",
-			"image": "https://www.bluemind.net/wp-content/uploads/2016/03/logo-ch-pyr-1.jpg",
-			"customer": "Centre Hospitalier des Pyrénées",
-			"country": "fr",
-			"language": "en",
-			"url": "https://www.bluemind.net/en/client-case-studies/centre-hospitalier-des-pyrenees/"
+			"url": "https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/#more-21230"
 		}]
 	}]
 }
