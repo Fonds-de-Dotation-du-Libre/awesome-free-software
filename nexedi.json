@@ -78,7 +78,7 @@
 		"title": "Wendelin",
 		"logo": "http://www.nexedi.com/graphic-Wendelin.logo?quality=75.0&display=large&format=png",
 		"website": "http://www.wendelin.io/",
-		"category_list": ["Analytics"],
+		"category_list": ["Analytics "],
 		"source_code_download": "https://lab.nexedi.com/nexedi/wendelin/repository/archive.zip?ref=master",
 		"source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
 		"commercial_support": "http://www.nexedi.com/service/nexedi-service-slapos/service/nexedi-service-wendelin",
