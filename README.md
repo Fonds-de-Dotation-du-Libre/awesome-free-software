@@ -39,6 +39,7 @@ Each publisher has a single JSON file with straightforward properties. Notables:
   <li><code>country</code>: origin country of the publisher (<a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">ISO 3166-1 alpha-2</a>)</li>
   <li><code>presence</code>: countries the publisher has a presense (<a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">ISO 3166-1 alpha-2</a>)</li>
   <li><code>source_code_download</code>: link to an archive with all source code available under a Free Software license</li>
+  <li><code>source_code_profile</code>: link to the openhub source code profile</li>
   <li>
     <code>commercial_support</code>: link to a resource/page describing the type of commerical support provided for the respective Free Software
     (empty if commercial support is only available for another (version of the) software that can be downloaded using <code>source_code_download</code>).  
@@ -52,32 +53,34 @@ The full JSON schema is here:
 </p>
 <pre><code>
 {
-	"title": &lt;&lt;company title&gt;&gt;,
-	"logo": &lt;&lt;url to company logo&gt;&gt;,
-	"country": &lt;&lt;origin country of the publishe&gt;&gt;,
-	"presence": &lt;&lt;countries the publisher has a presense, e.g. ["us", "gb"]&gt;&gt;,
-	"website": &lt;&lt;url to company website&gt;&gt;,
-	"founded_year": &lt;&lt;year company was founded&gt;&gt;,
-	"free_software_list": [{
-		"title": &lt;&lt;software title&gt;&gt;,
-		"logo": &lt;&lt;url to software logo&gt;&gt;,
-		"category_list": &lt;&lt;list of categories, e.g. ["communication", "database"]&gt;&gt;,
-		"source_code_download": &lt;&lt;link to an archive with all source code&gt;&gt;,
-		"commercial_support": &lt;&lt;link to a resource/page describing the type of commerical support provided&gt;&gt;,
-		"wikipedia_url": &lt;&lt;link to the wikipedia page of the Free Software&gt;&gt;,
-		"success_case_list": [{
-			"title": &lt;&lt;title of success case&gt;&gt;,
-			"image": &lt;&lt;url to screenshot of success case&gt;&gt;,
-			"customer": &lt;&lt;name of client/customer&gt;&gt;,
-			"country": &lt;&lt;country of origin of customer&gt;&gt;,
-			"language": &lt;&lt;language of success case&gt;&gt;,
-			"url": &lt;&lt;url to success case&gt;&gt;
-		}, {
-			&lt;&lt;...next success case...&gt;&gt;
-		}]
-	}, {
-	  &lt;&lt;... next Free Software ...&gt;&gt;
-	}]
+        "title": &lt;&lt;company title&gt;&gt;,
+        "logo": &lt;&lt;url to company logo&gt;&gt;,
+        "country": &lt;&lt;origin country of the publishe&gt;&gt;,
+        "presence": &lt;&lt;countries the publisher has a presense, e.g. ["us", "gb"]&gt;&gt;,
+        "website": &lt;&lt;url to company website&gt;&gt;,
+        "founded_year": &lt;&lt;year company was founded&gt;&gt;,
+        "free_software_list": [{
+                "title": &lt;&lt;software title&gt;&gt;,
+                "logo": &lt;&lt;url to software logo&gt;&gt;,
+                "website": &lt;&lt;software website&gt;&gt;,
+                "category_list": &lt;&lt;list of categories, e.g. ["Developer", "Communication"]&gt;&gt;,
+                "source_code_download": &lt;&lt;link to an archive with all source code&gt;&gt;,
+                "source_code_profile": &lt;&lt;link to openhub source code profile&gt;&gt;,
+                "commercial_support": &lt;&lt;link to a resource/page describing the type of commerical support provided&gt;&gt;,
+                "wikipedia_url": &lt;&lt;link to the wikipedia page of the Free Software&gt;&gt;,
+                "success_case_list": [{
+                        "title": &lt;&lt;title of success case&gt;&gt;,
+                        "image": &lt;&lt;url to screenshot of success case&gt;&gt;,
+                        "customer": &lt;&lt;name of client/customer&gt;&gt;,
+                        "country": &lt;&lt;country of origin of customer&gt;&gt;,
+                        "language": &lt;&lt;language of success case&gt;&gt;,
+                        "url": &lt;&lt;url to success case&gt;&gt;
+                }, {
+                        &lt;&lt;...next success case...&gt;&gt;
+                }]
+        }, {
+          &lt;&lt;... next Free Software ...&gt;&gt;
+        }]
 }
 </code></pre>
 
@@ -87,27 +90,27 @@ The full JSON schema is here:
 Free Software is categorized using the following terms:
 </p>
 <ul>
-	<li>communication (email, chat, videoconferencing, etc.)</li>
-	<li>database (SQL, NoSQL, etc.)</li>
-	<li>application (ERP, CRM, e-commerce, project management, etc.)</li>
-	<li>analytics (big data, machine learning, data visualisation, etc.)</li>
-	<li>developer (text editor, IDE, frameworks)</li>
-	<li>gis (map editor, map visualisation)</li>
-	<li>desktop (desktop operating system, desktop web browser, desktop VM, etc.)</li>
-	<li>mobile (mobile operating system, mobile web browser, mobile VM, etc.)</li>
-	<li>middleware (ESP, ETL, ELT, etc.)</li>
-	<li>infrastructure (public cloud, private cloud, software defined network, hyperconverged OS, IOT management)</li>
+        <li>communication (email, chat, videoconferencing, etc.)</li>
+        <li>database (SQL, NoSQL, etc.)</li>
+        <li>application (ERP, CRM, e-commerce, project management, etc.)</li>
+        <li>analytics (big data, machine learning, data visualisation, etc.)</li>
+        <li>developer (text editor, IDE, frameworks)</li>
+        <li>gis (map editor, map visualisation)</li>
+        <li>desktop (desktop operating system, desktop web browser, desktop VM, etc.)</li>
+        <li>mobile (mobile operating system, mobile web browser, mobile VM, etc.)</li>
+        <li>middleware (ESP, ETL, ELT, etc.)</li>
+        <li>infrastructure (public cloud, private cloud, software defined network, hyperconverged OS, IOT management)</li>
 </ul>
 <p>
 Categories have been chosen on purpose taking into account the increaing convergence in IT:
 </p>
 
 <ul>
-	<li>application convergence (ERP, CRM, Web, Project, Big Data)</li>
-	<li>infrastructure convergence (server OS, networking, routing, hyperconverged OS)</li>
-	<li>desktop convergence (desktop OS, web browser, VM)</li>
-	<li>mobile convergence (mobile OS, mobile browser, VM)</li>
-	<li>middleware (ESB, ETL, etc.)</li>
+        <li>application convergence (ERP, CRM, Web, Project, Big Data)</li>
+        <li>infrastructure convergence (server OS, networking, routing, hyperconverged OS)</li>
+        <li>desktop convergence (desktop OS, web browser, VM)</li>
+        <li>mobile convergence (mobile OS, mobile browser, VM)</li>
+        <li>middleware (ESB, ETL, etc.)</li>
 </ul>
 
 <p>
@@ -116,5 +119,3 @@ application is persistent and communication is not. Email messaging can thus be
 considered in some cases as communication and in other cases as application
 (such as in a CRM).
 </p>
-
-
