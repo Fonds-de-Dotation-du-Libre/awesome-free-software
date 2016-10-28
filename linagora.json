@@ -16,7 +16,9 @@
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/OBM",
                 "success_case_list": [{
                         "title": "SDIS 59-French fireman local antenna for Nord area",
+                        "description": "SDIS 59 was looking to improve its collaboration infrastructures, to spare time wasted on transmitting information instead of being used on critical tasks... Such as saving lives.",
                         "image": "https://www.linagora.com/sites/default/files/logo_sdis59.jpg",
+                        "industry": "Public Administration & Government",
                         "customer": "SDIS 59",
                         "country": "fr",
                         "language": "en",
@@ -33,7 +35,9 @@
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/LinShare",
                 "success_case_list": [{
                         "title": "SDIS 59-French fireman local antenna for Nord area",
+                        "description": "SDIS 59 was looking to improve its collaboration infrastructures, to spare time wasted on transmitting information instead of being used on critical tasks... Such as saving lives.",
                         "image": "https://www.linagora.com/sites/default/files/logo_sdis59.jpg",
+                        "industry": "Public Administration & Government",
                         "customer": "SDIS 59",
                         "country": "fr",
                         "language": "en",
@@ -50,7 +54,9 @@
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "SDIS 59-French fireman local antenna for Nord area",
+                        "description": "SDIS 59 was looking to improve its collaboration infrastructures, to spare time wasted on transmitting information instead of being used on critical tasks... Such as saving lives.", 
                         "image": "https://www.linagora.com/sites/default/files/logo_sdis59.jpg",
+                        "industry": "Public Administration & Government",
                         "customer": "SDIS 59",
                         "country": "fr",
                         "language": "en",
@@ -67,14 +73,18 @@
                 "wikipedia_url": "https://en.wikipedia.org/wiki/Petals_ESB",
                 "success_case_list": [{
                         "title": "Scalable infrastructure for content distribution",
+                        "description": "Faced with this challenge Orange had to choose an infrastructure that would address current capacity needs while simultaneously facilitating further expansion.";
                         "image": "https://www.linagora.com/sites/default/files/styles/landscape__800x400_/public/lideal_cinema-jacques_tati_daniche_-_la_salle.jpg?itok=AHzXnbzu",
+                        "industry": "Telecommunication", 
                         "customer": "Orange",
                         "country": "fr",
                         "language": "en",
                         "url": "https://www.linagora.com/story/scalable-infrastructure-content-distribution"
                 }, {
                         "title": "Improve the collection and redistribution processes",
+                        "description": "In 2007, L'ACOSS sought to implement a SOA system in its network and to develop primary services in order to open its information system to the Social Security for the Self Employed (RSI). After performing a thorough study on SOA system providers, L'ACOSS chose Petals ESB service bus.",
                         "image": "https://www.linagora.com/sites/default/files/logo_acoss.jpg",
+                        "industry": "Public Administration & Government",
                         "customer": "ACOSS",
                         "country": "fr",
                         "language": "en",
