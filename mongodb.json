@@ -16,36 +16,46 @@
                 "wikipedia_url": "https://en.wikipedia.org/wiki/MongoDB",
                 "success_case_list": [{
                         "title": "GENNUBI CMS",
+                        "description": "NubiDo is a task management solution for the busy professional. MongoDB's document oriented architecture allowed Gennubi to create logical, hierarchal data models which were much easier to visualize and use. And of course safety comes out of the box with MongoDB's seamless replication. Gennubi was able to create a replicated cluster on AWS in no time.",
                         "image": "http://gennubi.com/assets/img/LaptopCoverImage.png",
                         "customer": "GENNUBI",
+                        "industry": "Software",
                         "country": "us",
                         "language": "en",
                         "url": "https://www.mongodb.com/community/deployments"
                 }, {
                         "title": "ebay Catalog",
+                        "description": "eBay needs to deliver highly available service. Their MongoDB-powered image metadata service is used by all auctions worldwide and has seen a 99.999% availability since launch.",
                         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2000px-EBay_logo.svg.png",
                         "customer": "ebay",
+                        "industry": "Web",
                         "country": "us",
                         "language": "en",
                         "url": "https://www.mongodb.com/community/deployments"
                 }, {
                         "title": "BOSCH Internet of Things",
+                        "description": "As the underlying database of Bosch's IoT platform, MongoDB stores and analyzes the data from billions of devices and data sources, helping Bosch bring sustainable, modern products to market.",
                         "image": "http://image.slidesharecdn.com/2014mongodbworld-slamav05-140725162144-phpapp02/95/building-largescale-applications-for-the-internet-of-things-at-bosch-12-638.jpg?cb=1406305350",
                         "customer": "BOSCH",
+                        "industry": "Appliances",
                         "country": "us",
                         "language": "en",
                         "url": "https://www.mongodb.com/community/deployments"
                 }, {
                         "title": "360 Mobile applications",
+                        "description": "Qihoo is China’s number 1 Android mobile distribution platform. Qihoo is also China’s top malware protection company, providing products for both web and mobile platforms. A MongoDB user since 2011, Qihoo has built over 100 different applications on MongoDB – including new services and migrations from MySQL and Redis – running on 1,500+ instances and supporting 20 billion queries per day.",
                         "image": "https://webassets.mongodb.com/dotorg/deployments/qihoo.jpg",
                         "customer": "Qihoo 360",
+                        "industry": "Web",
                         "country": "cn",
                         "language": "en",
                         "url": "https://www.mongodb.com/community/deployments"
                 }, {
                         "title": "Expedia relies on MongoDB to power Scratchpad",
+                        "description": "Expedia relies on MongoDB to power Scratchpad, a feature that allows their customers to store and organize their searches for easy retrieval. MongoDB allows Expedia to continually improve this service with zero impact on the customer experience.",
                         "image": "http://blog.expedia.com/wp-content/uploads/2014/03/UIS.png",
                         "customer": "Expedia",
+                        "industry": "Travel",
                         "country": "us",
                         "language": "en",
                         "url": "http://blog.expedia.com/how-expedia-is-simplifying-travel-planning/"
