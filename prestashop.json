@@ -16,14 +16,18 @@
 		"wikipedia_url": "https://en.wikipedia.org/wiki/PrestaShop",
 		"success_case_list": [{
 			"title": "eCommerce Success Story: Selling Fly clothing since 2000",
+			"description": "When we interview PrestaShop merchants for success stories, one thing seems to come out time and time again — they have a passion for the products they sell. Jonathan Hedden, owner of FlyClothing.com, is no exception, only he started selling online before PrestaShop was even created.",
 			"image": "https://www.prestashop.com/blog/en/files/2016/04/FlyClothing_SucessStory-657x345.jpg",
+			"industry": "Web",
 			"customer": "FlyClothing.com",
 			"country": "us",
 			"language": "en",
 			"url": "https://www.prestashop.com/blog/en/ecommerce-success-story-selling-fly-clothing-since-2000/#more-21472"
 		}, {
 			"title": "Social Media Case Study: Take a ride with Wobybi",
+			"description": "Meet Wobybi, this week’s featured PrestaShop merchant. We sat down with Alvaro Basterra, the company’s founder, to learn more about how they use social media to promote their online store. Let’s find out what he has to say!",
 			"image": "https://www.prestashop.com/blog/en/files/2016/02/Success_story_Wobybi-657x345.jpg",
+			"industry": "Web",
 			"customer": "Wobybi",
 			"country": "es",
 			"language": "en",
