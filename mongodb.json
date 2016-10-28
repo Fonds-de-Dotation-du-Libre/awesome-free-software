@@ -1,6 +1,6 @@
 {
         "title": "MongoDB",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mongodb-inc-logo.jpg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg",
         "country": "us",
         "presence": ["us", "gb", "nl", "it", "fr", "de", "il", "au", "hk", "cn", "in"],
         "website": "https://www.mongodb.com/",
@@ -43,7 +43,7 @@
                         "url": "https://www.mongodb.com/community/deployments"
                 }, {
                         "title": "360 Mobile applications",
-                        "description": "Qihoo is China’s number 1 Android mobile distribution platform. Qihoo is also China’s top malware protection company, providing products for both web and mobile platforms. A MongoDB user since 2011, Qihoo has built over 100 different applications on MongoDB – including new services and migrations from MySQL and Redis – running on 1,500+ instances and supporting 20 billion queries per day.",
+                        "description": "Qihoo is Chinaâs number 1 Android mobile distribution platform. Qihoo is also Chinaâs top malware protection company, providing products for both web and mobile platforms. A MongoDB user since 2011, Qihoo has built over 100 different applications on MongoDB â including new services and migrations from MySQL and Redis â running on 1,500+ instances and supporting 20 billion queries per day.",
                         "image": "https://webassets.mongodb.com/dotorg/deployments/qihoo.jpg",
                         "customer": "Qihoo 360",
                         "industry": "Web",
