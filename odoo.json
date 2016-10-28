@@ -4,7 +4,7 @@
         "country": "be",
         "presence": ["be", "us", "lu", "hk", "in"],
         "website": "https://www.odoo.com/",
-        "founded_year": "2005: Tiny ERP - 2009: Open ERP - 2014: Odoo",
+        "founded_year": "2005",
         "free_software_list": [{
                 "title": "Odoo Apps",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png",
