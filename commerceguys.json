@@ -16,14 +16,18 @@
                 "wikipedia_url": "https://en.wikipedia.org/wiki/Drupal_Commerce",
                 "success_case_list": [{
                         "title": "Lush",
+                        "description": "Lush Cosmetics is a £360m revenue business with over 900 shops in 51 countries, and needed to significantly grow their multi-channel business. They implemented their new flagship eCommerce system for the U.K. in March 2014, built with Commerce Guys on Drupal Commerce technology. It’s the embodiment of Content, Community and Commerce and about as advanced as it gets.",
                         "image": "https://drupalcommerce.org/sites/default/files/showcase-screens/lush-front-page.png",
+                        "industry": "Health",
                         "customer": "Lush",
                         "country": "gb",
                         "language": "en",
                         "url": "https://drupalcommerce.org/showcase/site/lush"
                 }, {
                         "title": "Enterprise Booking Platform built with Drupal 7",
+                        "description": "The goal of the project was to implement a state-of-the-art web experience, which fulfills the needs of the Eurocentres target groups. The new website had to be user-friendly and cross-cultural, utilizing the latest trends in the Internet industry (e.g. mashups, Ajax, social media).",
                         "image": "https://drupalcommerce.org/sites/default/files/showcase-screens/Screen%20Shot%202012-10-04%20at%2011.48.43%20AM.png",
+                        "industry": "Travel",
                         "customer": "Eurocentres",
                         "country": "worldwide",
                         "language": "en",
