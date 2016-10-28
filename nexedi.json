@@ -16,35 +16,45 @@
                 "wikipedia_url": "https://en.wikipedia.org/wiki/ERP5",
                 "success_case_list": [{
                         "title": "Zawee runs its local fashion shops and eCommerce website with ERP5",
+                        "description": "Zawee run its fashion retail business with two shops in Paris and its online shop weinparis.com with ERP5. Thanks to ERP5 Trade, ERP5 PDM and ERP5 POS, Zawee has complete control over its inventory of clothes, bags and accessories in all variations of colours and sizes. With EPR5 eCommerce Zawee can use the same product catalogue for online and offline sales. ERP5‘s social network integration allows Zawee to motivate its clients to promote Zawee products by rewarding facebook likes with loyalty points for shop discounts.",
                         "image": "http://mes-petites-boutiques.com/blog/wp-content/uploads/2015/07/DSC_3813_resultat.jpg",
+                        "industry": "Web",
                         "customer": "Zawee",
                         "country": "fr",
                         "language": "en",
                         "url": "https://www.nexedi.com/success/erp5-Zawee.Success.Case"
                 }, {
                         "title": "GKR:Local html5 App and central ERP5 to manage supply-production-sales data for 14 companies",
+                        "description": "GKR international group, the leader of China's rubber industry specialising in rubber planting, processing, sales and R&D, has implemented an exemplary purchase-production-sales data acquisition and management system for its 14 subsidiaries throughout Southeast Asia and China in only 3 months. It was accomplished by developing an easy-to-use HTML5 web application integrated to a central ERP5.",
                         "image": "http://www.nexedi.com/P-GKR-Media.Image.Factory.Production.Satun.Thailand?display=medium&format=jpg",
+                        "industry": "Manufacturing",
                         "customer": "Guankeng Rubber Group",
                         "country": "cn",
                         "language": "en",
                         "url": "https://www.nexedi.com/success/erp5-GKR.Success.Case"
             		}, {
     			        "title": "广东省广垦橡胶集团三个月内成功部署基于HTML5离线技术的跨国ERP系统",
+              			"description": "跨国集团公司广垦橡胶集团在三个月内为其位于中国和东南亚的14个子公司部署了一套示范性的供产销数据采集处理系统。该系统包含离线HTML5应用，开源ERP5中心系统平台和GrandeNet应用分发网络。",
               			"image": "http://www.nexedi.com/P-GKR-Media.Image.Factory.Production.Satun.Thailand?display=medium&format=jpg",
+              			"industry": "Manufacturing",
               			"customer": "广东省广垦橡胶集团",
               			"country": "cn",
               			"language": "zh",
               			"url": "http://www.nexedi.com/zh/P-GKR-Press.Launch.Announcement"
             		}, {
                         "title": "ERP5 Implementation in Aerospace Industry:Integrated Order Management Solution for TerraSAR-X Commercial Service Segment",
+                        "description": "Airbus DS Geo GmbH, a 100% subsidiary of Airbus Defence and Space, holds the exclusive commercial exploitation rights for the TerraSAR-X radar earth observation satellite and uses ERP5 as part of the service segment for the commercial distribution of data from the TerraSAR-X Mission . The initial implementation of the ERP5 for the TerraSAR-X Service Segment was realised by Nexedi and Logica and went into production in 2006, after which Nexedi took sole responsibility for managing the system and its technical evolution.",
                         "image": "http://www.nexedi.com/success/erp5-Airbus.Success.Case/NXD-Media.Image.Client.Infoterra?display=medium&format=png",
+                        "industry": "Aerospace",
                         "customer": "Airbus DS Geo Gmbh",
                         "country": "de",
                         "language": "en",
                         "url": "https://www.erp5.com/success/erp5-Airbus.Success.Case"
                 }, {
                         "title": "Single integrated front and back office solution to power an eBusiness",
+                        "description": "Sanef Tolling has chosen ERP5 to power its eBusiness related to management of Electronic Toll Collection for British citizens driving on French motorways. The Sanef Tolling website and the related eBusiness was able to be launched within one month from the beginning of the project because both the Frontoffice and Backoffice had been fully integrated thanks to ERP5.",
                         "image": "http://www.nexedi.com/success/erp5-SanefTolling.Success.Case/erp5-Screenshot.SanefTolling.Website.Home?display=large&format=png",
+                        "industry": "Tolling",
                         "customer": "Sanef",
                         "country": ["fr", "gb"],
                         "language": "en",
@@ -59,21 +69,7 @@
                 "source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
                 "commercial_support": "http://www.nexedi.com/service/nexedi-service-slapos",
                 "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "GrandeNet - The Internet on Steroids",
-                        "image": "http://www.nexedi.com/NXD-Media.Logo.GrandeNet?quality=75.0&display=large&format=png",
-                        "customer": "GrandeNet",
-                        "country": "cn",
-                        "language": "en",
-                        "url": "http://community.slapos.org/blog/NXD-Document.Blog.Grandenet.Internet.On.Steroids"
-                }, {
-                        "title": "RINA: Creating a RINA Testing Environment in SlapOS",
-                        "image": "http://community.slapos.org/blog/NXD-Document.Blog.Rina.Test.Environment.In.SlapOS/NXD-Media.Image.Rina.Screenshot.Setup?format=png",
-                        "customer": "RINA",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "http://community.slapos.org/blog/NXD-Document.Blog.Rina.Test.Environment.In.SlapOS"
-                }]
+                "success_case_list": []
         }, {
                 "title": "Wendelin",
                 "logo": "http://www.nexedi.com/graphic-Wendelin.logo?quality=75.0&display=large&format=png",
@@ -83,14 +79,7 @@
                 "source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
                 "commercial_support": "http://www.nexedi.com/service/nexedi-service-slapos/service/nexedi-service-wendelin",
                 "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "Wendelin: 0.5 released",
-                        "image": "http://www.nexedi.com/wendelin/NXD-Document.Blog.Wendelin.Release.0.5/NXD-Media.Image.Blog.Wendelin.Release.0.5.Screenshot.Jupyter?format=png&display=large",
-                        "customer": "Wendelin project",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "http://www.wendelin.io/NXD-Document.Blog.Wendelin.Release.0.5"
-                }]
+                "success_case_list": []
         }, {
                 "title": "Renderjs",
                 "logo": "",
@@ -100,13 +89,6 @@
                 "source_code_profile": "https://www.openhub.net/p/renderjs/analyses/latest/languages_summary",
                 "commercial_support": "",
                 "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "W3C Widgets for Cloud Resilience : the UNG Project",
-                        "image": "data:image/png;base64,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",
-                        "customer": "UNG project",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "http://www.renderjs.org/P-RenderJs-RenderJS.Intro/P-RESILIENCE-W3C.Lightning.Talk"
-                }]
+                "success_case_list": []
         }]
 }
