@@ -16,8 +16,10 @@
                 "wikipedia_url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
                 "success_case_list": [{
                         "title": "Visual Studio - Use Multiple Visual Studio Project Types for Cloud Success",
+                        "description": "I was confronted with a real-world example of such a problem recently while building out the infrastructure for a cloud-based program I lead that’s designed to highlight success stories: Microsoft Solutions Advocates (microsoftsolutionsadvocates.com). I used several different Visual Studio project types to build my solution, and in this article, I’ll walk through a simplified example of my project called “Customer Success Stories,” or CSS.",
                         "image": "https://i-msdn.sec.s-msft.com/dynimg/IC463250.jpg",
                         "customer": "patrick foley",
+                        "industry": "Web",
                         "country": "us",
                         "language": "en",
                         "url": "https://msdn.microsoft.com/en-us/magazine/gg535669.aspx"
