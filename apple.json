@@ -7,11 +7,11 @@
         "founded_year": "1976",
         "free_software_list": [{
                 "title": "Swift",
-		  		"website": "https://developer.apple.com/swift/",
+                "website": "https://developer.apple.com/swift/",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Swift_logo_with_text.svg",
                 "category_list": ["Developer"],
                 "source_code_download": "https://github.com/apple/swift/archive/master.zip",
-		  		"source_code_profile": "https://www.openhub.net/p/swift-lang/analyses/latest/languages_summary",
+                  "source_code_profile": "https://www.openhub.net/p/swift-lang/analyses/latest/languages_summary",
                 "commercial_support": "https://swift.org/",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/Swift_(programming_language)",
                 "success_case_list": []
