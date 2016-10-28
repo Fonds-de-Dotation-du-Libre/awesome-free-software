@@ -32,7 +32,7 @@ through Free Software and reduce their risks thanks to this model of publishing.
 <h1>JSON Schema</h1>
 <p>All JSON text entries must use UTF-8 encoding.</p>
 <p>
-Each publisher has a single JSON file with straightforward properties. Notables:
+Each publisher has a single JSON file with straightforward properties. Notable properties::
 </p>
 
 <ul>
@@ -41,11 +41,10 @@ Each publisher has a single JSON file with straightforward properties. Notables:
   <li><code>source_code_download</code>: link to an archive with all source code available under a Free Software license</li>
   <li><code>source_code_profile</code>: link to the openhub source code profile</li>
   <li>
-    <code>commercial_support</code>: link to a resource/page describing the type of commerical support provided for the respective Free Software
+    <code>commercial_support</code>: link to a page describing the type of commerical support provided for the respective Free Software
     (empty if commercial support is only available for another (version of the) software that can be downloaded using <code>source_code_download</code>).  
   </li>
   <li><code>wikipedia_url</code>: link to the wikipedia page of the Free Software</li>
-  <li><code>openhub_url</code>: link to the openhub page of the Free Software</li>
   <li><code>language</code>: the language of a success case (<a href="https://en.wikipedia.org/wiki/ISO_639-1">ISO 639-1</a>)</li>
 </ul>
 <p>
@@ -70,8 +69,10 @@ The full JSON schema is here:
                 "wikipedia_url": &lt;&lt;link to the wikipedia page of the Free Software&gt;&gt;,
                 "success_case_list": [{
                         "title": &lt;&lt;title of success case&gt;&gt;,
-                        "image": &lt;&lt;url to screenshot of success case&gt;&gt;,
-                        "customer": &lt;&lt;name of client/customer&gt;&gt;,
+                        "description": &lt;&lt;description of success case&gt;&gt;,
+  						"image": &lt;&lt;url to screenshot of success case&gt;&gt;,
+                        "industry": &lt;&lt;industry, this success case is from&gt;&gt;,
+  						"customer": &lt;&lt;name of client/customer&gt;&gt;,
                         "country": &lt;&lt;country of origin of customer&gt;&gt;,
                         "language": &lt;&lt;language of success case&gt;&gt;,
                         "url": &lt;&lt;url to success case&gt;&gt;
@@ -90,16 +91,42 @@ The full JSON schema is here:
 Free Software is categorized using the following terms:
 </p>
 <ul>
-        <li>communication (email, chat, videoconferencing, etc.)</li>
-        <li>database (SQL, NoSQL, etc.)</li>
-        <li>application (ERP, CRM, e-commerce, project management, etc.)</li>
-        <li>analytics (big data, machine learning, data visualisation, etc.)</li>
-        <li>developer (text editor, IDE, frameworks)</li>
-        <li>gis (map editor, map visualisation)</li>
-        <li>desktop (desktop operating system, desktop web browser, desktop VM, etc.)</li>
-        <li>mobile (mobile operating system, mobile web browser, mobile VM, etc.)</li>
-        <li>middleware (ESP, ETL, ELT, etc.)</li>
-        <li>infrastructure (public cloud, private cloud, software defined network, hyperconverged OS, IOT management)</li>
+        <li>Communication (email, chat, videoconferencing, etc.)</li>
+        <li>Database (SQL, NoSQL, etc.)</li>
+        <li>Application (ERP, CRM, e-commerce, project management, etc.)</li>
+        <li>Analytics (big data, machine learning, data visualisation, etc.)</li>
+        <li>Developer (text editor, IDE, frameworks)</li>
+        <li>Gis (map editor, map visualisation)</li>
+        <li>Desktop (desktop operating system, desktop web browser, desktop VM, etc.)</li>
+        <li>Mobile (mobile operating system, mobile web browser, mobile VM, etc.)</li>
+        <li>Middleware (ESP, ETL, ELT, etc.)</li>
+        <li>Infrastructure (public cloud, private cloud, software defined network, hyperconverged OS, IOT management)</li>
+</ul>
+<p>
+The following industries are used to categorize success cases:
+<p>
+<ul>
+  <li>Aerospace</li>
+  <li>Appliances</li>
+  <li>Commerce</li>
+  <li>Construction</li>
+  <li>Entertainment</li>
+  <li>Finance</li>
+  <li>Housing</li>
+  <li>Insurance</li>
+  <li>Life Sciences</li>
+  <li>Manufacturing</li>
+  <li>Media</li>
+  <li>Public Administration &amp; Government</li>
+  <li>Research</li>
+  <li>Retail</li>
+  <li>Software</li>
+  <li>Telecommunication</li>
+  <li>Tolling</li>
+  <li>Tourism</li>
+  <li>Travel</li>
+  <li>Transport</li>
+  <li>Web</li>
 </ul>
 <p>
 Categories have been chosen on purpose taking into account the increaing convergence in IT:
@@ -112,10 +139,11 @@ Categories have been chosen on purpose taking into account the increaing converg
         <li>mobile convergence (mobile OS, mobile browser, VM)</li>
         <li>middleware (ESB, ETL, etc.)</li>
 </ul>
-
+        
 <p>
 The difference between application and communication, for example, is that 
 application is persistent and communication is not. Email messaging can thus be 
 considered in some cases as communication and in other cases as application
 (such as in a CRM).
 </p>
+
