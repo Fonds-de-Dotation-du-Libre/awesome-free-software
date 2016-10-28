@@ -29,7 +29,7 @@
                         "language": "en",
                         "url": "https://www.mongodb.com/community/deployments"
                 }, {
-                        "title": "BOSCH Internetn of Things",
+                        "title": "BOSCH Internet of Things",
                         "image": "http://image.slidesharecdn.com/2014mongodbworld-slamav05-140725162144-phpapp02/95/building-largescale-applications-for-the-internet-of-things-at-bosch-12-638.jpg?cb=1406305350",
                         "customer": "BOSCH",
                         "country": "us",
@@ -37,7 +37,7 @@
                         "url": "https://www.mongodb.com/community/deployments"
                 }, {
                         "title": "360 Mobile applications",
-                        "image": "http://appflood.com/appflood-wordpress/wp-content/uploads/2013/05/360-screenshot.jpg",
+                        "image": "https://webassets.mongodb.com/dotorg/deployments/qihoo.jpg",
                         "customer": "Qihoo 360",
                         "country": "cn",
                         "language": "en",
