@@ -1,37 +1,37 @@
 {
-	"title": "Odoo",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png",
-	"country": "be",
-	"presence": ["be", "us", "lu", "hk", "in"],
-	"website": "https://www.odoo.com/",
-	"founded_year": "2005",
-	"free_software_list": [{
-		"title": "Odoo Apps",
-		"logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png",
-		"website": "https://www.odoo.com",
-		"category_list": ["Application"],
-		"source_code_download": "https://github.com/odoo/odoo/archive/9.0.zip",
-		"source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
-		"commercial_support": "https://www.odoo.com/pricing",
-		"wikipedia_url": "https://fr.wikipedia.org/wiki/Odoo",
-		"success_case_list": [{
-			"title": "Odoo POS, perfect for running a wine bar",
-			"description": "Odoo Point Of Sale combines a beautiful and easy to use design with useful features, including: custom loyalty card programs, drag & drop table/floor plan modeling, usability functions for both retail and restaurant businesses... Odoo POS has it all!",
-			"image": "https://www.odoo.com/web/image/1327676",
-			"industry": "Retail",
-			"customer": "Chez FÃ©lix",
-			"country": "be",
-			"language": "en",
-			"url": "https://www.odoo.com/blog/customer-reviews-6/post/odoo-pos-perfect-for-running-a-wine-bar-325"
-		}, {
-			"title": "Scratch DJ Academy",
-			"description": "No need to prove that Odoo fits all kinds of business, regardless the size, the sector or the products! Here is a new good example of Odoo flexibility. Most of you should know about the famous rap band from the 90's Run DMC, but do you know about the Scratch Academy?  Christopher Knight, software developer at the academy, explains us their use of Odoo.",
-			"image": "https://www.odoo.com/web/image/1232758",
-			"industry": "Entertainment",
-			"customer": "Scratch Academy",
-			"country": "us",
-			"language": "en",
-			"url": "https://www.odoo.com/blog/customer-reviews-6/post/scratch-dj-academy-324"
-		}]
-	}]
+        "title": "Odoo",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png",
+        "country": "be",
+        "presence": ["be", "us", "lu", "hk", "in"],
+        "website": "https://www.odoo.com/",
+        "founded_year": "2005",
+        "free_software_list": [{
+                "title": "Odoo Apps",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png",
+                "website": "https://www.odoo.com",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/odoo/odoo/archive/9.0.zip",
+                "source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
+                "commercial_support": "https://www.odoo.com/pricing",
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Odoo",
+                "success_case_list": [{
+                        "title": "Odoo POS, perfect for running a wine bar",
+                        "description": "Odoo Point Of Sale combines a beautiful and easy to use design with useful features, including: custom loyalty card programs, drag & drop table/floor plan modeling, usability functions for both retail and restaurant businesses... Odoo POS has it all!",
+                        "image": "https://www.odoo.com/web/image/1327676",
+                        "industry": "Retail",
+                        "customer": "Chez Felix",
+                        "country": "be",
+                        "language": "en",
+                        "url": "https://www.odoo.com/blog/customer-reviews-6/post/odoo-pos-perfect-for-running-a-wine-bar-325"
+                }, {
+                        "title": "Scratch DJ Academy",
+                        "description": "No need to prove that Odoo fits all kinds of business, regardless the size, the sector or the products! Here is a new good example of Odoo flexibility. Most of you should know about the famous rap band from the 90's Run DMC, but do you know about the Scratch Academy?  Christopher Knight, software developer at the academy, explains us their use of Odoo.",
+                        "image": "https://www.odoo.com/web/image/1232758",
+                        "industry": "Entertainment",
+                        "customer": "Scratch Academy",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.odoo.com/blog/customer-reviews-6/post/scratch-dj-academy-324"
+                }]
+        }]
 }
