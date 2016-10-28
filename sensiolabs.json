@@ -16,14 +16,18 @@
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Symfony",
 		"success_case_list": [{
 			"title": "Vogue France",
+			"description": "...",
 			"image": "https://symfony.com/media/cache/project_show/uploads/showcase/32fa97a5fdd28158d063ac600ff1f917.jpeg",
+			"industry": "Media",
 			"customer": "Vogue France",
 			"country": "fr",
 			"language": "en",
 			"url": "https://symfony.com/showcase/67"
 		}, {
 			"title": "Swiss Open Government Data",
+			"description": "...",
 			"image": "https://symfony.com/media/cache/project_show/uploads/showcase/f0a28027adfefbd67b4189a302518d8f.png",
+			"industry": "Public Administration & Government",
 			"customer": "Swiss Federal Council",
 			"country": "ch",
 			"language": "en",
