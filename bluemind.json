@@ -16,22 +16,28 @@
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Blue_Mind_(logiciel)",
                 "success_case_list": [{
                         "title": "Migration to BlueMind at Saint-Ouen City Council",
+                        "description": "Migration from Lotus Domino to the BlueMind solution involving over 1,300 user accounts. Email, collaboration, mobility and connection to portal. A cutting-edge solution.",
                         "image": "https://www.bluemind.net/wp-content/uploads/2016/01/sto_quadri_base-300x209.jpg",
+                        "industry": "Public Administration & Government",
                         "customer": "Saint-Ouen City Council",
                         "country": "fr",
                         "language": "en",
                         "url": "https://www.bluemind.net/en/client-case-studies/saint-ouen-city-council/"
                 }, {
                         "title": "Migration to BlueMind at Groupe Gagneraud",
+                        "description": "Project involving over 1,500 user accounts",
                         "image": "https://www.bluemind.net/wp-content/uploads/2016/03/Groupe-Gagneraud-1.jpg",
+                        "industry": "Manufacturing",
                         "customer": "Groupe Gagneraud",
                         "country": "fr",
                         "language": "en",
                         "url": "https://www.bluemind.net/en/client-case-studies/groupe-gagneraud/"
                 }, {
-                        "title": "Migration to BlueMind at Centre Hospitalier des PyrÃ©nÃ©es",
+                        "title": "Migration to BlueMind at Centre Hospitalier des Pyrénées",
+                        "description": "Email migration project -- Switching from an email system based on open source components to BlueMind and Active Directory",
                         "image": "https://www.bluemind.net/wp-content/uploads/2016/03/logo-ch-pyr-1.jpg",
-                        "customer": "Centre Hospitalier des PyrÃ©nÃ©es",
+                        "industry": "Health",
+                        "customer": "Centre Hospitalier des Pyrénées",
                         "country": "fr",
                         "language": "en",
                         "url": "https://www.bluemind.net/en/client-case-studies/centre-hospitalier-des-pyrenees/"
