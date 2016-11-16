@@ -6,7 +6,7 @@
         "website": "https://www.alfresco.com",
         "founded_year": "2005",
         "free_software_list": [{
-                "title": "Enterprise Content Management",
+                "title": "ECM",
                 "logo": "http://ecmarchitect.com/wp-content/uploads/2013/10/Alfresco_Community_Logo_RGB_stacked2-300x103.png",
                 "website": "https://www.alfresco.com/products/enterprise-content-management",
                 "category_list": ["Application"],
@@ -25,7 +25,7 @@
                         "url": "https://www.alfresco.com/customers/city-county-denver"
                 }, {
                         "title": "PhenoPath Laboratories",
-                        "description": "PhenoPath Laboratories, PLLC is a physician-owned pathology reference laboratory providing diagnostic and contract research services to hospitals, physician offices, surgery centers, biopharmaceutical companies and research institutions nationwide. Since PhenoPath’s inception, this has been a manual process managed by the Document Control Coordinator and involved many steps, each of which needed appropriate sign-off and documentation. As PhenoPath grew the task became more and more onerous, as this manual approach was time intensive, inefficient and did not account for user mobility needs. It became apparent that an automated system better fit the company’s long-term needs.",
+                        "description": "PhenoPath Laboratories, PLLC is a physician-owned pathology reference laboratory providing diagnostic and contract research services to hospitals, physician offices, surgery centers, biopharmaceutical companies and research institutions nationwide. Since PhenoPathâs inception, this has been a manual process managed by the Document Control Coordinator and involved many steps, each of which needed appropriate sign-off and documentation. As PhenoPath grew the task became more and more onerous, as this manual approach was time intensive, inefficient and did not account for user mobility needs. It became apparent that an automated system better fit the companyâs long-term needs.",
                         "image": "https://cdn-www.alfresco.com/sites/www.alfresco.com/files//styles/scaled_customers/public/customers/logos/phenopath.png?itok=cZeV6B8T",
                         "industry": "Life Sciences",
                         "customer": "PhenoPath Laboratories, PLLC",
