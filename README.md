@@ -42,7 +42,7 @@ Each publisher has a single JSON file with straightforward properties. Notable p
   <li><code>source_code_profile</code>: link to the openhub source code profile</li>
   <li>
     <code>commercial_support</code>: link to a page describing the type of commerical support provided for the respective Free Software
-    (empty if commercial support is only available for another (version of the) software that can be downloaded using <code>source_code_download</code>).  
+    (empty if commercial support is only available for another (version of the) software than the one that can be downloaded using <code>source_code_download</code>).  
   </li>
   <li><code>wikipedia_url</code>: link to the wikipedia page of the Free Software</li>
   <li><code>language</code>: the language of a success case (<a href="https://en.wikipedia.org/wiki/ISO_639-1">ISO 639-1</a>)</li>
