@@ -12,7 +12,7 @@
                 "website": "https://www.talend.com/products/data-integration",
                 "source_code_download": "https://www.talend.com/download/thankyou/data-integration",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "Accent Group Raises the Roof on Performance Using Talend Data Integration",
@@ -40,7 +40,7 @@
                 "category_list": ["Communication"],
                 "source_code_download": "https://www.talend.com/download/thankyou/data-preparation",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "BF&M: Leveraging Talend in the Insurance Industry to Move Out with the Old and In with the New",
