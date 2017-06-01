@@ -12,7 +12,7 @@
                 "category_list": ["Application"],
                 "source_code_download": "https://github.com/odoo/odoo/archive/9.0.zip",
                 "source_code_profile": "https://www.openhub.net/p/odoo/analyses/latest/languages_summary",
-                "commercial_support": "https://www.odoo.com/pricing",
+                "commercial_support": "",
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Odoo",
                 "success_case_list": [{
                         "title": "Odoo POS, perfect for running a wine bar",
