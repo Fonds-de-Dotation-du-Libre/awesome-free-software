@@ -7,7 +7,7 @@ can actually modify, fix, improve or share.
 </p>
 
 <p>
-Target Audience are Enterprises willing to implement Free Software with all the
+Target Audience are Enterprises willing to implement <a href="https://www.gnu.org/philosophy/free-sw.en.html">Free Software</a> with all the
 warranties and long term commitment provided by a Commercial Software Publisher.
 </p>
 
@@ -38,7 +38,7 @@ Each publisher has a single JSON file with straightforward properties. Notable p
 <ul>
   <li><code>country</code>: origin country of the publisher (<a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">ISO 3166-1 alpha-2</a>)</li>
   <li><code>presence</code>: countries the publisher has a presense (<a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">ISO 3166-1 alpha-2</a>)</li>
-  <li><code>source_code_download</code>: link to an archive with all source code available under a Free Software license</li>
+  <li><code>source_code_download</code>: link to an archive with all source code available under a <a href="https://www.gnu.org/licenses/license-list.en.html">Free Software license</a></li>
   <li><code>source_code_profile</code>: link to the openhub source code profile</li>
   <li>
     <code>commercial_support</code>: link to a page describing the type of commerical support provided for the respective Free Software
