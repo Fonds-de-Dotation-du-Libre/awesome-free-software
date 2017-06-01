@@ -142,8 +142,8 @@ Categories have been chosen on purpose taking into account the increaing converg
         
 <p>
 The difference between application and communication, for example, is that 
-application is persistent and communication is not. Email messaging can thus be 
-considered in some cases as communication and in other cases as application
+application is intended to be primarily persistent and communication is not. Online messaging can thus be 
+considered in some cases as communication (such as SMTP email) and in other cases as application
 (such as in a CRM).
 </p>
 
