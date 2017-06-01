@@ -1,10 +1,13 @@
 <h1>Why AFS.one?</h1>
+
 <p>
 We wanted to create a collaborative repository highlighting success cases of
 Enterprise Free Software Publishers with a focus on those companies that actually
 create it and a bias towards <b>real Free software</b> - software that users 
 can actually modify, fix, improve or share.
 </p>
+
+<p>The resulting repository can be accessed here: <a href="afs.one">http://afs.one</a></p>
 
 <p>
 Target Audience are Enterprises willing to implement <a href="https://www.gnu.org/philosophy/free-sw.en.html">Free Software</a> with all the
