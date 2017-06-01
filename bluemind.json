@@ -12,7 +12,7 @@
                 "category_list": ["Communication"],
                 "source_code_download": "http://git.blue-mind.net/gitlist/bluemind/tarball/release/3",
                 "source_code_profile": "https://www.openhub.net/p/bluemind/analyses/latest/languages_summary",
-                "commercial_support": "https://www.bluemind.net/en/purchasing-bluemind/",
+                "commercial_support": "",
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Blue_Mind_(logiciel)",
                 "success_case_list": [{
                         "title": "Migration to BlueMind at Saint-Ouen City Council",
