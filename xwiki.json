@@ -12,7 +12,7 @@
 		"category_list": ["Application"],
 		"source_code_download": "https://github.com/xwiki/xwiki-enterprise/archive/master.zip",
 		"source_code_profile": "https://www.openhub.net/p/xwiki/analyses/latest/languages_summary",
-		"commercial_support": "http://www.xwiki.com/en/products/pricing",
+		"commercial_support": "http://www.xwiki.com/en/products/pricing-onpremise",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Wiki_software#Enterprise_wikis",
 		"success_case_list": [{
 			"title": "Aelia intranet",

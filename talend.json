@@ -12,7 +12,7 @@
                 "website": "https://www.talend.com/products/data-integration",
                 "source_code_download": "https://www.talend.com/download/thankyou/data-integration",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "Accent Group Raises the Roof on Performance Using Talend Data Integration",
@@ -40,7 +40,7 @@
                 "category_list": ["Communication"],
                 "source_code_download": "https://www.talend.com/download/thankyou/data-preparation",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "BF&M: Leveraging Talend in the Insurance Industry to Move Out with the Old and In with the New",
@@ -59,7 +59,7 @@
                 "category_list": ["Analytics"],
                 "source_code_download": "https://www.talend.com/download/thankyou/big-data",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "Buffalo Studios Maximizes Data Value to Build Competitive Edge in Social Gaming",
@@ -87,7 +87,7 @@
                 "website": "https://www.talend.com/products/data-quality",
                 "source_code_download": "https://www.talend.com/download/thankyou/data-quality",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "Talend Makes Light Work of Legacy Integration for Aliaxis",
@@ -115,7 +115,7 @@
                 "website": "https://www.talend.com/products/application-integration",
                 "source_code_download": "https://www.talend.com/download/thankyou/esb",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "GE Healthcare Moves Core Data to Talend ESB",
@@ -143,7 +143,7 @@
                 "category_list": ["Application"],
                 "source_code_download": "https://www.talend.com/download/thankyou/mdm",
                 "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "https://www.talend.com/services",
+                "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": [{
                         "title": "Ellie Mae turbo charges its sales and marketing activities with Talend MDM",

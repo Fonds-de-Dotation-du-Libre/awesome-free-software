@@ -12,7 +12,7 @@
                 "category_list": ["Database"],
                 "source_code_download": "https://fastdl.mongodb.org/src/mongodb-src-r3.2.7.tar.gz",
                 "source_code_profile": "https://www.openhub.net/p/mongodb/analyses/latest/languages_summary",
-                "commercial_support": "https://www.mongodb.com/products/mongodb-enterprise-advanced",
+                "commercial_support": "",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/MongoDB",
                 "success_case_list": [{
                         "title": "GENNUBI CMS",
