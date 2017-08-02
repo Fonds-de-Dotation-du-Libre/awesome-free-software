@@ -49,7 +49,8 @@
                 "source_code_download": "https://labs.maarch.org/maarch/maarchRM",
                 "source_code_profile": "https://www.openhub.net/p/MaarchRM",
                 "commercial_support": "http://maarch.com/services/",
-                "wikipedia_url": ""
+                "wikipedia_url": "",
+                "success_case_list": []
                 }]
         }]
 }
