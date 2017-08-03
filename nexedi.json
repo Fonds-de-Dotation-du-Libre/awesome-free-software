@@ -82,11 +82,41 @@
                 "success_case_list": []
         }, {
                 "title": "Renderjs",
-                "logo": "",
-                "website": "http://www.renderjs.org/",
+                "logo": "https://www.nexedi.com/NXD-Media.Logo.Renderjs?display=thumbnail&format=png",
+                "website": "https://renderjs.nexedi.com/",
                 "category_list": ["Developer"],
                 "source_code_download": "https://lab.nexedi.com/nexedi/renderjs/repository/archive.zip?ref=master",
                 "source_code_profile": "https://www.openhub.net/p/renderjs/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "jIO",
+                "logo": "https://www.nexedi.com/NXD-Media.Logo.Jio?display=thumbnail&format=png",
+                "website": "https://renderjs.nexedi.com/",
+                "category_list": ["Developer"],
+                "source_code_download": "https://lab.nexedi.com/nexedi/jio/repository/archive.zip?ref=master",
+                "source_code_profile": "https://www.openhub.net/p/jio/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "Re6st",
+                "logo": "https://www.nexedi.com/NXD-Media.Logo.Re6st.Inverted?display=thumbnail&format=png",
+                "website": "https://re6st.nexedi.com/",
+                "category_list": ["Infrastructure"],
+                "source_code_download": "https://lab.nexedi.com/nexedi/re6stnet/repository/archive.zip?ref=master",
+                "source_code_profile": "https://openhub.net/p/re6st/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "NEO",
+                "logo": "https://www.nexedi.com/NXD-Media.Logo.Neo.Inverted?display=thumbnail&format=png",
+                "website": "https://re6st.nexedi.com/",
+                "category_list": ["Database"],
+                "source_code_download": "https://lab.nexedi.com/nexedi/neoppod.git/repository/archive.zip?ref=master",
+                "source_code_profile": "https://openhub.net/p/neoppod/analyses/latest/languages_summary",
                 "commercial_support": "",
                 "wikipedia_url": "",
                 "success_case_list": []
