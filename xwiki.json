@@ -1,13 +1,13 @@
 {
 	"title": "Xwiki",
-	"logo": "https://www.erp5.com/NXD-Media.Logo.Partner.Xwiki?quality=75.0&display=large&format=png",
+	"logo": "http://www.xwiki.com/download/XWikiComCode/MenuV2/logo.png",
 	"country": "fr",
 	"presence": ["fr", "ro", "dz"],
 	"website": "www.xwiki.com",
 	"founded_year": "2004",
 	"free_software_list": [{
 		"title": "Xwiki Enterprise",
-		"logo": "https://www.erp5.com/NXD-Media.Logo.Partner.Xwiki?quality=75.0&display=large&format=png",
+		"logo": "http://www.xwiki.com/download/XWikiComCode/MenuV2/logo.png",
 		"website": "http://enterprise.xwiki.org/",
 		"category_list": ["Application"],
 		"source_code_download": "https://github.com/xwiki/xwiki-enterprise/archive/master.zip",
