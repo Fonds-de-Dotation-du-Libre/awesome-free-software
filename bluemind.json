@@ -5,6 +5,29 @@
         "presence": ["fr"],
         "website": "https://www.bluemind.net/en/",
         "founded_year": "2000",
+        "kpi_dict": {
+          "2018": {
+            "staff": "17",
+            "earnings": "",
+            "total_assets": "1919145",
+            "revenues": "",
+            "public_source": "true"
+          },
+          "2017": {
+            "staff": "15",
+            "earnings": "",
+            "total_assets": "	1631704",
+            "revenues": "",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "15",
+            "earnings": "32942",
+            "total_assets": "1480973",
+            "revenues": "835225",
+            "public_source": "true"
+          }
+        },
         "free_software_list": [{
                 "title": "BlueMind",
                 "logo": "https://blog-centreon-wordpress.s3.amazonaws.com/wp-content/uploads/2013/09/logo_bluemind_1000px.jpg",

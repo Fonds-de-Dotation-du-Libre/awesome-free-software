@@ -5,6 +5,29 @@
 	"presence": ["fr", "ro", "dz"],
 	"website": "www.xwiki.com",
 	"founded_year": "2004",
+	"kpi_dict": {
+    "2018": {
+      "staff": "16",
+      "earnings": "275713",
+      "total_assets": "2302493",
+      "revenues": "1630338",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "15",
+      "earnings": "-53801",
+      "total_assets": "2107642",
+      "revenues": "1245643",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "16",
+      "earnings": "-268222",
+      "total_assets": "2447998",
+      "revenues": "920401",
+      "public_source": "true"
+    }
+  },
 	"free_software_list": [{
 		"title": "Xwiki Enterprise",
 		"logo": "http://www.xwiki.com/download/XWikiComCode/MenuV2/logo.png",

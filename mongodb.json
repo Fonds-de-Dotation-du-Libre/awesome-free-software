@@ -5,6 +5,29 @@
         "presence": ["us", "gb", "nl", "it", "fr", "de", "il", "au", "hk", "cn", "in"],
         "website": "https://www.mongodb.com/",
         "founded_year": "2007",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
         "free_software_list": [{
                 "title": "MongoDB",
                 "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg",

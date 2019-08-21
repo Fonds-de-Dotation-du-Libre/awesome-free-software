@@ -1,0 +1,136 @@
+{
+        "title": "CS Group",
+        "logo": "https://www.c-s.fr/photo/titre_10957037.png?v=1562668915",
+        "country": "fr",
+        "presence": ["fr", "ca", "us", "de", "ro", "in", "ue", "ru"],
+        "website": "https://www.c-s.fr/",
+        "founded_year": "1902",
+        "kpi_dict": {
+          "2018": {
+            "staff": "2000",
+            "earnings": "7400000",
+            "total_assets": "",
+            "revenues": "202000000",
+            "public_source": "true"
+          },
+          "2017": {
+            "staff": "1800",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "170000000",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": "1"
+          }
+        },
+        "free_software_list": [{
+                "title": "Prelude-Siem",
+                "logo": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_1140,h_313/https://www.prelude-siem.com/wp-content/uploads/2019/03/cropped-Logo-Prelude-Blanc-1920x1080.png",
+                "website": "https://www.prelude-siem.com/en/",
+                "category_list": ["Infrastructure"],
+                "source_code_download": "https://www.prelude-siem.com/en/oss-version/",
+                "source_code_profile": "https://www.openhub.net/p/prelude/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Prelude_SIEM_(Intrusion_Detection_System)",
+                "success_case_list": [{
+                        "title": "Setting up an SOC within the General Secretariat of the Finance Ministries",
+                        "description": "The implementation of the SOC is a significant step in managing cybersecurity for Defense Staff services and should enable us to take an important step in the taking over of our information system",
+                        "image": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_899,h_1140/https://www.prelude-siem.com/wp-content/uploads/2018/10/1200px-Minist%C3%A8re_de_l%C3%89conomie_et_des_Finances.png",
+                        "industry": "Public Administration & Government",
+                        "customer": "Ministry of Economy and Finance",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.prelude-siem.com/en/use-cases/"
+                }, {
+                        "title": "Management of security events, investigation of incidenta and associated response",
+                        "description": "We have useed Prelude for 5 years and it has become an indispensable tool for managing security events, the investigation of the incident and associated response. Thanks to its modularity, Prelude easily handles the expansion and evolution of our infrastructure without mitigating its ability to collect and correlate critical security events. For us it is also very important to be able to ensure compatibility with different types of systems that are Monitord. Prelude successfully manages all our data sources and gives us the ability to add new ones at lower costs. It gives us the ability to use the centralized approach in managing our security solutions and ensure a high level of reliability to our information system. ",
+                        "image": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_204,h_63/https://www.prelude-siem.com/wp-content/uploads/2016/03/Logo-Alphastrakhovanie-petit.jpg",
+                        "industry": "Insurance",
+                        "customer": "Alfastrakhovanie Insurance, Moscow",
+                        "country": "ru",
+                        "language": "en",
+                        "url": "https://www.prelude-siem.com/en/use-cases/"
+                }, {
+                        "title": "Implementation of a convergent solution NOC / SOC on a set of sites of the Ministry of Defense",
+                        "description": "Prelude was selected by the Ministry of the Armed Forces for deployment in a highly secure and confidential system. As part of this project, the customer also accepted Vigilo NMS offer from the Unity 360 pack.",
+                        "image": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_393,h_480/https://www.prelude-siem.com/wp-content/uploads/2018/10/393px-Minist%C3%A8re_des_Arm%C3%A9es.png",
+                        "industry": "Public Administration & Government",
+                        "customer": "Ministry of Armed Forces",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.prelude-siem.com/en/use-cases/"
+                }, {
+                        "title": "Support the development of a sovereign SIEM solution for OIV (Vitally Important Operators)",
+                        "description": "On the advice of the ANSSI (French National Cybersecurity Agency) and the Ministry of Defense, the administration declared the CS company and its SIEM Prelude under the Investments for the Future programs. At the heart of the digital security industry, the objective of the project Prelude NG is the modernization of Prelude SIEM to make French SIEM of the market. The project is spread over 3 years with a budget of several million.",
+                        "image": "https://rf1kp2913xp1v6izm3r8v449-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Logo-PIA.png",
+                        "industry": "Public Administration & Government",
+                        "customer": "ANSSI (French National Cybersecurity Agency)",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.prelude-siem.com/en/use-cases/"
+                }, {
+                        "title": "Protection of local offices of the Ministry of ecological and solidary transition over forty plus sites",
+                        "description": "",
+                        "image": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_393,h_480/https://www.prelude-siem.com/wp-content/uploads/2018/10/393px-Minist%C3%A8re_des_Arm%C3%A9es.png",
+                        "industry": "Public Administration & Government",
+                        "customer": "Ministry of Ecological and Solidary Transition",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.prelude-siem.com/en/use-cases/"
+                }]
+        }, {
+                "title": "Vigilo NMS",
+                "logo": "https://3uiczu3ol6kj3f3hb4ywkx7c-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/Logo-vigilo-blanc.png",
+                "website": "https://www.vigilo-nms.com/en/",
+                "category_list": ["Infrastructure"],
+                "source_code_download": "https://www.vigilo-nms.com/en/vigilo-oss-open-source-2/",
+                "source_code_profile": "https://www.openhub.net/p/vigilo/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Vigilo_NMS",
+                "success_case_list": [{
+                        "title": "Implementation of a convergent NOC / SOC solution on a set of Ministry of Defense sites",
+                        "description": "Vigilo NMS has been selected by the Ministry of Defence for deployment on a highly secure and confidential system. As part of this project, the client also selected the Prelude SIEM offer from the Unity 360 pack.",
+                        "image": "https://www.vigilo-nms.com/wp-content/uploads/2016/04/Logo-MINDEF-242x300.jpg",
+                        "industry": "Public Administration & Government",
+                        "customer": "Ministry of Economy and Finance",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.vigilo-nms.com/en/client-cases/"
+                }]
+        }, {
+                "title": "ikats",
+                "logo": "https://ikats.org/img/Logo-ikats-icon.png",
+                "website": "https://ikats.org/",
+                "category_list": ["Analytics"],
+                "source_code_download": "https://github.com/IKATS/IKATS",
+                "source_code_profile": "",
+                "commercial_support": "https://ikats.org/support.html",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "orekit",
+                "logo": "",
+                "website": "https://www.orekit.org/",
+                "category_list": ["Gis"],
+                "source_code_download": "https://www.orekit.org/download.html",
+                "source_code_profile": "https://www.openhub.net/p/orekit/analyses/latest/languages_summary",
+                "commercial_support": "https://www.orekit.org/support.html",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "orefeo-toolbox",
+                "logo": "https://www.orfeo-toolbox.org/wp-content/uploads/2016/03/logo-orfeo-toolbox.png",
+                "website": "https://www.orfeo-toolbox.org/",
+                "category_list": ["Analytics"],
+                "source_code_download": "https://www.orfeo-toolbox.org/download/",
+                "source_code_profile": "https://www.openhub.net/p/otb/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Orfeo_toolbox",
+                "success_case_list": []
+        }]
+}

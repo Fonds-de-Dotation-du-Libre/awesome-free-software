@@ -1,0 +1,150 @@
+{
+        "title": "Crate.io",
+        "logo": "https://crate.io/wp-content/uploads/2017/10/crate-logo.svg",
+        "country": "at",
+        "presence": ["at", "de", "us"],
+        "website": "https://crate.io/",
+        "founded_year": "2013",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "CrateDB",
+                "logo": "https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg",
+                "website": "https://crate.io/products/cratedb/",
+                "category_list": ["Database"],
+                "source_code_download": "https://crate.io/download/",
+                "source_code_profile": "",
+                "commercial_support": "https://crate.io/support/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/CrateDB",
+                "success_case_list": [{
+                        "title": "Industry 4.0 powered by Crate IoT Data Platform increases factory efficiency",
+                        "description": "Industry 4.0 project analyzes industrial sensor data from 1500 production lines to increase factory efficiency in real time",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/alpla-logo.png",
+                        "industry": "Retail",
+                        "customer": "ALPLA",
+                        "country": "at",
+                        "language": "en/de",
+                        "url": "https://crate.io/customers/alpla-industry-40-project/"
+                }, {
+                        "title": "NBC GolfNow Queries GPS Data for 4 Million Golfers",
+                        "description": "Querying GPS data for 4 million users and 9000 golf courses, Golfnow provides a hole-in-one mobile & web experience for its golfers.",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/nbc-golfnow-logo.png",
+                        "industry": "Entertainment",
+                        "customer": "NBC",
+                        "country": "us",
+                        "language": "en/de",
+                        "url": "https://crate.io/customers/nbc-golfnow-gps-data-cratedb/"
+                }, {
+                        "title": "Clickdrive.io fleet tracking using CrateDB",
+                        "description": "Clickdrive.io tracks automotive vehicle fleets in real-time.",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/clickdrive-logo.png",
+                        "industry": "Transport",
+                        "customer": "Clickdrive",
+                        "country": "us",
+                        "language": "en/de",
+                        "url": "https://crate.io/customers/clickdrive-fleet-tracking-cratedb/"
+                }, {
+                        "title": "IoT Climate Control with CrateDB",
+                        "description": "Roomonitor stores and analyzes sensor data with CrateDB",
+                        "image": "https://crate.io/wp-content/uploads/2018/01/roomonitor-logo.png",
+                        "industry": "Software",
+                        "customer": "Roomonitor",
+                        "country": "es",
+                        "language": "en/de",
+                        "url": "https://crate.io/customers/roomonitor-sensor-data-cratedb/"
+                }, {
+                        "title": "Digital Domain: Real-time Systems Monitoring",
+                        "description": "CrateDB & Grafana for real-time performance monitoring of virtual reality infrastructure",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/digital-domain-logo.png",
+                        "industry": "Entertainment",
+                        "customer": "Digital Domain",
+                        "country": "us",
+                        "language": "en/de",
+                        "url": "https://crate.io/customers/digital-domain-cratedb/"
+                }, {
+                        "title": "Senseforce.io",
+                        "description": "Real-time edge-cloud data warehouse for industrial IoT",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/senseforce-logo.png",
+                        "industry": "Software",
+                        "customer": "Senseforce.io",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://crate.io/customers/senseforce-iot/"
+                }, {
+                        "title": "Qualtrics: Text Analytics",
+                        "description": "Using CrateDB to augment analysis of free-form text with machine learning algorithms",
+                        "image": "https://crate.io/customers/qualtrics-text-analytics/",
+                        "industry": "Software",
+                        "customer": "Qualtrics",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://crate.io/customers/qualtrics-text-analytics/"
+                }, {
+                        "title": "VoIPstudio searches multiple cloud systems with CrateDB",
+                        "description": "VoIPstudio uses the distributed SQL database CrateDB to manage call detail records (CDRs). They replaced MySQL with CrateDB and queries now run 30x faster.",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/volpstudio-logo.png",
+                        "industry": "Telecommunication",
+                        "customer": "VoIPstudio",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://crate.io/customers/voipstudio-cratedb-call-detail-records/"
+                }, {
+                        "title": "AVUXI processes billions of events from 65 million locations with CrateDB",
+                        "description": "AVUXI uses CrateDB to collect and query geotagged data from over 65 million locations, processing over 20 million events every day.",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/logo-avuxi.png",
+                        "industry": "Software",
+                        "customer": "Avuxi",
+                        "country": "es",
+                        "language": "en",
+                        "url": "https://crate.io/customers/geotagged-data-avuxi-cratedb/"
+                }, {
+                        "title": "ClearVoice Simplifies their Scalable Backend with CrateDB",
+                        "description": "Switching from MySQL to CrateDB simplified scaling their back end.",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/ClearVoice-Logo.png",
+                        "industry": "Software",
+                        "customer": "ClearVoice",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://crate.io/customers/clearvoice-simplifies-scalable-backend-cratedb/"
+                }, {
+                        "title": "Spatially chooses CrateDB for Location Analytics",
+                        "description": "Using CrateDB to analyze terabytes of marketing location & advertising data",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/spatially-logo.png",
+                        "industry": "Software",
+                        "customer": "Spatially",
+                        "country": "is",
+                        "language": "en",
+                        "url": "https://crate.io/customers/spatially-cratedb-location-analytics/"
+                }, {
+                        "title": "CrateDB scales easily to analyze fast-growing database of e-com­merce clickstream data at Australia-based rental car booking site",
+                        "description": "DriveNow Deploys CrateDB for Real Time Clickstream Analysis",
+                        "image": "https://crate.io/wp-content/uploads/2018/02/drivenow-logo.png",
+                        "industry": "Software",
+                        "customer": "DriveNow",
+                        "country": "au",
+                        "language": "en",
+                        "url": "https://crate.io/customers/drivenow-cratedb-real-time-clickstream-analysis/"
+                }]
+        }]
+}

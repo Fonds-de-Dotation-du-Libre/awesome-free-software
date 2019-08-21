@@ -6,6 +6,29 @@
         "presence": ["us", "de", "gb", "es", "ie"],
         "website": "https://magento.com",
         "founded_year": "2010",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
         "free_software_list": [{
                 "title": "Magento Community Edition",
                 "logo": "N/A",

@@ -5,6 +5,29 @@
         "presence": ["fr", "gb", "us"],
         "website": "https://commerceguys.com/",
         "founded_year": "2008",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
         "free_software_list": [{
                 "title": "Drupal Commerce",
                 "logo": "https://drupalcommerce.org/sites/default/files/DCLogo_2C_on_white_0.png",

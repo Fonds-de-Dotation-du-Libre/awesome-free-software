@@ -1,0 +1,105 @@
+{
+        "title": "Process One",
+        "logo": "https://static.process-one.net/bootstrap/img/logo/p1.png",
+        "country": "fr",
+        "presence": ["fr", "uk", "us", "pt", "cz"],
+        "website": "https://www.process-one.net/",
+        "founded_year": "1999",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "112600",
+            "total_assets": "1944600",
+            "revenues": "1178600",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "5",
+            "earnings": "29000",
+            "total_assets": "",
+            "revenues": "1013000",
+            "public_source": "true"
+          }
+        },
+        "free_software_list": [{
+                "title": "ejabberd",
+                "logo": "https://static.process-one.net/bootstrap/img/logo/ejabberd.png",
+                "website": "https://www.process-one.net/en/ejabberd/",
+                "category_list": ["Communication"],
+                "source_code_download": "https://www.process-one.net/en/ejabberd/downloads/",
+                "source_code_profile": "https://www.openhub.net/p/ejabberd/analyses/latest/languages_summary",
+                "commercial_support": "https://www.process-one.net/en/ejabberd/#getejabberd",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Ejabberd",
+                "success_case_list": [{
+                        "title": "Pushing breaking news around the globe — at the speed of light",
+                        "description": "BBC News and BBC Sports are apps for iOS and Android devices that deliver the latest breaking news from the British Broadcasting Corporation and their global network of journalists. Thanks to our expertise and dedicated implementation, BBC News and BBC Sports are able to deliver push notifications of breaking news, directly to the screens of millions of devices running iOS or Android operating systems, in a matter of minutes.",
+                        "image": "https://static.process-one.net/bootstrap/img/art/customers_bbcnews.png",
+                        "industry": "Media",
+                        "customer": "BBC News",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.process-one.net/en/customers/case/6217"
+                }, {
+                        "title": "Your game. Our world. Join the N Football",
+                        "description": "When you are running one of the top sport brands, launching a new innovative app always means it comes with great expectations from your fans. That’s why highly recognised brands turn to ProcessOne. They need to be sure that the project will launch in time, will perform well and will not collapse under the load, no matter what happens.",
+                        "image": "https://static.process-one.net/bootstrap/img/art/customers_nfootball.png",
+                        "industry": "Entertainment",
+                        "customer": "N Football",
+                        "country": "br",
+                        "language": "en",
+                        "url": "https://www.process-one.net/en/customers/case/6418"
+                }, {
+                        "title": "BBC Radio tunes into the power of ejabberd",
+                        "description": "BBC Radio is a service of the British Broadcasting Corporation, which has operated in the United Kingdom under the terms of a Royal Charter since 1927. The service provides national radio stations covering the majority of musical genres, as well as local radio stations covering local news, affairs and interests. Of the national radio stations, BBC Radio 1, 2, 3, 4 and 5 Live are all available through analogue radio as well as on DAB Digital Radio and internet services through RealMedia, WMA and BBC iPlayer. The remaining stations, BBC Radio 1Xtra, 4 Extra, 5 Live Sports Extra and 6 Music, all broadcast on digital platforms only.",
+                        "image": "https://static.process-one.net/bootstrap/img/art/customers_bbcradio.png",
+                        "industry": "Entertainment",
+                        "customer": "BBC Radio",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.process-one.net/en/customers/case/3416"
+                }, {
+                        "title": "ProcessOne was head and shoulders above everyone else",
+                        "description": "For fans around the globe, MLB.com is the home of Major League Baseball (MLB) – a professional baseball league that constitutes one of the major professional sports leagues of the United States and Canada. It is composed of 30 teams – 29 in the United States and one in Canada. With the International Baseball Federation, MLB also manages the World Baseball Classic. MLB has the highest season attendance of any sports league in 2011. All games are available via subscription to MLB.tv at Major League Baseball’s website, MLB.com.",
+                        "image": "https://static.process-one.net/bootstrap/img/art/customers_mlb.png",
+                        "industry": "Entertainment",
+                        "customer": "MLB.com",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.process-one.net/en/customers/case/3416"
+                }, {
+                        "title": "ejabberd has proven to be a carrier-class solution",
+                        "description": "SAPO appointed ProcessOne to help it improve the stability of its Instant Messaging server and create a scalable platform for future growth.",
+                        "image": "https://static.process-one.net/bootstrap/img/art/customers_pt.png",
+                        "industry": "Telecommunication",
+                        "customer": "SAPO",
+                        "country": "pt",
+                        "language": "en",
+                        "url": "https://www.process-one.net/en/customers/case/260"
+                }, {
+                        "title": "Open Source enabled us important cost savings, without reducing the service provided to users",
+                        "description": "Arc International is a French manufacturer and distributor of household goods. It is the leading manufacturer of crystal and glassware in the world. The company reported 16,500 employees and gross sales of €1.4 billion in 2006, reinvesting 3% of its turnover into research and development. Arc International was one of the first companies to pioneer the use of corporate Instant Messaging.",
+                        "image": "https://static.process-one.net/bootstrap/img/art/customers_arc.png",
+                        "industry": "Applicances",
+                        "customer": "Arc International",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.process-one.net/en/customers/case/2882"
+                }, {
+                        "title": "We have now been using ejabberd for over three years and it has performed beyond our expectations",
+                        "description": "Gizmo5 (formerly known as Gizmo Project and SIPphone) was a Voice over Internet Protocol (VoIP) communications network and a proprietary freeware soft phone for that network. Google announced that it had acquired Gizmo5 on November 12, 2009. The network used open standards for call management, Session Initiation Protocol (SIP) and Extensible Messaging and Presence Protocol (XMPP).",
+                        "image": "https://static.process-one.net/bootstrap/img/art/customers_sip.png",
+                        "industry": "Telecommunication",
+                        "customer": "SIPphone",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.process-one.net/en/customers/case/261"
+                }]
+        }]
+}

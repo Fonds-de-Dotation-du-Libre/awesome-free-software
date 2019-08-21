@@ -1,0 +1,388 @@
+{
+        "title": "GVSIG Association",
+        "logo": "http://www.gvsig.com/documents/10184/13596/gvSIG_association.jpg/5390de76-f9b1-4972-8978-8e2d8c44f58f?t=1400586991791",
+        "country": "es",
+        "presence": ["es"],
+        "website": "http://www.gvsig.com",
+        "founded_year": "2004",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "i3geo",
+                "logo": "http://www.gvsig.com/documents/10184/13596/i3Geo_/36a107fd-f75d-4dfa-82ab-3b31404c29e5?t=1405340013200",
+                "website": "http://www.gvsig.com/en/products/i3geo",
+                "category_list": ["Gis"],
+                "source_code_download": "http://www.gvsig.com/en/products/i3geo/downloads",
+                "source_code_profile": "https://www.openhub.net/p/i3_geo/analyses/latest/languages_summary",
+                "commercial_support": "http://www.gvsig.com/en/services",
+                "wikipedia_url": "",
+                "success_case_list": [{
+                        "title": "MapasINSAI (Geoportal INSAI, Instituto Nacional para la Salud Agrícola Integral de Venezuela)",
+                        "description": "Con el fin de contribuir con el fortalecimiento del Sistema Nacional de Protección y Defensa Fitosanitario y Zoosanitario en el marco del Desarrollo agrario Eco-Socialista, surge el Geoportal INSAI, mejor conocido como MapasINSAI.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201512/caso-uso-venezuela.png?itok=WoRF_dSJ",
+                        "industry": "Agriculture",
+                        "customer": "INSAI (Instituto Nacional para la Salud Agrícola Integral)",
+                        "country": "es",
+                        "language": "ve",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1911"
+                }, {
+                        "title": "i3GeoSaúde - Ferramenta de apoio à gestão estratégica com foco na espacialização de dados",
+                        "description": "Fornecer às prefeituras de pequeno e médio porte uma ferramenta para espacialização de dados voltados para a gestão da saúde pública.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201507/Abs3_1.png?itok=wTjRR78G",
+                        "industry": "Public Administration & Government",
+                        "customer": "Ministério da Saúde",
+                        "country": "es",
+                        "language": "br",
+                        "url": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201507/Abs3_1.png?itok=wTjRR78G"
+                }, {
+                        "title": "Conceptualizando la integración de inteligencia colectiva y artificial con i3Geo",
+                        "description": "En la actualidad, cada vez son más las decisiones adoptadas en el sector público y privado, e incluso, en el ámbito personal, que se apoyan en un análisis en el que ha intervenido la componente geoespacial de los datos. No obstante, en la mayoría de estos casos la elección correspondiente se efectúa desde una sola perspectiva cognitiva, debido entre otras circunstancias a que por lo general es un solo razonamiento el que interviene en el estudio y revelación de la(s) opción(es) más apropiada(s)...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201403/Abs4_1.png?itok=aK3tfC0Z",
+                        "industry": "Education",
+                        "customer": "Universidad Politécnica de Cataluña (BarcelonaTech) ",
+                        "country": "mx",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1516"
+                }, {
+                        "title": "Cadastro Estadual de Florestas Públicas do Amapá",
+                        "description": "Implementar o Cadastro Estadual de Florestas Públicas do Amapá como instrumento de planejamento da gestão florestal de modo a oferecer aos gestores públicos e a população em geral uma base confiável de mapas, imagens e dados com informações estratégicas para a gestão florestal...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/201306/Amapa1.png",
+                        "industry": "Public Administration & Government",
+                        "customer": "Instituto Estadual de Floresta do Amapá – Brasil",
+                        "country": "br",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1276"
+                }, {
+                        "title": "gvSIG in Russia: from Localization to Community",
+                        "description": "Since the middle of 2000th the gvSIG became one of the popular open source GIS in Russia. But the absence of the Russian localization for the UI and user documentation delayed a spreading of the gvSIG in Russia.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201304/Russia1.png?itok=GcfrR9CJ",
+                        "industry": "Public Administration & Government",
+                        "customer": "NPO GISIT, LSPU",
+                        "country": "ru",
+                        "language": "en",
+                        "url": "http://box5589.temp.domains/~gvsigorg//case-studies/gvsig-russia-localization-community"
+                }, {
+                        "title": "Usos prácticos de gvSIG por el Ingeniero Técnico en Topografía",
+                        "description": "Tanto el Ingeniero Técnico en Topografía como el Ingeniero en Geodesia y Cartografía, como especialistas en Sistemas de Información Geográfica, necesitan herramientas que les faciliten dicha labor, siendo gvSIG un software gratuito que cumple con estas expectativas...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201303/2.png?itok=sdBGRhdQ",
+                        "industry": "Education",
+                        "customer": "Colegio Oficial de Ingenieros Técnicos en Topografía",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1141"
+                }, {
+                        "title": "gvSIG y la Infraestructura de datos espacial de exploración en PDVSA",
+                        "description": "El objetivo de la Infraestructura de Datos Espaciales de Exploración (IDEEX) no es otro que el de crear esa infraestructura empleando tecnologías en software libre para garantizar la disponibilidad, calidad y uso de la información geoespacial en PDVSA. También se pretende solucionar los típicos problemas que dan sentido a una IDE como la duplicidad de la información, la inexistencia de un control de calidad o la autoría de los datos. Tras la ejecución del proyecto, toda la corporación podrá acceder a la información geoespacial a través de la intranet mediante servicios web estándar. Sin duda la capacidad de acceder a dicha información facilitará la toma de decisiones en la ejecución del ciclo exploratorio...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201302/PDVSA1.png?itok=WC9VC8E4",
+                        "industry": "Energy",
+                        "customer": "PDVSA",
+                        "country": "ve",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1121"
+                }, {
+                        "title": "O uso do gvSIG na construção do SIG da Fundação Nacional do Índio (FUNAI)",
+                        "description": "A Fundação Nacional do Ïndio - Funai utilizava apenas as tecnologias proprietarias para a elaboração de mapas. Com a necessidade das constantes atualizações desses softwares e o baixo orçamento da instituição o coordenador da área de geoprocessaemento, demandou aos técnicos um estudo sobre o uso de técnologias livres....",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/CU_BRA_FundacaoIndio_0.jpg?itok=a_vXTk1D",
+                        "industry": "Public Administration & Government",
+                        "customer": "Fundação Nacional do Índio - FUNAI",
+                        "country": "br",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/636"
+                }]
+        }, {
+                "title": "gvsig Desktop",
+                "logo": "http://www.gvsig.com/documents/10184/13596/Logo+gvSIG+Desktop+2/ea65daa4-6fe1-4da1-80c7-fde985e3949e",
+                "website": "http://www.gvsig.com/en/products/gvsig-desktop/downloads",
+                "category_list": ["Gis"],
+                "source_code_download": "http://www.gvsig.com/en/products/gvsig-desktop/downloads",
+                "source_code_profile": "https://www.openhub.net/p/gvsig-desktop-2/analyses/latest/languages_summary",
+                "commercial_support": "http://www.gvsig.com/en/services",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/GvSIG",
+                "success_case_list": [{
+                        "title": "Plugin para predicción policial a través procesos de puntos espacio-temporales",
+                        "description": "La Policía Local y la Administración pública en general responden al tipo de sociedad de su entorno. La interrelación entre policía y sociedad es hoy una constante ineludible. Su legitimidad social está condicionada por su capacidad para responder a las expectativas y las demandas ciudadanas. Sea cual sea el modelo de seguridad adoptado en la ciudad, la proximidad al ciudadano es una condición indispensable para conseguir sus objetivos...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201604/Abs20_2.png?itok=TIzjTuKG",
+                        "industry": "Education",
+                        "customer": "Public Administration & Government",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2031"
+                }, {
+                        "title": "Aplicación SIG para inventario del plan de autoprotección de las estaciones de Luceros y la Isleta del TRAM de Alicante con software libre gvSIG",
+                        "description": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201607/Tram2.png?itok=a_hYMh8Z",
+                        "image": "FGV busca llevar un control específico de los elementos pertenecientes a una red de Infraestructuras Ferroviarias, facilitando su gestión y mantenimiento al personal encargado y el control al equipo directivo. Busca Tener un inventario perfectamente definido dentro del SIG permitirá gestionar toda la información asociada a los bienes inventariados...",
+                        "industry": "Public Administration & Government",
+                        "customer": "Universidad Miguel Hernandez de Elche, España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2126"
+                }, {
+                        "title": "Valoración de las Palmeras Canarias de La Laguna",
+                        "description": "Conocer la valoración de mercado de las Palmeras Canarias de la ciudad de San Cristóbal de La Laguna, de la isla de Tenerife. Para ello se tomarán todas las características necesarias de cada una de las palmeras canarias que se encuentran localizadas en la ciudad de La Laguna. A partir de dichos datos se realizará la valoración de mercado y los planos pertenecientes a cada zona que contenga palmeras canarias de la ciudad de La Laguna....",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201607/Palmeras_Canarias_1.png?itok=mvmoQGQd",
+                        "industry": "Public Administration & Government",
+                        "customer": "Freelance. España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2121"
+                }, {
+                        "title": "Rescate documental de petroglifos y reconstrucción 3D del corredor dolménico de Cubillejo de Lara, Burgos",
+                        "description": "El Dolmen de Cubillejo de Lara (Burgos, España) es un referente para el estudio del fenómeno megalítico de la Submeseta Norte desde que fuera descubierto en 1970. Cuenta con unos interesantes petroglifos en una de las caras internas del corredor. Estos petroglifos constaban en origen de 4 motivos esquemáticos; dos cuadrúpedos, una serie de líneas verticales atravesadas por una línea horizontal y una circunferencia, interpretada por los especialistas como un signo solar...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201607/Fabian2.jpg?itok=bXgmb6TM",
+                        "industry": "Education",
+                        "customer": "Universidad Autónoma de Madrid. España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2116"
+                }, {
+                        "title": "Plan de seguridad para fuegos artificiales con gvSIG",
+                        "description": "Conforme a lo establecido en la Guía de Respuesta del Plan de Emergencia Municipal y en la normativa de productos pirotécnicos, es obligatorio la realización de  un plan de seguridad y emergencia de los espectáculos pirotécnicos que se celebraran durante las fiestas del municipio.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/6a.png?itok=i7S26w5Q",
+                        "industry": "Public Administration & Government",
+                        "customer": "Medina del Campo (Valladolid, España)",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2111"
+                }, {
+                        "title": "La Edad del Bronce en Teruel: mundo funerario y territorio",
+                        "description": "Estudiar de forma teórica la estructuración territorial de un territorio, a partir de una base de datos con georreferenciación a una serie de puntos, que representan yacimientos arqueólogicos.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/Edad_bronce1.png?itok=S-nM6VX3",
+                        "industry": "Education",
+                        "customer": "Departamento de Prehistoria y Arqueología de la Universidad de Valencia",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2106"
+                }, {
+                        "title": "Obtención de información sobre los Senderos de la Bahía de Cádiz",
+                        "description": "La situación inicial es que nos encontramos en una zona, la Bahía de Cádiz, donde hay muchos senderos, de muy diferente forma, tanto en zona costera como de montaña, de los cuales no se tiene mucha información, o no está centralizada.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/5a.png?itok=pLy6d_2M",
+                        "industry": "Public Administration & Government",
+                        "customer": "Protección Civil San Fernando",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2101"
+                }, {
+                        "title": "Obtención sencilla de mapas operativos para coordinación de una emergencia",
+                        "description": "Necesidad de disponer en los puestos de mando avanzados y centros de coordinación  de manera inmediata de cartografía para representar gráficamente las zonas afectadas,  vías de acceso, puntos de especial interés  y la distribución de los efectivos...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/4a.png?itok=IfHkBUyE",
+                        "industry": "Public Administration & Government",
+                        "customer": "ENPC -Escuela Nacional de Protección Civil- / España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2096"
+                }, {
+                        "title": "gvSIG en el análisis de la Interfaz Urbano-Forestal como variable de vulnerabilidad en el Riesgo de Incendio Forestal en el NW de Murcia",
+                        "description": "En los últimos años, una de las preocupaciones más estudiadas en torno a los incendios forestales, se orienta hacia el análisis de aquellos espacios en situación de Interfaz Urbano-Forestal (IUF), es decir, cualquier infraestructura susceptible a sufrir los efectos de un incendio forestal, o contribuir a su aparición, debido a su ubicación en contacto con las diferentes superficies forestales.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/IUF-Ignicion.PNG?itok=QObNR-xL",
+                        "industry": "Education",
+                        "customer": "Estudiante (Geografía, Planificación y Gestión de Riesgos Naturales) / España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2091"
+                }, {
+                        "title": "gvSIG applied to the landslide susceptibility analysis: Municipalities of Guanay, Tipuani y Teoponte, La Paz, Bolivia.",
+                        "description": "Development of a detailed analysis of the Landslide Susceptibility by AHP methodology. Layers needed: basic Shappefiles as Geomorphology, Geology, Vegetation, Ground permeability and Contour Lines. In order to do a Risk analysis approximation, layers needed: Cities and Villages, Roads and Highways.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/2qa_0.jpg?itok=9wueruzH",
+                        "industry": "Construction",
+                        "customer": "Freelance. Spain",
+                        "country": "bo",
+                        "language": "en",
+                        "url": "http://box5589.temp.domains/~gvsigorg//case-studies/gvsig-applied-landslide-susceptibility-analysis-municipalities-guanay-tipuani-y"
+                }, {
+                        "title": "Proyecto de incendios forestales & servicios de alarma y extinción existentes en la provincia de Toledo",
+                        "description": "Conocer sistemas de alarmas y medios de extinción de incendios forestales durante las 24 horas durante todo el año.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/3a.png?itok=m2SlEUmq",
+                        "industry": "Public Administration & Government",
+                        "customer": "A.V.P.C. El Casar de Escalona –TOLEDO /ESPAÑA",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2081"
+                }, {
+                        "title": "Selección de un emplazamiento para un almacenamiento de sustancias químicas peligrosas en la provincia de Sevilla",
+                        "description": "Se pretende desarrollar un estudio teórico inicial para discriminar posibles emplazamientos para un almacenamiento de una sustancia química sometida a la aplicación del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201606/1.png?itok=yVq0V-5J",
+                        "industry": "Public Administration & Government",
+                        "customer": "Unidad de Protección Civil – Delegación del Gobierno en Andalucía",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2071"
+                }, {
+                        "title": "gvSIG para la realización de levantamientos topográficos",
+                        "description": "Se solicita la realización de un levantamiento topográfico de una parcela en una zona rústica, en el que se deberá facilitar la superficie de dicha parcela.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201604/Captura1.png?itok=vCDklgOk",
+                        "industry": "Public Administratino & Government",
+                        "customer": "Asociación gvSIG",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2066"
+                }, {
+                        "title": "Los SIG como herramienta para la “geoprevención”: análisis de los patrones espaciales de los delitos contra el patrimonio en el municipio de Santander (2008-2013)",
+                        "description": "En el momento actual, el tratamiento sobre los hechos delictivos ha cambiado de manera significativa. En las últimas décadas se ha dado un cambio de actitud en torno al modo de perseguir los hechos delictivos, tomando distancia de las actuaciones básicas de persecución, detención y procesamiento judicial. Estos cambios han ido encaminados a una anticipación al delincuente, de tal manera que, a través de nuevas estrategias policiales, se evite la comisión de hechos delictivos. Así, se establece una nueva vía de afrontar la delincuencia, denominada prevención...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201604/Cantabria-delitos-patrimonio-2.jpg?itok=_ItBpnLe",
+                        "industry": "Public Administration & Government",
+                        "customer": "Escuela de Doctorado de la Universidad de Cantabria - España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2061"
+                }, {
+                        "title": "Estudio de las posibilidades de ubicación de pantallas de publicidad en la provincia de Asturias",
+                        "description": "Selección de las ubicaciones óptimas entre una serie de locales en función de su ubicación y su clientela para la instalación de pantallas de cartelería digital destinadas a la publicidad.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201604/UMH-Asturias-1.png?itok=eQyaiRMr",
+                        "industry": "Construction",
+                        "customer": "Universidad Miguel Hernández- España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2051"
+                }, {
+                        "title": "Evaluación de la exactitud posicional planimétrica de Google Earth para Uruguay",
+                        "description": "Se ha constatado a través de la experiencia del día a día; la incorporación de Google Earth en ámbitos educativos, académicos, profesionales, etc. Parte de los usuarios asumen que se trata de una fuente de información confiable, el resto consideramos necesario tomar ciertos recaudos y la utilizamos de manera selectiva. La realidad marca que en ningún caso se cuenta con elementos suficientes para refutar o corroborar una postura o la otra.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201604/Google_Earth_C_Colombana_2.png?itok=Wo4Futqz",
+                        "industry": "Education",
+                        "customer": "Facultad de Ingeniería & Facultad de Ciencias, Universidad de la República - Uruguay",
+                        "country": "uy",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2046"
+                }, {
+                        "title": "Plano de Toledo del Greco (1608‐1614). Nueva edición con gvSIG",
+                        "description": "El trabajo  es una copia actualizada del plano de Toledo a partir del plasmado por el Greco en su obra Vista y Plano de Toledo, entre 1608 y 1614. La copia existente la realizó  en 1967 Alfonso Bacheti Brun  y  contiene una serie de diferencias con el original  producto de los  métodos  de dibujo  utilizados en la época, no asistidos por ordenador, principalmente errores gráficos y elementos del original no dibujados en la copia.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201604/Abs21_1.png?itok=grbfqWCE",
+                        "industry": "Education",
+                        "customer": "Universidad Miguel Hernández- España",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/2036"
+                }]
+        }, {
+                "title": "gvsig Online",
+                "logo": "http://www.gvsig.com/documents/10184/13596/Logo+gvSIG+Desktop+2/ea65daa4-6fe1-4da1-80c7-fde985e3949e",
+                "website": "http://www.gvsig.com/en/products/gvsig-online",
+                "category_list": ["Gis"],
+                "source_code_download": "https://github.com/gvSIGAssociation/gvsig-online",
+                "source_code_profile": "",
+                "commercial_support": "http://www.gvsig.com/en/services",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "gvsig Mini",
+                "logo": "http://www.gvsig.com/documents/10184/13596/Logo+gvSIG+Desktop+2/ea65daa4-6fe1-4da1-80c7-fde985e3949e",
+                "website": "http://www.gvsig.com/en/products/gvsig-mini",
+                "category_list": ["Gis"],
+                "source_code_download": "https://confluence.prodevelop.es/display/GVMN/Download",
+                "source_code_profile": "https://www.openhub.net/p/gvSIG_mini/p/gvsig-desktop-2/analyses/latest/languages_summary",
+                "commercial_support": "http://www.gvsig.com/en/services",
+                "wikipedia_url": "",
+                "success_case_list": [{
+                        "title": "Aplicación Android OnStic. Accediendo desde gvSIG Mini a Cartociudad",
+                        "description": "onStic es una aplicación para telefonos móviles con la finalidad de contestar a la pregunta 'on estic?' o lo que es lo mismo '¿donde estoy?' y ayudar al usuario del dispositivo a encontrar una ruta correcta desde su posición a la dirección deseada...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/onStic1.jpg?itok=bBG_-D_x",
+                        "industry": "Tourism",
+                        "customer": "Prodevelop S.L",
+                        "country": "es",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/776"
+                }]
+        }, {
+                "title": "gvsig Mobile",
+                "logo": "http://www.gvsig.com/documents/10184/13596/gvSIG+Mobile_new/84b1397a-a261-40e0-8298-31565c9a6fda?t=1511347241032",
+                "website": "http://www.gvsig.com/en/products/gvsig-mobile",
+                "category_list": ["Gis"],
+                "source_code_download": "http://www.gvsig.com/en/products/gvsig-mobile/downloads",
+                "source_code_profile": "https://www.openhub.net/p/gvsig-mobile/analyses/latest/languages_summary",
+                "commercial_support": "http://www.gvsig.com/en/services",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/GvSIG#gvSIG_Mobile",
+                "success_case_list": [{
+                        "title": "Sistemas de Información Geográfica aplicados como Tecnologías Educativas en procesos de Formación y Actualización Docente para la Conservación de la Naturaleza",
+                        "description": "En agosto del año 2012 el Ministerio de Transporte y Obras Públicas del Uruguay, junto a la Universidad de la República, el Plan Ceibal de la Administración Nacional de Educación Pública, y la Asociación gvSIG Internacional, pusieron a disposición en el Portal Ceibal http://www.ceibal.edu.uy/Articulos/Paginas/gvsig-batovi-resumen.aspx el gvSIG Batoví, primer Sistema de Información Geográfica de libre desarrollado con fines educativos en el Uruguay...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201402/Abs10_1.png?itok=7ZCfmkLd",
+                        "industry": "Education",
+                        "customer": "Consejo de Formación en Educación",
+                        "country": "uy",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1411"
+                }, {
+                        "title": "Uso de geotecnologias para espacialização de dados de precipitação",
+                        "description": "Espacialização de dados de precipitação da bacia hidrográfica do Ribeirão Lavapés como parte do estudo hidrológico para o projeto de reativação de uma microcentral hidrelétrica localizada nesta bacia na área da Faculdade de Ciências Agrônomicas de Botucatu.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201402/Abs7_2.png?itok=vSEWB1Jw",
+                        "industry": "Education",
+                        "customer": "Faculdade de Ciências Agronômicas de Botucatu/ UNESP - FCA",
+                        "country": "es",
+                        "language": "br",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1401"
+                },{
+                        "title": "Uso do software livre gvSIG na analise ambiental para reativação de uma microcentral hidrelétrica",
+                        "description": "Escolha de um local representativo (mata nativa preservada) para instalação das parcelas de observação da fauna e flora.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/201307/Abs13_1.png?itok=XD5GNmsZ",
+                        "industry": "Education",
+                        "customer": "aculdade de Ciências Agronomicas de Botucatu/UNESP-Brasil",
+                        "country": "es",
+                        "language": "br",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/1306"
+                },{
+                        "title": "Definition of a Geographic Area Suitable for Growing Balsa on the Coast of Ecuador",
+                        "description": "Professionals to the Department of Forestry Development Company INMAIA S.A. have a basic tool for recommending technically the geographic location of their afforestation.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/coast_Ecuador2.jpg?itok=Ugr4nrTj",
+                        "industry": "Agriculture",
+                        "customer": "INMAIA S.A. - Ecuador",
+                        "country": "ec",
+                        "language": "en",
+                        "url": "http://box5589.temp.domains/~gvsigorg//case-studies/definition-geographic-area-suitable-growing-balsa-coast-ecuador"
+                },{
+                        "title": "Utilización de gvSIG en ámbito forestal, anti-incendio y medioambiental en las provincias de Trieste, Gorizia (I) y Sežana (SLO)",
+                        "description": "El territorio de competencia del Ispettorato Ripartimentale Foreste de Trieste y Gorizia (situado en la frontera italiano-eslovena, http://www.openstreetmap.org/?lat=45.823&lon=13.72&zoom=10&layers=B000FTF) comprende todo el Carso clásico (Karst) en Italia. La lucha contra los incendios de bosque es un tema muy importante en un territorio sin hidrografía superficial.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/incendios2.png?itok=AbAL-cTg",
+                        "industry": "Public Administration",
+                        "customer": "Ispettorato Ripartimentale Foreste de Trieste y Gorizia (Italia)",
+                        "country": "it/si",
+                        "language": "es",
+                        "url": "http://box5589.temp.domains/~gvsigorg//node/936"
+                },{
+                        "title": "gvSIG for updating commercial establishment databases",
+                        "description": "For updating commercial establishment databases of the Comunitat Valenciana through the agencies for commercial innovation promotion (AFIC), people who managed surveys needed a support tool to take georeferenced data.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/CU_03_EN_CensoComercial_0.png?itok=Ovg6lmQH",
+                        "industry": "Public Administration & Government",
+                        "customer": "Conselleria de Industria",
+                        "country": "es",
+                        "language": "en",
+                        "url": "http://box5589.temp.domains/~gvsigorg//case-studies/gvsig-updating-commercial-establishment-databases"
+                },{
+                        "title": "gvSIG and the Bétera City Council Planning Department",
+                        "description": "The Bétera City Council Planning Department creates the Bétera Geographic Information System which purpose is the collection, analysis, maintenance and distribution of municipal information likely to be georeferenced, either alphanumeric or graphic. The main idea is achieve interoperability between public administrations and departments within the municipality located in different buildings and through mobile units...",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/image05_0.png?itok=sTsXhiAd",
+                        "industry": "Public Administration & Government",
+                        "customer": "Ayuntamiento de Bétera (Valencia)",
+                        "country": "es",
+                        "language": "en",
+                        "url": "http://box5589.temp.domains/~gvsigorg//case-studies/gvsig-and-b%C3%A9tera-city-council-planning-department"
+                },{
+                        "title": "gvSIG for managing roads information",
+                        "description": "The main objective was to offer the geographical information available and develop a GIS for managing roads information.",
+                        "image": "http://box5589.temp.domains/~gvsigorg//sites/default/files/styles/large/public/CU_02_EN_Carreteras_0.png?itok=0sgdUMMU",
+                        "industry": "Construction",
+                        "customer": "Centre de Gestió i Seguretat Viària (CEGESEV). Direcció General d'Obres Públiques",
+                        "country": "es",
+                        "language": "en",
+                        "url": "http://box5589.temp.domains/~gvsigorg//case-studies/gvsig-managing-roads-information"
+                }]
+        }]
+}

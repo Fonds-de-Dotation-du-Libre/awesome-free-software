@@ -5,6 +5,29 @@
         "presence": ["us", "fr", "gb", "jp", "de", "ch", "au", "sg", "cn"],
         "website": "https://www.talend.com/",
         "founded_year": "2006",
+        "kpi_dict": {
+          "2018": {
+            "staff": "308",
+            "earnings": "-3547860",
+            "total_assets": "125508594",
+            "revenues": "69072580",
+            "public_source": "true"
+          },
+          "2017": {
+            "staff": "210",
+            "earnings": "-19519177",
+            "total_assets": "111606368",
+            "revenues": "51015363",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "152",
+            "earnings": "-11977562",
+            "total_assets": "96654986",
+            "revenues": "39141670",
+            "public_source": "true"
+          }
+        },
         "free_software_list": [{
                 "title": "Open Studio Data Integration",
                 "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",

@@ -5,6 +5,29 @@
         "presence": ["worldwide"],
         "website": "http://www.apple.com/",
         "founded_year": "1976",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
         "free_software_list": [{
                 "title": "Swift",
                 "website": "https://developer.apple.com/swift/",

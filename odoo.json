@@ -5,6 +5,29 @@
         "presence": ["be", "us", "lu", "hk", "in"],
         "website": "https://www.odoo.com/",
         "founded_year": "2005",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
         "free_software_list": [{
                 "title": "Odoo Apps",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png",

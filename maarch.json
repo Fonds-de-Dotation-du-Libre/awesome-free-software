@@ -5,6 +5,29 @@
         "presence": ["fr", "sn"],
         "website": "http://maarch.com/",
         "founded_year": "2004",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "13",
+            "earnings": "300943",
+            "total_assets": "1513628",
+            "revenues": "1727457",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "12",
+            "earnings": "188004",
+            "total_assets": "1234080",
+            "revenues": "1332844",
+            "public_source": "true"
+          }
+        },
         "free_software_list": [{
                 "title": "Maarch Courrier",
                 "logo": "http://maarchcourrier.com/images/MaarchCourrier.png",

@@ -1,0 +1,52 @@
+{
+        "title": "Logilab",
+        "logo": "https://www.logilab.fr/data/678a64a83e896ddad1631a6b60a5d5aa/logo.png",
+        "country": "fr",
+        "presence": ["fr"],
+        "website": "https://www.logilab.fr/",
+        "founded_year": "2000",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "20",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Simulagora",
+                "logo": "https://www.simulagora.com/data/d18b26ee4e3801242b646f62fbb01843/logo_white.png",
+                "website": "https://www.simulagora.com/",
+                "category_list": ["Analytics"],
+                "source_code_download": "https://pypi.org/project/simulagora/",
+                "source_code_profile": "",
+                "commercial_support": "https://pypi.org/project/simulagora/",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "Cubicweb",
+                "logo": "https://www.cubicweb.org/data/f4b22ccc29f5e471d4707ad3b3fdb8e2/logo-cubicweb.svg",
+                "website": "https://www.cubicweb.org/",
+                "category_list": ["Application"],
+                "source_code_download": "",
+                "source_code_profile": "https://www.openhub.net/p/cubicweb",
+                "commercial_support": "https://www.openhub.net/p/cubicweb/analyses/latest/languages_summary",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/CubicWeb",
+                "success_case_list": []
+        }]
+}

@@ -5,6 +5,29 @@
 	"presence": "worldwide",
 	"website": "https://www.mariadb.com",
 	"founded_year": "2010",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
 	"free_software_list": [{
 		"title": "MariaDB 10.1",
 		"logo": "https://mariadb.org/wp-content/uploads/2010/10/mariadb-seal-shaded-browntext-alt.png",

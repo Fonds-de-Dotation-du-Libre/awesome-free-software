@@ -1,0 +1,42 @@
+{
+        "title": "KiCad Developer Team",
+        "logo": "https://launchpadlibrarian.net/415124026/kicad-logo-64px.png",
+        "country": "fr",
+        "presence": ["fr"],
+        "website": "https://launchpad.net/kicad",
+        "founded_year": "1992",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "KiCad",
+                "logo": "http://www.kicad-pcb.org/img/kicad_logo_small.png",
+                "website": "http://www.kicad-pcb.org",
+                "category_list": ["Developer"],
+                "source_code_download": "http://www.kicad-pcb.org/download/",
+                "source_code_profile": "https://www.openhub.net/p/kicad/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/KiCad",
+                "success_case_list": []
+        }]
+}

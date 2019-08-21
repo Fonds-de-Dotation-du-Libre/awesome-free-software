@@ -1,0 +1,87 @@
+{
+        "title": "Adacore",
+        "logo": "https://www.adacore.com/uploads/logos/AdaCoreLogo-Master_Logo-DarkBlue.png",
+        "country": "fr",
+        "presence": ["fr", "us"],
+        "website": "https://www.adacore.com/",
+        "founded_year": "",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "37",
+            "earnings": "1251593",
+            "total_assets": "15460928",
+            "revenues": "8459673",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "1233200",
+            "total_assets": "14890534",
+            "revenues": "7575719",
+            "public_source": "true"
+          }
+        },
+        "free_software_list": [{
+                "title": "GnatPro",
+                "logo": "https://www.adacore.com/uploads/products/GP-Dev-Square.png",
+                "website": "https://www.adacore.com/gnatpro",
+                "category_list": ["Developer"],
+                "source_code_download": "https://www.adacore.com/download",
+                "source_code_profile": "",
+                "commercial_support": "https://www.adacore.com/support",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/GNAT_Programming_Studio",
+                "success_case_list": [{
+                        "title": "Refueling Boom System",
+                        "description": "EADS CASA has chosen AdaCore GNAT Pro High-Integrity Edition for VxWorks653 to develop the device software for its advanced Air Refueling Boom System (ARBS). This software will be certified up to level A of RTCA DO-178B",
+                        "image": "https://www.adacore.com/uploads/customers/_500xAUTO_crop_center-center/project-eads.jpg",
+                        "industry": "Aviation",
+                        "customer": "EADS",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.adacore.com/customers/refueling-boom-system"
+                }, {
+                        "title": "Astute-Class Submarine Periscope",
+                        "description": "This case study describes Thales UK’s state-of-the-art non-hull-penetrating optronic mast for the United Kingdom Royal Navy’s new Astute-class submarines, which provides greater flexibility in boat design and improved surface visibility while reducing the probability of detection. The optronic mast is powered by AdaCore partner, Wind River’s VxWorks mission-critical real-time operating system (RTOS) submarine.",
+                        "image": "https://www.adacore.com/uploads/customers/_500xAUTO_crop_center-center/project-thales.jpg",
+                        "industry": "Defense",
+                        "customer": "Thales UK",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.adacore.com/customers/astute-class-submarine-periscope"
+                }, {
+                        "title": "Eurofighter Typhoon",
+                        "description": "BAE Systems are using the GNAT Pro development environment for host Ada compilation in the development of software for the Eurofighter’s mission computers.",
+                        "image": "https://www.adacore.com/uploads/customers/_500xAUTO_crop_center-center/project-bae.jpg",
+                        "industry": "Aviation",
+                        "customer": "BAE Systems",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.adacore.com/customers/eurofighter-typhoon"
+                }, {
+                        "title": "Pilot Ejection Seat",
+                        "description": "The U.S. Navy is using a new ejection seat sequencer that will catapult a pilot and co- pilot (and the seats) out of a damaged F-18, F-14, or T-45 aircraft within 0.2 seconds from the time the ejection handle is pulled.",
+                        "image": "https://www.adacore.com/uploads/customers/_500xAUTO_crop_center-center/project-mbaker.jpg",
+                        "industry": "Defense",
+                        "customer": "US Navy",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.adacore.com/customers/pilot-ejection-seat"
+                }, {
+                        "title": "Canadian Space Arm",
+                        "description": "MacDonald Dettwiler (MDA) chose open-source GNAT Ada 95 from Ada Core Technologies to develop control software for the Mobile Servicing System (MSS), an essential com- ponent of the International Space Station (ISS).",
+                        "image": "https://www.adacore.com/uploads/customers/_500xAUTO_crop_center-center/project-mda.jpg",
+                        "industry": "Aviation",
+                        "customer": "MacDonald Dettwiler",
+                        "country": "ca",
+                        "language": "en",
+                        "url": "https://www.adacore.com/customers/canadian-space-arm"
+                }]
+        }]
+}

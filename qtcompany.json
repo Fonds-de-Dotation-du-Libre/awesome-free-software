@@ -1,0 +1,421 @@
+{
+        "title": "QT Company",
+        "logo": "https://cdn2.hubspot.net/hubfs/149513/Qt2017TemporaryImagesWebsite/qt_logo_with_text_green_rgb.png",
+        "country": "fi",
+        "presence": ["fi", "us"],
+        "website": "https://www.qt.io/company",
+        "founded_year": "1995",
+        "kpi_dict": {
+          "2018": {
+            "staff": "295",
+            "earnings": "-2391000",
+            "total_assets": "38760000",
+            "revenues": "45590000",
+            "public_source": "true"
+          },
+          "2017": {
+            "staff": "255",
+            "earnings": "-3222000",
+            "total_assets": "37485000",
+            "revenues": "36259000",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "PySide",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pyside.png",
+                "website": "https://wiki.qt.io/Qt_for_Python",
+                "category_list": ["Middleware"],
+                "source_code_download": "https://wiki.qt.io/PySide2downloads/",
+                "source_code_profile": "https://www.openhub.net/p/pyside/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/PySide",
+                "success_case_list": []
+        }, {
+                "title": "QT",
+                "logo": "https://cdn2.hubspot.net/hubfs/149513/Qt2017TemporaryImagesWebsite/qt_logo_with_text_green_rgb.png",
+                "website": "https://www.qt.io/",
+                "category_list": ["Developer"],
+                "source_code_download": "https://www.qt.io/download",
+                "source_code_profile": "https://www.openhub.net/p/qt/analyses/latest/languages_summary",
+                "commercial_support": "https://www.qt.io/find-a-qt-advisor/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Qt_(software)",
+                "success_case_list": [{
+                        "title": "fman – The Cross-Platform, Dual-Pane File Manager that Makes You Faster!",
+                        "description": "fman: The cross-platform, dual-pane file manager that makes you faster, built with Qt and Python!",
+                        "image": "https://www.qt.io/hubfs/Built%20with%20Qt/fman/video-poster%20hero.jpg",
+                        "industry": "Software",
+                        "customer": "fman",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://www.qt.io/fman-built-with-qt"
+                }, {
+                        "title": "Veriskin Fights Skin Cancer",
+                        "description": "with a Lightning-Fast and Low-Cost Diagnostics Device Built with Qt",
+                        "image": "https://www.qt.io/hubfs/Built%20with%20Qt/veriskin/header.jpg",
+                        "industry": "Life Sciences",
+                        "customer": "Veriskin",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/veriskin-built-with-qt"
+                }, {
+                        "title": "Evoca",
+                        "description": "Witekio Helps Evoca Group Re-Engineer Their Top-of-the-Line Vending Machines",
+                        "image": "https://www.qt.io/hubfs/Built%20with%20Qt/evoca/Pict%20ambiance%209100_inlocation_web%20resize.jpg",
+                        "industry": "Applicanes",
+                        "customer": "Evoca Group",
+                        "country": "it",
+                        "language": "en",
+                        "url": "https://www.qt.io/evoca-built-with-qt"
+                }, {
+                        "title": "Market Leader in Electrochemical Instrumentation Teams up with Qt Service Engineers",
+                        "description": "The new Echem Analyst™ software runs data analysis for various experiments in Direct Current (DC) Corrosion, Electrochemical Impedance Spectroscopy (EIS) and Physical Electrochemistry.",
+                        "image": "https://www.qt.io/hubfs/energy-storage-gamry-instruments-Qt.jpg",
+                        "industry": "Appliances",
+                        "customer": "Gamry Instruments",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/gamry-instruments-built-with-qt"
+                }, {
+                        "title": "Aurora Net by dBTechnologies",
+                        "description": "Crank Up the Volume with this Cross-Platform Real-Time Sound Reinforcement Control and Management System",
+                        "image": "https://www.qt.io/hubfs/dbtech%20header.jpg",
+                        "industry": "Entertainment",
+                        "customer": "dbTechnologies",
+                        "country": "it",
+                        "language": "en",
+                        "url": "https://www.qt.io/aurora-net-by-dbtechnologies-built-with-qt"
+                }, {
+                        "title": "GLP Systems",
+                        "description": "A Breakthrough Development in Laboratory Automation",
+                        "image": "https://www.qt.io/hubfs/Built%20with%20Qt/BWQ%20GLP%20Qt2017:%20Case%20Hero%201920x600.jpg",
+                        "industry": "Life Sciences",
+                        "customer": "GLP Systems",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.qt.io/glp-systems-built-with-qt"
+                }, {
+                        "title": "Qt Professional Services Automate Bosch’s Assembly Line Calibration ",
+                        "description": "Bosch's special-purpose machinery manufacturer provides equipment for Bosch Corporation units around the world. The Diesel business unit was facing a problem in their assembly line. During normal operation, the Diesel injectors would lose accuracy through constant use. If not recalibrated regularly, these inaccuracies could lead to malfunction and considerable shutdown and failure cost. Bosch Diesel needed to come up with a way to automate the control and calibration process of diesel engines. That's when they learned about the power of Qt.",
+                        "image": "https://www.qt.io/hubfs/Automation%20WF%202018/Automation%20image.jpeg",
+                        "industry": "Manufacturing",
+                        "customer": "Robert Bosch Manufacturing Solutions GmbH",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.qt.io/bosch-built-with-qt"
+                }, {
+                        "title": "LG’s Innovative Technologies, Unique Products, and Cutting-Edge Designs Are Built with Qt.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/hero_solution_stb-dtv_LG-webOS_.jpg",
+                        "industry": "Entertainment",
+                        "customer": "LG Electronics",
+                        "country": "kr",
+                        "language": "en",
+                        "url": "https://www.qt.io/lg-electronics-built-with-qt"
+                }, {
+                        "title": "From 0-400 Km/h in a flash. Qt Accelerates Koenigsegg's Supercar Development",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/koenigsegg%201.jpg",
+                        "industry": "Automotive",
+                        "customer": "Koenigsegg",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://www.qt.io/koenigsegg-built-with-qt"
+                }, {
+                        "title": "Medec’s Qt-Based Anesthesia & Critical Care Medical Devices Offer Superior User Experiences with Patient Safety in Focus.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/MedecHero.jpg",
+                        "industry": "Life Sciences",
+                        "customer": "Medec",
+                        "country": "be",
+                        "language": "en",
+                        "url": "https://www.qt.io/medec-built-with-qt"
+                }, {
+                        "title": "Advanced Automation Systems with Qt",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/hero_showcase_m2ihs.png",
+                        "industry": "Software",
+                        "customer": "M2I",
+                        "country": "nl",
+                        "language": "en",
+                        "url": "https://www.qt.io/m2i-built-with-qt"
+                }, {
+                        "title": "IPO.Plan Develops Award-Winning 4D Planning & Visualization Tool",
+                        "description": "",
+                        "image": "",
+                        "industry": "Software",
+                        "customer": "IPO.Plan",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.qt.io/ipoplan-built-with-qt"
+                }, {
+                        "title": "Game-Changing Efficiency",
+                        "description": "Computing and graphics powerhouse AMD has used the Qt cross-platform application and UI development framework to create its Radeon Software Crimson Edition graphics package. Qt’s ability to deliver high-quality user-oriented functionality, in terms of performance, features and ultimate experience, made the difference.",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/amdhero.jpg",
+                        "industry": "Appliances",
+                        "customer": "AMD",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/amd-built-with-qt"
+                }, {
+                        "title": "Premium Vehicles Deserve Premium HMIs and That Is Exactly Why Rimac Automobili Choose to Use Qt and Toradex as Their Software and Hardware Platform. ",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/hero_solution_automotive.jpg",
+                        "industry": "Automotive",
+                        "customer": "Rimac Automobili",
+                        "country": "hr",
+                        "language": "en",
+                        "url": "https://www.qt.io/rimac-automobili-built-with-qt"
+                }, {
+                        "title": "Qt Cuts DCC Labs' Cut Development Time in Half by Boosting Graphics Performance and UI Prototyping Speed",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/DCC%20labs/hero.jpg",
+                        "industry": "Entertainment",
+                        "customer": "DCC Labs",
+                        "country": "nz",
+                        "language": "en",
+                        "url": "https://www.qt.io/dcclabs-built-with-qt"
+                }, {
+                        "title": "Zühlke Engineering helps enable rapid development of low noise digital laser control",
+                        "description": "",
+                        "image": "",
+                        "industry": "Consulting",
+                        "customer": "Zühlke Engineering",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://www.qt.io/zuhlke-built-with-qt"
+                }, {
+                        "title": "Qt Provides Cross-Platform Advantage for Xycron Ltd, Korea",
+                        "description": "",
+                        "image": "",
+                        "industry": "Manufacturing",
+                        "customer": "Xycron",
+                        "country": "kr",
+                        "language": "en",
+                        "url": "https://www.qt.io/xycron-built-with-qt"
+                }, {
+                        "title": "The Qt-Powered Future of Enterprise E-Mail",
+                        "description": "",
+                        "image": "",
+                        "industry": "Software",
+                        "customer": "Hiri",
+                        "country": "ie",
+                        "language": "en",
+                        "url": "https://www.qt.io/hiri-built-with-qt"
+                }, {
+                        "title": "Qt Powers the Future of Visual Collaborative Workspaces.",
+                        "description": "",
+                        "image": "",
+                        "industry": "Software",
+                        "customer": "Bluescape",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/bluescape-built-with-qt"
+                }, {
+                        "title": "World’s Largest Developer of Large Format Imaging Solutions Uses Cross-Platform Qt to Stay Ahead of the Game.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/Contex-SD-One-MF-touchscreen-hero.jpg",
+                        "industry": "Service",
+                        "customer": "Contex",
+                        "country": "dk",
+                        "language": "en",
+                        "url": "https://www.qt.io/contex-built-with-qt"
+                }, {
+                        "title": "Qt Start-Up Plan Sparks Augmented Reality 3D Maps App Development",
+                        "description": "Augmented reality, once considered something out of a science fiction movie, has quickly become a household term. Qt is a popular choice for development within augmented reality, and eyeMaps is another great example of how Qt enables this innovative technology.",
+                        "image": "",
+                        "industry": "Software",
+                        "customer": "eyeMaps",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/eyemaps-built-with-qt"
+                }, {
+                        "title": "Merlincryption Chose Qt to Move from a Software-Based Solution Written in C# to a More Secure Hardware-Based Application Written in C++.",
+                        "description": "",
+                        "image": "",
+                        "industry": "Software",
+                        "customer": "Merlin Cryption",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/merlincryption-built-with-qt"
+                }, {
+                        "title": "Combining Music Technology to Create Inspiring Musical Experiences with Qt",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/imaginando.png",
+                        "industry": "Entertainment",
+                        "customer": "Imaginando",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/imaginando-built-with-qt"
+                }, {
+                        "title": "Eykona 3D Wound Imaging",
+                        "description": "",
+                        "image": "",
+                        "industry": "Life Sciences",
+                        "customer": "Eykona",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.qt.io/eykona-built-with-qt"
+                }, {
+                        "title": "In the Blink of an Eye",
+                        "description": "EyeTech Digital Systems is a global leader in the design, development, and marketing of eye-tracking and image-processing technology. The company’s embedded smart tracker technology powers assistive technology and various embedded OEM applications, including speech devices for the disabled, security, automotive, safety, digital signage, consumer products, medical, and research systems",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/EyetechHero.png",
+                        "industry": "Software",
+                        "customer": "EyeTech Digital Systems",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/eyetech-digital-systems-built-with-qt"
+                }, {
+                        "title": "Navico Uses Qt for Lowrance HDS Marine Electronics Range.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/NavicoHero.png",
+                        "industry": "Applicances",
+                        "customer": "Navico",
+                        "country": "no",
+                        "language": "en",
+                        "url": "https://www.qt.io/navico-built-with-qt"
+                }, {
+                        "title": "Enabling the Touch-Control User Interface for Lytro’s New Light Field Cameras",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/lytroHero.jpg",
+                        "industry": "Appliances",
+                        "customer": "Lytro",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/lytro-built-with-qt"
+                }, {
+                        "title": "Panasonic Avionics Inflight Entertainment is built with Qt",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/panasonichero.jpg",
+                        "industry": "Entertainment",
+                        "customer": "Panasonic",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/panasonic-avionics-built-with-qt"
+                }, {
+                        "title": "Formlabs Delivers an Intuitive and Connected 3D Printing Experience.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/hero_formlabs.jpg",
+                        "industry": "Appliances",
+                        "customer": "Formlabs",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/formlabs-built-with-qt"
+                }, {
+                        "title": "AutoIO Uses Qt to Ease HMI Interface Design",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/AutoIO.png",
+                        "industry": "Appliances",
+                        "customer": "AutoIO",
+                        "country": "cn",
+                        "language": "en",
+                        "url": "https://www.qt.io/autioio-built-with-qt"
+                }, {
+                        "title": "The #1 Linux Distro Is More Popular Than Ever — and on an Even Wider Range of Applications Than You Might Imagine",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/ubuntu-mwc-shot.jpg",
+                        "industry": "Software",
+                        "customer": "Ubuntu",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.qt.io/ubuntu-built-with-qt"
+                }, {
+                        "title": "Bep Marine Chooses Qt to Empower Agile Development and Create User Interfaces for Their Czone System",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/BEPMarineHero.png",
+                        "industry": "Appliances",
+                        "customer": "BEP Marine",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/bep-marine-built-with-qt"
+                }, {
+                        "title": "Parker Hannifin Has Created a Tool Based on Qt Allowing OEMs to Consolidate a Machine's UIs Into One Single Display.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/Pro-Display.jpg",
+                        "industry": "Manufacturing",
+                        "customer": "Parker Hannifin",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/parker-hannifin-built-with-qt"
+                }, {
+                        "title": "Join the IoT Revolution with Gimasi's QML-Based Multiplatform Digital Signage",
+                        "description": "Digital signs are everywhere. They're signpost screens in museums, menu displays in restaurants, or animated advertisement billboards in retail stores. Nothing too exciting if all they do is replace ye olde paper poster. But when someone like Gimasi comes along and combines digital signage with the IoT and lots of creativity, you have all the signs of a revolution.",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/56-bg-hero_gimasi2.jpg",
+                        "industry": "Software",
+                        "customer": "Gimasi",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://www.qt.io/gimasi-built-with-qt"
+                }, {
+                        "title": "The Rapid Development Environment for Enterprise Applications.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/Built%20with%20Qt/BWQ%20Velneo%20Qt2017:%20Case%20Hero%201920x600.jpg",
+                        "industry": "Software",
+                        "customer": "Velneo",
+                        "country": "es",
+                        "language": "en",
+                        "url": "https://www.qt.io/velneo-built-with-qt"
+                }, {
+                        "title": "The Most Enjoyable Bus Company",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/savonlinja_pitka_kuuma_sauna_lehdistotiedote.png",
+                        "industry": "Transportation",
+                        "customer": "Savonlinja",
+                        "country": "fi",
+                        "language": "en",
+                        "url": "https://www.qt.io/bitfactor/savonlinja-built-with-qt"
+                }, {
+                        "title": "Focus on What Matters",
+                        "description": "Devinco's well-established mobile apps Built with Qt take all the hassle and paperwork out of their customer's admin tasks. Their newest addition is keeping construction workers safe.",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/google_oslo_whitegrad.jpg",
+                        "industry": "Software",
+                        "customer": "Devinco",
+                        "country": "it",
+                        "language": "en",
+                        "url": "https://www.qt.io/devinco-built-with-qt"
+                }, {
+                        "title": "AirServer - Universal Screen Mirroring Receiver Built with Qt",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/Built%20with%20Qt/AirServer/airserver%20hero1.jpg",
+                        "industry": "Software",
+                        "customer": "AirServer",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/airserver-universal-screen-mirroring-receiver-built-with-qt"
+                }, {
+                        "title": "Works of (He)art",
+                        "description": "HeartWorks is an ultrasound simulator created by founding cardiac anesthetists at the University College London Hospital (UCLH) and the award-winning visual effects studio Glassworks. The innovative, 3D, interactive ‘virtual heart’ consists of a dedicated desktop or laptop computer, an upper body mannequin and two ultrasound probes and is used for the clinical teaching of cardiac anatomy and echocardiography. HeartWorks globally provides the most realistic simulated experiences for doctors to train safely and extensively prior to treating real patients.",
+                        "image": "https://www.qt.io/hubfs/BWQ%20Heartworks%20Qt2017%20Case%20Hero%201920x600.jpg",
+                        "industry": "Life Sciences",
+                        "customer": "Heartworks",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.qt.io/heartworks-built-with-qt"
+                }, {
+                        "title": "Qt Brings Ulstein’s Daring & Industry Disruptive Vision to Reality",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/BWQ/hero_showcase_ulstein_004.jpg",
+                        "industry": "Transport",
+                        "customer": "Ulstein Group ASA ",
+                        "country": "no",
+                        "language": "en",
+                        "url": "https://www.qt.io/ulstein-built-with-qt"
+                }, {
+                        "title": "Using Qt, the Business Intelligence and Analytics Leader Has Changed the Way People Use Data.",
+                        "description": "",
+                        "image": "https://www.qt.io/hubfs/_website/full-width-backgrounds-and-heros/hero_tableau-desktop_4jp6.jpg",
+                        "industry": "Software",
+                        "customer": "Tableau",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.qt.io/tableau-built-with-qt"
+                }]
+        }]
+}
