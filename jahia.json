@@ -1,10 +1,10 @@
 {
         "title": "Jahia",
-        "logo": "",
-        "country": "",
-        "presence": [],
+        "logo": "https://www.jahia.com/files/live/sites/jahiacom/files/logo-jahia-2016.png",
+        "country": "ch",
+        "presence": ["ch", "us", "fr", "at", "ca"],
         "website": "https://www.jahia.com/",
-        "founded_year": "",
+        "founded_year": "2002",
         "kpi_dict": {
           "2018": {
             "staff": "",
@@ -29,14 +29,14 @@
           }
         },
         "free_software_list": [{
-                "title": "",
-                "logo": "",
-                "website": "",
-                "category_list": [""],
-                "source_code_download": "",
-                "source_code_profile": "/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
+                "title": "Jahia",
+                "logo": "https://www.jahia.com/files/live/sites/jahiacom/files/logo-jahia-2016.png",
+                "website": "https://www.jahia.com/",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.jahia.com/community/downloads",
+                "source_code_profile": "https://www.openhub.net/p/jahia/analyses/latest/languages_summary",
+                "commercial_support": "https://www.jahia.com/de/preiseleistungen/support",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Jahia",
                 "success_case_list": [{
                         "title": "Maaf",
                         "description": "MAAF is a French insurance company created in 1950. It currently insures more than 3.7 million people in France and counts 7,500 employees. A part of the Covéa Group along with other insurance companies, the mutual group is France’s leading property and liability insurer.",
