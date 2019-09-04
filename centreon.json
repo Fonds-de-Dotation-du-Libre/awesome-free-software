@@ -1,0 +1,114 @@
+{
+        "title": "Centreon",
+        "logo": "https://static.centreon.com/wp-content/uploads/2017/02/logo-centreon.png",
+        "country": "fr",
+        "presence": ["fr", "ca"],
+        "website": "https://www.centreon.com/",
+        "founded_year": "2010",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "44",
+            "earnings": "352476",
+            "total_assets": "6108550",
+            "revenues": "4945181",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "538250",
+            "total_assets": "3822414",
+            "revenues": "2727423",
+            "public_source": "true"
+          }
+        },
+        "free_software_list": [{
+                "title": "Centreon",
+                "logo": "https://static.centreon.com/wp-content/uploads/2017/02/logo-centreon.png",
+                "website": "https://www.centreon.com/",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.centreon.com/solutions/centreon/",
+                "source_code_profile": "https://www.openhub.net/p/Centreon/analyses/latest/languages_summary",
+                "commercial_support": "https://www.centreon.com/services/",
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Centreon",
+                "success_case_list": [{
+                        "title": "Case Study: The Pierre & Vacances – Center Parcs Group",
+                        "description": "Thanks to an enlarged and accessible IT monitoring system, the Pierre & Vacances Center Parcs Group speaks the Business language. Challenges Centralizing monitoring for nearly 300 sites in France and Europe Having a single entry point to control the indicators Extending the analysis and monitoring Providing indicators and reporting readable to business users and top […]",
+                        "image": "https://static.centreon.com/wp-content/uploads/2016/11/Centreon-PierreVacances-CenterParcs.jpg",
+                        "industry": "Travel",
+                        "customer": "Center Parcs Group",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.centreon.com/en/blog/case-study-the-pierre-vacances-center-parcs-group/"
+                }, {
+                        "title": "Case study: Fibre Excellence",
+                        "description": "Fibre Excellence professionalizes its critical IT equipment and application monitoring with Centreon. Challenges Centralizing and professionalizing critical equipement and application monitoring in multisite environment Respecting the economical constraints by opting for an open source model Improving competence on monitoring solution Solution Centreon + User training Customer Benefits More efficiency and responsiveness for IT Teams being more […]",
+                        "image": "https://static.centreon.com/wp-content/uploads/2017/01/Centreon-Fibre-Excellence.jpg",
+                        "industry": "Forestry",
+                        "customer": "Fibre Excellence",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.centreon.com/en/blog/case-study-fibre-excellence/"
+                }, {
+                        "title": "Case study: OPT New-Caledonia",
+                        "description": "The Office of Post and Telecommunications of New Caledonia has implemented a real-time centralized monitoring with Centreon. Challenges Implement a centralized monitoring for the company (dedicated team and software platform) Provide an overall view in real time of the business activity Deploy the project successfully in an initial scope that includes the Telecoms Division, IT […]",
+                        "image": "https://static.centreon.com/wp-content/uploads/2017/03/Centreon-OPT.jpg",
+                        "industry": "Telecommunication",
+                        "customer": "OPT New-Caledonia",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.centreon.com/en/blog/case-study-opt-new-caledonia/"
+                }, {
+                        "title": "Case study: Fondation de France",
+                        "description": "Centreon’s IT monitoring solution helps Fondation de France achieve its goal of efficiency, traceability and transparency. Challenges Guarantee visibility across Fondation de France’s entire IT process Standardize monitoring to optimize the work of the IT team Provide information and communicate transparently about the service’s activity Solution Centreon EMS* Customer Benefits Centralization of data which facilitates […]",
+                        "image": "https://static.centreon.com/wp-content/uploads/2017/09/Centreon-Fondation-de-France.jpg",
+                        "industry": "Public Administration & Government",
+                        "customer": "Fondation de France",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.centreon.com/en/blog/case-study-fondation-de-france/"
+                }, {
+                        "title": "Case study: French departmental council of Haut-Rhin",
+                        "description": "By centralizing its monitoring with Centreon, the departmental council of Haut-Rhin (France) increases its productivity and proactiveness! Challenges Replace multiple platforms, monitoring hardware only, with a single monitoring solution Centralize monitoring and provide better user service Increase visibility to improve technical services and business application availability Rationalize production resources Solution Centreon EMS* Customer Benefits Productivity […]",
+                        "image": "https://static.centreon.com/wp-content/uploads/2017/11/Centreon-Haut-Rhin.jpg",
+                        "industry": "Public Administration & Government",
+                        "customer": "French departmental",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.centreon.com/en/blog/case-study-french-departmental-council-haut-rhin/"
+                }, {
+                        "title": "Case study: Métropole de Bordeaux",
+                        "description": "",
+                        "image": "https://static.centreon.com/wp-content/uploads/2018/07/Bordeaux_S.jpg",
+                        "industry": "Public Administration & Governement",
+                        "customer": "Métropolede Bordeaux",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.centreon.com/en/blog/case-study-metropole-de-bordeaux/"
+                }, {
+                        "title": "Case study: NC2, a Managed Service Provider that is part of global group Visiativ",
+                        "description": "NC2, subsidiary of Visiativ Group, reinforces its commitment to clients by making Centreon EMS a standard feature of managed services agreements. NC2, a Managed Service Provider (MSP) that is part of global group Visiativ, has made the IT monitoring solution Centreon EMS a standard feature of all its service agreements. Counting over 15 years of existence, NC2 chose […]",
+                        "image": "https://static.centreon.com/wp-content/uploads/2018/11/Centreon-Retour-experience-supervision.jpg",
+                        "industry": "Service",
+                        "customer": "NC2",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.centreon.com/en/blog/case-study-nc2-a-managed-service-provider-that-is-part-of-global-group-visiativ/"
+                }, {
+                        "title": "",
+                        "description": "",
+                        "image": "",
+                        "industry": "",
+                        "customer": "",
+                        "country": "",
+                        "language": "en",
+                        "url": ""
+                }]
+        }]
+}

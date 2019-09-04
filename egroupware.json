@@ -1,0 +1,132 @@
+{
+        "title": "egroupware",
+        "logo": "https://www.egroupware.org/wp-content/uploads/2016/10/EGroupware-Signet_blau-300x300.jpg",
+        "country": "de",
+        "presence": ["de"],
+        "website": "https://www.egroupware.org",
+        "founded_year": "",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "egroupware",
+                "logo": "https://www.egroupware.org/wp-content/themes/egroupware/images/logo.svg",
+                "website": "https://www.egroupware.org",
+                "category_list": ["Communication"],
+                "source_code_download": "https://www.egroupware.org/en/community/",
+                "source_code_profile": "https://www.openhub.net/p/egroupware/analyses/latest/languages_summary",
+                "commercial_support": "https://www.egroupware.org/en/egroupware-support/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/EGroupware",
+                "success_case_list": [{
+                        "title": "EGroupware-Erfahrungen von Pixelegg",
+                        "description": "„Wie ein dickes Schweizer Taschenmesser“ Seit den Anfängen von EGroupware ist das Unternehmen Pixelegg mit dieser Lösung verbunden, zuerst als Anwender, dann auch als Mitgestalter sowie als Vertriebs- und Supportpartner. Wer eine Anwendung von so vielen Seiten kennt, hat natürlich auch Wünsche. Bei Stefan Reinhardt steht eine Rarität im Regal: das erste Handbuch von EGroupware...",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2018/04/pixelegg-logo.jpg",
+                        "industry": "Service",
+                        "customer": "Pixelegg",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/egroupware-experiences-pixelegg/"
+                }, {
+                        "title": "Hochschule Mainz",
+                        "description": "Die EPL ist als Allroundlösung im Einsatz. Auf feststehenden Rechnern, aber auch standortunabhängig auf mobilen Geräten nutzen wir Adressbuch, E-Mail, Resourcenverwaltung und Ticketsystem. Die hervorragende Interaktion der Module sorgt für reibungslose Arbeitsabläufe auf einheitlicher Datenbasis und es wird kein lokaler Client benötigt, um die EPL zu nutzen. Neue Kollegen können unkompliziert integriert werden. Der telefonische",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2016/06/Max-Planck-Institut.png",
+                        "industry": "Education",
+                        "customer": "Hochschule Mainz",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/hochschule-mainz-2/"
+                }, {
+                        "title": "Max Planck Institute",
+                        "description": "Warum EGroupware? Bei uns sind verschiedenste Unix- und Windowssysteme im Einsatz. Somit kam nur ein Kalender in Frage, der von einem Server aus mit jedem Internetbrowser genutzt werden kann. Als Forschungseinrichtung die mit öffentlichen Mitteln finanziert wird, spielt OpenSource Software eine große Rolle. Da wir ein Großforschungsexperiment aufbauen, ist es notwendig, dass die verschiedensten Gruppen...",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2016/06/Max-Planck-Institut.png",
+                        "industry": "Education",
+                        "customer": "Max Planck Institute",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/max-planck-institut-fur-plasmaphysik-institut-greifswald/"
+                }, {
+                        "title": "ETH Zürich",
+                        "description": "EGroupware wird hauptsächlich zur Terminplanung einzelner Mitarbeiter und zur Festsetzung von Gruppenterminen eingesetzt. Auch die Synchronisation zu externen Clients wird stark nachgefragt. Aufgrund der vielseitigen Synchronisations-Möglichkeiten in unserem sehr heterogenen Umfeld (Linux, Mac, Windows, alle möglichen mobilen Devices), haben wir uns nach langer Evaluation vieler Groupware-Lösungen für die EGroupware entschieden. Die Zusammenarbeit mit der EGroupware...",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2015/01/image.imageformat.twocolumn.1322628801.png",
+                        "industry": "Education",
+                        "customer": "ETH Zürich",
+                        "country": "ch",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/eth-zurich/"
+                }, {
+                        "title": "Carl Knauber Holding GmbH und Co. KG",
+                        "description": "Die Funktionalität und Transparenz der intelligenten EGroupware geht weit über das Repertoire vergleichbarer Lösungen hinaus. Sie spart Zeit, schafft Flexibilität da sie standortunabhängig eingesetzt werden kann und ermöglicht straffe und transparente Prozesse durch das Zusammenspiel von Modulen. Der steigende Informations- und Organisationsbedarf innerhalb des gesamten Unternehmens wird mit EGroupware professionell abgedeckt. Kerneinsatzfelder: eMail, Kalender, Adressbuch … ",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2015/01/knauberde.png",
+                        "industry": "Retail",
+                        "customer": "Carl Knauber Holding GmbH und Co. KG",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/carl-knauber-holding-gmbh-und-co-kg/"
+                }, {
+                        "title": "Universität Bayreuth",
+                        "description": "Maßgeblich für die Entscheidung EGroupware Enterprise Line (EPL) einzusetzen ist, dass sie plattformunabhängig und mit vertretbarem Aufwand für große Nutzerzahlen administrierbar ist und ein sehr gutes Preis-Leistungsverhältnis aufweist. Die Universität Bayreuth mit derzeit 12000 Studenten, ihren Fakultäten und zahlreichen Forschungseinrichtungen ist auf fächerübergreifende Kooperation ausgelegt. EGroupware bietet den Nutzern (Studenten, Dozenten, Wissenschaftlern) eine ideale Basis...",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2016/06/Uni-Bayreuth.png",
+                        "industry": "Education",
+                        "customer": "Universität Bayreuth",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/universitat-bayreuth/"
+                }, {
+                        "title": "Fraktion Bündnis90/Die Grünen im Abgeordnetenhaus Berlin",
+                        "description": "Wir arbeiten seit über 5 Jahren (2009) mit EGroupware und haben derzeit ca.90 User eingebunden – Tendenz steigend. EGroupware ist mittlerweile ein unverzichtbares Medium in unserer Fraktionsarbeit. Vor allem die vielfältigen Möglichkeiten mobiler Nutzung, der unter EGroupware gespeicherten Daten, erlaubt einen schnelleren Informationsfluss und gewährleistet somit erhöhte Kommunikationsgeschwindigkeiten. Unsere Fraktion nutzte zusätzlich in den vergangenen ...",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2016/06/Buendnis-Gruene.png",
+                        "industry": "Public Administration & Government",
+                        "customer": "Fraktion Bündnis90/Die Grünen im Abgeordnetenhaus Berlin",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/fraktion-bundnis90die-grunen-im-abgeordnetenhaus-berlin/"
+                }, {
+                        "title": "Telkea ICT, Luxembourg",
+                        "description": "Durch eingehende Internetrecherchen zum Thema Arbeitsplanung wurden wir auf die EPL aufmerksam. Sie bietet hohe Flexibilität und ein Baukastenprinzip inkludiert die Option eigene Datenfelder zu definieren. Aufgabenrelevante Informationen können schnell und einfach allen Aussendienstmitarbeitern zur Verfügung gestellt werden, da ein zentraler Datenzugriff erfolgt. Genutzte Module: InfoLog: 12.000 Einträge pro Jahr, mit permanent etwa 800 „open ...",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2016/06/Telephonie-SA.jpg",
+                        "industry": "Telecommunication",
+                        "customer": "Telkea ICT, Luxembourg",
+                        "country": "lu",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/telephonie-s-a-luxembourg/"
+                }, {
+                        "title": "Ingenieurbüro Otte & Schulz GmbH & Co. KG",
+                        "description": "Unsere 25 Mitarbeiter sind komplett in die Nutzung der EGroupware Enterprise Line (EPL) integriert, die seit 2009 in unserem Hause angewendet wird. Wir entschieden uns zunächst für die vielfältige, innovative EPL, da sie zentralen Zugriff auf einen Gruppenkalender bietet. Diese Software ermöglicht allen eingeschlossenen Usern standortunabhängigen Zugriff auf die gleichen Daten und kann auch anwenderfreundlich...",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2016/06/IB-Otte-Karsten-Preuss.png",
+                        "industry": "Service",
+                        "customer": "Ingenieurbüro Otte & Schulz GmbH & Co. KG",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/ingenieurburo-otte-schulz-gmbh-co-kg/"
+                }, {
+                        "title": "PFEIFER DRAKO Drahtseilwerk GmbH & Co. KG",
+                        "description": "Die EGroupware Enterprise Line (EPL), die wir schon seit 2005 einsetzen, wird von allen Angestellten genutzt. Intensive Recherchen nach einer neuen Open Source Lösung und der Besuch der Karlsruher Linuxmesse führten uns zur EPL. Auf der Messe ergab sich ein direkter Kontakt mit einem der  Geschäftsführer, Herrn Ralf Becker, der damals wie heute durch seine …",
+                        "image": "http://www.egroupware.org/wp-content/uploads/2016/06/PFEIFER-DRAKO.png",
+                        "industry": "Manufacturing",
+                        "customer": "PFEIFER DRAKO Drahtseilwerk GmbH & Co. KG",
+                        "country": "de",
+                        "language": "de",
+                        "url": "http://www.egroupware.org/de/happy-customers/pfeifer-drako-drahtseilwerk-gmbh-co-kg/"
+                }]
+        }]
+}

@@ -1,0 +1,159 @@
+{
+        "title": "PrimeKey Solutions",
+        "logo": "https://www.primekey.com/wp-content/themes/primekey/assets/img/logo.svg",
+        "country": "https://www.primekey.com/",
+        "presence": ["se"],
+        "website": "se",
+        "founded_year": "",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "EJBCA",
+                "logo": "https://www.ejbca.org/wp-content/uploads/sites/2/2019/05/logo.svg",
+                "website": "https://www.ejbca.org/",
+                "category_list": ["Middleware"],
+                "source_code_download": "https://www.ejbca.org/download/",
+                "source_code_profile": "https://www.openhub.net/p/ejbca/analyses/latest/languages_summary",
+                "commercial_support": "https://www.ejbca.org/support/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/EJBCA",
+                "success_case_list": [{
+                        "title": "Diebold Nixdorf",
+                        "description": "Creating the future of PoS-solutions based on PrimeKey PKI",
+                        "image": "https://www.primekey.com/wp-content/uploads/2019/04/istock-814541224-768x512.jpg",
+                        "industry": "Finance",
+                        "customer": "Diebold Nixdorf",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/creating-the-future-of-pos-solutions-based-on-primekey-pki/"
+                }, {
+                        "title": "ZetesConfidens",
+                        "description": "ZetesConfidens – A Qualified Trust Services Provider at your service",
+                        "image": "https://www.primekey.com/wp-content/uploads/2019/03/qualified-trust-service-provider-768x346.png",
+                        "industry": "Software",
+                        "customer": "ZetesConfidens",
+                        "country": "be",
+                        "language": "en",
+                        "url": "https://www.primekey.com/wp-content/uploads/2019/03/qualified-trust-service-provider-768x346.png"
+                }, {
+                        "title": "Dimension Data",
+                        "description": "Dimension Data ensuring secure mobile communication for the German people",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/06/sstory-dimensiondata-768x512.jpg",
+                        "industry": "Telecommunication",
+                        "customer": "Dimension Data",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/dimension-data-ensuring-secure-mobile-communication-for-the-german-people/"
+                }, {
+                        "title": "Zenefits",
+                        "description": "Benefits of PKI at Zenefits",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-zenefits-color-768x637.jpg",
+                        "industry": "Software",
+                        "customer": "Zenefits",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/benefits-of-pki-at-zenefits/"
+                }, {
+                        "title": "Siemens",
+                        "description": "Siemens – Ingenuity for life and safe communications",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-siemens-color-768x512.jpg",
+                        "industry": "Manufacturing",
+                        "customer": "Siemens",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/ingenuity-for-life-and-safe-communications/"
+                }, {
+                        "title": "SGS",
+                        "description": "SGS – When you need to be sure",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-sgs.jpg",
+                        "industry": "Life Science",
+                        "customer": "SGS",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/when-you-need-to-be-sure/"
+                }, {
+                        "title": "QuoVaids",
+                        "description": "QuoVadis secures leading position",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-quovadis.jpg",
+                        "industry": "Software",
+                        "customer": "QuoVadis",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/quovadis-secures-leading-position/"
+                }, {
+                        "title": "Philippine International Trading Corporation",
+                        "description": "National e-ID for the citizens of the Philippines",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-filippeans.jpg",
+                        "industry": "Public Administration & Government",
+                        "customer": "Philippine International Trading Corporation",
+                        "country": "ph",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/national-e-id-for-the-citizens-of-the-philippines/"
+                }, {
+                        "title": "ITCARD",
+                        "description": "ITCARD – Smooth sailing with secure Point of Sales",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-itcard-768x596.jpg",
+                        "industry": "Service",
+                        "customer": "ITCARD",
+                        "country": "pl",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/smooth-sailing-with-secure-point-of-sales/"
+                }, {
+                        "title": "DigiSign",
+                        "description": "DigiSign – Growing business more safely and quickly",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-digisign-768x478.jpg",
+                        "industry": "Service",
+                        "customer": "DigiSign",
+                        "country": "ro",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/growing-business-more-safely-and-quickly/"
+                }, {
+                        "title": "Bankgirot",
+                        "description": "xcellent support saves money for the Swedish clearing house Bankgirot",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-bankgiro-768x509.jpg",
+                        "industry": "Finance",
+                        "customer": "Bankgirot",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/excellent-support-saves-money-for-the-swedish-clearing-house-bankgirot/"
+                }, {
+                        "title": "AmBank",
+                        "description": "Malaysian bank opts for PrimeKey PKI Appliance",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/bc-securemetric-ambank-768x552.jpg",
+                        "industry": "Finance",
+                        "customer": "AmBank",
+                        "country": "my",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/malaysian-bank-opts-for-primekey-pki-appliance/"
+                }, {
+                        "title": "Turkish Government",
+                        "description": "Turkish Delight – or how to issue 10,000 high-quality e-Passports every day",
+                        "image": "https://www.primekey.com/wp-content/uploads/2017/04/business-case-turkey.jpg",
+                        "industry": "Public Administration & Government",
+                        "customer": "Turkish Government",
+                        "country": "tr",
+                        "language": "en",
+                        "url": "https://www.primekey.com/customers/turkish-delight-or-how-to-issue-10000-high-quality-e-passports-every-day/"
+                }]
+        }]
+}

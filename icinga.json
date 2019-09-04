@@ -1,0 +1,42 @@
+{
+        "title": "Icinga",
+        "logo": "https://icinga.com/wp-content/uploads/2019/01/logo_icinga_white-e1407071914762.png",
+        "country": "de",
+        "presence": ["de"],
+        "website": "https://icinga.com/",
+        "founded_year": "2009",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Icinga Monitoring",
+                "logo": "https://icinga.com/wp-content/uploads/2019/01/logo_icinga_white-e1407071914762.png",
+                "website": "https://icinga.com/products/",
+                "category_list": ["Application"],
+                "source_code_download": "https://icinga.com/download/",
+                "source_code_profile": "https://www.openhub.net/p/icinga/analyses/latest/languages_summary",
+                "commercial_support": "https://icinga.com/subscription/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Icinga",
+                "success_case_list": []
+        }]
+}

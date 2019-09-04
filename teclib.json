@@ -1,0 +1,92 @@
+{
+        "title": "Teclib'",
+        "logo": "https://www.teclib-edition.com/wp-content/uploads/2016/04/logo-teclib-185x60-3.png",
+        "country": "fr",
+        "presence": ["fr", "es"],
+        "website": "https://www.teclib-edition.com/en/",
+        "founded_year": "2009",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "49",
+            "earnings": "-2353",
+            "total_assets": "6306881",
+            "revenues": "3791221",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "54",
+            "earnings": "134624",
+            "total_assets": "3885062",
+            "revenues": "5423370",
+            "public_source": "true"
+          }
+        },
+        "free_software_list": [{
+                "title": "GLPI Network",
+                "logo": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoHome-Glpi.png",
+                "website": "https://glpi-project.org/glpi-network/",
+                "category_list": ["Application"],
+                "source_code_download": "https://glpi-project.org/downloads/",
+                "source_code_profile": "https://www.openhub.net/p/glpi-project/analyses/latest/languages_summary",
+                "commercial_support": "https://glpi-project.org/subscriptions/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/GLPi",
+                "success_case_list": []
+        }, {
+                "title": "Fylve",
+                "logo": "https://www.teclib-edition.com/wp-content/uploads/2015/11/LogoPageProd-Flyve-1.png",
+                "website": "https://www.flyve-mdm.com/",
+                "category_list": ["Middleware"],
+                "source_code_download": "https://github.com/flyve-mdm",
+                "source_code_profile": "https://www.openhub.net/p/flyve-mdm/analyses/latest/languages_summary",
+                "commercial_support": "https://www.flyve-mdm.com/subscriptions/",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "Kimios",
+                "logo": "https://www.teclib-edition.com/wp-content/uploads/2015/12/LogoPageProd-Kimios.png",
+                "website": "http://www.kimios.com/",
+                "category_list": ["Application"],
+                "source_code_download": "http://www.kimios.com/downloads",
+                "source_code_profile": "https://www.openhub.net/p/kimios/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "Armadito",
+                "logo": "https://www.teclib-edition.com/wp-content/uploads/2016/11/LogoPageProd-Armadito.png",
+                "website": "https://www.armadito.com/",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/armadito",
+                "source_code_profile": "",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "Uhuru",
+                "logo": "https://www.teclib-edition.com/wp-content/uploads/2015/09/LogoPageProd-Uhuru-1.png",
+                "website": "https://www.uhuru-mobile.com/",
+                "category_list": ["Application"],
+                "source_code_download": "",
+                "source_code_profile": "",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }, {
+                "title": "Ravada",
+                "logo": "https://www.teclib-edition.com/wp-content/uploads/2018/11/LOGO-RAVADA-TR-copy.png",
+                "website": "http://ravada.upc.edu/",
+                "category_list": ["Middleware"],
+                "source_code_download": "https://ravada.readthedocs.io/en/latest/docs/INSTALL.html",
+                "source_code_profile": "https://www.openhub.net/p/RavadaVDI/analyses/latest/languages_summary",
+                "commercial_support": "http://ravada.upc.edu/",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }]
+}

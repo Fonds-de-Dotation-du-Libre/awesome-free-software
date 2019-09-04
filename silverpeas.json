@@ -1,0 +1,51 @@
+{
+        "title": "Silverpeas",
+        "logo": "https://www.silverpeas.com/wp-content/uploads/silverpeas.svg",
+        "country": "fr",
+        "presence": ["fr"],
+        "website": "https://www.silverpeas.com/",
+        "founded_year": "2003",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Silverpeas",
+                "logo": "https://www.silverpeas.com/wp-content/uploads/silverpeas.svg",
+                "website": "https://www.silverpeas.com/pourquoi-choisir-silverpeas/",
+                "category_list": ["Communication"],
+                "source_code_download": "https://www.silverpeas.com/communaute-open-source/",
+                "source_code_profile": "https://www.openhub.net/p/silverpeas/analyses/latest/languages_summary",
+                "commercial_support": "https://www.silverpeas.com/support/",
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Silverpeas",
+                "success_case_list": [{
+                        "title": "Comment faire vivre un réseau de 44 sites de formation",
+                        "description": "Dans le but de faciliter sa communication interne et rassembler toutes les informations sur une plateforme unique, le CERFAL, réseau d’apprentissage composé de 44 sites de formation en Ile-de-France, a fait le choix de la plateforme Silverpeas. Retour sur le déploiement de cette solution innovante à travers le témoignage de Lucie Bruston, Chef de projets, et Sylvie Ly, Chargée de communication",
+                        "image": "",
+                        "industry": "Education",
+                        "customer": "CFA Cerfal",
+                        "country": "fr",
+                        "language": "fr",
+                        "url": "https://intranoo.silverpeas.com/silverpeas/LinkFile/Key/610b8537-d0b0-4570-ad3b-89432a98adfa/TM_CERFAL_SILVERPEAS.pdf"
+                }]
+        }]
+}

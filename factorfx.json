@@ -1,0 +1,42 @@
+{
+        "title": "FactorFX",
+        "logo": "",
+        "country": "fr",
+        "presence": ["fr"],
+        "website": "https://www.factorfx.com/",
+        "founded_year": "2008",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "7327",
+            "total_assets": "441471",
+            "revenues": "1369791",
+            "public_source": "true"
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "41551",
+            "total_assets": "432794",
+            "revenues": "1248726",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "5373",
+            "total_assets": "511636",
+            "revenues": "887238",
+            "public_source": "true"
+          }
+        },
+        "free_software_list": [{
+                "title": "OCS Inventory",
+                "logo": "https://www.factorfx.com/wp-content/uploads/2015/04/OCS_inventory.png",
+                "website": "https://www.factorfx.com/",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.factorfx.com/",
+                "source_code_profile": "https://www.openhub.net/p/ocs_to_delete/analyses/latest/languages_summary",
+                "commercial_support": "https://www.factorfx.com/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/OCS_Inventory",
+                "success_case_list": []
+        }]
+}

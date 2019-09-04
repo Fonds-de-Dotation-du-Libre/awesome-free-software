@@ -1,0 +1,42 @@
+{
+        "title": "Kopano",
+        "logo": "",
+        "country": "nl",
+        "presence": ["nl", "de"],
+        "website": "https://kopano.com/",
+        "founded_year": "2001",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Kopano",
+                "logo": "",
+                "website": "https://kopano.com/kopano-products/",
+                "category_list": ["Application"],
+                "source_code_download": "https://download.kopano.io/community/",
+                "source_code_profile": "https://www.openhub.net/p/kopano/analyses/latest/languages_summary",
+                "commercial_support": "https://kopano.com/pricing/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Kopano_(software)",
+                "success_case_list": []
+        }]
+}

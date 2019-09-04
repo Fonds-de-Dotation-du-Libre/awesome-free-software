@@ -1,0 +1,366 @@
+{
+        "title": "Pimcore",
+        "logo": "https://pimcore.com/static/img/logo.svg",
+        "country": "at",
+        "presence": ["at"],
+        "website": "https://pimcore.com",
+        "founded_year": "2013",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Pimcore",
+                "logo": "https://pimcore.com/static/img/logo.svg",
+                "website": "https://pimcore.com/",
+                "category_list": ["Application"],
+                "source_code_download": "https://pimcore.com/en/download",
+                "source_code_profile": "https://www.openhub.net/p/pimcore/analyses/latest/languages_summary",
+                "commercial_support": "https://pimcore.com/de/dienstleistungen",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Pimcore",
+                "success_case_list": [{
+                        "title": "Luxury vehicle maker automates dealership furnishing with B2B shop",
+                        "description": "AUDI AG is an automobile manufacturer that produces and distributes premium vehicles. To ensure global brand consistency across all dealer locations, dealerships order their showroom furniture and signage from suppliers negotiated by AUDI AG. A digital portal connects dealerships directly with suppliers. Centralizing the products of different suppliers on a single platform significantly increased the efficiency of the order process.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__2979__casestudy-detail-logo/audi-new.webp",
+                        "industry": "Automotive",
+                        "customer": "Audi AG",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/luxury-vehicle-maker-automates-dealership-furnishing-with-b2b-shop_c4901"
+                },{
+                        "title": "Fast food king rules website and mobile apps engagements",
+                        "description": "Burger King, known worldwide as a fast food chain, offers breakfasts, fries, and shakes as well as breakfast. With more than 15,000 locations worldwide, more than 11 million guests visit BURGER KING® restaurants around the world. Pimcore provided a multilingual solution for the content management framework.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__751__casestudy-detail-logo/burgerking.webp",
+                        "industry": "Retail",
+                        "customer": "Burger King Europe GmbH",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/fast-food-king-rules-website-and-mobile-apps-engagements_c668"
+                },{
+                        "title": "80% increase in revenue for online sporting goods retailer",
+                        "description": "Intersport is the world’s leading sporting goods retailer. They are present in more than 40 countries with over 5.500 stores world-wide. They sell a variety of sporting equipment for outdoor sports, indoor sports, football, winter sports, running, and fitness.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__801__casestudy-detail-logo/intersport-no.webp",
+                        "industry": "Retail",
+                        "customer": "Intersport Austria",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/80-increase-in-revenue-for-online-sporting-goods-retailer_c854"
+                },{
+                        "title": "Technology company heats up with intuitive ordering process",
+                        "description": "In 1932, Walter Bösch founded his company in Lustenau. Today, Bösch employs more than 600 people throughout Austria. They made a name for themselves as a major supplier of heating technology, air conditioning, and ventilation technology. By using Pimcore's PIM/MDM platform, Bösch saw an 80% time reduction in working with product data.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__749__casestudy-detail-logo/boesch.webp",
+                        "industry": "Manufacturing",
+                        "customer": "Bösch",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/technology-company-heats-up-with-intuitive-ordering-process_c664"
+                },{
+                        "title": "Online retailer steps up to meet growing business demands",
+                        "description": "Shoes.com is an online retailer of footwear and apparel founded in 1996 and headquartered in Vancouver, BC. The company owns and operates Shoes.com, OnlineShoes.com, and Shoeme.ca, and is a part of the Hardy Capital portfolio.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__781__casestudy-detail-logo/shoes-com.webp",
+                        "industry": "Retail",
+                        "customer": "Shoes.com",
+                        "country": "ca",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/online-retailer-steps-up-to-meet-growing-business-demands_c714"
+                },{
+                        "title": "Inflight merchandising center scales up into new markets",
+                        "description": "Gogo is a leading global aero-communications service provider that offers inflight Internet, entertainment, text messages, voice, and a host of other communication related services to the commercial and business aviation markets.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__762__casestudy-detail-logo/gogo.webp",
+                        "industry": "Entertainment",
+                        "customer": "Gogo Air",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/inflight-merchandising-center-scales-up-into-new-markets_c686"
+                },{
+                        "title": "Home furnishing store connects shoppers with digital touchpoints",
+                        "description": "IKEA is an internationally known home furnishing retailer that sells a wide variety of items including storage options, lighting, decor products, kitchen appliances and pet care. It has grown rapidly since it was founded in 1943 and today it is the world's largest furniture retailer, recognized for its Scandinavian style.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__767__casestudy-detail-logo/ikea.webp",
+                        "industry": "Retail",
+                        "customer": "IKEA",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/home-furnishing-store-connects-shoppers-with-digital-touchpoints_c692"
+                },{
+                        "title": "Gant easily distributes product updates around the globe",
+                        "description": "The global lifestyle brand GANT has a presence in over 70 countries with over 740 physical stores and is also very strong in digital commerce. They sell a wide variety of casual and classic clothing for men, women, and children. GANT has a total turnover of more than $1.3 billion.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__742__casestudy-detail-logo/gant.webp",
+                        "industry": "Retail",
+                        "customer": "Gant",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/fashion-forward-retailer-brings-pim-into-the-spotlight_c621"
+                },{
+                        "title": "Omni-channel online shop for consumer electronics retailer",
+                        "description": "Expert is a purchasing cooperative of electrical retailers with 180 locations throughout Austria. The omnichannel shop brings together 170 independent companies with heterogeneous systems and makes it possible to centrally map and control all goods, payments and service processes in one system. The implementation sets new standards in terms of B2C shop, process support in the backend and omnichannel - and thus in the integration of online and offline trade. The project won the Austrian 'Retail Innovation Award' in the category 'Best Omnichannel Solution'.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__1559__casestudy-detail-logo/expert.webp",
+                        "industry": "Retail",
+                        "customer": "Expert",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/multi-channel-online-shop-for-household-appliances_c1256"
+                },{
+                        "title": "Web-to-Print for pharmaceutical distributor in Germany",
+                        "description": "PHOENIX Pharmahandel GmbH & Co KG from Mannheim, Germany is the leading pharmaceutical distributor in Germany and one of the leading pharmaceutical distributors in Europe. As such, the company offers a wide variety of services to its customers, the pharmacies, through a Pimcore based web portal. One of these services is the possibility for pharmacies to order advertising flyers and posters for their shops.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__1800__casestudy-detail-logo/phoenix_pharmahandel.webp",
+                        "industry": "Retail",
+                        "customer": "Phoenix Pharma",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/web-to-print-for-pharmaceutical-distributor-in-germany_c1104"
+                },{
+                        "title": "La Redoute automates catalogs with Pimcore & Active WebToPrint",
+                        "description": "Created a user-friendly platform to manage and enrich products while automating, as much as possible, the production of Print publications (Catalogs, brochures, etc ...). The solution had to be synchronized with an ERP (SAP) and export the enriched data to different CMS systems. The project was rolled out in 9 languages (Russia, Belgium, Switzerland, Spain, Portugal, Sweden, Norway, UK, Switzerland, and France).",
+                        "image": "https://pimcore.com/casestudies/la-redoute/image-thumb__1668__casestudy-detail-logo/la_redoute.webp",
+                        "industry": "Retail",
+                        "customer": "La Redoute",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/la-redoute-automates-catalogs-with-pimcore-active-webtoprint_c1096"
+                },{
+                        "title": "Faster time to market with new digital ecosystem for motorcycle division of Peugeot",
+                        "description": "Since 1898, Peugeot Motorcycles has been manufacturing and selling motorized two-wheeled vehicles. It can lay claim to a rich history in the motorbike and scooter industry. The wide product range lets every customer find the scooter to meet his or her needs in terms of practicality, design, safety, and performance. The website is an important sales tool which lets prospective clients get all information necessary for their purchase decision.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__1880__casestudy-detail-logo/peugeot-scooters.webp",
+                        "industry": "Automotive",
+                        "customer": "PSA",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/faster-time-to-market-with-new-digital-ecosystem-for-motorcycles_c932"
+                },{
+                        "title": "CapGemini",
+                        "description": "With more than 190,000 people, Capgemini is present in over 40 countries and is celebrating its 50th Anniversary year in 2017. A global leader in consulting, technology and outsourcing services, the Group reported 2016 global revenues of EUR 12.5 billion.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__2027__casestudy-detail-logo/capgemini.webp",
+                        "industry": "Consulting",
+                        "customer": "CapGemini",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/consulting-firm-provides-clients-with-customized-trade-fair-maps_c1051"
+                },{
+                        "title": "Heidelberg enriches data of 3 ERP systems in 1 central PIM",
+                        "description": "Heidelberg offers a broad spectrum of printing services and software solutions. To increase their range and global sales, Heidelberg has built a European platform that links the market for Tettenrode/Plantin to Belgium and the Netherlands, the market for Mackinggraf to Italy and the market for Hartman to Spain.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__743__casestudy-detail-logo/heidelberg.webp",
+                        "industry": "Construction",
+                        "customer": "Heidelberg",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/heidelberg-enriches-data-of-3-erp-systems-in-1-central-pim_c642"
+                },{
+                        "title": "Falkensteiner Hotels Group",
+                        "description": "Falkensteiner Tourism Group is operating premium hotels all over Europe. The company generates a turnover of EUR 154 million. With more than 4,620 rooms it provides hundreds of thousands of people from around the world with the opportunity to spend relaxing holidays.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__758__casestudy-detail-logo/falkensteiner.webp",
+                        "industry": "Travel",
+                        "customer": "Falkensteiner Hotels Group",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/outstanding-digital-experience-for-more-than-30-hotels_c680"
+                },{
+                        "title": "Glam à Paris",
+                        "description": "The real estate company Glam à Paris was created in 2008. The company manages high range furnished apartments in Paris for people who are looking to rent during holidays or business travel. As the short-term rental market is rapidly growing, Glam à Paris  is becoming a prominent contender.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__761__casestudy-detail-logo/glamparis.webp",
+                        "industry": "Real Estate",
+                        "customer": "Glam à Paris",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/glam-a-paris-clients-now-easily-find-a-suitable-apartment-to-rent_c685"
+                },{
+                        "title": "NextJet",
+                        "description": "NextJet is the largest regional airline in Sweden with a route network including 16 domestic destinations, and five international (Denmark, Finland and Norway). The company is based in Frösundavik in Solna Municipality, just north of Stockholm. The company is differentiated through its focus on security, personality and competitive prices.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__774__casestudy-detail-logo/nextjet.webp",
+                        "industry": "Aviation",
+                        "customer": "NextJet",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/nextjet_c704"
+                },{
+                        "title": "Increase in Nissan’s automotive financing",
+                        "description": "Nissan Bank is a France-based international company that specialises in automotive financing, insurance and related activities for the Renault group brands including Nissan. It financed over 1.4 million vehicles in 2015.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__775__casestudy-detail-logo/nissan.webp",
+                        "industry": "Finance",
+                        "customer": "Nissan Bank",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/increase-in-nissan-s-automotive-financing_c706"
+                },{
+                        "title": "Viani eCommerce platform wins 'Most Innovative Shop'",
+                        "description": "Since 1973, Antonio Viani Importe GmbH has offered gourmet specialties to B2B customers such as gastronomes and gourmet retailers. Today, Viani’s online shop offers over 2,500 products including authentic Italian specialties on everything from antipasti, to pasta and wine.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__745__casestudy-detail-logo/viani.webp",
+                        "industry": "Retail",
+                        "customer": "Antonio Viani Importe GmbH",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/viani-ecommerce-platform-wins-most-innovative-shop_c657"
+                },{
+                        "title": "Pro Touch",
+                        "description": "Pro Touch is an athletic brand with more than 20 years of experience in catering active sports enthusiasts with great quality performance products. Introduced in 1992 the brand offers a large variety of hardware, footwear and apparel products for various athletic sports disciplines with an excellent price-quality-ratio.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__780__casestudy-detail-logo/protouch.webp",
+                        "industry": "Retail",
+                        "customer": "Pro Touch",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/athletics-brand-goes-pro-with-engaging-digital-channels_c713"
+                },{
+                        "title": "BuildDirect",
+                        "description": "BuildDirect is a leading online marketplace for home improvement products. Based in Vancouver, they connect homeowners throughout North America directly with sellers of building materials. BuildDirect eliminates heavy retail markups, offers doorstep delivery, and provides a simple, trusted shopping experience.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__812__casestudy-detail-logo/builddirect.webp",
+                        "industry": "Construction",
+                        "customer": "BuildDirect",
+                        "country": "ca",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/home-improvement-supplies-builds-stronger-online-experience_c666"
+                },{
+                        "title": "Gäsene Mejeri",
+                        "description": "Gäsene Mejeri is a Swedish producer of cheese using milk exclusively from their own Swedish farms. They are Sweden’s smallest dairy association and are made up of 37 farms that supply all of the milk. The dairy is located in Ljung, in the west part of Sweden and has always had strong local roots.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__759__casestudy-detail-logo/gaesene-mejeri.webp",
+                        "industry": "Retail",
+                        "customer": "Gäsene Mejeri",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/updated-website-increases-sales-for-cheese-producers_c682"
+                },{
+                        "title": "Product Partnerships",
+                        "description": "Product Partnerships is an FCA authorized firm acting as a Principal and Compliance Specialist for businesses who offer consumer credit facilities. They are regulated to oversee credit broking and consumer hire activities.  Their core markets are retail motor outlets, online vehicle suppliers and firms who operate salary sacrifice schemes that should be FCA regulated.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__779__casestudy-detail-logo/product-partnership.webp",
+                        "industry": "Finance",
+                        "customer": "Product Partnerships",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/financial-regulators-keep-customers-in-check-through-a-secure-portal_c712"
+                },{
+                        "title": "Swedteam AB",
+                        "description": "Swedteam AB is a retail organization that specializes in hunting clothes tailor-made for specific kinds of hunting and for every season of the year. The company has wide knowledge about both hunting as well as the business of producing and selling clothes.  Their products are sold mainly in the Scandinavian countries but are also present in some other parts of Europe such as Germany and Great Britain.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__784__casestudy-detail-logo/swedteam.webp",
+                        "industry": "Retail",
+                        "customer": "Swedteam AB",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/hunting-retailer-hits-the-target-with-web-and-print_c719"
+                },{
+                        "title": "Digital screens accelerate brand awareness in stores",
+                        "description": "Carrefour, a French multinational retailer, is one of the largest hypermarket chains in the world. A network of screens installed at the entrance of the stores captures the entire flow of shoppers and offers optimal visibility to brands.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__2582__casestudy-detail-logo/carrefour.webp",
+                        "industry": "Retail",
+                        "customer": "Carrefour",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/digital-screens-accelerate-brand-awareness-in-stores_c1836"
+                },{
+                        "title": "Web-To-Print automates creation of full featured product catalog",
+                        "description": "Pollmann & Sohn is a 5th generation family owned business in Germany. It manufactures high-quality metal fittings made out of steel, stainless steel and aluminum. The core assortment is continuously adapted and extended to meet new market requirements. The company is renowned for constant stock of inventory and fast delivery of its products. The competent and experienced sales staff use various tools to present the products to the customers. A very important sales tool is the full featured product catalog.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__1575__casestudy-detail-logo/pollmann.webp",
+                        "industry": "Manufacturing",
+                        "customer": "Pollman",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/web-to-print-automates-creation-of-full-featured-product-catalog_c1052"
+                },{
+                        "title": "eCommerce solution for Norway’s largest Apple retailer",
+                        "description": "Eplehuset is the largest retailer of Apple products in Norway, with 22 stores and a strong web presence.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__793__casestudy-detail-logo/eplehuset.webp",
+                        "industry": "Retail",
+                        "customer": "Eplehuset",
+                        "country": "no",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/ecommerce-solution-for-norway-s-largest-apple-retailer_c892"
+                },{
+                        "title": "Norstedts",
+                        "description": "Norstedts is Sweden's oldest publishing house. The publishing house has published 29 Nobel Prize winners and publishers of Orhan Pamuk, Mario Vargas Llosa, Stieg Larsson, J.R.R. Tolkien, Elena Ferrante, David Lagercrantz, Jonas Gardell, Agneta Pleijel, PO Enquist and Anna Jansson.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__776__casestudy-detail-logo/norstedts.webp",
+                        "industry": "Publishing",
+                        "customer": "Norstedts",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/norstedts_c708"
+                },{
+                        "title": "Achental",
+                        "description": "Achental is a region located between Munich and Salzburg that is known for its valuable natural shaft and man-made landscape. In this area, there are many lakes, rivers, mountains, meadows, and forestry – making the region a beautiful piece of nature. Four townships in Achental decided they wanted to have a common digital appearance: Marquartstein, Schleching, Staudach-Egerndach, Unterwössen/Oberwössen.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__802__casestudy-detail-logo/achental.webp",
+                        "industry": "Travel",
+                        "customer": "Region Achental",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/achental-efficiently-manage-4-township-websites-in-1-system_c655"
+                },{
+                        "title": "Praktikawelten GmbH",
+                        "description": "Praktikawelten is one of the leading German tour operators for volunteers, high school, work & travel, language holidays and internships around the world. They have more than 300 programs in 25 different countries with their own houses in Africa, Asia, Latin America, Australia, Canada, USA & Europe. They give young travelers the opportunity to discover new cultures.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__778__casestudy-detail-logo/pratikawelten.webp",
+                        "industry": "Travel",
+                        "customer": "Praktikawelten",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/travel-abroad-operator-reaches-higher-sales-with-new-website_c710"
+                },{
+                        "title": "Rental platform provides better customer experience for seasonal skiers",
+                        "description": "Intersport Rent is a service by the sports retailer Intersport with more than 800 shops across Europe and Canada. The platform offers the possibility to reserve sports equipment online and then pick it up quickly in a shop. One-third of the revenue is already generated through this online portal and central management of more than 3 million customer profiles improves customer experience.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__801__casestudy-detail-logo/intersport-no.webp",
+                        "industry": "Retail",
+                        "customer": "Intersport Rent",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/rental-platform-provides-better-customer-experience-for-seasonal-skier_c695"
+                },{
+                        "title": "Städter GmbH",
+                        "description": "Städter is a manufacturer of baking and household goods based in Germany.  They sell over 3,500 baking products including everything from classic baking needs to modern trends in the baking world.  Some of their products include cookie cutters, decorating tools, accessories, professional ingredients, and much more.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__783__casestudy-detail-logo/staedter.webp",
+                        "industry": "Retail",
+                        "customer": "Städter GmbH",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/baking-supplies-retailer-raises-to-the-challenge-with-new-pim_c718"
+                },{
+                        "title": "Deutsche Bahn AG",
+                        "description": "Deutsche Bahn AG is a German railway company which is headquartered in Berlin, Germany.  They are the second largest transportation company in the world and the largest railway operator and infrastructure owner in Europe.  Each year they transport about two billion passengers around Europe.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__755__casestudy-detail-logo/deutschebahn.webp",
+                        "industry": "Transport",
+                        "customer": "Deutsche Bahn AG",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/transportation-company-goes-the-distance-with-instant-updates_c675"
+                },{
+                        "title": "Hansainvest",
+                        "description": "HI operates in the field of real estate investments, asset management, project development and portfolio management.  The firm primarily manages public funds, money market funds, pension funds, open real estate funds, and hedge funds for its clients. It invests in public equity markets across the globe.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__766__casestudy-detail-logo/hansainvest.webp",
+                        "industry": "Real Estate",
+                        "customer": "Hansainvest",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/investment-management-firm-grows-sales-with-less-effort_c691"
+                },{
+                        "title": "World Cup Ulricehamn",
+                        "description": "World Cup Ulricehamn is the name and homepage for the cross country skiing World Cup event taking place in Ulricehamn, Sweden in January 2017.  The event will include participants and spectators from around the world and is part of the international FIS Cross-Country World Cup.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__788__casestudy-detail-logo/ulricehamn.webp",
+                        "industry": "Travel",
+                        "customer": "World Cup Ulricehamn",
+                        "country": "se",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/events-website-gets-a-running-start-with-a-robust-cms_c723"
+                },{
+                        "title": "Tooltechnic Systems",
+                        "description": "Tooltechnic Systems (Australia) (TTS) Pty Ltd is an importer and wholesaler of premium power tools and related products. Tooltechnic Systems aims to be recognized as offering the best performing products in Australia when it comes to power tools, accessories and consumables. Supported by the best pre as well as after sales service in the market.",
+                        "image": "https://pimcore.com/logos-casestudies/background-color-jpg/image-thumb__1401__casestudy-detail-logo/festool.webp",
+                        "industry": "Retail",
+                        "customer": "Tooltechnic Systems",
+                        "country": "au",
+                        "language": "en",
+                        "url": "https://pimcore.com/de/kunden/power-tool-importer-energizes-their-sales-with-pim-and-mdm_c721"
+                }]
+        }]
+}
