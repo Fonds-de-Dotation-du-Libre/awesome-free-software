@@ -1,9 +1,9 @@
 {
         "title": "PrimeKey Solutions",
         "logo": "https://www.primekey.com/wp-content/themes/primekey/assets/img/logo.svg",
-        "country": "https://www.primekey.com/",
+        "country": "se",
         "presence": ["se"],
-        "website": "se",
+        "website": "https://www.primekey.com/",
         "founded_year": "",
         "kpi_dict": {
           "2018": {

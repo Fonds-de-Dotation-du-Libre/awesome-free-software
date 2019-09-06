@@ -5,6 +5,29 @@
 	"presence": ["worldwide"],
 	"website": "https://www.google.fr/intl/en/about/",
 	"founded_year": "1998",
+	"kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
 	"free_software_list": [{
 		"title": "Chromium",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chromium_Material_Icon-256x256.png",
