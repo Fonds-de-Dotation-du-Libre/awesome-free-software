@@ -35,7 +35,7 @@
                 "category_list": ["Application"],
                 "source_code_download": "https://www.akeneo.com/download/",
                 "source_code_profile": "https://www.openhub.net/p/akeneo/analyses/latest/languages_summary",
-                "commercial_support": "https://www.akeneo.com/solution-partners/",
+                "commercial_support": "",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/Akeneo#Akeneo_PIM",
                 "success_case_list": [{
                         "title": "Tarkett",
