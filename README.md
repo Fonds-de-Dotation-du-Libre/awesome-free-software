@@ -61,6 +61,29 @@ The full JSON schema is here:
         "presence": &lt;&lt;countries the publisher has a presense, e.g. ["us", "gb"]&gt;&gt;,
         "website": &lt;&lt;url to company website&gt;&gt;,
         "founded_year": &lt;&lt;year company was founded&gt;&gt;,
+        "kpi_dict": {
+          "2018": {
+            "staff": &lt;&lt;staff 2018&gt;&gt;,
+            "earnings": &lt;&lt;earnings 2018&gt;&gt;,
+            "total_assets": &lt;&lt;total assets 2018&gt;&gt;,
+            "revenues": &lt;&lt;revenues 2018&gt;&gt;,
+            "public_source": &lt;&lt;data from a publicly accessible source&gt;&gt;
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
         "free_software_list": [{
                 "title": &lt;&lt;software title&gt;&gt;,
                 "logo": &lt;&lt;url to software logo&gt;&gt;,
