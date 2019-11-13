@@ -1,9 +1,9 @@
 {
-	"title": "Xwiki",
-	"logo": "http://www.xwiki.com/download/XWikiComCode/MenuV2/logo.png",
+  "title": "Xwiki",
+	"logo": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
 	"country": "fr",
-	"presence": ["fr", "ro", "dz"],
-	"website": "www.xwiki.com",
+	"presence": ["fr", "ro", "us"],
+	"website": "xwiki.com",
 	"founded_year": "2004",
 	"kpi_dict": {
     "2018": {
@@ -29,87 +29,59 @@
     }
   },
 	"free_software_list": [{
-		"title": "Xwiki Enterprise",
-		"logo": "http://www.xwiki.com/download/XWikiComCode/MenuV2/logo.png",
-		"website": "http://enterprise.xwiki.org/",
+		"title": "XWiki",
+		"logo": "https://xwiki.com/download/XWikiComCode/COMColorTheme2/Logo_XWiki.svg",
+		"website": "http://xwiki.org/",
 		"category_list": ["Application"],
-		"source_code_download": "https://github.com/xwiki/xwiki-enterprise/archive/master.zip",
+		"source_code_download": "https://github.com/xwiki/xwiki-platform/archive/master.zip",
 		"source_code_profile": "https://www.openhub.net/p/xwiki/analyses/latest/languages_summary",
-		"commercial_support": "http://www.xwiki.com/en/products/pricing-onpremise",
+		"commercial_support": "https://xwiki.com/en/pricing/",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Wiki_software#Enterprise_wikis",
 		"success_case_list": [{
-			"title": "Aelia intranet",
-			"description": "Aelia's Aeliapedia intranet addresses all employees, specifically targeting shop advisers who need to have access to a lot of information as part of their daily work. Aelia selected the XWiki Enterprise solution back in 2007 and has been working with XWiki SAS ever since.",
-			"image": "http://www.xwiki.com/en/download/references/aelia/aelia.jpg",
-			"industry": "Retail",
-			"customer": "Aelia",
-			"country": ["fr", "gb", "pl"],
-			"language": "en",
-			"url": "http://www.xwiki.com/en/references/aelia"
-		}, {
-			"title": "AFP",
-			"description": "The French Press Agency (AFP) chose the XWiki Enterprise edition with the Watch extension to follow the threads of information and to classify them by themes in the iBusiness platform.",
-			"image": "http://www.xwiki.com/en/download/references/afp/afp.jpg",
-			"industry": "Media",
-			"customer": "AFP",
-			"country": "fr",
-			"language": "en",
-			"url": "http://www.xwiki.com/en/references/afp"
-		}, {
-			"title": "Insee",
-			"description": "INSEE has set up a wiki farm based on XWiki. It allows their teams to be able to launch document databases on demand to different users.",
-			"image": "http://www.xwiki.com/en/download/references/insee/insee.jpg",
+			"title": "Historical Dictionary of Switzerland",
+			"description": "The Historical Dictionary of Switzerland (HLS) is the largest encyclopedia focused on the history of Switzerland, and it aims to take into account the results of modern historical research in a manner accessible to a broader audience. It is published by a foundation under the patronage of the Swiss Academy of Humanities and Social Sciences (SAGW/ASSH) and the Swiss Historical Society (SGG-SHH) and is financed by national research grants. Besides a staff of about 35 at the central offices, the contributors include 100 academic advisors, 2500 historians, and 100 translators. The encyclopedia is being edited simultaneously in three national languages of Switzerland: German, French and Italian.",
+			"image": "https://xwiki.com/en/download/offerings/custom-solutions/custom-apps/hls-logo.jpg",
 			"industry": "Public Administration & Government",
-			"customer": "Insee",
+			"customer": "HLS",
+			"country": "ch",
+			"language": ["fr","de","it"],
+			"url": "https://xwiki.com/en/offerings/custom-solutions/custom-apps"
+		}, {
+			"title": "SFR",
+			"description": "A global operator, ALTICE France/SFR, holds major positions throughout the French telecommunications market, among the general public, as well as businesses, communities or the wholesale market. Given the complementarity of its brands, the group offers a full-service offering, including Internet, fix and mobile telephony and audiovisual services. The group has 22 million customers and offers 99% of the 4G coverage in France. Based on the information repository and extensibility capabilities of the XWiki platform, our team was able to customize a solution that enhanced collaborative communication within the company (over 11.000 employees), in a smooth and performant manner.",
+			"image": "https://xwiki.com/en/download/offerings/custom-solutions/digital-workplace/logos-alticesfr.png",
+			"industry": "Telecommunication",
+			"customer": "SFR",
 			"country": "fr",
-			"language": "en",
-			"url": "http://www.xwiki.com/en/references/insee"
-		}]
-	}, {
-		"title": "Xwiki Collaboration Suite",
-		"logo": "http://www.xwiki.com/en/download/Totem/XCS-BannerCollaborativeWork/xcs-logo.png",
-		"website": "https://github.com/xwikisas/xcs/",
-		"category_list": ["Communication"],
-		"source_code_download": "https://github.com/xwikisas/xcs/archive/master.zip",
-		"source_code_profile": "https://www.openhub.net/p/xwiki/analyses/latest/languages_summary",
-		"commercial_support": "http://www.xwiki.com/en/products/pricing",
-		"wikipedia_url": "",
-		"success_case_list": [{
-			"title": "Fidelia Assistance",
-			"description": "FIDELIA Assistance, part of the COVEA Group (MAAF, MMA, GMF) and leader in its sector in France (aid and assistance operations), chose XWiki in order to create a document repository. The repository is named Wikidélia and it allows FIDELIA assistance to make centralized, reliable, updated and collectively enriched information available to all its employees (over 1100).",
-			"image": "http://www.xwiki.com/en/download/references/fidelia-assistance/fidelia-assistance.jpg",
+			"language": ["en", "fr"],
+			"url": "https://xwiki.com/en/offerings/custom-solutions/digital-workplace"
+		}, {
+			"title": "EasyVista",
+			"description": "With offices in France, UK, Germany, Italy, Spain, Portugal, the United States and Canada, EasyVista has more than 800 clients that activate in banking, insurance, industry, the service sector, governments, outsourcing and consulting. Their services are covering the entire life cycle of IT assets for their clients. In 2014, the EasyVista team was looking for a tool that could be implemented internally in order to avoid numerous email exchanges. Due to the high number of projects, many documents were sent by email and it was difficult to find the required information and to know whether it had been updated. This brought the need to centralize information using XWiki.",
+			"image": "https://xwiki.com/en/download/offerings/custom-solutions/knowledge-base/logo-custom-solutions-page-easy-vista.jpg",
+			"industry": "Software",
+			"customer": "EasyVista",
+			"country": ["fr", "us", "uk", "de", "it", "sp", "pt"],
+			"language": ["en", "fr"],
+			"url": "https://xwiki.com/en/offerings/custom-solutions/knowledge-base"
+		}, {
+			"title": "SCOR",
+			"description": "SCOR, the 5th largest reinsurer in the world, provides insurance companies with a diversified and innovative range of solutions and services to control and manage risk. With a team spread in 160 countries and more than 38 offices worldwide, SCOR's need for a procedures management solution was obvious. In delivering their custom Procedures Management solution, we started by mapping all the needs and current processes within their company. In collaboration with their procedures compliance department, our team designed and implemented a dynamic Procedures Management tool for SCOR's international sales team. Based on the information repository and extensibility capabilities of the XWiki platform, our team was able to customize a service that allows ensuring the quality and validity of the procedures available to their employees.",
+			"image": "https://xwiki.com/en/download/offerings/custom-solutions/procedures-management/scor%20copy.jpg",
 			"industry": "Insurance",
-			"customer": "Fidelia Assistance",
-			"country": "fr",
+			"customer": "SCOR",
+			"country": ["fr", "us", "uk", "de", "it", "sp", "pt", "cn"],
 			"language": "en",
-			"url": "http://www.xwiki.com/en/references/fidelia-assistance"
+			"url": "https://xwiki.com/en/offerings/custom-solutions/procedures-management"
 		}, {
-			"title": "INRA",
-			"description": "In 2009, INRA was looking to implement a collaborative work solution for all its collaborators. INRA includes several laboratories located throughout the french territory. The institute wanted to benefit from a solution allowing them to deploy independent wikis on-demand for its different laboratories.",
-			"image": "http://www.xwiki.com/en/download/references/inra/inra.png",
-			"industry": "Research",
-			"customer": "INRA",
+			"title": "CNFPT",
+			"description": "The CNFPT (National Centre for the Management of Territorial Service) needed a public website to exchange and share information and learning resources. Two main pain points of the local administration were tackled on the website: collaboration, between & within, the local administrations and transparency of the activity of territorial services. In delivering their custom Extranet solution, we have analyzed their specific needs: an intuitive interface, quick access to information, content moderation, user management rights, and custom features.",
+			"image": "https://xwiki.com/en/download/offerings/custom-solutions/extranet-and-communities/cnpft-logo-custom.jpg",
+			"industry": "Public Administration & Government",
+			"customer": "CNFPT",
 			"country": "fr",
-			"language": "en",
-			"url": "http://www.xwiki.com/en/references/inra"
-		}, {
-			"title": "Socomore",
-			"description": "Socomore has set up a wiki to allow all its co-workers around the world to contribute to the enrichment of a shared knowledge base (projects, conference organization, tests results…), in order to make the teams more reactive and keep them up to date.",
-			"image": "http://www.xwiki.com/en/download/references/socomore/socomore.jpg",
-			"industry": "Transport",
-			"customer": "Socomore",
-			"country": "Worldwide",
-			"language": "en",
-			"url": "http://www.xwiki.com/en/references/socomore"
-		}, {
-			"title": "Expert et Finance",
-			"description": "Expert & Finance was looking to upgrade their existing intranet and to offer to its collaborators a new information center, where they could find the updated data necessary to perform their daily tasks.",
-			"image": "http://www.xwiki.com/en/download/references/expert-et-finance/expert-finance.jpg",
-			"industry": "Finance",
-			"customer": "Expert et Finance",
-			"country": "fr",
-			"language": "en",
-			"url": "http://www.xwiki.com/en/references/expert-et-finance"
+			"language": "fr",
+			"url": "https://xwiki.com/en/offerings/custom-solutions/extranet-and-communities"
 		}]
 	}]
 }
