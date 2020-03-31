@@ -53,7 +53,7 @@
                 "website": "https://www.openfoam.com/",
                 "category_list": ["Analytics"],
                 "source_code_download": "https://www.openfoam.com/download/",
-                "source_code_profile": "hhttps://www.openhub.net/p/openfoam/analyses/latest/languages_summary",
+                "source_code_profile": "https://www.openhub.net/p/openfoam/analyses/latest/languages_summary",
                 "commercial_support": "https://www.openfoam.com/services/software.php",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/OpenFOAM",
                 "success_case_list": []
