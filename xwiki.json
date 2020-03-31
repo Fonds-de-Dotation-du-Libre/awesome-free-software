@@ -89,6 +89,7 @@
 		"website": "https://cryptpad.fr/",
 		"category_list": ["Application"],
 		"source_code_download": "https://github.com/xwiki-labs/cryptpad/archive/master.zip",
+		"source_code_profile": "",
 		"commercial_support": "https://cryptpad.fr/features.html",
 		"success_case_list": []
         }]
