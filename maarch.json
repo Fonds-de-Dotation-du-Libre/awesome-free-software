@@ -34,7 +34,7 @@
                 "website": "http://maarchcourrier.com/",
                 "category_list": ["Application"],
                 "source_code_download": "https://labs.maarch.org/maarch/MaarchCourrier",
-                "source_code_profile": "https://www.openhub.net/p/MaarchCourrier/latest/languages_summary",
+                "source_code_profile": "https://www.openhub.net/p/MaarchCourrier/analyses/latest/languages_summary",
                 "commercial_support": "http://maarch.com/services/",
                 "wikipedia_url": "",
                 "success_case_list": [{
@@ -71,7 +71,7 @@
                 "website": "http://maarchrm.com/",
                 "category_list": ["Application"],
                 "source_code_download": "https://labs.maarch.org/maarch/maarchRM",
-                "source_code_profile": "https://www.openhub.net/p/MaarchRM/latest/languages_summary",
+                "source_code_profile": "https://www.openhub.net/p/MaarchRM/analyses/latest/languages_summary",
                 "commercial_support": "http://maarch.com/services/",
                 "wikipedia_url": "",
                 "success_case_list": []
