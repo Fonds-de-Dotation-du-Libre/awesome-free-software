@@ -34,7 +34,7 @@
                 "website": "https://chamilo.org/",
                 "category_list": ["Application"],
                 "source_code_download": "https://chamilo.org/en/download/",
-                "source_code_profile": "/analyses/latest/languages_summary",
+                "source_code_profile": "",
                 "commercial_support": "https://www.openhub.net/p/chamilo",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/Chamilo",
                 "success_case_list": []

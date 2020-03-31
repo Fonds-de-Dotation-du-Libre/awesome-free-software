@@ -44,7 +44,7 @@
                 "website": "https://www.denx.de/wiki/ELDK-5",
                 "category_list": ["Infrastructure"],
                 "source_code_download": "ftp://ftp.denx.de/pub/eldk/5.5.3/",
-                "source_code_profile": "/analyses/latest/languages_summary",
+                "source_code_profile": "",
                 "commercial_support": "http://www.denx.de/en/AboutUs/AboutDenxSE",
                 "wikipedia_url": "",
                 "success_case_list": []

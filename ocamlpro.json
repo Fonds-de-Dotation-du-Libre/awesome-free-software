@@ -58,15 +58,5 @@
                 "commercial_support": "http://www.liquidity-lang.org/",
                 "wikipedia_url": "",
                 "success_case_list": []
-        }, {
-                "title": "Liquidity",
-                "logo": "http://www.liquidity-lang.org/img/liquidity.svg",
-                "website": "http://www.liquidity-lang.org/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://github.com/OCamlPro/liquidity",
-                "source_code_profile": "",
-                "commercial_support": "http://www.liquidity-lang.org/",
-                "wikipedia_url": "",
-                "success_case_list": []
         }]
 }

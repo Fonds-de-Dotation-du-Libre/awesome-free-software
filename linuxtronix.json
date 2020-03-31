@@ -33,8 +33,8 @@
                 "logo": "https://elbe-rfs.org/images/elbe-logo-small.png",
                 "website": "https://elbe-rfs.org/",
                 "category_list": ["Infrastructure"],
-                "source_code_download": "",
-                "source_code_profile": "https://elbe-rfs.org/download/",
+                "source_code_download": "https://elbe-rfs.org/download/",
+                "source_code_profile": "",
                 "commercial_support": "https://elbe-rfs.org/support/",
                 "wikipedia_url": "",
                 "success_case_list": []

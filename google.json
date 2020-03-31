@@ -44,8 +44,8 @@
 		"category_list": ["Desktop", "Mobile"],
 		"website": "https://www.chromium.org/chromium-os",
 		"source_code_download": "git clone https://chromium.googlesource.com/chromiumos",
-		"source_code_profile": "https://www.chromium.org/chromium-os",
-		"commercial_support": "",
+		"source_code_profile": "",
+		"commercial_support": "https://www.chromium.org/chromium-os",
 		"wikipedia_url": "https://en.wikipedia.org/wiki/Chromium_OS",
 		"success_case_list": []
 	}]

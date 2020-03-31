@@ -44,8 +44,8 @@
                 "website": "https://www.cubicweb.org/",
                 "category_list": ["Application"],
                 "source_code_download": "",
-                "source_code_profile": "https://www.openhub.net/p/cubicweb",
-                "commercial_support": "https://www.openhub.net/p/cubicweb/analyses/latest/languages_summary",
+                "source_code_profile": "https://www.openhub.net/p/cubicweb/analyses/latest/languages_summary",
+                "commercial_support": "",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/CubicWeb",
                 "success_case_list": []
         }]

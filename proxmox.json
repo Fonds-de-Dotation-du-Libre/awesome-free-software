@@ -34,7 +34,7 @@
                 "website": "https://www.proxmox.com/de/proxmox-ve",
                 "category_list": ["Developer"],
                 "source_code_download": "https://www.proxmox.com/de/downloads",
-                "source_code_profile": "https://www.openhub.net/p/proxmox-ve//analyses/latest/languages_summary",
+                "source_code_profile": "https://www.openhub.net/p/proxmox-ve/analyses/latest/languages_summary",
                 "commercial_support": "https://www.proxmox.com/de/proxmox-ve/support",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment",
                 "success_case_list": [{
