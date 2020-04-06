@@ -1,0 +1,42 @@
+{
+        "title": "RhodeCode",
+        "logo": "https://rhodecode.com/static/img/rhodecode-logo-white-216x60.png",
+        "country": "de",
+        "presence": ["de","us"],
+        "website": "https://rhodecode.com/",
+        "founded_year": "2010",
+        "kpi_dict": {
+          "2018": {
+            "staff": "1",
+            "earnings": "22737",
+            "total_assets": "3661156",
+            "revenues": "",
+            "public_source": "true"
+          },
+          "2017": {
+            "staff": "1",
+            "earnings": "68587",
+            "total_assets": "3702793",
+            "revenues": "",
+            "public_source": "true"
+          },
+          "2016": {
+            "staff": "5",
+            "earnings": "720956",
+            "total_assets": "3606259",
+            "revenues": "",
+            "public_source": "true"
+          }
+        },
+        "free_software_list": [{
+                "title": "RhodeCode Community Edition",
+                "logo": "https://rhodecode.com/static/img/rhodecode-logo-white-216x60.png",
+                "website": "https://rhodecode.com/",
+                "category_list": ["Developer"],
+                "source_code_download": "https://code.rhodecode.com/rhodecode-enterprise-ce",
+                "source_code_profile": "https://www.openhub.net/p/rhodecode/analyses/latest/languages_summary",
+                "commercial_support": "https://rhodecode.com/support",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/RhodeCode",
+                "success_case_list": []
+        }]
+}
