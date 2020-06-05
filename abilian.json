@@ -1,0 +1,66 @@
+{
+  "title": "abilian",
+  "logo": "https://abilian.com/static/custom/abilian-logo.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.abilian.com/",
+  "founded_year": "2012",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Lab&Co",
+      "logo": "",
+      "website": "https://abilian.com/fr/solutions/labandco/",
+      "category_list": ["Application"],
+      "source_code_download": "https://github.com/abilian/labandco",
+      "source_code_profile": "https://www.openhub.net/p/labandco/",
+      "commercial_support": "https://abilian.com/fr/solutions/labandco/",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Retour d'expérience sur Lab&Co - un progiciel pour SI recherche",
+          "description": "Présentation du logiciel open source Lab&Co développé initialement pour les besoins de Sorbonne Université.",
+          "image": "https://speakerd.s3.amazonaws.com/presentations/391a01d3d6e54cd4ac426df9299d69fe/slide_5.jpg?15602882",
+          "industry": "Research",
+          "customer": "Sorbonne Université",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://speakerdeck.com/sfermigier/retour-d-experience-sur-lab-and-co-un-progiciel-pour-si-recherche"
+        }
+      ]
+    },
+    {
+      "title": "Abilian SBE",
+      "logo": "",
+      "website": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
+      "category_list": ["Application"],
+      "source_code_download": "https://github.com/abilian/abilian-sbe",
+      "source_code_profile": "https://www.openhub.net/p/abilian-sbe",
+      "commercial_support": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
+}
