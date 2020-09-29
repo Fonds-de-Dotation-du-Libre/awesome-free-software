@@ -1,0 +1,231 @@
+{
+        "title": "Vaadin",
+        "logo": "https://vaadin.com/images/vaadin-logo.svg",
+        "country": "fi",
+        "presence": ["fi", "de", "us"],
+        "website": "https://vaadin.com/",
+        "founded_year": "2000",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Vaadin",
+                "logo": "https://vaadin.com/images/vaadin-logo.svg",
+                "website": "https://vaadin.com/",
+                "category_list": ["Developer"],
+                "source_code_download": "https://vaadin.com/start",
+                "source_code_profile": "https://www.openhub.net/p/vaadin/analyses/latest/languages_summary",
+                "commercial_support": "https://vaadin.com/support",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Vaadin",
+                "success_case_list": [{
+            			"title": "MATE- A SaaS guest-management system successfully migrated to Vaadin 14",
+            			"description": "MATE is end-to-end SaaS guest-management software that helps companies to reduce expenditure, measure performance and gain rich insights to ensure successful and high-quality events. The previous version of MATE ran on Vaadin 8 (and GWT). To keep up with new challenges in the rapidly-changing event management space, in 2018 it was decided that MATE could benefit from a migration to the completely-rewritten Vaadin 14.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/pexels-riccardo-bresciani-301930.jpg?width=390&name=pexels-riccardo-bresciani-301930.jpg",
+            			"industry": "Web",
+            			"customer": "Mate Development GmbH",
+            			"country": "de",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/mate"
+            		},{
+            			"title": "HPD migrated their intelligent finance platform from Swing to Vaadin",
+            			"description": "HPD LendScape Platform is the “intelligent finance platform” that enables companies of any size to deliver branded, customised, working capital solutions that grow with their business and can be easily accessed by desktop and mobile devices.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/aura2-customer-dashboard.jpg?width=390&name=aura2-customer-dashboard.jpg",
+            			"industry": "Finance",
+            			"customer": "HPD Lendscape",
+            			"country": "uk",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/hpd"
+            		},{
+            			"title": "A modernization of an advanced backend system by the Norwegian Gaming Foundation",
+            			"description": "The Norwegian Gaming and Foundation Authority´s application 'Anleggsregisteret' is developed by the Norwegian Foundation and Gaming Authority on behalf of the Ministry of Culture. The application consists of a backend system used to handle the requests for subsidies and a registry of the facilities in Norway.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/lotteri-skating-rink.jpg?width=390&name=lotteri-skating-rink.jpg",
+            			"industry": "Public Administration & Government",
+            			"customer": "Lotteri- og stiftelsestilsynet",
+            			"country": "no",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/lotteristift"
+            		},{
+            			"title": "LandlordMax built a web based real-estate rental software with Vaadin 8",
+            			"description": "LandlordMax Cloud Edition is the Vaadin-powered web-based version of the Java Swing-based LandlordMax real-estate rental software. It was created using the Vaadin 8 framework over the course of 18 months and counting. The platform continues to be in production, as new features are planned and implemented continuously.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/3.%20Customer%20stories/1.%20Banner%20images/landlord-key.jpg?width=390&name=landlord-key.jpg",
+            			"industry": "Software",
+            			"customer": "LandlordMax",
+            			"country": "ca",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/landlordmax"
+            		},{
+            			"title": "Modern, web-based, realtime finance management with the FA platform",
+            			"description": "FA Platform is a modern web-based solution for investment management that enables investment managers to operate their business anytime, anywhere and on any device. The transaction-based, multi-currency platform is highly configurable for different business and regional needs",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/fa-banner.jpg?width=390&name=fa-banner.jpg",
+            			"industry": "Finance",
+            			"customer": "FA Solutions - Financial and insurance",
+            			"country": "se",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/fa-solutions"
+            		},{
+            			"title": "CGI automated routine tasks in social and health care",
+            			"description": "ITTE is a self-service solution for health and social care. The solution enhances and automates customer registration throughout the customer journey and provides information and guidance. The solution automates the routine tasks of professionals, allowing them to focus more on their core tasks. ITTE’s user-centered design ensures that up to 100% of the daily registrations can be done on kiosks or mobile devices",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/itte-health.jpg?width=390&name=itte-health.jpg",
+            			"industry": "Life Sciences",
+            			"customer": "CGI",
+            			"country": "fi",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/cgi"
+            		},{
+            			"title": "A more efficient supply-chain management software by AEB",
+            			"description": "AEB's application framework makes it easy to create cloud-based B2B software for SMEs working in supply-chain management, logistics, and global trade",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/3.%20Customer%20stories/1.%20Banner%20images/aeb-truck.jpg?width=390&name=aeb-truck.jpg",
+            			"industry": "Software",
+            			"customer": "AEB",
+            			"country": "de",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/aeb"
+            		},{
+            			"title": "A scalable and optimized Web Application Firewall built with Vaadin",
+            			"description": "USP Secure Entry Server® (USP SES) is a Web Application Firewall (WAF) that's listed in the Gartner WAF Magic Quadrant. It offers web application protection, authentication and authorization features including Single Sign On and Federation, all in one optimized and scalable product.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/usp-firewall.jpg?width=390&name=usp-firewall.jpg",
+            			"industry": "Software",
+            			"customer": "United Security Providers",
+            			"country": "ch",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/usp"
+            		},{
+            			"title": "ASF built an administrative competition lifecycle automation software",
+            			"description": "Freestyle Skating is a web platform that makes it easier for judges to manage the whole lifecycle of competitions including managing the participants, taking care of registrations, seeing the competition results, the historical data and so on. It also allows real-time publication and sharing of competition results, as well as automates other administrative processes",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/andalusian-skate.jpg?width=390&name=andalusian-skate.jpg",
+            			"industry": "Entertainment",
+            			"customer": "Andalusian Skating Federation",
+            			"country": "es",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/andalusian-skating-federation"
+            		},{
+            			"title": "Revamping the UI & UX of a highly modular business system by CGI",
+            			"description": "Rondo is a system for automating and streamlining business processes and workflows. It is a highly modular system that offers document management, contract management, eProcurement as well as management of accounts receivable and payable.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/rondo-banner.jpg?width=390&name=rondo-banner.jpg",
+            			"industry": "Software",
+            			"customer": "CGI",
+            			"country": "fi",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/cgi-rondo"
+            		},{
+            			"title": "Visual analytics solution for the aeronautical industry by PERSEO",
+            			"description": "PERSEO is an award-winning Vaadin Charts-powered application that is well-known in the Air Traffic Management (ATM) world through the projects of the SESAR programme where CRIDA/ENAIRE uses it to validate future ATM concepts.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/perseo-airplane-1.jpg?width=390&name=perseo-airplane-1.jpg",
+            			"industry": "Software",
+            			"customer": "Crida",
+            			"country": "es",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/crida"
+            		},{
+            			"title": "Namsys built a secure Vaadin powered cloud-based finance management solution",
+            			"description": "NamSys wanted to build a new set of cloud-native web applications that were responsive and secure. Following an evaluation and several proofs of concept with several frameworks including Google GWT, Sencha and Angular but found that all of them fell short in comparison to Vaadin’s technology",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/3.%20Customer%20stories/1.%20Banner%20images/cirreon-route.jpg?width=390&name=cirreon-route.jpg",
+            			"industry": "Software",
+            			"customer": "NamSys",
+            			"country": "ca",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/namsys"
+            		},{
+            			"title": "Kemconnect simplified a chemical data collection platform with Vaadin",
+            			"description": "KemConnect is a platform for collecting, viewing and analyzing customer data from multiple sources in the chemicals industry. The application is a highly configurable, extensible and it's easy to use by any non-technical users.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/chemistry.jpg?width=390&name=chemistry.jpg",
+            			"industry": "Software",
+            			"customer": "Kemira",
+            			"country": "fi",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/kemconnect"
+            		},{
+            			"title": "AXPM making dental practices UX first with Vaadin's support",
+            			"description": "AXPM one is a lightweight and powerful office solution that helps Dental and Dental specialty practices run their entire business from revenue to property and customer data inside one system. Test.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/healthcare2.jpg?width=390&name=healthcare2.jpg",
+            			"industry": "Software",
+            			"customer": "Greyfinch",
+            			"country": "us",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/axpm"
+            		},{
+            			"title": "Vaadin 6 to Vaadin 12 migration of a healthcare & business CRM",
+            			"description": "ARA is a healthcare and business CRM application that diagnostics provider Unilabs Portugal has been developing since 2006. The system has been built on an extensive tech stack with Vaadin 6, and later Vaadin 12, as the primary tool for creating the UI. The system is serving two thousand end-users serving two million patients in more than 900 points of care.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/healthcare.jpg?width=390&name=healthcare.jpg",
+            			"industry": "Life Sciences",
+            			"customer": "Unilabs",
+            			"country": "ch",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/unilabs"
+            		},{
+            			"title": "Vaadin helped Rockwell to migrate their software gradually with MPR",
+            			"description": "The Modular Application Framework integrates Industrial Internet of Things (Iiot) into Manufacturing Operations Management (MOM) applications that are used by Rockwell Automation's customers, including some of the biggest multinationals in the world. Initially based on Vaadin 7, the application has been migrated gradually to Vaadin 10+ using MPR, in a way that did not disrupt operations and did not require additional certifications",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/industrial.jpg?width=390&name=industrial.jpg",
+            			"industry": "Energy",
+            			"customer": "Rockwell Automation",
+            			"country": "us",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/rockwell-automation"
+            		},{
+            			"title": "Flowfact made a public real-estate management software with Vaadin",
+            			"description": "FLOWFACT mobile is a public webapp in addition to the two main software products of the FLOWFACT AG that it provides to its customers - firstly, there is FLOWFACT Performer CRM as real estate CRM Software and in addition direct hAPPy as real estate sales software with CRM approach",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/real-estate1.jpg?width=390&name=real-estate1.jpg",
+            			"industry": "Software",
+            			"customer": "FlowFact",
+            			"country": "de",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/flowfact-mobile"
+            		},{
+            			"title": "Assetti built an evolving property asset management platform",
+            			"description": "Assetti is an online Property Asset Management software. The software provides an instant insight into a user's portfolio property assets and rent roll, capturing all fundamental information about the user's commercial real estate, accessing and sharing it anywhere, anytime. Assetti is using Enterprise Java with a Rest API and relational as well as NoSQL backends for their cloud based application. Vaadin Charts is being used for reporting purposes. A Vaadin Specialist helped them with the overall architecture and UI styling. For them, the biggest benefit in using Vaadin is the fact that Vaadin gives them a strong, evolving platform to build on. They found some components available in Vaadin Directory that were suitable for their needs.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/house.jpg?width=390&name=house.jpg",
+            			"industry": "Software",
+            			"customer": "Assetti",
+            			"country": "it",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/assetti"
+            		},{
+            			"title": "An open-source Business Process Management platform by Activity",
+            			"description": "Make Business Process Management (BPM) ubiquitous by offering solutions that both business people and developers love. Activiti is an open-source light-weight workflow and Business Process Management (BPM) Platform.",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/activity-usage.jpg?width=390&name=activity-usage.jpg",
+            			"industry": "Software",
+            			"customer": "Activiti",
+            			"country": "fr",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/activiti-explorer"
+            		},{
+            			"title": "Managing accounting quicker and easier with Pymlo",
+            			"description": "Pymlo Cloud Accounting is an accounting platform that is built on top of Vaadin. Pymlo is the first accounting software in Southeast Asia to comply with the taxation and regulations in multiple countries in Southeast Asia, such as Singapore, Thailand, Hong Kong and Taiwan. In these countries, the application allows international transactions with multiple currencies and major Asian languages, such as English, Chinese and Thai, and facilitates businesses while keeping your accounting data connected to another software of your choice",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/3.%20Customer%20stories/1.%20Banner%20images/pymlo-banner.jpg?width=390&name=pymlo-banner.jpg",
+            			"industry": "Software",
+            			"customer": "Pymlo",
+            			"country": "lu",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/pymlo-cloud-accounting"
+            		},{
+            			"title": "Procountor made a UX first accounting software with Vaadin",
+            			"description": "Procountor is a user-friendly financial management software. The cloud-based software has been developed to meet the financial management needs of SMEs from the preparation of sales invoices and dispatch to the ledger, receiving, recycling and payment of purchased invoices. It also includes payroll management, travel and expense claims, reporting, accounting and much more. Procountor is the leading Finnish financial management software",
+            			"image": "https://success-stories.vaadin.com/hs-fs/hubfs/finance2.jpg?width=390&name=finance2.jpg",
+            			"industry": "Software",
+            			"customer": "Procountor",
+            			"country": "fi",
+            			"language": "en",
+            			"url": "https://vaadin.com/customer-stories/procountor"
+            		}]
+        }]
+}
