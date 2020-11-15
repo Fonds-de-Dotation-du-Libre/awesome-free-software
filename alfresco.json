@@ -56,5 +56,15 @@
                         "language": "en",
                         "url": "https://www.alfresco.com/customers/phenopath-laboratories"
                 }]
+        }, {
+                "title": "Actviti",
+                "logo": "https://www.activiti.org/apple-touch-icon.png",
+                "website": "https://www.activiti.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.activiti.org/before-you-start",
+                "source_code_profile": "https://www.openhub.net/p/activiti/analyses/latest/languages_summary",
+                "commercial_support": "https://www.alfresco.com/bpm-software?m=&mutm_source=activiti&utm_medium=web",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Activiti_(software)",
+                "success_case_list": []
         }]
 }

@@ -1,51 +1,71 @@
 {
-  "title": "Vates",
+	"title": "Vates",
 	"logo": "https://vates.fr/img/bg-img/logovates2.png",
 	"country": "fr",
 	"presence": ["fr"],
 	"website": "https://vates.fr/",
 	"founded_year": "2012",
 	"kpi_dict": {
-    "2018": {
-      "staff": "",
-      "earnings": "",
-      "total_assets": "",
-      "revenues": "",
-      "public_source": ""
-    },
-    "2017": {
-      "staff": "",
-      "earnings": "",
-      "total_assets": "",
-      "revenues": "",
-      "public_source": ""
-    },
-    "2016": {
-      "staff": "",
-      "earnings": "",
-      "total_assets": "",
-      "revenues": "",
-      "public_source": ""
-    }
-  },
+		"2018": {
+			"staff": "16",
+			"earnings": "",
+			"total_assets": "",
+			"revenues": "",
+			"public_source": ""
+		},
+		"2017": {
+			"staff": "",
+			"earnings": "",
+			"total_assets": "",
+			"revenues": "",
+			"public_source": ""
+		},
+		"2016": {
+			"staff": "",
+			"earnings": "",
+			"total_assets": "",
+			"revenues": "",
+			"public_source": ""
+		}
+	},
 	"free_software_list": [{
-		"title": "XCP-ng",
-		"logo": "https://xcp-ng.org/assets/img/smalllogo.png",
-		"website": "https://xcp-ng.org/",
-		"category_list": ["Infrastructure"],
-		"source_code_download": "https://xcp-ng.org/#easy-to-install",
-		"source_code_profile": "",
-		"commercial_support": "https://xcp-ng.com/service.html",
-		"wikipedia_url": "",
-		"success_case_list": [{
-			"title": "XCP-ng at Vates",
-			"description": "we'll see how XCP-ng is used at Vates. And we'll use a very recent example as we just moved from server rental at various places to a colo/rack unit to colocate our own machines.",
-			"image": "https://xcp-ng.org/blog/content/images/2020/06/dcheader2.jpg",
-			"industry": "Telecommunication",
-			"customer": "Vates",
-			"country": "fr",
-			"language": "en",
-			"url": "https://xcp-ng.org/blog/2020/08/13/xcp-ng-at-vates/"
-		}]
-	}]
-}
+			"title": "XCP-ng",
+			"logo": "https://xcp-ng.org/assets/img/smalllogo.png",
+			"website": "https://xcp-ng.org/",
+			"category_list": ["Infrastructure"],
+			"source_code_download": "https://xcp-ng.org/#easy-to-install",
+			"source_code_profile": "",
+			"commercial_support": "https://xcp-ng.com/service.html",
+			"wikipedia_url": "",
+			"success_case_list": [{
+				"title": "XCP-ng at Vates",
+				"description": "we'll see how XCP-ng is used at Vates. And we'll use a very recent example as we just moved from server rental at various places to a colo/rack unit to colocate our own machines.",
+				"image": "https://xcp-ng.org/blog/content/images/2020/06/dcheader2.jpg",
+				"industry": "Telecommunication",
+				"customer": "Vates",
+				"country": "fr",
+				"language": "en",
+				"url": "https://xcp-ng.org/blog/2020/08/13/xcp-ng-at-vates/"
+			}]
+		}, {
+			"title": "Xen Orchestra",
+			"logo": "https://xen-orchestra.com/assets/logo.png",
+			"website": "https://xen-orchestra.com",
+			"category_list": ["Infrastructure"],
+			"source_code_download": "http://github.com/vatesfr/xen-orchestra",
+			"source_code_profile": "https://www.openhub.net/p/xen-orchestra/analyses/latest/languages_summary",
+			"commercial_support": "https://xen-orchestra.com/#!/xo-pricing",
+			"wikipedia_url": "",
+			"success_case_list": [{
+				"title": "Xen Orchestra at Optanex",
+				"description": "We'll see how XCP-ng is used at Vates. And we'll use a very recent example as we just moved from server rental at various places to a colo/rack unit to colocate our own machines.",
+				"image": "https://xen-orchestra.com/blog/content/images/2018/10/home-1.svg",
+				"industry": "Telecommunication",
+				"customer": "Optanex",
+				"country": "fr",
+				"language": "en",
+				"url": "https://xen-orchestra.com/blog/xoa-at-optanex-a-case-study/"
+
+				}]
+			}]
+	}

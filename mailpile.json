@@ -1,0 +1,42 @@
+{
+        "title": "Mailpile Developers",
+        "logo": "https://www.mailpile.is/img/mailpile-logo.png",
+        "country": "is",
+        "presence": ["is"],
+        "website": "https://www.mailpile.is/",
+        "founded_year": "2011",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Mailpile",
+                "logo": "https://www.mailpile.is/img/mailpile-logo.png",
+                "website": "https://www.mailpile.is/",
+                "category_list": ["Communication"],
+                "source_code_download": "https://www.mailpile.is/download/",
+                "source_code_profile": "https://www.openhub.net/p/mailpile/analyses/latest/languages_summary",
+                "commercial_support": "https://community.mailpile.is/categories",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Mailpile",
+                "success_case_list": []
+        }]
+}

@@ -1,0 +1,42 @@
+{
+        "title": "Lighttpd Community",
+        "logo": "https://www.lighttpd.net/light_logo_170px.png",
+        "country": "de",
+        "presence": ["de"],
+        "website": "https://www.lighttpd.net/",
+        "founded_year": "2003",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Lighttpd",
+                "logo": "https://www.lighttpd.net/light_logo_170px.png",
+                "website": "https://www.lighttpd.net/",
+                "category_list": ["Infrastructure"],
+                "source_code_download": "https://www.lighttpd.net/download/",
+                "source_code_profile": "https://www.openhub.net/p/lighttpd/analyses/latest/languages_summary",
+                "commercial_support": "https://redmine.lighttpd.net/projects/lighttpd/boards/2",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Lighttpd",
+                "success_case_list": []
+        }]
+}

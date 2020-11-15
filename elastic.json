@@ -1,8 +1,8 @@
 {
-        "title": "Elasticsearch",
+        "title": "Elastic",
         "logo": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt953f74da22884857/5d02ca0a4234d7fc42c505bf/elastic-logo-reverse.svg",
         "country": "nl",
-        "presence": ["nl"],
+        "presence": ["nl", "us", "cn"],
         "website": "https://www.elastic.co/",
         "founded_year": "2012",
         "kpi_dict": {

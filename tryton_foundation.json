@@ -1,0 +1,150 @@
+{
+        "title": "Tryton Foundation",
+        "logo": "",
+        "country": "be",
+        "presence": ["be", "fr", "es", "co", "de", "ar", "au", "br", "in", "mx", "ch"],
+        "website": "",
+        "founded_year": "https://tiddlywiki.com/",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Tryton",
+                "logo": "https://cdn.tryton.org/static/images/tryton-black.png?t=1540033205",
+                "website": "https://www.tryton.org/",
+                "category_list": ["Appliation"],
+                "source_code_download": "http://www.tryton.org/download",
+                "source_code_profile": "https://www.openhub.net/p/tryton/analyses/latest/languages_summary",
+                "commercial_support": "http://www.tryton.org/service-providers",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Tryton",
+                "success_case_list": [{
+                        "title": "Ascensors Jordà",
+                        "description": "Installs and maintains lifts and elevators.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/jorda.jpg",
+                        "industry": "Appliances",
+                        "customer": "Acensors Jordà",
+                        "country": "es",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/jorda"
+                },{
+                        "title": "Felber AG",
+                        "description": "A stamp and signalisation company.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/felber.jpg",
+                        "industry": "Manufacturing",
+                        "customer": "Felber AG",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/felber"
+                },{
+                        "title": "Camir",
+                        "description": "A provider of spare parts for machinery.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/camir.jpg",
+                        "industry": "Manufacturing",
+                        "customer": "Representaciones Camir eirl",
+                        "country": "PE",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/camir"
+                },{
+                        "title": "ALS Swiss",
+                        "description": "A society for people suffering ALS disease.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/als-swiss.jpg",
+                        "industry": "Non Governmental Organisation",
+                        "customer": "ALS Swiss",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/als-swiss"
+                },{
+                        "title": "GotSHO Ltd",
+                        "description": "Software Solution for genomic world",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/gotsho-lims.jpg",
+                        "industry": "Software",
+                        "customer": "GotSHO Ltd",
+                        "country": "ir",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/gotsho-lims"
+                },{
+                        "title": "Expertise Vision SA",
+                        "description": "Produces vision based systems.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/expertise-vision.jpg",
+                        "industry": "Manufacturing",
+                        "customer": "Expertise Vision SA",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/expertise-vision"
+                },{
+                        "title": "Legna Communicación Visual SRL",
+                        "description": "Graphic design, digital printing and offset solution company",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/legna.jpg",
+                        "industry": "Media",
+                        "customer": "Legna Communicación Visual SRL",
+                        "country": "dr",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/legna"
+                },{
+                        "title": "Koolvet",
+                        "description": "Software for veterinary clinics that deal with small domestic pets and larger farm animals",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/koolvet.jpg",
+                        "industry": "Software",
+                        "customer": "Koolvet",
+                        "country": "es",
+                        "language": "en",
+                        "url": "Graphic design, digital printing and offset solution company"
+                },{
+                        "title": "Femeba",
+                        "description": "A Medical Mutual Society from Buenos Aires.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/ammeba.jpg?t=1540033205",
+                        "industry": "Insurance",
+                        "customer": "Femeba",
+                        "country": "ar",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/ammeba"
+                },{
+                        "title": "Blue Box Distribution",
+                        "description": "An international distributor of hair care products.",
+                        "image": "http://www.tryton.org/success-stories/blue-box-distribution",
+                        "industry": "Commerce",
+                        "customer": "Blue Box Distribution",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/blue-box-distribution"
+                },{
+                        "title": "Grufesa SAT",
+                        "description": "Exports strawberries in Europe.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/grufesa.jpg?t=1540033205",
+                        "industry": "Agriculture",
+                        "customer": "Grufesa SAT",
+                        "country": "es",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/grufesa"
+                },{
+                        "title": "Revelle",
+                        "description": "Consulting in developing countries and emerging economies.",
+                        "image": "https://cdn.tryton.org/static/images/success-stories/revelle.jpg?t=1540033205",
+                        "industry": "Consulting",
+                        "customer": "Revelle",
+                        "country": "be",
+                        "language": "en",
+                        "url": "http://www.tryton.org/success-stories/revelle"
+                }]
+        }]
+}

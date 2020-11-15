@@ -57,5 +57,15 @@
                         "language": "en",
                         "url": "https://ubuntu.com/blog/an-ubuntu-pc-for-everyone-in-penn-manor-school-district-pennsylvania-usa"
                 }]
+        }, {
+                "title": "Linuxcontainers LXC",
+                "logo": "https://linuxcontainers.org/static/img/containers.png",
+                "website": "https://linuxcontainers.org/",
+                "category_list": ["Infrastructure"],
+                "source_code_download": "https://linuxcontainers.org/lxc/downloads/",
+                "source_code_profile": "https://www.openhub.net/p/lxc/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/LXC",
+                "success_case_list": []
         }]
 }

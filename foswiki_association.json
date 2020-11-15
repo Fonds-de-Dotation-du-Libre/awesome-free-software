@@ -1,0 +1,42 @@
+{
+        "title": "Foswiki Association e.v.",
+        "logo": "https://foswiki.org/pub/System/ProjectLogos/foswiki-logo.png",
+        "country": "de",
+        "presence": ["de"],
+        "website": "https://foswiki.org/",
+        "founded_year": "2008",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Foswiki",
+                "logo": "https://foswiki.org/pub/System/ProjectLogos/foswiki-logo.png",
+                "website": "https://foswiki.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://foswiki.org/Download/FoswikiRelease02x01x06",
+                "source_code_profile": "https://www.openhub.net/p/Foswiki/analyses/latest/languages_summary",
+                "commercial_support": "https://foswiki.org/Support/WebHome",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Foswiki",
+                "success_case_list": []
+        }]
+}

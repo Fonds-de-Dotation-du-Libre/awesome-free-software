@@ -38,6 +38,16 @@
                 "commercial_support": "",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/PySide",
                 "success_case_list": []
+        },{
+                "title": "QT Creator",
+                "logo": "https://cdn2.hubspot.net/hubfs/149513/Qt2017TemporaryImagesWebsite/qt_logo_with_text_green_rgb.png",
+                "website": "https://www.qt.io/",
+                "category_list": ["Developer"],
+                "source_code_download": "https://download.qt.io/official_releases/qtcreator/",
+                "source_code_profile": "https://www.openhub.net/p/qt-creator/analyses/latest/languages_summary",
+                "commercial_support": "https://www.qt.io/find-a-qt-advisor/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Qt_Creator",
+                "success_case_list": []
         }, {
                 "title": "QT",
                 "logo": "https://cdn2.hubspot.net/hubfs/149513/Qt2017TemporaryImagesWebsite/qt_logo_with_text_green_rgb.png",

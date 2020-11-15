@@ -1,0 +1,42 @@
+{
+        "title": "Adminer Developers",
+        "logo": "https://www.adminer.org/static/images/logo.png",
+        "country": "cz",
+        "presence": ["cz", "de", "at", "sk"],
+        "website": "https://www.adminer.org/",
+        "founded_year": "2007",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Adminer",
+                "logo": "https://www.adminer.org/static/images/logo.png",
+                "website": "https://www.adminer.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.adminer.org/#download",
+                "source_code_profile": "https://www.openhub.net/p/adminer/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Adminer",
+                "success_case_list": []
+        }]
+}

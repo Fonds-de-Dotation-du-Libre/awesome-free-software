@@ -1,0 +1,339 @@
+{
+        "title": "Bacula Systems",
+        "logo": "https://www.baculasystems.com/wp-content/themes/sc-Bacula/img/logo.svg",
+        "country": "ch",
+        "presence": ["ch", "us", "ca"],
+        "website": "https://www.baculasystems.com/",
+        "founded_year": "2008",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Bacula",
+                "logo": "https://blog.bacula.org/wp-content/uploads/2018/10/logo_bacula11.png",
+                "website": "https://www.bacula.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.bacula.org/source-download-center/",
+                "source_code_profile": "https://www.openhub.net/p/bacula/analyses/latest/languages_summary",
+                "commercial_support": "https://www.bacula.org/support/professional-support/",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Bacula",
+                "success_case_list": [{
+                        "title": "NASA Chooses Bacula Enterprise to Back Up IBM HPSS",
+                        "description": "Of those evaluated, Bacula Enterprise was the only product that worked with HPSS out -of-the-box without vendor development, provided multi-user access (BWeb), had encryption compliant with Federal Information Processing Standards, did not have a capacity-based licensing model, and was available within budget...",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/shuttle_2.png",
+                        "industry": "Aerospace",
+                        "customer": "NASA",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/nasa-chooses-bacula-enterprise-to-back-up-ibm-hpss/"
+                },{
+                        "title": "Turner Studios Relies on Bacula Enterprise Edition",
+                        "description": "As a rule, the other backup systems we looked at were too complex. They had too much of what we didn’t need, and not enough of what we did need. This problem became worse when we looked at their pricing model",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/Turner_logo.png",
+                        "industry": "Entertainment",
+                        "customer": "Turner Studios",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/turner-studios-relies-on-bacula-enterprise-edition/"
+                },{
+                        "title": "Swisscom",
+                        "description": "Swisscom IT Services is one of Switzerland’s leading IT service providers. Its core business encompasses the realisation of large IT projects (including consultancy and the implementation of new systems), the management of complex IT infrastructures, end-user services and service desk services.",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/swisscom-logo-300x283.jpg",
+                        "industry": "Telecommunication",
+                        "customer": "Swisscom",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/swisscom/"
+                },{
+                        "title": "Sky plc Relies on Bacula Backup and Data Recovery",
+                        "description": "With Bacula Enterprise Edition, I get a great virtual and physical backup solution in one, plus fast restore ability in an environment where uptime is paramount. The modularity of this solution is highly appreciated for the flexibility it brings us",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2015/07/sky1.png",
+                        "industry": "Entertainment",
+                        "customer": "Sky",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/sky-2/"
+                },{
+                        "title": "University of Ulm Rely on Bacula Systems",
+                        "description": "Bacula System’s straightforward licensing model, where we are not charged by data volume or hardware, means that the licensing auditing and planning is now much easier to handle. We know that costs from Bacula Systems will remain flat, regardless of how much our data volume grows or how often we need to replace our servers by more powerful ones. That’s really liberating.",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/ulm_crop.gif",
+                        "industry": "Education",
+                        "customer": "University of Ulm",
+                        "country": "de",
+                        "language": ["de", "en"],
+                        "url": "https://www.baculasystems.com/customers/success-stories/university-of-ulm-rely-on-bacula-systems/"
+                },{
+                        "title": "Bank of Austria",
+                        "description": "Bacula has enabled us to increase the reliability of our mission-critical backup environment, while reducing costs by a factor of ten. Bacula Systems support is outstanding",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/bank_austria-original_medium.png",
+                        "industry": "Finance",
+                        "customer": "Bank of Austria",
+                        "country": "at",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/bankaustria/"
+                },{
+                        "title": "TriCore Solutions Relies on Bacula Systems",
+                        "description": "We were surprised at Bacula’s fast restore speeds, when we first did the testing. We were restoring groups of files in only one minute, where it used to take thirty minutes or an hour with the previous solution. We back up enormous amounts of data – and it goes really quickly; in just a few hours. Bacula’s compression is also really helpful, because it reduces network overhead. In addition, deduplication is saving us 60 to 80 TB of space",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/Tricore_Solutions_Logo.png",
+                        "industry": "Software",
+                        "customer": "Tricore Solutions",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/tricore-solutions-relies-on-bacula-systems/"
+                },{
+                        "title": "Caixa Geral de Depositos Changes to Bacula",
+                        "description": "By restructuring hardware and software, we are saving around € 200K per year – and we expect to maintain that going forwards. Because it is easier to control the number of machines youdeploy, rather than the amount of data you acquire, we are in a stronger position to control and forecast costs. Bacula has removed those kind of constraints for us. Changing to Bacula Enterprise Edition has had a positive impact on our IT department, significantly helping to make it more efficient and effective",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/Caix_l.jpg",
+                        "industry": "Finance",
+                        "customer": "Caixa Geral de Depositos",
+                        "country": "pt",
+                        "language": ["en","pt"],
+                        "url": "https://www.baculasystems.com/customers/success-stories/caixa-geral-de-depositos-change-to-bacula/"
+                },{
+                        "title": "DPD Ireland",
+                        "description": "When we changed to Bacula Enterprise, we realized just how good it was",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2020/05/dpd-logo.png",
+                        "industry": "Transport",
+                        "customer": "DPD Irland",
+                        "country": "ir",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/dpd-ireland/"
+                },{
+                        "title": "BGW Group",
+                        "description": "Moving to Bacula Enterprise and employing its VMware backup capabilities significantly reduced our backup window. In fact, using Bacula Enterprise meant that our backup window was cut by more than half",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2020/05/BGWG_log_160.jpg",
+                        "industry": "Software",
+                        "customer": "BGW Group",
+                        "country": "au",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/bgw-group/"
+                },{
+                        "title": "Outfittery",
+                        "description": "I can recommend Bacula Enterprise Edition to companies that need a highly reliable, scalable and fully featured data backup and recovery system. Using Bacula is in line with our company philosophy of using modern, efficient and effective IT solutions that make OUTFITTERY as competitive and responsible as possible",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/outfittery_logo.png",
+                        "industry": "Retail",
+                        "customer": "Outfittery",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/outfittery-selects-bacula-enterprise-edition/"
+                },{
+                        "title": "4Com Evaluates Major Vendors and Chooses Bacula Enterprise Edition",
+                        "description": "The most important part for us is that Bacula Enterprise Edition is so reliable, and that is also works well with Puppet for rapid installation onto our Linux servers. This means that there is practically nothing we need to do when we install Bacula onto new servers – it just takes one click",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/4Com_logo.jpg",
+                        "industry": "Software",
+                        "customer": "4COM",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/4com-evaluates-major-vendors-and-chooses-bacula-enterprise-edition/"
+                },{
+                        "title": "CINES Chooses Bacula Enterprise Edition",
+                        "description": "We chose Bacula for the clarity of cost and the simplicity of its business model. Bacula offers similar or better solutions up to 25 times cheaper than that of other competitors",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/CINES_logo.png",
+                        "industry": "Education",
+                        "customer": "CINES",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/cines-chooses-bacula-enterprise-edition/"
+                },{
+                        "title": "SDV Relies on Bacula Data Recovery",
+                        "description": "Bacula Systems Professional Services has allowed us to make the transition from proprietary backup software, and escape vendor lock-in. Its backup solution is safe, dependable, and delivers high performance. Bacula Systems support services are very high quality",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/sdv_transparent_small.png",
+                        "industry": "Entertainment",
+                        "customer": "SDV Plurimedia",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/sdv/"
+                },{
+                        "title": "Texas A&M University",
+                        "description": "Bacula Enterprise Edition is reliable and it does the job well. It saves us time. It is easy to troubleshoot, and see what’s going on. And its low price really helps! One thing is clear: since using Bacula, the amount of time we have to spend taking care of backup and restore has been cut by almost 60%. That means we are more often free to do other meaningful things that contribute to the department",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/TAM-Stack_redu.png",
+                        "industry": "Education",
+                        "customer": "Texas A&M University",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/texas-am-university/"
+                },{
+                        "title": "Armazem Paraiba Protects Itself with Bacula Systems",
+                        "description": "Bacula Enterprise Edition is so stable and reliable that we would not want to use anything else",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/armazem_paraiba_logo.gif.png",
+                        "industry": "Retail",
+                        "customer": "Armazem Paraiba",
+                        "country": "br",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/armazem-paraiba-protects-itself-with-bacula-systems/"
+                },{
+                        "title": "Leibniz University Hannover",
+                        "description": "Bacula Enterprise Edition was the only backup software – of all the products we surveyed – that was capable of client authentication on all operating systems",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/05/Leibniz-Universit%C3%A4t_Hannover1.png",
+                        "industry": "Education",
+                        "customer": "Leibniz University Hannover",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/leibniz-universitat-hannover/"
+                },{
+                        "title": "VINCI Concessions Chooses Bacula Enterprise",
+                        "description": "You know, when you have 2 TB of data to backup and after 1.8 TB of backup it fails for some reason, then with Bacula you do not have to start over. That is a life saver! Frankly, it is a feature that every backup solution should have",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/02/V_logo_s.png",
+                        "industry": "Retail",
+                        "customer": "VINCI",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/vinci-concessions-chooses-bacula-enterprise/"
+                },{
+                        "title": "IDS Benefits from Bacula Enterprise Edition",
+                        "description": "Regarding pricing, one of the things I like about Bacula is that its license model is really fair. It is based on how many machines you have and the actual amount of data that needs to be backed up is not relevant, so it is completely unlimited. You just choose the subscription level that is appropriate for you, and we found it to be a really good deal",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/ids_logo.png",
+                        "industry": "Education",
+                        "customer": "IDS",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/ids-benefits-from-bacula-enterprise-edition/"
+                },{
+                        "title": "Cecurity.com Choose Advanced Backup and Restore Solution",
+                        "description": "Bacula Systems’ Progressive Virtual Full technology is really impressive. It saves us a lot of time and money. Using it together with Bacula’s Global Endpoint Deduplication, we save even more!",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/Cecurity_s.jpg",
+                        "industry": "Software",
+                        "customer": "Cecurity.com",
+                        "country": "fr",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/cecurity-com/"
+                },{
+                        "title": "Polfa Warszawa",
+                        "description": "Inteos Sp. z o.o. and Bacula Systems provided us with state of the art backup and restore technology at a fraction of the cost of other solutions",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/polfa_warszawa_m.jpg",
+                        "industry": "Life Science",
+                        "customer": "Polfa Warszawa",
+                        "country": "pl",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/polfawarszawa/"
+                },{
+                        "title": "Locaweb",
+                        "description": "Bacula Systems offered us a robust and cost efficient backup solution that we find is really solid and reliable. As a result, we use it throughout our entire data center",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/Locaweb.png",
+                        "industry": "Telecommunication",
+                        "customer": "Locaweb",
+                        "country": "br",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/locaweb/"
+                },{
+                        "title": "Mittweida University Exploits Bacula’s Exchange Backup Performance",
+                        "description": "Bacula Enterprise Edition gives us instant visibility into our Exchange backups along with the ability to recover single mailboxes really quickly. We could not find any other vendor that can do this so well",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/hm_logo_s.png",
+                        "industry": "Education",
+                        "customer": "Mittweida University",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/mittweida-university-exploits-baculas-exchange-backup-performance/"
+                },{
+                        "title": "WBSgo",
+                        "description": "Integrating Bacula Enterprise Edition has enabled us to ensure optimal TCO for our management platform and WBSAirback Backup Storage®. The scalability, versatility and flexibility of the Bacula Systems platform, together with Bacula System’s excellent service support, allows WBSgo® to implement WBSAirback with a large range of customers from different sectors and into different technological environments",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/11/logo-1.png",
+                        "industry": "Software",
+                        "customer": "WBSgo",
+                        "country": "es",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/wbsgo/"
+                },{
+                        "title": "Bedford/St. Martin’s",
+                        "description": "What I especially like about Bacula Enterprise Edition is that it is extremely reliable. Even if there is a problem, it is really easy to figure out what the problem is. Your support guys have been wonderful",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/books_medium.png",
+                        "industry": "Entertainment",
+                        "customer": "Bedford/St. Martin’s",
+                        "country": "us",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/bedfordst-martins/"
+                },{
+                        "title": "AUSL Romagna Relies on Bacula Backup and Data Recovery",
+                        "description": "Deploying Bacula Enterprise Edition was very fast: initial planning through deployment took just one month. Our previous solution – HP Data Protector – had taken about 6 months. Bacula Enterprise Edition allows us to perform incremental, differential and delta backups every day and only a full backup once a month. In addition, it is much easier to control the backup – you simply have to check your e-mail!",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/logo_AUSLRomagna_s.jpg",
+                        "industry": "Public Administration & Government",
+                        "customer": "AUSL Romagna",
+                        "country": "it",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/azienda-unita-sanitaria-locale-di-rimini/"
+                },{
+                        "title": "UKfast Relies on Bacula Backup and Data Recovery",
+                        "description": "With Bacula’s solution, we experienced a significant turnaround in reliability. Thanks to its advanced architecture, Bacula has provided us with the ability to offer advanced services to all our clients",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/ukfast_logo_small.gif",
+                        "industry": "Telecommunication",
+                        "customer": "UKFast",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/ukfast/"
+                },{
+                        "title": "Simlog Chooses Bacula Enterprise Edition For Single File Restore",
+                        "description": "Configlogo_simloguring Bacula is great, because it helps you make decisions on how you want to protect your data. It presents you with options that make you think ‘Yes – that would be a nice thing to do within our backup strategy",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/logo_simlog.jpg",
+                        "industry": "Software",
+                        "customer": "Simlog",
+                        "country": "ca",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/simlog-chooses-bacula-enterprise-edition-for-single-file-restore/"
+                },{
+                        "title": "Datacom Exploits Versatility of Bacula Enterprise Edition",
+                        "description": "Through the implementation of Bacula, we have seen how simple it is to administer a backup system",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2019/01/logo_med_datac.png",
+                        "industry": "Telecommunication",
+                        "customer": "Datacom",
+                        "country": "br",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/11985-2/"
+                },{
+                        "title": "autoVHC",
+                        "description": "We rely on Bacula Systems to help us, as part of our disaster recovery solution, to protect our customers and our business-critical information",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/autovhc-300x88.gif",
+                        "industry": "Automotive",
+                        "customer": "autoVHC",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/autovhc/"
+                },{
+                        "title": "IDS Management Rely on Bacula Backup and Data Recovery",
+                        "description": "Bacula Enterprise Edition is the ideal enterprise backup solution. It is fast, streamlined, and a perfectly organized product for what it does. It works very well – it just runs quietly in the background. What more could I want?",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/ids_logo-01.png",
+                        "industry": "Finance",
+                        "customer": "IDS Management",
+                        "country": "ca",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/ids-management/"
+                },{
+                        "title": "Mercy Ships",
+                        "description": "We needed a backup solution that was solid and dependable, together with a ongoing support commitment that was responsive, effective, and deeply knowledgeable”. Bacula Systems provided us with exactly that.»",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2018/12/mercyships_logotop_small.gif",
+                        "industry": "NGO/Non Governmental Organisation",
+                        "customer": "Mercy Ships",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/mercyships/"
+                },{
+                        "title": "Queen’s University School of Computing",
+                        "description": "With Bacula Enterprise, we found a solution where we have confidence that the product would adapt and evolve over time. We plan to use Bacula for at minimum 10 years",
+                        "image": "https://www.baculasystems.com/wp-content/uploads/2020/06/logo_queens.png",
+                        "industry": "Education",
+                        "customer": "Queen’s University School of Computing",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://www.baculasystems.com/customers/success-stories/queens-university-school-of-computing/"
+                }]
+        }]
+}

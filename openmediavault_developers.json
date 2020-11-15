@@ -1,10 +1,10 @@
 {
-        "title": "OpenQRM",
-        "logo": "https://openqrm-enterprise.com/images/logo-OQE_color_s.jpg",
+        "title": "OpenMediaVault Developers",
+        "logo": "https://www.openmediavault.org/wp-content/uploads/2016/09/header_logo3.png",
         "country": "de",
-        "presence": ["de", "au"],
-        "website": "https://openqrm-enterprise.com/",
-        "founded_year": "2004",
+        "presence": ["de"],
+        "website": "https://www.openmediavault.org/",
+        "founded_year": "",
         "kpi_dict": {
           "2018": {
             "staff": "",
@@ -29,14 +29,14 @@
           }
         },
         "free_software_list": [{
-                "title": "OpenQRM Community Edition",
-                "logo": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
-                "website": "https://openqrm-enterprise.com/products/community-edition",
+                "title": "OpenMediaVault",
+                "logo": "https://www.openmediavault.org/wp-content/uploads/2016/09/header_logo3.png",
+                "website": "https://www.openmediavault.org/",
                 "category_list": ["Infrastructure"],
-                "source_code_download": "https://openqrm-enterprise.com/registration-form",
-                "source_code_profile": "https://www.openhub.net/p/openqrm/analyses/latest/languages_summary",
+                "source_code_download": "https://www.openmediavault.org/download.html",
+                "source_code_profile": "https://www.openhub.net/p/openmediavault/analyses/latest/languages_summary",
                 "commercial_support": "",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/OpenQRM",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/OpenMediaVault",
                 "success_case_list": []
         }]
 }

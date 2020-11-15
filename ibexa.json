@@ -1,5 +1,5 @@
 {
-        "title": "eZ Systems",
+        "title": "ibexa",
         "logo": "https://ez.no/bundles/eznodesign/images/logo-ez.svg",
         "country": "no",
         "presence": ["de", "jp", "pl", "us", "no", "fi", "fr"],
@@ -29,7 +29,7 @@
           }
         },
         "free_software_list": [{
-                "title": "ez platform",
+                "title": "ez platform dxp",
                 "logo": "https://ez.no/bundles/eznodesign/images/logo-ez.svg",
                 "website": "https://ezplatform.com/",
                 "category_list": ["Application"],

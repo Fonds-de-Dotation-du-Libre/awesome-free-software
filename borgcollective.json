@@ -1,0 +1,42 @@
+{
+        "title": "Borg Collective",
+        "logo": "https://borgbackup.readthedocs.io/en/stable/_static/logo.svg",
+        "country": "de",
+        "presence": ["de"],
+        "website": "https://www.borgbackup.org/",
+        "founded_year": "2013",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "Borg",
+                "logo": "https://borgbackup.readthedocs.io/en/stable/_static/logo.svg",
+                "website": "https://www.borgbackup.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://borgbackup.readthedocs.io/en/stable/usage/general.html",
+                "source_code_profile": "https://www.openhub.net/p/borgbackup/analyses/latest/languages_summary",
+                "commercial_support": "https://www.borgbackup.org/support/commercial.html",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }]
+}

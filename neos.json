@@ -1,6 +1,6 @@
 {
         "title": "Neos Foundation",
-        "logo": "",
+        "logo": "https://www.neos.io/_Resources/Persistent/8dfd5ae2038a46921f7aa3ed6fe7d759bec53402/neos_full_primary.svg",
         "country": "uk",
         "presence": ["uk"],
         "website": "https://www.neos.io/",
@@ -29,8 +29,18 @@
           }
         },
         "free_software_list": [{
-                "title": "NEOS CMS",
-                "logo": "",
+                "title": "Flow",
+                "logo": "https://flow.neos.io/apple-touch-icon.png",
+                "website": "https://flow.neos.io/",
+                "category_list": ["Developer"],
+                "source_code_download": "https://flow.neos.io/download.html",
+                "source_code_profile": "hhttps://www.openhub.net/p/neos-flow/analyses/latest/languages_summary",
+                "commercial_support": "https://flow.neos.io/docs-and-support.html",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Neos_Flow",
+                "success_case_list": []
+              }, {
+                "title": "NEOS CMS (Typo3)",
+                "logo": "https://www.neos.io/_Resources/Persistent/8dfd5ae2038a46921f7aa3ed6fe7d759bec53402/neos_full_primary.svg",
                 "website": "https://www.neos.io/",
                 "category_list": ["Application"],
                 "source_code_download": "https://www.neos.io/download-and-extend.html",

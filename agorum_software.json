@@ -1,0 +1,44 @@
+{
+  "title": "Agorum Software",
+  "logo": "https://www.agorum.com/wp-content/uploads/agorum_logo_dark_mode_komplett_claim-1.svg",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://www.agorum.com/c",
+  "founded_year": "1998",
+  "kpi_dict": {
+    "2018": {
+      "staff": "19",
+      "earnings": "45158",
+      "total_assets": "1764340",
+      "revenues": "",
+      "public_source": "yes"
+    },
+    "2017": {
+      "staff": "19",
+      "earnings": "-131145",
+      "total_assets": "1858691",
+      "revenues": "",
+      "public_source": "yes"
+    },
+    "2016": {
+      "staff": "19",
+      "earnings": "113767",
+      "total_assets": "1925022",
+      "revenues": "",
+      "public_source": "yes"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Agorum Core",
+      "logo": "",
+      "website": "https://abilian.com/fr/solutions/labandco/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.agorum.com/downloads-agorum-core-open/",
+      "source_code_profile": "",
+      "commercial_support": "https://www.agorum.com/dokumentenmanagement-agorum-core-support/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Agorum_core",
+      "success_case_list": []
+    }
+  ]
+}

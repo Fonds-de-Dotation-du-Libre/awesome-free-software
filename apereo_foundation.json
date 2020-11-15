@@ -1,0 +1,232 @@
+{
+        "title": "Apereo Foundation",
+        "logo": "https://www.apereo.org/sites/all/themes/apereo/images/logo.png",
+        "country": "fr",
+        "presence": ["fr"],
+        "website": "https://www.apereo.org/",
+        "founded_year": "",
+        "kpi_dict": {
+          "2018": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2017": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          },
+          "2016": {
+            "staff": "",
+            "earnings": "",
+            "total_assets": "",
+            "revenues": "",
+            "public_source": ""
+          }
+        },
+        "free_software_list": [{
+                "title": "UPortal",
+                "logo": "https://www.apereo.org/sites/default/files/styles/project_logo/public/projects/logos/uPortal_400.png",
+                "website": "https://www.apereo.org/projects/uportal",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/Jasig/uPortal/releases",
+                "source_code_profile": "https://www.openhub.net/p/jasig_uportal/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/UPortal",
+                "success_case_list": []
+        },{
+                "title": "Open Academic Environment",
+                "logo": "https://www.apereo.org/sites/default/files/styles/project_logo/public/projects/logos/oae-logo.png",
+                "website": "https://oaeproject.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/oaeproject",
+                "source_code_profile": "https://www.openhub.net/p/Hilary/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "CAS",
+                "logo": "https://www.apereo.org/sites/default/files/styles/project_logo/public/projects/logos/cas_max_logo_0.png",
+                "website": "https://www.apereo.org/projects/cas",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/apereo/cas",
+                "source_code_profile": "https://www.openhub.net/p/jasig_cas/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "Bedework Calendar",
+                "logo": "https://www.apereo.org/sites/default/files/styles/project_logo/public/projects/logos/bedeworkLogo-forLightBG.png",
+                "website": "https://www.apereo.org/projects/bedework",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.apereo.org/projects/bedework/download",
+                "source_code_profile": "https://www.openhub.net/p/bedework/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "Karuta",
+                "logo": "https://www.apereo.org/sites/default/files/styles/project_logo/public/projects/logos/karuta-eportfolio-logo.png",
+                "website": "http://karutaproject.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/karutaproject",
+                "source_code_profile": "https://www.openhub.net/p/Karuta/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "OnTask",
+                "logo": "https://www.ontasklearning.org/wp-content/uploads/ontask-logo-1.png",
+                "website": "https://www.ontasklearning.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.ontasklearning.org/tool/",
+                "source_code_profile": "",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "OpenCast",
+                "logo": "https://opencast.org/assets/img/opencast.svg",
+                "website": "https://opencast.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://docs.opencast.org/r/9.x/admin/#installation/",
+                "source_code_profile": "",
+                "commercial_support": "https://opencast.org/support",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Opencast_(software)",
+                "success_case_list": [{
+                        "title": "University of Cape Town",
+                        "description": "The University of Cape Town (UCT) is a public research university. Founded in 1829, it is the oldest higher education institute in South Africa. In 2018, 28 600 students were enrolled - with 17 552 undergraduate and 11 048 postgraduate students.",
+                        "image": "https://opencast.org/assets/img/UCT-round-logo.png",
+                        "industry": "Education",
+                        "customer": "University of Cape Town",
+                        "country": "za",
+                        "language": "en",
+                        "url": "https://opencast.org/2019-10-01-university-of-cape-town.html"
+                },{
+                        "title": "Friedrich-Alexander-University Erlangen-Nürnberg",
+                        "description": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) [1] is a strong research university and one of the largest universities in Germany, with 39,780 students, 265 degree programmes, 4,000 academic staff (including over 579 professors), 199.64 million euros third-party funding, and 500 partnerships with universities all over the world.",
+                        "image": "https://opencast.org/assets/img/fau-logo.png",
+                        "industry": "Education",
+                        "customer": "Friedrich-Alexander-University Erlangen-Nürnberg",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://opencast.org/2018-09-19-friedrich-alexander-university-erlangen-nuremberg.html"
+                },{
+                        "title": "Westfälische Wilhelms-Universität",
+                        "description": "With about 45.000 students the University of Münster is one of the largest universities in Germany. Organized in 15 faculties, the scientific portfolio of the university contains a wide range of professions. Initially founded on April 16, 1780 it was later demoted to an academy in the 19, century. On July 1, 1902 Emperor Wilhelm II. reenacted Münster to a university, which became known under its present name five years later.",
+                        "image": "https://opencast.org/assets/img/WWUMuenster_Logo_2017_rgb.png",
+                        "industry": "Education",
+                        "customer": "Westfälische Wilhelms-Universität",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://opencast.org/2018-06-08-westfaelische-wilhelms-universitaet.html"
+                },{
+                        "title": "University of Vigo/Campus do Mar",
+                        "description": "An excellent example on how Opencast can be used in educational projects and how the software can be integrated with other portals.",
+                        "image": "https://opencast.org/assets/img/cdm-logo.png",
+                        "industry": "Education",
+                        "customer": "University of Vigo/Campus do Mar",
+                        "country": "es",
+                        "language": "en",
+                        "url": "https://opencast.org/2015-05-01-university-of-vigo.html"
+                },{
+                        "title": "University of Manchester",
+                        "description": "The University of Manchester has brought lecture capture to a new level. With an opt-out policy for lecturers and more than 300 equipped venues by the end of 2015.",
+                        "image": "https://opencast.org/assets/img/mancherster-logo.png",
+                        "industry": "Education",
+                        "customer": "University of Manchester",
+                        "country": "uk",
+                        "language": "en",
+                        "url": "https://opencast.org/2015-05-01-university-of-manchester.html"
+                },{
+                        "title": "Universitat Politécnica de Valencia",
+                        "description": "The Universitat Politécnica de Valencia is the main developer behind Paella Player, the default video player for Opencast. They are also initiated the Capture Agent Dashboard software.",
+                        "image": "https://opencast.org/assets/img/upv-logo.png",
+                        "industry": "Education",
+                        "customer": "Universitat Politécnica de Valencia",
+                        "country": "es",
+                        "language": "en",
+                        "url": "https://opencast.org/2015-05-01-universitat-politecnica-de-valencia.html"
+                },{
+                        "title": "Universität zu Köln",
+                        "description": "Opencast is a central media service at the University of Cologne that unifies the management of automatic recorded lectures, educational media and blended learning material.",
+                        "image": "https://opencast.org/assets/img/uni-zu-koeln.png",
+                        "industry": "Education",
+                        "customer": "Universität zu Köln",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://opencast.org/2015-05-01-universitaet-zu-koeln.html"
+                },{
+                        "title": "University of Osnabrück",
+                        "description": "Osnabrück was the first university to run an Opencast installation in production. They are leading the Opencast Player development. Opencast is extensively integrated into their LMS Stud.IP.",
+                        "image": "https://opencast.org/assets/img/uos-logo.png",
+                        "industry": "Education",
+                        "customer": "University of Osnabrück",
+                        "country": "de",
+                        "language": "en",
+                        "url": "https://opencast.org/2015-05-01-universitaet-osnabrueck.html"
+                },{
+                        "title": "Ghent University",
+                        "description": "Ghent University is a top 100 university and one of the major universities in Belgium counting over 41,000 students and 9,000 employees. Our 11 faculties offer a wide range of courses and conduct in-depth research in both exact and social sciences.",
+                        "image": "https://opencast.org/assets/img/logo-ugent.png",
+                        "industry": "Education",
+                        "customer": "Ghent University",
+                        "country": "be",
+                        "language": "en",
+                        "url": "https://opencast.org/2015-05-01-ghent-university.html"
+                },{
+                        "title": "ETH Zurich",
+                        "description": "The ETH Zürich has always been one of the driving forces of the Opencast project. A high degree on integration into their campus infrastructure is important to them.",
+                        "image": "https://opencast.org/assets/img/eth-logo.png",
+                        "industry": "Education",
+                        "customer": "ETH Zurich",
+                        "country": "ch",
+                        "language": "en",
+                        "url": "https://opencast.org/2015-05-01-eth-zuerich.html"
+                }]
+        },{
+                "title": "OpenEquella",
+                "logo": "https://www.apereo.org/sites/default/files/styles/project_logo/public/projects/logos/3OpenEquella%20Transparent.png",
+                "website": "https://openequella.github.io/",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/openequella/openEQUELLA",
+                "source_code_profile": "",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "Sakai",
+                "logo": "https://www.apereo.org/sites/default/files/styles/project_logo/public/projects/logos/SAKAI%20LMS%20No%20Backgroundlarge%20copy.png",
+                "website": "https://www.sakailms.org/",
+                "category_list": ["Application"],
+                "source_code_download": "http://source.sakaiproject.org/release/20.1/",
+                "source_code_profile": "https://www.openhub.net/p/sakai/analyses/latest/languages_summary",
+                "commercial_support": "",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "UniTime.org",
+                "logo": "https://www.unitime.org/include/unitime-org.png",
+                "website": "https://www.unitime.org/",
+                "category_list": ["Application"],
+                "source_code_download": "https://github.com/UniTime/unitime/releases",
+                "source_code_profile": "https://www.openhub.net/p/unitime/analyses/latest/languages_summary",
+                "commercial_support": "https://www.unitime.org/index.php?tab=3",
+                "wikipedia_url": "",
+                "success_case_list": []
+        },{
+                "title": "Xerte",
+                "logo": "https://www.xerte.org.uk/images/x_logos/xerte_logo_170px.png",
+                "website": "https://www.xerte.org.uk/index.php?lang=en",
+                "category_list": ["Application"],
+                "source_code_download": "https://www.xerte.org.uk/index.php/en/downloads-1",
+                "source_code_profile": "https://www.openhub.net/p/xerteproject/analyses/latest/languages_summary",
+                "commercial_support": "https://www.xerte.org.uk/index.php/en/support-menu/support",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Xerte",
+                "success_case_list": []
+        }]
+}
