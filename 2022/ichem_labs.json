@@ -54,14 +54,14 @@
       "title": "Chemdoodle Web",
       "logo": "https://web.chemdoodle.com/img/chemdoodleweb_logo.png",
       "website": "https://web.chemdoodle.com/",
-      "category_list": ["Application:Visualisation"],
-      "library": "false",
-      "application": "true",
+      "category_list": ["Developer"],
+      "library": "true",
+      "application": "false",
       "source_code_download": "https://web.chemdoodle.com/installation/download",
       "source_code_profile": "",
       "commercial_support": "https://www.ichemlabs.com/store",
       "wikipedia_url": "",
-      "use_case_list": [{
+      "keyword_list": [{
         "title": "Molecular Visualisation"
       }],
       "success_case_list": [],
@@ -69,7 +69,7 @@
         "title": "ChemDoodle 7 Review",
         "description": "ChemDoodle is now firmly established as one of the key chemical drawing packages that offers an inexpensive alternative to some of the increasingly expensive drawing packages",
         "image": "https://www.macinchem.org/reviews/chemdoodle7/chemdoodle7review_files/cd7_2.png",
-        "industry": "Chemicals",
+        "industry_list": ["Chemicals"],
         "publisher": "Machinchem",
         "country": "en",
         "language": "en",
