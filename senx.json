@@ -1,0 +1,123 @@
+{
+       "title": "Warp 10",
+       "logo": "https://www.warp10.io/assets/img/warp10.png",
+       "country": "fr",
+       "presence": ["fr"],
+       "website": "https://warp10.io/",
+       "founded_year": "2013",
+       "kpi_dict": {
+         "2018": {
+           "staff": "",
+           "earnings": "",
+           "total_assets": "",
+           "revenues": "",
+           "public_source": ""
+         },
+         "2017": {
+           "staff": "",
+           "earnings": "",
+           "total_assets": "",
+           "revenues": "",
+           "public_source": "",
+         },
+         "2016": {
+           "staff": "",
+           "earnings": "",
+           "total_assets": "",
+           "revenues": "",
+           "public_source": "",
+         }
+       },
+       "free_software_list": [{
+               "title": "Warp 10",
+               "logo": "https://www.warp10.io/assets/img/warp10.png",
+               "website": "https://warp10.io/",
+               "category_list": ["Analytics"],
+               "source_code_download": "https://warp10.io/download/",
+               "source_code_profile": "https://github.com/senx/warp10-platform",
+               "commercial_support": "https://senx.io/offer/",
+               "wikipedia_url": "https://fr.wikipedia.org/wiki/Warp_10",
+               "success_case_list": [{
+                       "title": "AIM45",
+                       "description": "AIM45 proposes a solution to store and analyze data produced by sailboats. This solution is based on Warp 10 and includes algorithms and visualizations designed by experts in yacht races. Every day, AIM45 ingests 225 million data points from about 600 sensors or parameters on sailboats. […]",
+                       "image": "https://senx.io/assets/img/testimonials/gitana.jpg",
+                       "industry": "Maritime",
+                       "customer": "AIM45",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/aim45"
+               }, {
+                       "title": "Amzair Industrie",
+                       "description": "Amzair produces heat pumps since 1998 and uses Warp 10 to perform weekly consolidated problem analysis on all systems and multi-month analysis of defrost efficiency and compressor runtime. An overview of the heat pump fleet also allows Warp 10 to differentiate an installation or adjustment fault from a design fault. […]",
+                       "image": "https://senx.io/assets/img/testimonials/amzair-1.jpg",
+                       "industry": "Industry",
+                       "customer": "Amzair Industrie",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/amzair"
+               }, {
+                       "title": "Centreon",
+                       "description": "Centreon delivers a business-centric IT monitoring software platform for IT operational excellence. Warp 10 allowed them to quickly build a robust solution and focus on creating value for their customers instead of the storage of data and creating the functions to access it. […]",
+                       "image": "https://senx.io/assets/img/testimonials/illustration_centreon.jpg",
+                       "industry": "Monitoring",
+                       "customer": "Centreon",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/centreon"
+               }, {
+                       "title": "Regional University Hospital Center of Brest",
+                       "description": "To avoid any human manipulations, such as manual data exports on a USB key, the CHRU wanted to develop a fully automated datalogger, with data feedback on the Internet as soon as the connection is available. The CHRU uses Warp 10 in its embedded version to ensure local storage and resynchronization of data with the Warp 10 SaaS base. […]",
+                       "image": "https://senx.io/assets/img/testimonials/chru-bg.jpg",
+                       "industry": "Health",
+                       "customer": "CHRU Brest",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/chru"
+               }, {
+                       "title": "Clever Cloud",
+                       "description": "Clever Cloud needed a database capable of ingesting and processing the large number of measurements made and sent at any time. Processing needs included filtering, aggregation, and operation on sliding window. Additionally, they needed a database that could handle high cardinality. That’s why Clever Cloud chose Warp 10. […]",
+                       "image": "https://senx.io/assets/img/testimonials/it-clever-cloud-01.png",
+                       "industry": "Monitoring",
+                       "customer": "Clever Cloud",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/clevercloud"
+               }, {
+                       "title": "Eegle",
+                       "description": "Eegle develops and markets a collaborative Cloud platform for local stakeholders to help them collaborate effectively around digital data. Warp 10 allows Eegle to focus on their core business and what gives them added value, without worrying about the data processing part. […]",
+                       "image": "https://senx.io/assets/img/testimonials/eegle-bg.jpg",
+                       "industry": "Smart City",
+                       "customer": "Eegle",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/eegle"
+               }, {
+                       "title": "Energisme",
+                       "description": "Energisme collects data in real-time from a multitude of IoT data sources and Warp 10 allows direct and rapid use of the algorithms available for the subject of Device Management and predictive maintenance of the fleet. […]",
+                       "image": "https://senx.io/assets/img/testimonials/energisme.jpg",
+                       "industry": "Energy",
+                       "customer": "Energisme",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/energisme"
+               }, {
+                       "title": "Kalvad",
+                       "description": "Before using Warp 10, Kalvad was limited to about one month for how long it could store its data. Warp 10 has allowed them to extend these storage times and to increase the amount of data available. Kalvad and its customers have more information to analyze, which allows them to work on Machine Learning, without drastically increasing the cost. […]",
+                       "image": "https://senx.io/assets/img/testimonials/kalvad-bg.png",
+                       "industry": "Monitoring",
+                       "customer": "Kalvad",
+                       "country": "ae",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/kalvad",
+               }, {
+                       "title": "S3PWeb",
+                       "description": "S3PWeb often has several information sources that are not synchronized to the same timestamp. The WarpScript language has made it possible to perform preprocessing on the database side, for example to synchronize the GPS positions of several time series in a few lines of code, or even to create redundant information filters. […]",
+                       "image": "https://senx.io/assets/img/testimonials/s3pweb-bg.jpg",
+                       "industry": "Transportation",
+                       "customer": "S3PWeb",
+                       "country": "fr",
+                       "language": "en",
+                       "url": "https://senx.io/cases-studies/s3pweb",
+               }]
+       }]
+}
