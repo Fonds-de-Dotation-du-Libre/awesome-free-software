@@ -31,21 +31,19 @@
         "free_software_list": [{
                 "title": "OPAM",
                 "logo": "",
-                "website": "http://opam.ocamlpro.com/",
                 "category_list": ["Middleware"],
                 "source_code_download": "https://github.com/OCamlPro/opam",
                 "source_code_profile": "https://www.openhub.net/p/opam/analyses/latest/languages_summary",
-                "commercial_support": "http://opam.ocamlpro.com/",
+                "commercial_support": "http://ocamlpro.com/",
                 "wikipedia_url": "https://en.wikipedia.org/wiki/OCaml#Development_environment",
                 "success_case_list": []
         }, {
                 "title": "Scilint",
                 "logo": "",
-                "website": "http://scilint.ocamlpro.com/",
                 "category_list": ["Developer"],
                 "source_code_download": "https://github.com/OCamlPro/scilint/releases",
                 "source_code_profile": "https://www.openhub.net/p/scilint/analyses/latest/languages_summary",
-                "commercial_support": "http://scilint.ocamlpro.com/",
+                "commercial_support": "http://ocamlpro.com/",
                 "wikipedia_url": "",
                 "success_case_list": []
         }, {
