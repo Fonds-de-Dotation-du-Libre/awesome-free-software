@@ -18,14 +18,14 @@
            "earnings": "",
            "total_assets": "",
            "revenues": "",
-           "public_source": "",
+           "public_source": ""
          },
          "2016": {
            "staff": "",
            "earnings": "",
            "total_assets": "",
            "revenues": "",
-           "public_source": "",
+           "public_source": ""
          }
        },
        "free_software_list": [{
@@ -108,7 +108,7 @@
                        "customer": "Kalvad",
                        "country": "ae",
                        "language": "en",
-                       "url": "https://senx.io/cases-studies/kalvad",
+                       "url": "https://senx.io/cases-studies/kalvad"
                }, {
                        "title": "S3PWeb",
                        "description": "S3PWeb often has several information sources that are not synchronized to the same timestamp. The WarpScript language has made it possible to perform preprocessing on the database side, for example to synchronize the GPS positions of several time series in a few lines of code, or even to create redundant information filters. […]",
@@ -117,7 +117,7 @@
                        "customer": "S3PWeb",
                        "country": "fr",
                        "language": "en",
-                       "url": "https://senx.io/cases-studies/s3pweb",
+                       "url": "https://senx.io/cases-studies/s3pweb"
                }]
        }]
 }
