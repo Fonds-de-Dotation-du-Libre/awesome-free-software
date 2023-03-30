@@ -61,6 +61,16 @@
       "commercial_support": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
       "wikipedia_url": "",
       "success_case_list": []
-    }
+    },
+    {
+      "title": "Nua",
+      "logo": "",
+      "website": "https://nua.rocks/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://github.com/abilian/nua",
+      "commercial_support": "https://abilian.com/fr/solutions/nua-plateforme-cloud/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }    
   ]
 }
