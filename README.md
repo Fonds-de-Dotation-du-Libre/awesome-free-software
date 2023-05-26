@@ -2,1580 +2,1547 @@
 
 Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases.
 
-## Analytics
+## Software List
+
+### Analytics
 
 
-### ikats
+#### ikats
 
 - Website: <https://ikats.org/>
 - Creator/vendor: CS Group 🇫🇷
 - [Commercial support](https://ikats.org/support.html)
 
-### LinkedWiki
+#### LinkedWiki
 
 - Website: <http://linkedwiki.com/map.php>
 - Creator/vendor: Bordercloud 🇫🇷
 - [Commercial support](http://www.bordercloud.com/trainingMethodLinkedData.php)
 
-### Mondrian
+#### Mondrian
 
 - Website: <http://community.pentaho.com/projects/mondrian/>
 - Creator/vendor: Pentaho 🇺🇸
 
-### Open Studio Big Data
+#### Open Studio Big Data
 
 - Website: <https://www.talend.com/download/talend-open-studio>
 - Creator/vendor: Talend 🇺🇸
 
-### Open Studio Data Quality
+#### Open Studio Data Quality
 
 - Website: <https://www.talend.com/products/data-quality>
 - Creator/vendor: Talend 🇺🇸
 
-### OpenFoam
+#### OpenFoam
 
 - Website: <https://www.openfoam.com/>
 - Creator/vendor: ESI Group 🇫🇷
 - [Commercial support](https://www.openfoam.com/services/software.php)
 
-### orefeo-toolbox
+#### orefeo-toolbox
 
 - Website: <https://www.orfeo-toolbox.org/>
 - Creator/vendor: CS Group 🇫🇷
 
-### Scikit Learn
+#### Scikit Learn
 
 - Website: <https://scikit-learn.org/>
 - Creator/vendor: Fondation Inria 🇫🇷
 
-### SciLab
+#### SciLab
 
 - Website: <https://www.scilab.org>
 - Creator/vendor: ESI Group 🇫🇷
 - [Commercial support](https://www.scilab.org/services/support-maintenance)
 
-### Simulagora
+#### Simulagora
 
 - Website: <https://www.simulagora.com/>
 - Creator/vendor: Logilab 🇫🇷
 - [Commercial support](https://pypi.org/project/simulagora/)
 
-### Warp 10
+#### Warp 10
 
 - Website: <https://warp10.io/>
 - Creator/vendor: Warp 10 🇫🇷
 - [Commercial support](https://senx.io/offer/)
 
-### Wendelin
+#### Wendelin
 
 - Website: <https://wendelin.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 - [Commercial support](http://www.nexedi.com/service/nexedi-service-slapos/service/nexedi-service-wendelin)
 
 
-## Application
+### Application
 
 
-### Abilian SBE
+#### Abilian SBE
 
 - Website: <https://abilian.com/fr/solutions/reseau-social-entreprise/>
 - Creator/vendor: abilian 🇫🇷
 - [Commercial support](https://abilian.com/fr/solutions/reseau-social-entreprise/)
 
-### Acceleo
+#### Acceleo
 
 - Website: <https://www.eclipse.org/acceleo/>
 - Creator/vendor: Obeo 🇫🇷
 - [Commercial support](https://www.eclipse.org/acceleo/support.html)
 
-### Actviti
+#### Actviti
 
 - Website: <https://www.activiti.org/>
 - Creator/vendor: Alfresco 🇺🇸
 - [Commercial support](https://www.alfresco.com/bpm-software?m=&mutm_source=activiti&utm_medium=web)
 
-### Adminer
+#### Adminer
 
 - Website: <https://www.adminer.org/>
 - Creator/vendor: Adminer Developers 🇨🇿
 
-### Agorum Core
+#### Agorum Core
 
 - Website: <https://abilian.com/fr/solutions/labandco/>
 - Creator/vendor: Agorum Software 🇩🇪
 - [Commercial support](https://www.agorum.com/dokumentenmanagement-agorum-core-support/)
 
-### Akeneo PIM
+#### Akeneo PIM
 
 - Website: <https://www.akeneo.com/what-is-a-pim/>
 - Creator/vendor: Akeneo 🇫🇷
 
-### Ametys
+#### Ametys
 
 - Website: <https://www.ametys.org>
 - Creator/vendor: Anyware Services 🇫🇷
 
-### Armadito
+#### Armadito
 
 - Website: <https://www.armadito.com/>
 - Creator/vendor: Teclib' 🇫🇷
 
-### Axelor Business Suite
+#### Axelor Business Suite
 
 - Website: <https://www.axelor.com/erp-open-source/integrated-modules/>
 - Creator/vendor: Axelor 🇫🇷
 
-### B2Evolution
+#### B2Evolution
 
 - Website: <http://www.mondorescue.org/>
 - Creator/vendor: B2Evolution Group 🇱🇺
 - [Commercial support](https://b2evolution.net/about/pro-support)
 
-### Bacula
+#### Bacula
 
 - Website: <https://www.bacula.org/>
 - Creator/vendor: Bacula Systems 🇨🇭
 - [Commercial support](https://www.bacula.org/support/professional-support/)
 
-### Beats
+#### Beats
 
 - Website: <https://www.elastic.co/de/products/beats>
 - Creator/vendor: Elastic 🇳🇱
 - [Commercial support](https://www.elastic.co/de/services)
 
-### Bedework Calendar
+#### Bedework Calendar
 
 - Website: <https://www.apereo.org/projects/bedework>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### Bonita
+#### Bonita
 
 - Website: <www.bonitasoft.com>
 - Creator/vendor: Bonitasoft 🇫🇷
 - [Commercial support](https://www.bonitasoft.com/support)
 
-### Borg
+#### Borg
 
 - Website: <http://www.mondorescue.org/>
 - Creator/vendor: Mondorescue Developers 🇫🇷
 - [Commercial support](http://www.mondorescue.org/support.shtml)
 
-### Borg
+#### Borg
 
 - Website: <https://www.borgbackup.org/>
 - Creator/vendor: Borg Collective 🇩🇪
 - [Commercial support](https://www.borgbackup.org/support/commercial.html)
 
-### Calligra Suite
+#### Calligra Suite
 
 - Website: <https://calligra.org/>
 - Creator/vendor: KDE Association 🇩🇪
 
-### Capella
+#### Capella
 
 - Website: <https://www.polarsys.org/capella/>
 - Creator/vendor: Obeo 🇫🇷
 - [Commercial support](https://www.polarsys.org/capella/services.html)
 
-### CAS
+#### CAS
 
 - Website: <https://www.apereo.org/projects/cas>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### Centreon
+#### Centreon
 
 - Website: <https://www.centreon.com/>
 - Creator/vendor: Centreon 🇫🇷
 - [Commercial support](https://www.centreon.com/services/)
 
-### Chamilo LMS
+#### Chamilo LMS
 
 - Website: <https://chamilo.org/>
 - Creator/vendor: Chamilo 🇪🇸
 - [Commercial support](https://www.openhub.net/p/chamilo)
 
-### Claroline
+#### Claroline
 
 - Website: <https://claroline.net/>
 - Creator/vendor: Claroline 🇧🇪
 - [Commercial support](https://claroline.net/support-technique/)
 
-### CMD Build
+#### CMD Build
 
 - Website: <https://www.cmdbuild.org/>
 - Creator/vendor: Tecnoteca srl 🇮🇹
 - [Commercial support](https://www.tecnoteca.com/en/services/cmdbuild)
 
-### CMD Build ReadyToUse
+#### CMD Build ReadyToUse
 
 - Website: <https://www.cmdbuildready2use.org/>
 - Creator/vendor: Tecnoteca srl 🇮🇹
 - [Commercial support](https://www.cmdbuildready2use.org/en/support/subscription)
 
-### Cryptpad
+#### Cryptpad
 
 - Website: <https://cryptpad.fr/>
 - Creator/vendor: XWiki SAS 🇫🇷
 - [Commercial support](https://cryptpad.fr/features.html)
 
-### Cubicweb
+#### Cubicweb
 
 - Website: <https://www.cubicweb.org/>
 - Creator/vendor: Logilab 🇫🇷
 
-### Delta Chat
+#### Delta Chat
 
 - Website: <https://delta.chat/>
 - Creator/vendor: Merlinux GmbH 🇩🇪
 
-### DokuWiki
+#### DokuWiki
 
 - Website: <https://www.dokuwiki.org/>
 - Creator/vendor: Dokuwiki Developers 🇩🇪
 - [Commercial support](https://www.dokuwiki.org/faq:support)
 
-### Dokéos
+#### Dokéos
 
 - Website: <https://www.dokeos.com/learning-management-system-lms/>
 - Creator/vendor: Dokéos 🇫🇷
 - [Commercial support](https://www.dokeos.com/services/)
 
-### Dolibarr
+#### Dolibarr
 
 - Website: <https://www.dolibarr.org/>
 - Creator/vendor: Association Dolibarr 🇫🇷
 - [Commercial support](https://wiki.dolibarr.org/index.php/List_of_Dolibarr_partners_and_providers)
 
-### Drupal Commerce
+#### Drupal Commerce
 
 - Website: <https://drupalcommerce.org/>
 - Creator/vendor: Commerce guys 🇫🇷
 - [Commercial support](https://commerceguys.com/what-we-do/support)
 
-### ECM
+#### ECM
 
 - Website: <https://www.alfresco.com/products/enterprise-content-management>
 - Creator/vendor: Alfresco 🇺🇸
 
-### Elasticsearch
+#### Elasticsearch
 
 - Website: <https://www.elastic.co/>
 - Creator/vendor: Elastic 🇳🇱
 - [Commercial support](https://www.elastic.co/de/services)
 
-### Element
+#### Element
 
 - Website: <https://element.io/features>
 - Creator/vendor: New Vector Ltd 🇬🇧
 - [Commercial support](https://element.io/plans-and-pricing)
 
-### elgg
+#### elgg
 
 - Website: <https://elgg.org/>
 - Creator/vendor: Thematic Networks 🇬🇧
 - [Commercial support](https://elgg.org/about/services)
 
-### ERP5
+#### ERP5
 
 - Website: <https://erp5.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 - [Commercial support](http://www.nexedi.com/service/nexedi-service-erp5)
 
-### Exoplatform
+#### Exoplatform
 
 - Website: <https://www.exoplatform.com/technology/>
 - Creator/vendor: Exoplatform 🇫🇷
 - [Commercial support](https://www.openhub.net/p/exo_platform)
 
-### ez platform dxp
+#### ez platform dxp
 
 - Website: <https://ezplatform.com/>
 - Creator/vendor: ibexa 🇳🇴
 - [Commercial support](https://ez.no/Services/Support-Maintenance)
 
-### Foswiki
+#### Foswiki
 
 - Website: <https://foswiki.org/>
 - Creator/vendor: Foswiki Association e.v. 🇩🇪
 - [Commercial support](https://foswiki.org/Support/WebHome)
 
-### FrontAccounting
+#### FrontAccounting
 
 - Website: <https://frontaccounting.com/>
 - Creator/vendor: FrontAccounting 🇸🇪
 - [Commercial support](https://frontaccounting.com/punbb/)
 
-### Ghost
+#### Ghost
 
 - Website: <https://ghost.org/>
 - Creator/vendor: Ghost Foundation 🇬🇧
 - [Commercial support](https://ghost.org/enterprise/)
 
-### GLPI Network
+#### GLPI Network
 
 - Website: <https://glpi-project.org/glpi-network/>
 - Creator/vendor: Teclib' 🇫🇷
 - [Commercial support](https://glpi-project.org/subscriptions/)
 
-### GnuCash
+#### GnuCash
 
 - Website: <https://www.gnucash.org/>
 - Creator/vendor: GnuCash 🇧🇪
 - [Commercial support](https://wiki.gnucash.org/wiki/Getting_Help)
 
-### Group Office
+#### Group Office
 
 - Website: <https://www.group-office.com/>
 - Creator/vendor: Intermesh BV 🇳🇱
 
-### Icinga Monitoring
+#### Icinga Monitoring
 
 - Website: <https://icinga.com/products/>
 - Creator/vendor: Icinga 🇩🇪
 - [Commercial support](https://icinga.com/subscription/)
 
-### IS Designer
+#### IS Designer
 
 - Website: <https://www.obeo.fr/en/products/is-designer>
 - Creator/vendor: Obeo 🇫🇷
 
-### ISPConfig
+#### ISPConfig
 
 - Website: <https://www.ispconfig.org/>
 - Creator/vendor: ISPConfig UG 🇩🇪
 - [Commercial support](https://www.ispconfig.org/support/)
 
-### Jahia
+#### Jahia
 
 - Website: <https://www.jahia.com/>
 - Creator/vendor: Jahia 🇨🇭
 - [Commercial support](https://www.jahia.com/de/preiseleistungen/support)
 
-### Karuta
+#### Karuta
 
 - Website: <http://karutaproject.org/>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### Kibana
+#### Kibana
 
 - Website: <https://www.elastic.co/de/products/kibana>
 - Creator/vendor: Elastic 🇳🇱
 - [Commercial support](https://www.elastic.co/de/services)
 
-### Kimios
+#### Kimios
 
 - Website: <http://www.kimios.com/>
 - Creator/vendor: Teclib' 🇫🇷
 
-### Kopano
+#### Kopano
 
 - Website: <https://kopano.com/kopano-products/>
 - Creator/vendor: Kopano 🇳🇱
 - [Commercial support](https://kopano.com/pricing/)
 
-### Lab&Co
+#### Lab&Co
 
 - Website: <https://abilian.com/fr/solutions/labandco/>
 - Creator/vendor: abilian 🇫🇷
 - [Commercial support](https://abilian.com/fr/solutions/labandco/)
 
-### Limesurvey
+#### Limesurvey
 
 - Website: <https://www.limesurvey.org/>
 - Creator/vendor: Limesurvey 🇩🇪
 - [Commercial support](https://www.limesurvey.org/customer-support)
 
-### LinID
-
-- Website: <https://www.linagora.com/linid>
-- Creator/vendor: Linagora 🇫🇷
-- [Commercial support](https://www.linagora.com/ossa)
-
-### LinOTP
+#### LinOTP
 
 - Website: <http://www.linotp.org/>
 - Creator/vendor: Key Identity 🇩🇪
 - [Commercial support](http://www.linotp.org/support.html)
 
-### LinShare
-
-- Website: <https://www.linagora.com/linshare>
-- Creator/vendor: Linagora 🇫🇷
-- [Commercial support](https://www.linagora.com/ossa)
-
-### LinTO
-
-- Website: <https://linto.ai/>
-- Creator/vendor: Linagora 🇫🇷
-- [Commercial support](https://linagora.com/contact?service-products=LinTO)
-
-### Logstash
+#### Logstash
 
 - Website: <https://www.elastic.co/de/products/logstash>
 - Creator/vendor: Elastic 🇳🇱
 - [Commercial support](https://www.elastic.co/de/services)
 
-### M2Doc
+#### M2Doc
 
 - Website: <http://www.m2doc.org/>
 - Creator/vendor: Obeo 🇫🇷
 - [Commercial support](http://www.m2doc.org/support/)
 
-### Maarch Courrier
+#### Maarch Courrier
 
 - Website: <http://maarchcourrier.com/>
 - Creator/vendor: Maarch 🇫🇷
 - [Commercial support](http://maarch.com/services/)
 
-### Maarch RM
+#### Maarch RM
 
 - Website: <http://maarchrm.com/>
 - Creator/vendor: Maarch 🇫🇷
 - [Commercial support](http://maarch.com/services/)
 
-### Magento Community Edition
+#### Magento Community Edition
 
 - Website: <https://magento.com/products/community-edition>
 - Creator/vendor: Magento 🇺🇸
 
-### Mobilizon
+#### Mobilizon
 
 - Website: <https://joinmobilizon.org/fr/>
 - Creator/vendor: Framasoft 🇫🇷
 
-### Modelio
+#### Modelio
 
 - Website: <https://www.modelio.org/>
 - Creator/vendor: Modeliosoft 🇫🇷
 - [Commercial support](https://www.modeliosoft.com/en/services/support.html)
 
-### NEOS CMS (Typo3)
+#### NEOS CMS (Typo3)
 
 - Website: <https://www.neos.io/>
 - Creator/vendor: Neos Foundation 🇬🇧
 - [Commercial support](https://www.neos.io/community/support.html)
 
-### Nextcloud
+#### Nextcloud
 
 - Website: <https://nextcloud.com/hub/>
 - Creator/vendor: Nextcloud 🇩🇪
 - [Commercial support](https://portal.nextcloud.com/)
 
-### Nuxeo Platform
+#### Nuxeo Platform
 
 - Website: <https://www.nuxeo.com/>
 - Creator/vendor: Nuxeo 🇫🇷
 - [Commercial support](https://www.nuxeo.com/services/)
 
-### Obeo Designer
+#### Obeo Designer
 
 - Website: <https://www.obeodesigner.com/en/>
 - Creator/vendor: Obeo 🇫🇷
 - [Commercial support](https://www.obeodesigner.com/en/support)
 
-### OCS Inventory
+#### OCS Inventory
 
 - Website: <https://www.factorfx.com/>
 - Creator/vendor: FactorFX 🇫🇷
 - [Commercial support](https://www.factorfx.com/)
 
-### Odoo Apps
+#### Odoo Apps
 
 - Website: <https://www.odoo.com>
 - Creator/vendor: Odoo 🇧🇪
 
-### OfficeJS
+#### OfficeJS
 
 - Website: <https://officejs.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### OnTask
+#### OnTask
 
 - Website: <https://www.ontasklearning.org/>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### Open Academic Environment
+#### Open Academic Environment
 
 - Website: <https://oaeproject.org/>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### Open Studio Master Data Management
+#### Open Studio Master Data Management
 
 - Website: <https://www.talend.com/products/mdm>
 - Creator/vendor: Talend 🇺🇸
 
-### OpenADS
+#### OpenADS
 
 - Website: <https://www.atreal.fr/applications/catalogue/logiciel-urbanisme>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### OpenAria
+#### OpenAria
 
 - Website: <https://www.atreal.fr/applications/catalogue/logiciel-gestion-des-etablissements-recevant-du-public>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### Openbravo Commerce Cloud
+#### Openbravo Commerce Cloud
 
 - Website: <https://www.openbravo.com>
 - Creator/vendor: Openbravo 🇪🇸
 - [Commercial support](https://www.openbravo.com/services)
 
-### OpenCast
+#### OpenCast
 
 - Website: <https://opencast.org/>
 - Creator/vendor: Apereo Foundation 🇫🇷
 - [Commercial support](https://opencast.org/support)
 
-### OpenCimetière
+#### OpenCimetière
 
 - Website: <https://www.atreal.fr/applications/catalogue/logiciel-cimetiere>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### OpenCMS
+#### OpenCMS
 
 - Website: <http://www.opencms.org/>
 - Creator/vendor: Alkacon 🇩🇪
 - [Commercial support](http://www.alkacon.com/de/products/)
 
-### OpenCourrier
+#### OpenCourrier
 
 - Website: <https://www.atreal.fr/applications/catalogue/logiciel-courrier>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### opencrx
+#### opencrx
 
 - Website: <http://www.opencrx.org>
 - Creator/vendor: Crixp AG 🇨🇭
 - [Commercial support](http://www.opencrx.org/support.htm)
 
-### OpenDebitBoisson
+#### OpenDebitBoisson
 
 - Website: <https://www.atreal.fr/applications/catalogue/opendebitdeboisson-logiciel-de-gestion-des-debits-de-boissons>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### OpenElec
+#### OpenElec
 
 - Website: <https://www.atreal.fr/applications/catalogue/logiciel-elections>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### OpenEquella
+#### OpenEquella
 
 - Website: <https://openequella.github.io/>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### OpenMAINT
+#### OpenMAINT
 
 - Website: <https://www.openmaint.org/>
 - Creator/vendor: Tecnoteca srl 🇮🇹
 - [Commercial support](https://www.openmaint.org/en/services)
 
-### OpenRésultat
+#### OpenRésultat
 
 - Website: <https://www.atreal.fr/applications/catalogue/logiciel-resultat-elections>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### OSCOmmerce
+#### OSCOmmerce
 
 - Website: <https://www.oscommerce.com/Products>
 - Creator/vendor: OS Commerce 🇩🇪
 - [Commercial support](https://www.oscommerce.com/Support)
 
-### Owncloud
+#### Owncloud
 
 - Website: <https://owncloud.org/imprint/>
 - Creator/vendor: Owncloud GmbH 🇩🇪
 - [Commercial support](https://owncloud.com/licenses/owncloud-support-maintenance/)
 
-### OX Front End
+#### OX Front End
 
 - Website: <https://www.open-xchange.com/portfolio/ox-app-suite-users/>
 - Creator/vendor: Open-Xchange 🇩🇪
 - [Commercial support](https://www.open-xchange.com/services/ox-support/ox-app-suite-ox-dovecot-pro/)
 
-### Oxid eShop
+#### Oxid eShop
 
 - Website: <https://www.oxid-esales.com>
 - Creator/vendor: Oxid Esales AG 🇩🇪
 - [Commercial support](https://oxidforge.org/de/)
 
-### PgAdmin
+#### PgAdmin
 
 - Website: <https://www.pgadmin.org/>
 - Creator/vendor: PgAdmin Developers 🇬🇧
 
-### PHPMyAdmin
+#### PHPMyAdmin
 
 - Website: <https://www.phpmyadmin.net/>
 - Creator/vendor: PHPMyAdmin Developers 🇩🇪
 - [Commercial support](https://www.phpmyadmin.net/support/)
 
-### Phraseanet 4.0
+#### Phraseanet 4.0
 
 - Website: <https://www.phraseanet.com/>
 - Creator/vendor: Alchemy 🇫🇷
 - [Commercial support](https://www.phraseanet.com/en/support/)
 
-### Pimcore
+#### Pimcore
 
 - Website: <https://pimcore.com/>
 - Creator/vendor: Pimcore 🇦🇹
 - [Commercial support](https://pimcore.com/de/dienstleistungen)
 
-### PMB
+#### PMB
 
 - Website: <https://www.sigb.net/index.php?lvl=cmspage&pageid=6&id_rubrique=1&opac_view=1>
 - Creator/vendor: PMB Services 🇫🇷
 - [Commercial support](https://www.sigb.net/index.php?lvl=cmspage&pageid=6&id_rubrique=71&opac_view=1)
 
-### PrestaShop
+#### PrestaShop
 
 - Website: <https://www.prestashop.com/>
 - Creator/vendor: PrestaShop SA 🇫🇷
 - [Commercial support](http://addons.prestashop.com/en/388-support)
 
-### Publik
+#### Publik
 
 - Website: <https://www.atreal.fr/applications/catalogue/publik>
 - Creator/vendor: atreal 🇫🇷
 - [Commercial support](https://www.atreal.fr/applications/services)
 
-### Relax'n'Recover
+#### Relax'n'Recover
 
 - Website: <http://www.mondorescue.org/>
 - Creator/vendor: ReaR Developers 🇩🇪
 - [Commercial support](http://relax-and-recover.org/support/)
 
-### Resource Space
+#### Resource Space
 
 - Website: <https://www.resourcespace.com/>
 - Creator/vendor: Montala Ltd. 🇬🇧
 - [Commercial support](https://www.resourcespace.com/pricing)
 
-### Sakai
+#### Sakai
 
 - Website: <https://www.sakailms.org/>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### Scenari
+#### Scenari
 
 - Website: <https://scenari.software/fr/>
 - Creator/vendor: Kelis 🇫🇷
 
-### Sentora
+#### Sentora
 
 - Website: <http://www.sentora.org/>
 - Creator/vendor: Sentora Developers 🇬🇧
 - [Commercial support](http://www.sentora.org/support)
 
-### ShaCache
+#### ShaCache
 
 - Website: <https://shacache.nexedi.com>
 - Creator/vendor: Nexedi 🇫🇷
 
-### Spree Commerce
+#### Spree Commerce
 
 - Website: <https://spreecommerce.org/>
 - Creator/vendor: Spark Solutions 🇵🇱
 
-### Suite CRM
+#### Suite CRM
 
 - Website: <https://suitecrm.com/>
 - Creator/vendor: SalesAgility 🇬🇧
 - [Commercial support](https://salesagility.com/support-assistance/suitecrm-dedicated-support)
 
-### TiddlyWiki
+#### TiddlyWiki
 
 - Website: <https://tiddlywiki.com/>
 - Creator/vendor: TiddlyWiki Community 🇬🇧
 
-### Tryton
+#### Tryton
 
 - Website: <https://www.tryton.org/>
 - Creator/vendor: Tryton Foundation 🇧🇪
 - [Commercial support](http://www.tryton.org/service-providers)
 
-### Uhuru
+#### Uhuru
 
 - Website: <https://www.uhuru-mobile.com/>
 - Creator/vendor: Teclib' 🇫🇷
 
-### Umbraco
+#### Umbraco
 
 - Website: <https://umbraco.com/>
 - Creator/vendor: Umbraco 🇩🇰
 - [Commercial support](https://umbraco.com/products/umbraco-support/)
 
-### Umbrello UML Editor
+#### Umbrello UML Editor
 
 - Website: <https://umbrello.kde.org/>
 - Creator/vendor: KDE Association 🇩🇪
 
-### UML Designer
+#### UML Designer
 
 - Website: <http://www.umldesigner.org/>
 - Creator/vendor: Obeo 🇫🇷
 - [Commercial support](http://www.umldesigner.org/support/)
 
-### UniTime.org
+#### UniTime.org
 
 - Website: <https://www.unitime.org/>
 - Creator/vendor: Apereo Foundation 🇫🇷
 - [Commercial support](https://www.unitime.org/index.php?tab=3)
 
-### Unnamed SFU
+#### Unnamed SFU
 
 - Website: <https://www.irif.fr/~jch/software/sfu/>
 - Creator/vendor: Paris University 🇫🇷
 
-### UPortal
+#### UPortal
 
 - Website: <https://www.apereo.org/projects/uportal>
 - Creator/vendor: Apereo Foundation 🇫🇷
 
-### VirtueMart
+#### VirtueMart
 
 - Website: <https://www.virtuemart.net/>
 - Creator/vendor: Istraxx UG 🇩🇪
 - [Commercial support](https://virtuemart.net/partner)
 
-### Xerte
+#### Xerte
 
 - Website: <https://www.xerte.org.uk/index.php?lang=en>
 - Creator/vendor: Apereo Foundation 🇫🇷
 - [Commercial support](https://www.xerte.org.uk/index.php/en/support-menu/support)
 
-### XWiki
+#### XWiki
 
 - Website: <https://xwiki.org/>
 - Creator/vendor: XWiki SAS 🇫🇷
 - [Commercial support](https://xwiki.com/en/pricing/)
 
 
-## Communication
+### Communication
 
 
-### BlueMind
+#### BlueMind
 
 - Website: <https://www.bluemind.net/en/>
 - Creator/vendor: BlueMind 🇫🇷
 
-### egroupware
+#### egroupware
 
 - Website: <https://www.egroupware.org>
 - Creator/vendor: egroupware 🇩🇪
 - [Commercial support](https://www.egroupware.org/en/egroupware-support/)
 
-### ejabberd
+#### ejabberd
 
 - Website: <https://www.process-one.net/en/ejabberd/>
 - Creator/vendor: Process One 🇫🇷
 - [Commercial support](https://www.process-one.net/en/ejabberd/#getejabberd)
 
-### Mailpile
+#### Mailpile
 
 - Website: <https://www.mailpile.is/>
 - Creator/vendor: Mailpile Developers 🇮🇸
 - [Commercial support](https://community.mailpile.is/categories)
 
-### OBM
-
-- Website: <https://www.linagora.com/obm>
-- Creator/vendor: Linagora 🇫🇷
-- [Commercial support](https://www.linagora.com/ossa)
-
-### Open Studio Data Preparation
+#### Open Studio Data Preparation
 
 - Website: <https://www.talend.com/products/data-preparation>
 - Creator/vendor: Talend 🇺🇸
 
-### OpenEMM
+#### OpenEMM
 
 - Website: <https://www.agnitas.de/en/e-marketing_manager/email-marketing-software-variants/openemm/>
 - Creator/vendor: Agnitas AG 🇩🇪
 
-### OX App Suite
+#### OX App Suite
 
 - Website: <https://oxpedia.org/wiki/index.php?title=AppSuite:Main_Page_AppSuite#information>
 - Creator/vendor: Open-Xchange 🇩🇪
 - [Commercial support](https://www.open-xchange.com/services/ox-support/ox-app-suite-ox-dovecot-pro/)
 
-### OX Dovecot Pro
+#### OX Dovecot Pro
 
 - Website: <https://oxpedia.org/wiki/index.php?title=Dovecot:Main_Page_Dovecot#dovecotinformation>
 - Creator/vendor: Open-Xchange 🇩🇪
 - [Commercial support](https://www.open-xchange.com/services/ox-support/ox-app-suite-ox-dovecot-pro/)
 
-### Roundcube
+#### Roundcube
 
 - Website: <https://roundcube.net/>
 - Creator/vendor: Roundcube Developers 🇨🇭
 - [Commercial support](https://roundcube.net/support/)
 
-### Silverpeas
+#### Silverpeas
 
 - Website: <https://www.silverpeas.com/pourquoi-choisir-silverpeas/>
 - Creator/vendor: Silverpeas 🇫🇷
 - [Commercial support](https://www.silverpeas.com/support/)
 
-### Swift Mailer
+#### Swift Mailer
 
 - Website: <http://swiftmailer.org/>
 - Creator/vendor: SensioLabs 🇫🇷
 
-### Tutanota
+#### Tutanota
 
 - Website: <https://www.lighttpd.net/>
 - Creator/vendor: Tutao GmbH 🇩🇪
 - [Commercial support](https://tutanota.com/contact)
 
 
-## Database
+### Database
 
 
-### CrateDB
+#### CrateDB
 
 - Website: <https://crate.io/products/cratedb/>
 - Creator/vendor: Crate.io 🇦🇹
 - [Commercial support](https://crate.io/support/)
 
-### eXistDB
+#### eXistDB
 
 - Website: <http://exist-db.org>
 - Creator/vendor: eXist Solutions 🇩🇪
 - [Commercial support](http://exist-db.org/exist/apps/homepage/index.html)
 
-### MariaDB 10.1
+#### MariaDB 10.1
 
 - Website: <https://mariadb.com/products/mariadb-enterprise>
 - Creator/vendor: MariaDB Corporation Ab 🇫🇮
 - [Commercial support](https://mariadb.com/services/mariadb-mysql-subscription-services)
 
-### MariaDB MaxScale
+#### MariaDB MaxScale
 
 - Website: <https://mariadb.com/products/mariadb-maxscale>
 - Creator/vendor: MariaDB Corporation Ab 🇫🇮
 - [Commercial support](https://mariadb.com/services/mariadb-mysql-subscription-services)
 
-### MongoDB
+#### MongoDB
 
 - Website: <https://www.mongodb.com/>
 - Creator/vendor: MongoDB 🇺🇸
 
-### NEO
+#### NEO
 
 - Website: <https://neo.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### Objectbox
+#### Objectbox
 
 - Website: <https://objectbox.io/>
 - Creator/vendor: Objectbox 🇩🇪
 - [Commercial support](https://objectbox.io/contact)
 
-### OpenIO
+#### OpenIO
 
 - Website: <https://www.openio.io/product/product-overview>
 - Creator/vendor: Openio 🇫🇷
 - [Commercial support](https://www.openio.io/plans)
 
 
-## Desktop
+### Desktop
 
 
-### Chromium
+#### Chromium
 
 - Website: <https://www.chromium.org/Home>
 - Creator/vendor: Google 🇺🇸
 
-### Chromium OS
+#### Chromium OS
 
 - Website: <https://www.chromium.org/chromium-os>
 - Creator/vendor: Google 🇺🇸
 - [Commercial support](https://www.chromium.org/chromium-os)
 
 
-## Developer
+### Developer
 
 
-### Animejs
+#### Animejs
 
 - Website: <https://animejs.com/>
 - Creator/vendor: Animejs Developers 🇫🇷
 
-### Blender
+#### Blender
 
 - Website: <https://www.blender.org/>
 - Creator/vendor: Blender Foundation 🇳🇱
 - [Commercial support](https://www.blender.org/support/)
 
-### Bulma
+#### Bulma
 
 - Website: <https://bulma.io/>
 - Creator/vendor: Bulma Developers 🇬🇧
 
-### Cassandra
+#### Cassandra
 
 - Website: <http://dev.artenum.com/projects/cassandra>
 - Creator/vendor: Artenum 🇫🇷
 - [Commercial support](http://www.artenum.com/EN/Products-Cassandra.html)
 
-### Collabora Code
+#### Collabora Code
 
 - Website: <https://www.collaboraoffice.com/code/>
 - Creator/vendor: Collabora 🇬🇧
 - [Commercial support](https://www.collaboraoffice.com/solutions/support-and-services/)
 
-### Contao
+#### Contao
 
 - Website: <https://contao.org/>
 - Creator/vendor: Contao Association 🇨🇭
 - [Commercial support](https://contao.org/en/support.html)
 
-### Cuba Platform
+#### Cuba Platform
 
 - Website: <https://www.cuba-platform.com/>
 - Creator/vendor: Haulmont 🇬🇧
 - [Commercial support](https://www.cuba-platform.com/support-options/)
 
-### Dhtmlx
+#### Dhtmlx
 
 - Website: <https://dhtmlx.com/>
 - Creator/vendor: Dinamenta 🇱🇮
 - [Commercial support](https://dhtmlx.com/docs/technical-support.shtml)
 
-### Doxygen
+#### Doxygen
 
 - Website: <https://www.doxygen.nl/>
 - Creator/vendor: Doxygen Developers 🇳🇱
 - [Commercial support](https://www.doxygen.nl/support.html)
 
-### Drupal Core
+#### Drupal Core
 
 - Website: <https://www.drupal.org/>
 - Creator/vendor: Drupal 🇧🇪
 - [Commercial support](https://www.drupal.org/support)
 
-### Dynacase
+#### Dynacase
 
 - Website: <http://www.dynacase.org/>
 - Creator/vendor: Anakeen 🇫🇷
 
-### Edge: ExtendeD Gdml Editor
+#### Edge: ExtendeD Gdml Editor
 
 - Website: <http://www.space-suite.com/edge/>
 - Creator/vendor: Artenum 🇫🇷
 - [Commercial support](http://www.space-suite.com/contact/request-dop/)
 
-### Flamingo
+#### Flamingo
 
 - Website: <https://www.flamingo.me/>
 - Creator/vendor: AOE GmbH 🇩🇪
 
-### Flow
+#### Flow
 
 - Website: <https://flow.neos.io/>
 - Creator/vendor: Neos Foundation 🇬🇧
 - [Commercial support](https://flow.neos.io/docs-and-support.html)
 
-### FreeCad
+#### FreeCad
 
 - Website: <https://www.freecadweb.org/>
 - Creator/vendor: FreeCad Developer Team 🇫🇷
 
-### FuelPHP
+#### FuelPHP
 
 - Website: <https://fuelphp.com/>
 - Creator/vendor: FuelPHP Developer Team 🇳🇱
 
-### GnatPro
+#### GnatPro
 
 - Website: <https://www.adacore.com/gnatpro>
 - Creator/vendor: Adacore 🇫🇷
 - [Commercial support](https://www.adacore.com/support)
 
-### jIO
+#### jIO
 
 - Website: <https://jio.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### Keridwen
+#### Keridwen
 
 - Website: <http://dev.artenum.com/projects/keridwen>
 - Creator/vendor: Artenum 🇫🇷
 - [Commercial support](http://dev.artenum.com/projects/keridwen/commercial/support)
 
-### KiCad
+#### KiCad
 
 - Website: <http://www.kicad-pcb.org>
 - Creator/vendor: KiCad Developer Team 🇫🇷
 
-### Koseven (Kohana)
+#### Koseven (Kohana)
 
 - Website: <https://koseven.dev/>
 - Creator/vendor: Koseven Developers 🇪🇸
 - [Commercial support](https://koseven.dev/help)
 
-### Labgrid
+#### Labgrid
 
 - Website: <https://labgrid.readthedocs.io/en/latest/>
 - Creator/vendor: Pengutronix 🇩🇪
 - [Commercial support](https://www.pengutronix.de/de/services/embedded-linux-consulting.html)
 
-### Launchpad
+#### Launchpad
 
 - Website: <https://launchpad.net/>
 - Creator/vendor: Canonical 🇬🇧
 - [Commercial support](https://help.launchpad.net/Feedback)
 
-### Liquidity
+#### Liquidity
 
 - Website: <http://www.liquidity-lang.org/>
 - Creator/vendor: OCAML Pro 🇫🇷
 - [Commercial support](http://www.liquidity-lang.org/)
 
-### Nette
+#### Nette
 
 - Website: <https://nette.org/en/>
 - Creator/vendor: Nette Foundation 🇨🇿
 - [Commercial support](https://doc.nette.org/en/3.0/quickstart/getting-started)
 
-### OnlyOffice
+#### OnlyOffice
 
 - Creator/vendor: Ascensio System 🇱🇻
 - [Commercial support](https://www.onlyoffice.com/en/support.aspx)
 
-### Peertube
+#### Peertube
 
 - Website: <https://joinpeertube.org/>
 - Creator/vendor: Typo3 GmbH 🇨🇭
 - [Commercial support](https://typo3.com/)
 
-### Peertube
+#### Peertube
 
 - Website: <https://joinpeertube.org/>
 - Creator/vendor: Framasoft 🇫🇷
 
-### Phalcon
+#### Phalcon
 
 - Website: <https://phalcon.io/>
 - Creator/vendor: Phalcon Developers 🇳🇱
 
-### PHPmyFaq
+#### PHPmyFaq
 
 - Website: <https://www.phpmyfaq.de/>
 - Creator/vendor: PHPmyFaq Developers 🇩🇪
 - [Commercial support](https://www.phpmyfaq.de/support)
 
-### Plausible
+#### Plausible
 
 - Website: <https://plausible.io/>
 - Creator/vendor: Plausible Insights 🇪🇪
 
-### Proxmox Virtual Environment
+#### Proxmox Virtual Environment
 
 - Website: <https://www.proxmox.com/de/proxmox-ve>
 - Creator/vendor: Proxmox 🇦🇹
 - [Commercial support](https://www.proxmox.com/de/proxmox-ve/support)
 
-### PyQtWebEngine
+#### PyQtWebEngine
 
 - Website: <https://www.riverbankcomputing.com/software/pyqtwebengine/intro>
 - Creator/vendor: Riverband Limited 🇬🇧
 
-### QT
+#### QT
 
 - Website: <https://www.qt.io/>
 - Creator/vendor: QT Company 🇫🇮
 - [Commercial support](https://www.qt.io/find-a-qt-advisor/)
 
-### QT Creator
+#### QT Creator
 
 - Website: <https://www.qt.io/>
 - Creator/vendor: QT Company 🇫🇮
 - [Commercial support](https://www.qt.io/find-a-qt-advisor/)
 
-### Renderjs
+#### Renderjs
 
 - Website: <https://renderjs.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### RhodeCode Community Edition
+#### RhodeCode Community Edition
 
 - Website: <https://rhodecode.com/>
 - Creator/vendor: RhodeCode 🇩🇪
 - [Commercial support](https://rhodecode.com/support)
 
-### Ruby on Rails
+#### Ruby on Rails
 
 - Website: <https://rubyonrails.org/>
 - Creator/vendor: Ruby on Rails Developers 🇩🇰
 - [Commercial support](https://doc.nette.org/en/3.0/quickstart/getting-started)
 
-### Rudder
+#### Rudder
 
 - Website: <https://www.rudder.io/>
 - Creator/vendor: Normation 🇫🇷
 - [Commercial support](https://www.rudder.io/en/pricing/subscription/)
 
-### Scilint
+#### Scilint
 
 - Creator/vendor: OCAML Pro 🇫🇷
 - [Commercial support](http://ocamlpro.com/)
 
-### SILEX
+#### SILEX
 
 - Website: <http://silex.sensiolabs.org/>
 - Creator/vendor: SensioLabs 🇫🇷
 
-### Sonarqube
+#### Sonarqube
 
 - Website: <https://www.sonarqube.org/>
 - Creator/vendor: Sonarsource 🇨🇭
 - [Commercial support](https://www.sonarqube.org/downloads/)
 
-### SquashTF
+#### SquashTF
 
 - Website: <https://www.squashtest.com/squash-tf>
 - Creator/vendor: Henix 🇫🇷
 - [Commercial support](https://www.squashtest.com/services-expertise-squash-tf)
 
-### SquashTM
+#### SquashTM
 
 - Website: <https://www.squashtest.com/squash-tm>
 - Creator/vendor: Henix 🇫🇷
 - [Commercial support](https://www.squashtest.com/services-expertise-squash-tm)
 
-### Swift
+#### Swift
 
 - Website: <https://developer.apple.com/swift/>
 - Creator/vendor: Apple 🇺🇸
 
-### Symfony
+#### Symfony
 
 - Website: <http://symfony.com/>
 - Creator/vendor: SensioLabs 🇫🇷
 - [Commercial support](https://sensiolabs.com/en/professional-services/index.html)
 
-### Tuleap
+#### Tuleap
 
 - Website: <https://www.tuleap.org/>
 - Creator/vendor: Enalean 🇫🇷
 - [Commercial support](https://www.tuleap.org/tuleap-community)
 
-### TWIG
+#### TWIG
 
 - Website: <http://twig.sensiolabs.org/>
 - Creator/vendor: SensioLabs 🇫🇷
 
-### Vaadin
+#### Vaadin
 
 - Website: <https://vaadin.com/>
 - Creator/vendor: Vaadin 🇫🇮
 - [Commercial support](https://vaadin.com/support)
 
-### Visual Studio Code
+#### Visual Studio Code
 
 - Website: <https://code.visualstudio.com/>
 - Creator/vendor: Microsoft 🇺🇸
 
-### Webrunner
+#### Webrunner
 
 - Website: <https://webrunner.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
 
-## Gis
+### Gis
 
 
-### gvsig Desktop
+#### gvsig Desktop
 
 - Website: <http://www.gvsig.com/en/products/gvsig-desktop/downloads>
 - Creator/vendor: GVSIG Association 🇪🇸
 - [Commercial support](http://www.gvsig.com/en/services)
 
-### gvsig Mini
+#### gvsig Mini
 
 - Website: <http://www.gvsig.com/en/products/gvsig-mini>
 - Creator/vendor: GVSIG Association 🇪🇸
 - [Commercial support](http://www.gvsig.com/en/services)
 
-### gvsig Mobile
+#### gvsig Mobile
 
 - Website: <http://www.gvsig.com/en/products/gvsig-mobile>
 - Creator/vendor: GVSIG Association 🇪🇸
 - [Commercial support](http://www.gvsig.com/en/services)
 
-### gvsig Online
+#### gvsig Online
 
 - Website: <http://www.gvsig.com/en/products/gvsig-online>
 - Creator/vendor: GVSIG Association 🇪🇸
 - [Commercial support](http://www.gvsig.com/en/services)
 
-### i3geo
+#### i3geo
 
 - Website: <http://www.gvsig.com/en/products/i3geo>
 - Creator/vendor: GVSIG Association 🇪🇸
 - [Commercial support](http://www.gvsig.com/en/services)
 
-### orekit
+#### orekit
 
 - Website: <https://www.orekit.org/>
 - Creator/vendor: CS Group 🇫🇷
 - [Commercial support](https://www.orekit.org/support.html)
 
 
-## Infrastructure
+### Infrastructure
 
 
-### /e/
+#### /e/
 
 - Website: <https://e.foundation/products/>
 - Creator/vendor: e.foundation 🇫🇷
 - [Commercial support](https://e.foundation/get-support/)
 
-### Barebox
+#### Barebox
 
 - Website: <https://www.barebox.org>
 - Creator/vendor: Pengutronix 🇩🇪
 - [Commercial support](https://www.pengutronix.de/de/services/embedded-linux-consulting.html)
 
-### basebox
+#### basebox
 
 - Website: <https://www.basebox.org/>
 - Creator/vendor: BISDN 🇩🇪
 - [Commercial support](https://www.bisdn.de/#contact)
 
-### Caddy Webserver
+#### Caddy Webserver
 
 - Website: <https://caddyserver.com/>
 - Creator/vendor: API Layer GmbH 🇦🇹
 - [Commercial support](https://caddyserver.com/business)
 
-### CFEngine
+#### CFEngine
 
 - Website: <https://cfengine.com/>
 - Creator/vendor: Northern Tech 🇫🇮
 - [Commercial support](https://cfengine.com/support/)
 
-### Cloudooo
+#### Cloudooo
 
 - Website: <https://cloudooo.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### Cozycloud
+#### Cozycloud
 
 - Website: <https://cozy.io/>
 - Creator/vendor: Cozycloud 🇫🇷
 - [Commercial support](https://cozy.io/en/support/)
 
-### DistroKit
+#### DistroKit
 
 - Website: <https://www.pengutronix.de/de/software/distrokit.html>
 - Creator/vendor: Pengutronix 🇩🇪
 - [Commercial support](https://www.pengutronix.de/de/services/embedded-linux-consulting.html)
 
-### Elbe
+#### Elbe
 
 - Website: <https://elbe-rfs.org/>
 - Creator/vendor: Linutroinx 🇩🇪
 - [Commercial support](https://elbe-rfs.org/support/)
 
-### ELDK-5
+#### ELDK-5
 
 - Website: <https://www.denx.de/wiki/ELDK-5>
 - Creator/vendor: Denx 🇩🇪
 - [Commercial support](http://www.denx.de/en/AboutUs/AboutDenxSE)
 
-### Gatling
+#### Gatling
 
 - Website: <https://gatling.io/open-source/>
 - Creator/vendor: Gatling 🇫🇷
 - [Commercial support](https://gatling.io/consulting-and-training/)
 
-### Gradle
+#### Gradle
 
 - Website: <https://gradle.org/>
 - Creator/vendor: Gradle 🇩🇪
 - [Commercial support](https://gradle.com/?_ga=2.125672266.1914199285.1601307210-1245986244.1600896727)
 
-### HAProxy
+#### HAProxy
 
 - Website: <http://www.haproxy.org/#down>
 - Creator/vendor: Haproxy Technologies 🇫🇷
 - [Commercial support](http://www.haproxy.org/#down)
 
-### Lighttpd
+#### Lighttpd
 
 - Website: <https://www.lighttpd.net/>
 - Creator/vendor: Lighttpd Community 🇩🇪
 - [Commercial support](https://redmine.lighttpd.net/projects/lighttpd/boards/2)
 
-### Linuxcontainers LXC
+#### Linuxcontainers LXC
 
 - Website: <https://linuxcontainers.org/>
 - Creator/vendor: Canonical 🇬🇧
 
-### Mender
+#### Mender
 
 - Website: <https://mender.io/>
 - Creator/vendor: Northern Tech 🇫🇮
 - [Commercial support](https://mender.io/support-and-services/professional-services)
 
-### Nayuos
+#### Nayuos
 
 - Website: <https://nayuos.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### NixOS
+#### NixOS
 
 - Website: <https://nixos.org>
 - Creator/vendor: NixOS 🇳🇱
 - [Commercial support](https://nixos.org/nixos/support.html)
 
-### NodeWeaver
+#### NodeWeaver
 
 - Website: <https://www.nodeweaver.eu/>
 - Creator/vendor: NodeWeaver 🇮🇹
 - [Commercial support](https://ticket.nodeweaver.eu/)
 
-### Open Nebula
+#### Open Nebula
 
 - Website: <https://opennebula.org/>
 - Creator/vendor: C12G Labs 🇪🇸
 - [Commercial support](https://support.opennebula.pro/hc/en-us)
 
-### OpenAttic
+#### OpenAttic
 
 - Website: <https://www.openattic.org/>
 - Creator/vendor: Suse Linux GmbH 🇩🇪
 - [Commercial support](https://pydio.com/en/pricing/contact)
 
-### OpenMediaVault
+#### OpenMediaVault
 
 - Website: <https://www.openmediavault.org/>
 - Creator/vendor: OpenMediaVault Developers 🇩🇪
 
-### OpenPaas
-
-- Website: <http://open-paas.org/>
-- Creator/vendor: Linagora 🇫🇷
-- [Commercial support](https://www.linagora.com/ossa)
-
-### OpenQRM Community Edition
+#### OpenQRM Community Edition
 
 - Website: <https://openqrm-enterprise.com/products/community-edition>
 - Creator/vendor: OpenQRM 🇩🇪
 
-### OpenSVC
+#### OpenSVC
 
 - Website: <https://www.opensvc.com/>
 - Creator/vendor: OpenSVC 🇫🇷
 - [Commercial support](https://www.opensvc.com/)
 
-### Preempt
+#### Preempt
 
 - Website: <https://linutronix.de/open-source/RT.php>
 - Creator/vendor: Linutroinx 🇩🇪
 
-### Prelude-Siem
+#### Prelude-Siem
 
 - Website: <https://www.prelude-siem.com/en/>
 - Creator/vendor: CS Group 🇫🇷
 
-### PTXDist
+#### PTXDist
 
 - Website: <https://www.ptxdist.org/>
 - Creator/vendor: Pengutronix 🇩🇪
 - [Commercial support](https://www.pengutronix.de/de/services/embedded-linux-consulting.html)
 
-### Pydio
+#### Pydio
 
 - Website: <https://pydio.com/>
 - Creator/vendor: Abstrium 🇫🇷
 - [Commercial support](https://pydio.com/en/pricing/contact)
 
-### RAUC
+#### RAUC
 
 - Website: <https://www.rauc.io/>
 - Creator/vendor: Pengutronix 🇩🇪
 - [Commercial support](https://www.pengutronix.de/de/services/embedded-linux-consulting.html)
 
-### Re6st
+#### Re6st
 
 - Website: <https://re6st.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### SlapOS
+#### SlapOS
 
 - Website: <https://slapos.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 - [Commercial support](http://www.nexedi.com/service/nexedi-service-slapos)
 
-### U-Boot
+#### U-Boot
 
 - Website: <https://www.denx.de/wiki/U-Boot>
 - Creator/vendor: Denx 🇩🇪
 - [Commercial support](http://www.denx.de/en/AboutUs/AboutDenxSE)
 
-### Ubuntu
+#### Ubuntu
 
 - Website: <https://ubuntu.com/>
 - Creator/vendor: Canonical 🇬🇧
 - [Commercial support](https://canonical.com/services)
 
-### Vigilo NMS
+#### Vigilo NMS
 
 - Website: <https://www.vigilo-nms.com/en/>
 - Creator/vendor: CS Group 🇫🇷
 
-### XCP-ng
+#### XCP-ng
 
 - Website: <https://xcp-ng.org/>
 - Creator/vendor: Vates 🇫🇷
 - [Commercial support](https://xcp-ng.com/service.html)
 
-### Xen Orchestra
+#### Xen Orchestra
 
 - Website: <https://xen-orchestra.com>
 - Creator/vendor: Vates 🇫🇷
 - [Commercial support](https://xen-orchestra.com/#!/xo-pricing)
 
-### Yate
+#### Yate
 
 - Website: <http://www.yate.ro/products.php?page=yate>
 - Creator/vendor: YateBTS 🇷🇴
 
 
-## Middleware
+### Middleware
 
 
-### Authentic 2
+#### Authentic 2
 
 - Website: <https://dev.entrouvert.org/projects/authentic>
 - Creator/vendor: Entrou'vert 🇫🇷
 - [Commercial support](https://www.entrouvert.com/identite-numerique/services/)
 
-### Caucase
+#### Caucase
 
 - Website: <https://caucase.nexedi.com/>
 - Creator/vendor: Nexedi 🇫🇷
 
-### DPDK
+#### DPDK
 
 - Website: <https://www.dpdk.org/>
 - Creator/vendor: 6wind 🇫🇷
 - [Commercial support](https://www.dpdk.org/ecosystem#support)
 
-### EJBCA
+#### EJBCA
 
 - Website: <https://www.ejbca.org/>
 - Creator/vendor: PrimeKey Solutions 🇸🇪
 - [Commercial support](https://www.ejbca.org/support/)
 
-### Fylve
+#### Fylve
 
 - Website: <https://www.flyve-mdm.com/>
 - Creator/vendor: Teclib' 🇫🇷
 - [Commercial support](https://www.flyve-mdm.com/subscriptions/)
 
-### Greenbone Vulnerability Management (GVM) Framework (former OpenVAS)
+#### Greenbone Vulnerability Management (GVM) Framework (former OpenVAS)
 
 - Website: <http://www.openvas.org/>
 - Creator/vendor: Greenbone GmbH 🇩🇪
 - [Commercial support](https://www.greenbone.net/en/services/)
 
-### Lasso
+#### Lasso
 
 - Website: <http://dev.entrouvert.org/projects/lasso>
 - Creator/vendor: Entrou'vert 🇫🇷
 - [Commercial support](https://www.entrouvert.com/identite-numerique/services/)
 
-### OPAM
+#### OPAM
 
 - Creator/vendor: OCAML Pro 🇫🇷
 - [Commercial support](http://ocamlpro.com/)
 
-### Open Studio Data Integration
+#### Open Studio Data Integration
 
 - Website: <https://www.talend.com/products/data-integration>
 - Creator/vendor: Talend 🇺🇸
 
-### Open Studio ESB/Application Integration
+#### Open Studio ESB/Application Integration
 
 - Website: <https://www.talend.com/products/application-integration>
 - Creator/vendor: Talend 🇺🇸
 
-### OX PowerDNS
+#### OX PowerDNS
 
 - Website: <https://www.powerdns.com/software.html>
 - Creator/vendor: Open-Xchange 🇩🇪
 - [Commercial support](https://www.open-xchange.com/services/ox-support/ox-powerdns/)
 
-### Petals ESB
-
-- Creator/vendor: Linagora 🇫🇷
-- [Commercial support](https://www.linagora.com/ossa)
-
-### Proxmox Mail Gateway
+#### Proxmox Mail Gateway
 
 - Website: <https://www.proxmox.com/de/proxmox-mail-gateway>
 - Creator/vendor: Proxmox 🇦🇹
 - [Commercial support](https://www.proxmox.com/de/proxmox-ve/support)
 
-### PyQt
+#### PyQt
 
 - Website: <https://riverbankcomputing.com/software/pyqt/intro>
 - Creator/vendor: Riverband Limited 🇬🇧
 - [Commercial support](https://www.riverbankcomputing.com/commercial/pyqt)
 
-### PyQt3d
+#### PyQt3d
 
 - Website: <https://www.riverbankcomputing.com/software/pyqt3d/intro>
 - Creator/vendor: Riverband Limited 🇬🇧
 
-### PyQtChart
+#### PyQtChart
 
 - Website: <https://www.riverbankcomputing.com/software/pyqtchart/intro>
 - Creator/vendor: Riverband Limited 🇬🇧
 
-### PyQtDataVisualization
+#### PyQtDataVisualization
 
 - Website: <https://www.riverbankcomputing.com/software/pyqtdatavisualization/intro>
 - Creator/vendor: Riverband Limited 🇬🇧
 
-### PyQtPurchasing
+#### PyQtPurchasing
 
 - Website: <https://www.riverbankcomputing.com/software/pyqtpurchasing/intro>
 - Creator/vendor: Riverband Limited 🇬🇧
 
-### PySide
+#### PySide
 
 - Website: <https://wiki.qt.io/Qt_for_Python>
 - Creator/vendor: QT Company 🇫🇮
 
-### Ravada
+#### Ravada
 
 - Website: <http://ravada.upc.edu/>
 - Creator/vendor: Teclib' 🇫🇷
 - [Commercial support](http://ravada.upc.edu/)
 
 
-## Mobile
+### Mobile
 
 
-### Chromium
+#### Chromium
 
 - Website: <https://www.chromium.org/Home>
 - Creator/vendor: Google 🇺🇸
 
-### Chromium OS
+#### Chromium OS
 
 - Website: <https://www.chromium.org/chromium-os>
 - Creator/vendor: Google 🇺🇸
