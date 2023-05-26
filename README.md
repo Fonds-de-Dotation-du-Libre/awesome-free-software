@@ -9,7 +9,6 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### ikats
 
-- Description: .
 - Website: <https://ikats.org/>
 - Creator/vendor: [CS Group 🇫🇷](https://www.c-s.fr/)
 - [Commercial support](https://ikats.org/support.html)
@@ -22,7 +21,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Mondrian
 
-- Description: Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
+<em>Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.</em>
+
 - Website: <http://community.pentaho.com/projects/mondrian/>
 - Creator/vendor: [Pentaho 🇺🇸](http://www.pentaho.com/)
 
@@ -82,7 +82,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Abilian SBE
 
-- Description: Abilian Social Business Engine - an enterprise social networking / collaboration platform.
+<em>Abilian Social Business Engine - an enterprise social networking / collaboration platform.</em>
+
 - Website: <https://abilian.com/fr/solutions/reseau-social-entreprise/>
 - Creator/vendor: [abilian 🇫🇷](https://www.abilian.com/)
 - [Commercial support](https://abilian.com/fr/solutions/reseau-social-entreprise/)
@@ -189,7 +190,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### CAS
 
-- Description: Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
+<em>Apereo CAS - Identity & Single Sign On for all earthlings and beyond.</em>
+
 - Website: <https://www.apereo.org/projects/cas>
 - Creator/vendor: [Apereo Foundation 🇫🇷](https://www.apereo.org/)
 
@@ -225,7 +227,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Cryptpad
 
-- Description: Collaborative office suite, end-to-end encrypted and open-source.
+<em>Collaborative office suite, end-to-end encrypted and open-source.</em>
+
 - Website: <https://cryptpad.fr/>
 - Creator/vendor: [XWiki SAS 🇫🇷](xwiki.com)
 - [Commercial support](https://cryptpad.fr/features.html)
@@ -290,7 +293,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Exoplatform
 
-- Description: eXo Platform Public Distributions.
+<em>eXo Platform Public Distributions.</em>
+
 - Website: <https://www.exoplatform.com/technology/>
 - Creator/vendor: [Exoplatform 🇫🇷](https://www.exoplatform.com/)
 - [Commercial support](https://www.openhub.net/p/exo_platform)
@@ -315,7 +319,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Ghost
 
-- Description: Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+<em>Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.</em>
+
 - Website: <https://ghost.org/>
 - Creator/vendor: [Ghost Foundation 🇬🇧](https://ghost.org/)
 - [Commercial support](https://ghost.org/enterprise/)
@@ -328,7 +333,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### GnuCash
 
-- Description: GnuCash Double-Entry Accounting Program.
+<em>GnuCash Double-Entry Accounting Program.</em>
+
 - Website: <https://www.gnucash.org/>
 - Creator/vendor: [GnuCash 🇧🇪](https://www.gnucash.org/)
 - [Commercial support](https://wiki.gnucash.org/wiki/Getting_Help)
@@ -346,7 +352,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### IS Designer
 
-- Description: Un outil open-source complet pour décrire visuellement les applications de votre système d’information.
+<em>Un outil open-source complet pour décrire visuellement les applications de votre système d’information.</em>
+
 - Website: <https://www.obeo.fr/en/products/is-designer>
 - Creator/vendor: [Obeo 🇫🇷](https://www.obeo.fr/)
 
@@ -386,7 +393,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Lab&Co
 
-- Description: Lab&Co - solution métier pour fluidifier les relations entre chercheurs et administration dans les universités et les EPST.
+<em>Lab&Co - solution métier pour fluidifier les relations entre chercheurs et administration dans les universités et les EPST.</em>
+
 - Website: <https://abilian.com/fr/solutions/labandco/>
 - Creator/vendor: [abilian 🇫🇷](https://www.abilian.com/)
 - [Commercial support](https://abilian.com/fr/solutions/labandco/)
@@ -451,7 +459,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Nextcloud
 
-- Description: ☁️ Nextcloud server, a safe home for all your data.
+<em>☁️ Nextcloud server, a safe home for all your data.</em>
+
 - Website: <https://nextcloud.com/hub/>
 - Creator/vendor: [Nextcloud 🇩🇪](https://nextcloud.com/)
 - [Commercial support](https://portal.nextcloud.com/)
@@ -476,7 +485,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Odoo Apps
 
-- Description: Odoo. Open Source Apps To Grow Your Business.
+<em>Odoo. Open Source Apps To Grow Your Business.</em>
+
 - Website: <https://www.odoo.com>
 - Creator/vendor: [Odoo 🇧🇪](https://www.odoo.com/)
 
@@ -544,7 +554,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### opencrx
 
-- Description: openCRX Core Project.
+<em>openCRX Core Project.</em>
+
 - Website: <http://www.opencrx.org>
 - Creator/vendor: [Crixp AG 🇨🇭](http://www.crixp.com/)
 - [Commercial support](http://www.opencrx.org/support.htm)
@@ -563,7 +574,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### OpenEquella
 
-- Description: Core openEQUELLA sources.
+<em>Core openEQUELLA sources.</em>
+
 - Website: <https://openequella.github.io/>
 - Creator/vendor: [Apereo Foundation 🇫🇷](https://www.apereo.org/)
 
@@ -634,7 +646,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### PrestaShop
 
-- Description: PrestaShop is the universal open-source software platform to build your e-commerce solution.
+<em>PrestaShop is the universal open-source software platform to build your e-commerce solution.</em>
+
 - Website: <https://www.prestashop.com/>
 - Creator/vendor: [PrestaShop SA 🇫🇷](https://www.prestashop.com)
 - [Commercial support](http://addons.prestashop.com/en/388-support)
@@ -680,7 +693,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Spree Commerce
 
-- Description: Open Source multi-language/multi-currency/multi-store eCommerce platform.
+<em>Open Source multi-language/multi-currency/multi-store eCommerce platform.</em>
+
 - Website: <https://spreecommerce.org/>
 - Creator/vendor: [Spark Solutions 🇵🇱](https://sparksolutions.co/)
 
@@ -725,7 +739,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### UniTime.org
 
-- Description: Comprehensive University Timetabling System.
+<em>Comprehensive University Timetabling System.</em>
+
 - Website: <https://www.unitime.org/>
 - Creator/vendor: [Apereo Foundation 🇫🇷](https://www.apereo.org/)
 - [Commercial support](https://www.unitime.org/index.php?tab=3)
@@ -737,7 +752,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### UPortal
 
-- Description: Enterprise open source portal built by and for the higher education community.
+<em>Enterprise open source portal built by and for the higher education community.</em>
+
 - Website: <https://www.apereo.org/projects/uportal>
 - Creator/vendor: [Apereo Foundation 🇫🇷](https://www.apereo.org/)
 
@@ -755,7 +771,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### XWiki
 
-- Description: The XWiki platform.
+<em>The XWiki platform.</em>
+
 - Website: <https://xwiki.org/>
 - Creator/vendor: [XWiki SAS 🇫🇷](xwiki.com)
 - [Commercial support](https://xwiki.com/en/pricing/)
@@ -823,13 +840,15 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Swift Mailer
 
-- Description: Comprehensive mailing tools for PHP.
+<em>Comprehensive mailing tools for PHP.</em>
+
 - Website: <http://swiftmailer.org/>
 - Creator/vendor: [SensioLabs 🇫🇷](https://sensiolabs.com/)
 
 #### Tutanota
 
-- Description: Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+<em>Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.</em>
+
 - Website: <https://www.lighttpd.net/>
 - Creator/vendor: [Tutao GmbH 🇩🇪](https://tutanota.com/)
 - [Commercial support](https://tutanota.com/contact)
@@ -852,14 +871,16 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### MariaDB 10.1
 
-- Description: MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+<em>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</em>
+
 - Website: <https://mariadb.com/products/mariadb-enterprise>
 - Creator/vendor: [MariaDB Corporation Ab 🇫🇮](https://www.mariadb.com)
 - [Commercial support](https://mariadb.com/services/mariadb-mysql-subscription-services)
 
 #### MariaDB MaxScale
 
-- Description: An intelligent database proxy.
+<em>An intelligent database proxy.</em>
+
 - Website: <https://mariadb.com/products/mariadb-maxscale>
 - Creator/vendor: [MariaDB Corporation Ab 🇫🇮](https://www.mariadb.com)
 - [Commercial support](https://mariadb.com/services/mariadb-mysql-subscription-services)
@@ -907,7 +928,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Animejs
 
-- Description: JavaScript animation engine.
+<em>JavaScript animation engine.</em>
+
 - Website: <https://animejs.com/>
 - Creator/vendor: [Animejs Developers 🇫🇷](https://animejs.com/)
 
@@ -919,7 +941,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Bulma
 
-- Description: Modern CSS framework based on Flexbox.
+<em>Modern CSS framework based on Flexbox.</em>
+
 - Website: <https://bulma.io/>
 - Creator/vendor: [Bulma Developers 🇬🇧](https://bulma.io/)
 
@@ -1027,7 +1050,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Labgrid
 
-- Description: embedded systems control library for development, testing and installation.
+<em>embedded systems control library for development, testing and installation.</em>
+
 - Website: <https://labgrid.readthedocs.io/en/latest/>
 - Creator/vendor: [Pengutronix 🇩🇪](https://www.pengutronix.de/)
 - [Commercial support](https://www.pengutronix.de/de/services/embedded-linux-consulting.html)
@@ -1040,7 +1064,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Liquidity
 
-- Description: A high-level language for Dune Network (and Tezos) with OCaml and ReasonML syntaxes, with a decompiler from Michelson.
+<em>A high-level language for Dune Network (and Tezos) with OCaml and ReasonML syntaxes, with a decompiler from Michelson.</em>
+
 - Website: <http://www.liquidity-lang.org/>
 - Creator/vendor: [OCAML Pro 🇫🇷](http://www.ocamlpro.com/)
 - [Commercial support](http://www.liquidity-lang.org/)
@@ -1064,7 +1089,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Peertube
 
-- Description: ActivityPub-federated video streaming platform using P2P directly in your web browser.
+<em>ActivityPub-federated video streaming platform using P2P directly in your web browser.</em>
+
 - Website: <https://joinpeertube.org/>
 - Creator/vendor: [Framasoft 🇫🇷](https://framasoft.org/fr/)
 
@@ -1081,7 +1107,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Plausible
 
-- Description: Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+<em>Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</em>
+
 - Website: <https://plausible.io/>
 - Creator/vendor: [Plausible Insights 🇪🇪](https://plausible.io/)
 
@@ -1133,13 +1160,15 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Scilint
 
-- Description: A tool to analyze Scilab projects to find potential bugs.
+<em>A tool to analyze Scilab projects to find potential bugs.</em>
+
 - Creator/vendor: [OCAML Pro 🇫🇷](http://www.ocamlpro.com/)
 - [Commercial support](http://ocamlpro.com/)
 
 #### SILEX
 
-- Description: [DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components.
+<em>[DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components.</em>
+
 - Website: <http://silex.sensiolabs.org/>
 - Creator/vendor: [SensioLabs 🇫🇷](https://sensiolabs.com/)
 
@@ -1163,13 +1192,15 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Swift
 
-- Description: The Swift Programming Language.
+<em>The Swift Programming Language.</em>
+
 - Website: <https://developer.apple.com/swift/>
 - Creator/vendor: [Apple 🇺🇸](http://www.apple.com/)
 
 #### Symfony
 
-- Description: The Symfony PHP framework.
+<em>The Symfony PHP framework.</em>
+
 - Website: <http://symfony.com/>
 - Creator/vendor: [SensioLabs 🇫🇷](https://sensiolabs.com/)
 - [Commercial support](https://sensiolabs.com/en/professional-services/index.html)
@@ -1182,7 +1213,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### TWIG
 
-- Description: Twig, the flexible, fast, and secure template language for PHP.
+<em>Twig, the flexible, fast, and secure template language for PHP.</em>
+
 - Website: <http://twig.sensiolabs.org/>
 - Creator/vendor: [SensioLabs 🇫🇷](https://sensiolabs.com/)
 
@@ -1226,7 +1258,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### gvsig Online
 
-- Description: Web platform for simplified creation and management of geoportals and Spatial Data Infrastructures (mirror from official SVN).
+<em>Web platform for simplified creation and management of geoportals and Spatial Data Infrastructures (mirror from official SVN).</em>
+
 - Website: <http://www.gvsig.com/en/products/gvsig-online>
 - Creator/vendor: [GVSIG Association 🇪🇸](http://www.gvsig.com)
 - [Commercial support](http://www.gvsig.com/en/services)
@@ -1337,7 +1370,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### Mender
 
-- Description: Mender over-the-air software updater client.
+<em>Mender over-the-air software updater client.</em>
+
 - Website: <https://mender.io/>
 - Creator/vendor: [Northern Tech 🇫🇮](https://northern.tech)
 - [Commercial support](https://mender.io/support-and-services/professional-services)
@@ -1507,7 +1541,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### OPAM
 
-- Description: OPAM is a source-based package manager for OCaml. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
+<em>OPAM is a source-based package manager for OCaml. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.</em>
+
 - Creator/vendor: [OCAML Pro 🇫🇷](http://www.ocamlpro.com/)
 - [Commercial support](http://ocamlpro.com/)
 
