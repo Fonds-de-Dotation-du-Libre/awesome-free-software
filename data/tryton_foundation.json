@@ -32,7 +32,7 @@
                 "title": "Tryton",
                 "logo": "https://cdn.tryton.org/static/images/tryton-black.png?t=1540033205",
                 "website": "https://www.tryton.org/",
-                "category_list": ["Appliation"],
+                "category_list": ["Application"],
                 "source_code_download": "http://www.tryton.org/download",
                 "source_code_profile": "https://www.openhub.net/p/tryton/analyses/latest/languages_summary",
                 "commercial_support": "http://www.tryton.org/service-providers",

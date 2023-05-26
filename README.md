@@ -2,10 +2,6 @@
 
 Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases.
 
-## 
-
-- [PyQtWebEngine](https://www.riverbankcomputing.com/software/pyqtwebengine/intro)
-
 ## Analytics
 
 - [ikats](https://ikats.org/)
@@ -20,10 +16,6 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 - [Simulagora](https://www.simulagora.com/)
 - [Warp 10](https://warp10.io/)
 - [Wendelin](https://wendelin.nexedi.com/)
-
-## Appliation
-
-- [Tryton](https://www.tryton.org/)
 
 ## Application
 
@@ -135,6 +127,7 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 - [Spree Commerce](https://spreecommerce.org/)
 - [Suite CRM](https://suitecrm.com/)
 - [TiddlyWiki](https://tiddlywiki.com/)
+- [Tryton](https://www.tryton.org/)
 - [Uhuru](https://www.uhuru-mobile.com/)
 - [Umbraco](https://umbraco.com/)
 - [Umbrello UML Editor](https://umbrello.kde.org/)
@@ -212,6 +205,7 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 - [PHPmyFaq](https://www.phpmyfaq.de/)
 - [Plausible](https://plausible.io/)
 - [Proxmox Virtual Environment](https://www.proxmox.com/de/proxmox-ve)
+- [PyQtWebEngine](https://www.riverbankcomputing.com/software/pyqtwebengine/intro)
 - [QT](https://www.qt.io/)
 - [QT Creator](https://www.qt.io/)
 - [Renderjs](https://renderjs.nexedi.com/)
