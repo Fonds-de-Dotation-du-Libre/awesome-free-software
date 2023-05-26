@@ -122,7 +122,8 @@
       "source_code_profile": "",
       "commercial_support": "https://ikats.org/support.html",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "."
     },
     {
       "title": "orekit",

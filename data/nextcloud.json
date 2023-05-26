@@ -49,7 +49,8 @@
           "language": "en",
           "url": "https://nextcloud.com/blog/9-german-educational-and-research-institutions-move-to-nextcloud-as-part-of-tu-berlin-migration-more-coming/"
         }
-      ]
+      ],
+      "description": "☁️ Nextcloud server, a safe home for all your data."
     }
   ]
 }

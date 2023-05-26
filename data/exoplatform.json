@@ -99,7 +99,8 @@
           "language": "en",
           "url": "https://www.exoplatform.com/tim-case-study/"
         }
-      ]
+      ],
+      "description": "eXo Platform Public Distributions."
     }
   ]
 }

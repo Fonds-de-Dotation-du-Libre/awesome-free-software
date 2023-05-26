@@ -38,7 +38,8 @@
       "source_code_profile": "",
       "commercial_support": "",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics."
     }
   ]
 }

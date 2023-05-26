@@ -49,7 +49,8 @@
           "language": "fr",
           "url": "https://speakerdeck.com/sfermigier/retour-d-experience-sur-lab-and-co-un-progiciel-pour-si-recherche"
         }
-      ]
+      ],
+      "description": "Lab&Co - solution métier pour fluidifier les relations entre chercheurs et administration dans les universités et les EPST."
     },
     {
       "title": "Abilian SBE",
@@ -60,7 +61,8 @@
       "source_code_profile": "https://www.openhub.net/p/abilian-sbe/analyses/latest/languages_summary",
       "commercial_support": "https://abilian.com/fr/solutions/reseau-social-entreprise/",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Abilian Social Business Engine - an enterprise social networking / collaboration platform."
     }
   ]
 }

@@ -37,7 +37,8 @@
       "source_code_profile": "https://www.openhub.net/p/opam/analyses/latest/languages_summary",
       "commercial_support": "http://ocamlpro.com/",
       "wikipedia_url": "https://en.wikipedia.org/wiki/OCaml#Development_environment",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "OPAM is a source-based package manager for OCaml. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow."
     },
     {
       "title": "Scilint",
@@ -47,7 +48,8 @@
       "source_code_profile": "https://www.openhub.net/p/scilint/analyses/latest/languages_summary",
       "commercial_support": "http://ocamlpro.com/",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "A tool to analyze Scilab projects to find potential bugs."
     },
     {
       "title": "Liquidity",
@@ -58,7 +60,8 @@
       "source_code_profile": "",
       "commercial_support": "http://www.liquidity-lang.org/",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "A high-level language for Dune Network (and Tezos) with OCaml and ReasonML syntaxes, with a decompiler from Michelson."
     }
   ]
 }

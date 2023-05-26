@@ -38,7 +38,8 @@
       "source_code_profile": "https://www.openhub.net/p/jasig_uportal/analyses/latest/languages_summary",
       "commercial_support": "",
       "wikipedia_url": "https://en.wikipedia.org/wiki/UPortal",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Enterprise open source portal built by and for the higher education community."
     },
     {
       "title": "Open Academic Environment",
@@ -60,7 +61,8 @@
       "source_code_profile": "https://www.openhub.net/p/jasig_cas/analyses/latest/languages_summary",
       "commercial_support": "",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Apereo CAS - Identity & Single Sign On for all earthlings and beyond."
     },
     {
       "title": "Bedework Calendar",
@@ -216,7 +218,8 @@
       "source_code_profile": "",
       "commercial_support": "",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Core openEQUELLA sources."
     },
     {
       "title": "Sakai",
@@ -238,7 +241,8 @@
       "source_code_profile": "https://www.openhub.net/p/unitime/analyses/latest/languages_summary",
       "commercial_support": "https://www.unitime.org/index.php?tab=3",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Comprehensive University Timetabling System."
     },
     {
       "title": "Xerte",

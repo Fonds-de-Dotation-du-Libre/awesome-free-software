@@ -82,7 +82,8 @@
       "source_code_profile": "",
       "commercial_support": "https://www.pengutronix.de/de/services/embedded-linux-consulting.html",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "embedded systems control library for development, testing and installation."
     }
   ]
 }

@@ -89,7 +89,8 @@
           "language": "fr",
           "url": "https://xwiki.com/en/offerings/custom-solutions/extranet-and-communities"
         }
-      ]
+      ],
+      "description": "The XWiki platform."
     },
     {
       "title": "Cryptpad",
@@ -99,7 +100,8 @@
       "source_code_download": "https://github.com/xwiki-labs/cryptpad/archive/master.zip",
       "source_code_profile": "",
       "commercial_support": "https://cryptpad.fr/features.html",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Collaborative office suite, end-to-end encrypted and open-source."
     }
   ]
 }

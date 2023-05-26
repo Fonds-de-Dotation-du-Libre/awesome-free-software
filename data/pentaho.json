@@ -59,7 +59,8 @@
           "language": "en",
           "url": "http://www.pentaho.com/customers/caterpillar-marine-asset-intelligence"
         }
-      ]
+      ],
+      "description": "Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time."
     }
   ]
 }

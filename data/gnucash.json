@@ -38,7 +38,8 @@
       "source_code_profile": "https://www.openhub.net/p/gnucash/analyses/latest/languages_summary",
       "commercial_support": "https://wiki.gnucash.org/wiki/Getting_Help",
       "wikipedia_url": "https://en.wikipedia.org/wiki/GnuCash",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "GnuCash Double-Entry Accounting Program."
     }
   ]
 }

@@ -609,7 +609,8 @@
           "language": "en",
           "url": "https://spreecommerce.org/stories/chefsteps-uses-spree-commerce-for-its-content-rich-e-commerce-platform-dedicated-to-smart-cooking/"
         }
-      ]
+      ],
+      "description": "Open Source multi-language/multi-currency/multi-store eCommerce platform."
     }
   ]
 }

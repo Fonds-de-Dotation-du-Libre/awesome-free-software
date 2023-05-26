@@ -312,7 +312,8 @@
       "source_code_profile": "",
       "commercial_support": "http://www.gvsig.com/en/services",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Web platform for simplified creation and management of geoportals and Spatial Data Infrastructures (mirror from official SVN)."
     },
     {
       "title": "gvsig Mini",

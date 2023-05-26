@@ -79,7 +79,8 @@
           "language": "en",
           "url": "https://mender.io/learn/customer-case-studies"
         }
-      ]
+      ],
+      "description": "Mender over-the-air software updater client."
     },
     {
       "title": "CFEngine",

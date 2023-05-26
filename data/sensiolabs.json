@@ -59,7 +59,8 @@
           "language": "en",
           "url": "https://symfony.com/showcase/8"
         }
-      ]
+      ],
+      "description": "The Symfony PHP framework."
     },
     {
       "title": "Swift Mailer",
@@ -70,7 +71,8 @@
       "source_code_profile": "",
       "commercial_support": "",
       "wikipedia_url": "",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Comprehensive mailing tools for PHP."
     },
     {
       "title": "TWIG",
@@ -81,7 +83,8 @@
       "source_code_profile": "https://www.openhub.net/p/php-twig/analyses/latest/languages_summary",
       "commercial_support": "",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Twig_(template_engine)",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Twig, the flexible, fast, and secure template language for PHP."
     },
     {
       "title": "SILEX",
@@ -92,7 +95,8 @@
       "source_code_profile": "https://www.openhub.net/p/fabpots_Silex/analyses/latest/languages_summary",
       "commercial_support": "",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Silex_(web_framework)",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "[DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components."
     }
   ]
 }

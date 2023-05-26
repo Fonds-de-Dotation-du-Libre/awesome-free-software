@@ -38,7 +38,8 @@
       "source_code_profile": "https://www.openhub.net/p/tutanota/analyses/latest/languages_summary",
       "commercial_support": "https://tutanota.com/contact",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Tutanota",
-      "success_case_list": []
+      "success_case_list": [],
+      "description": "Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
     }
   ]
 }
