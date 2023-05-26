@@ -29,7 +29,7 @@
           }
         },
         "free_software_list": [{
-                "title": "ECM",
+                "title": "Alfresco ECM",
                 "logo": "http://ecmarchitect.com/wp-content/uploads/2013/10/Alfresco_Community_Logo_RGB_stacked2-300x103.png",
                 "website": "https://www.alfresco.com/products/enterprise-content-management",
                 "category_list": ["Application"],

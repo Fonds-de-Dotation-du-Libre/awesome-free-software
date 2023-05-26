@@ -112,6 +112,11 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 - Website: <https://www.akeneo.com/what-is-a-pim/>
 - Creator/vendor: Akeneo 🇫🇷
 
+#### Alfresco ECM
+
+- Website: <https://www.alfresco.com/products/enterprise-content-management>
+- Creator/vendor: Alfresco 🇺🇸
+
 #### Ametys
 
 - Website: <https://www.ametys.org>
@@ -253,11 +258,6 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 - Website: <https://drupalcommerce.org/>
 - Creator/vendor: Commerce guys 🇫🇷
 - [Commercial support](https://commerceguys.com/what-we-do/support)
-
-#### ECM
-
-- Website: <https://www.alfresco.com/products/enterprise-content-management>
-- Creator/vendor: Alfresco 🇺🇸
 
 #### Elasticsearch
 
