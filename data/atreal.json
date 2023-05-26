@@ -1,356 +1,395 @@
 {
-        "title": "atreal",
-        "logo": "https://www.atreal.fr/@@site-logo/logo-atreal-blanc-orange_H50.png",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://www.atreal.fr/",
-        "founded_year": "2003",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "atreal",
+  "logo": "https://www.atreal.fr/@@site-logo/logo-atreal-blanc-orange_H50.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.atreal.fr/",
+  "founded_year": "2003",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "OpenAria",
+      "logo": "https://www.atreal.fr/applications/catalogue/logiciel-gestion-des-etablissements-recevant-du-public/view/++widget++form.widgets.logo/@@download/openARIA-logo-original.png",
+      "website": "https://www.atreal.fr/applications/catalogue/logiciel-gestion-des-etablissements-recevant-du-public",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "https://www.openhub.net/p/openaria/analyses/latest/languages_summary",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "OpenADS",
+      "logo": "https://www.atreal.fr/applications/catalogue/logiciel-urbanisme/view/++widget++form.widgets.logo/@@download/openADS-logo-original.png",
+      "website": "https://www.atreal.fr/applications/catalogue/logiciel-urbanisme",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "https://www.openhub.net/p/open_ads/analyses/latest/languages_summary",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "openADS à la commune de Sainte Rose de la Réunion",
+          "description": "La commune de Sainte Rose renouvelle son logiciel de gestion des dossiers d'urbanisme et choisit openADS en 2016",
+          "image": "https://www.atreal.fr/references/urbanisme-commune-sainte-rose-de-la-reunion/@@images/30822f41-e32d-4f1e-9bb0-03de63d3cf27.png",
+          "industry": "Public Administration & Government",
+          "customer": "La Commune de Saint Rose",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-commune-sainte-rose-de-la-reunion"
         },
-        "free_software_list": [{
-                "title": "OpenAria",
-                "logo": "https://www.atreal.fr/applications/catalogue/logiciel-gestion-des-etablissements-recevant-du-public/view/++widget++form.widgets.logo/@@download/openARIA-logo-original.png",
-                "website": "https://www.atreal.fr/applications/catalogue/logiciel-gestion-des-etablissements-recevant-du-public",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "https://www.openhub.net/p/openaria/analyses/latest/languages_summary",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }, {
-                "title": "OpenADS",
-                "logo": "https://www.atreal.fr/applications/catalogue/logiciel-urbanisme/view/++widget++form.widgets.logo/@@download/openADS-logo-original.png",
-                "website": "https://www.atreal.fr/applications/catalogue/logiciel-urbanisme",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "https://www.openhub.net/p/open_ads/analyses/latest/languages_summary",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "openADS à la commune de Sainte Rose de la Réunion",
-                        "description": "La commune de Sainte Rose renouvelle son logiciel de gestion des dossiers d'urbanisme et choisit openADS en 2016",
-                        "image": "https://www.atreal.fr/references/urbanisme-commune-sainte-rose-de-la-reunion/@@images/30822f41-e32d-4f1e-9bb0-03de63d3cf27.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "La Commune de Saint Rose",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-commune-sainte-rose-de-la-reunion"
-                }, {
-                        "title": "openADS à la ville de Marseille",
-                        "description": "La ville de Marseille demande en 2012 à atReal de développer l'application openADS. Mis en production en 2014, openADS fête ses 1 an au sein de la ville de Marseille en février 2015. Le 6 octobre 2016, Marseille accueille atReal et ses clients openADS pour la tenue du premier club utilisateurs.",
-                        "image": "https://www.atreal.fr/references/urbanisme-ville-marseille/@@images/2dfd4084-280a-4273-9fd5-a7b9b1d19638.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Marseille",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-ville-marseille"
-                }, {
-                        "title": "openADS choisi par Mégalis Bretagne",
-                        "description": "Le Syndicat mixte Mégalis Bretagne met à la disposition des EPCI de Bretagne openADS",
-                        "image": "https://www.atreal.fr/references/urbanisme-syndicat-mixte-megalis-bretagne/@@images/74d6983b-1966-4657-8ca8-dfe759b3090a.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Syndicat mixte Mégalis Bretagne",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-syndicat-mixte-megalis-bretagne"
-                }, {
-                        "title": "openADS à la Communauté d'agglomération du Puy en Velay",
-                        "description": "La communauté d'agglomération du Puy en Velay utilise depuis 2015 openADS pour instruie les dossiers d'urbanisme déposés en commune",
-                        "image": "https://www.atreal.fr/references/urbanisme-agglo-le-puy-en-velay/@@images/435e529a-dabf-467f-b40d-65f8a4259cb1.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Agglo le Puy en Velay",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-agglo-le-puy-en-velay"
-                }, {
-                        "title": "openADS à la communauté de communes Coeur de Puisaye",
-                        "description": "La communauté de communes Coeur de Puisaye utilise depuis 2015 openADS pour instruie les dossiers d'urbanisme déposés en commune",
-                        "image": "https://www.atreal.fr/references/urbanisme-communaute-de-commues-coeur-de-puisaye/@@images/72f5e2d8-cf06-499a-8b77-2612ad1fa1dd.png",
-                        "industry": "Public Administation & Government",
-                        "customer": "Communes Coeur de Puisaye",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-communaute-de-commues-coeur-de-puisaye"
-                }, {
-                        "title": "openADS à la communauté de communes de Leins Gardonnenque",
-                        "description": "La communauté de communes de Leins Gardonnenque utilise depuis 2015 openADS",
-                        "image": "https://www.atreal.fr/references/urbanisme-communaute-communes-leins-gardonnenque/@@images/425c5f04-1953-44e7-a55b-008c570ec219.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Communes leins Gardonnenque",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-communaute-communes-leins-gardonnenque"
-                }, {
-                        "title": "openADS à la communauté de communes du Piémont Cévenol",
-                        "description": "La communauté de communes du Piémont Cévenol utilise depuis 2015 openADS",
-                        "image": "https://www.atreal.fr/references/urbanisme-communaute-communes-piemont-cevenol/@@images/7551707a-46ab-4b91-a26f-fb0a594ee564.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Communes Piemont Cevenol",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-communaute-communes-piemont-cevenol"
-                }, {
-                        "title": "openADS à la ville de Saint-Jory",
-                        "description": "La ville de Saint-Jory reprend l'instruction de ses dossiers d'urbanisme avec openADS en 2016",
-                        "image": "https://www.atreal.fr/references/urbanisme-commune-saint-jory/@@images/4e3f0be8-9f3e-47a2-9441-ff11df6deb23.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Saint Jory",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-commune-saint-jory"
-                }, {
-                        "title": "openADS à la commune de Pompignac",
-                        "description": "La commune de Pompignac prend en charge l'instruction de ses dossiers d'urbanisme avec openADS en 2016",
-                        "image": "https://www.atreal.fr/references/urbanisme-commune-pompignac/@@images/f0067acd-e93d-4078-aba6-b03ee58e927b.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Commune de Pompignac",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-commune-pompignac"
-                }, {
-                        "title": "openADS à la commune de Domessargues",
-                        "description": "La commune de Domessargues prend en charge l'instruction de ses dossiers d'urbanisme avec openADS en 2017",
-                        "image": "https://www.atreal.fr/references/urbanisme-commune-domessargues/@@images/eb3452a4-7b12-4eeb-8dd9-bd6607f97d13.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Commune de Domessargues",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-commune-domessargues"
-                }, {
-                        "title": "openADS au Pays de Guingamp",
-                        "description": "La communauté de communes du Pays de Guingamp utilise depuis 2015 openADS pour instruire les dossiers d'urbanisme déposés en commune.",
-                        "image": "https://www.atreal.fr/references/urbanisme-agglo-pays-de-guingamp/@@images/8d5a5309-8bff-4927-8119-3ea034610861.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Pays de Guingamp",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/urbanisme-agglo-pays-de-guingamp"
-                }
-]
-        }, {
-                "title": "Publik",
-                "logo": "https://www.atreal.fr/applications/catalogue/publik/view/++widget++form.widgets.logo/@@download/logo-publik.png",
-                "website": "https://www.atreal.fr/applications/catalogue/publik",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }, {
-                "title": "OpenElec",
-                "logo": "https://www.atreal.fr/applications/catalogue/logiciel-elections/view/++widget++form.widgets.logo/@@download/logo-openelec.png",
-                "website": "https://www.atreal.fr/applications/catalogue/logiciel-elections",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "openElec en multi-collectivités pour 140 communes de Corrèze - ADM19",
-                        "description": "L'Associociation des Maires de la Corrèze a succédé à la Ville de Limoges en proposant openElec à 140 Communes",
-                        "image": "https://www.atreal.fr/references/openelec-adm19/@@images/66d75ee8-69f3-4458-a04f-1618bccbeaab.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "L'Associociation des Maires de la Corrèze a succédé à la Ville de Limoges en proposant openElec à 140 Communes",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-adm19"
-                }, {
-                        "title": "openElec à Ville d'Avray",
-                        "description": "La ville de Ville d'Avray utilise openElec pour la gestion des listes électorales de sa commune",
-                        "image": "https://www.atreal.fr/references/openelec-ville-d-avray/@@images/14a4a009-b33d-436d-8956-6dcc5faf2a03.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville-d'Avray",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-ville-d-avray"
-                }, {
-                        "title": "openElec à la ville de Moissy Cramayel",
-                        "description": "La ville de Moissy Cramayel utilise openElec pour la gestion des listes électorales de sa commune",
-                        "image": "https://www.atreal.fr/references/openelec-moissy-cramayel/@@images/5c4f39ac-7495-435f-8edd-8c8626d3555c.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "La ville de Moissy Cramayel",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-moissy-cramayel"
-                }, {
-                        "title": "openElec à la ville d'Aubagne",
-                        "description": "La ville d'Aubagne utilise openElec pour la gestion des listes électorales de sa commune",
-                        "image": "https://www.atreal.fr/references/openelec-ville-aubagne/@@images/1efc9893-418e-435d-a07c-53f1ef8f9895.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Aubagne",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-ville-aubagne"
-                }, {
-                        "title": "openElec à la Commune d'Assieu",
-                        "description": "La Commune d'Assieu utilise openElec pour la gestion de ses listes électorales",
-                        "image": "https://www.atreal.fr/references/openelec-a-la-commune-d-assieu/@@images/762904ec-58e1-4729-8208-c71c00ca1d4e.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Commune d'Assieu",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-a-la-commune-d-assieu"
-                }, {
-                        "title": "openElec à la ville de Dreux",
-                        "description": "La ville de Dreux utilise openElec pour la gestion des listes électorales de sa commune",
-                        "image": "https://www.atreal.fr/references/openelec-dreux/@@images/5aeced4c-de6d-4afb-9ceb-2b738e536253.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Dreux",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-dreux"
-                }, {
-                        "title": "openElec et openRésultat à la ville de Bouc-Bel-Air",
-                        "description": "La ville de Bouc-Bel-Air utilise openElec et openRésultat pour la gestion des listes électorales de sa commune et l'animation des soirées électorales et transmission des résultats en Préfecture",
-                        "image": "https://www.atreal.fr/references/openelec-et-openresultat-a-la-ville-de-bouc-bel-air/@@images/226f828d-c7ff-481e-8838-0f577f0e0b56.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Bouc-Bel-Air",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-et-openresultat-a-la-ville-de-bouc-bel-air"
-                }, {
-                        "title": "openElec à la Commune de Ville sous Anjou",
-                        "description": "La Commune de Ville sous Anjou utilise openElec pour la gestion de ses listes électorales",
-                        "image": "https://www.atreal.fr/references/openelec-a-la-commune-de-ville-sous-anjou/@@images/73fe4820-9975-498b-b27d-313f60ed0080.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville sous Anjou",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/openelec-a-la-commune-de-ville-sous-anjou"
-                }]
-        }, {
-                "title": "OpenCourrier",
-                "logo": "https://www.atreal.fr/applications/catalogue/logiciel-courrier/view/++widget++form.widgets.logo/@@download/icon-opencourrier.png",
-                "website": "https://www.atreal.fr/applications/catalogue/logiciel-courrier",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }, {
-                "title": "OpenDebitBoisson",
-                "logo": "https://www.atreal.fr/applications/catalogue/opendebitdeboisson-logiciel-de-gestion-des-debits-de-boissons/view/++widget++form.widgets.logo/@@download/opendebitdeboisson.png",
-                "website": "https://www.atreal.fr/applications/catalogue/opendebitdeboisson-logiciel-de-gestion-des-debits-de-boissons",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }, {
-                "title": "OpenRésultat",
-                "logo": "https://www.atreal.fr/applications/catalogue/logiciel-resultat-elections/view/++widget++form.widgets.logo/@@download/icon-openelec.png",
-                "website": "https://www.atreal.fr/applications/catalogue/logiciel-resultat-elections",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "La Ville de Cergy",
-                        "description": "La ville de Cergy utilise openRésultat pour l'animation de ses journées d'élections",
-                        "image": "https://www.atreal.fr/references/cergy/@@images/30ff69dc-2f0d-43ce-9f74-b4ca6d8e3842.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Cergy",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/cergy"
-                }, {
-                        "title": "OpenRésultat pour Montpellier Méditerranée Métropole",
-                        "description": "Montpellier Méditerranée Métropole utilise openRésultat pour l'animation de ses soirées électorales",
-                        "image": "https://www.atreal.fr/references/montpellier-mediterranee-metropole/@@images/69e21633-332a-4765-b7c7-210760bc32cc.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Montpellier Méditerranée Métropole",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/montpellier-mediterranee-metropole"
-                }]
-        }, {
-                "title": "OpenCimetière",
-                "logo": "https://www.atreal.fr/applications/catalogue/logiciel-cimetiere/view/++widget++form.widgets.logo/@@download/opencimetiere.png",
-                "website": "https://www.atreal.fr/applications/catalogue/logiciel-cimetiere",
-                "category_list": ["Application"],
-                "source_code_download": "",
-                "source_code_profile": "",
-                "commercial_support": "https://www.atreal.fr/applications/services",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "openCimetière à la ville de Moissy Cramayel",
-                        "description": "La ville de Moissy Cramayel utilise openCimetière pour la gestion de ses deux cimetières",
-                        "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-moissy-cramayel/@@images/8e16a019-e610-4662-a2de-3523e54294c5.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Moissy Cramayel",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-moissy-cramayel"
-                }, {
-                        "title": "openCimetière à la ville de Chatte",
-                        "description": "La ville de Chatte utilise openCimetière pour la gestion de ses deux cimetières",
-                        "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-chatte/@@images/74bb1641-fa40-4a4a-bd51-c6c0af140d9b.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Chatte",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-chatte"
-                }, {
-                        "title": "openCimetière à la commune d'Assieu",
-                        "description": "La commune d'Assieu utilise openCimetière pour la gestion de son cimetière",
-                        "image": "https://www.atreal.fr/references/opencimetiere-a-la-commune-d-assieu/@@images/33219167-8e54-4e56-9de1-18bb2d1281aa.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Commune d'Assieu",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/opencimetiere-a-la-commune-d-assieu"
-                }, {
-                        "title": "openCimetière à la Ville de Bouc-Bel-Air",
-                        "description": "La ville de Bouc-Bel-Air utilise openCimetière pour la gestion de ses deux cimetières",
-                        "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-bouc-bel-air/@@images/d26f063a-da13-471c-9a46-3517931e1eb1.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Bouc-Bel-Air",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-bouc-bel-air"
-                }, {
-                        "title": "openCimetière à la ville de Noves",
-                        "description": "La ville de Noves utilise openCimetière pour la gestion de ses deux cimetières",
-                        "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-noves/@@images/7a6d7d04-8bff-4c86-8236-d6ce327d1e39.jpeg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville de Noves",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-noves"
-                }, {
-                        "title": "openCimetière à la Commune de Ville sous Anjou",
-                        "description": "La Commune de Ville sous Anjou utilise openCimetière pour la gestion de son cimetière",
-                        "image": "https://www.atreal.fr/references/opencimetiere-a-la-commune-de-ville-sous-anjou/@@images/8e807cc4-cb35-4596-8de7-097f116b07b2.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Ville Sous Anjou",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://www.atreal.fr/references/opencimetiere-a-la-commune-de-ville-sous-anjou"
-                }]
-        }]
+        {
+          "title": "openADS à la ville de Marseille",
+          "description": "La ville de Marseille demande en 2012 à atReal de développer l'application openADS. Mis en production en 2014, openADS fête ses 1 an au sein de la ville de Marseille en février 2015. Le 6 octobre 2016, Marseille accueille atReal et ses clients openADS pour la tenue du premier club utilisateurs.",
+          "image": "https://www.atreal.fr/references/urbanisme-ville-marseille/@@images/2dfd4084-280a-4273-9fd5-a7b9b1d19638.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Marseille",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-ville-marseille"
+        },
+        {
+          "title": "openADS choisi par Mégalis Bretagne",
+          "description": "Le Syndicat mixte Mégalis Bretagne met à la disposition des EPCI de Bretagne openADS",
+          "image": "https://www.atreal.fr/references/urbanisme-syndicat-mixte-megalis-bretagne/@@images/74d6983b-1966-4657-8ca8-dfe759b3090a.png",
+          "industry": "Public Administration & Government",
+          "customer": "Syndicat mixte Mégalis Bretagne",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-syndicat-mixte-megalis-bretagne"
+        },
+        {
+          "title": "openADS à la Communauté d'agglomération du Puy en Velay",
+          "description": "La communauté d'agglomération du Puy en Velay utilise depuis 2015 openADS pour instruie les dossiers d'urbanisme déposés en commune",
+          "image": "https://www.atreal.fr/references/urbanisme-agglo-le-puy-en-velay/@@images/435e529a-dabf-467f-b40d-65f8a4259cb1.png",
+          "industry": "Public Administration & Government",
+          "customer": "Agglo le Puy en Velay",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-agglo-le-puy-en-velay"
+        },
+        {
+          "title": "openADS à la communauté de communes Coeur de Puisaye",
+          "description": "La communauté de communes Coeur de Puisaye utilise depuis 2015 openADS pour instruie les dossiers d'urbanisme déposés en commune",
+          "image": "https://www.atreal.fr/references/urbanisme-communaute-de-commues-coeur-de-puisaye/@@images/72f5e2d8-cf06-499a-8b77-2612ad1fa1dd.png",
+          "industry": "Public Administation & Government",
+          "customer": "Communes Coeur de Puisaye",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-communaute-de-commues-coeur-de-puisaye"
+        },
+        {
+          "title": "openADS à la communauté de communes de Leins Gardonnenque",
+          "description": "La communauté de communes de Leins Gardonnenque utilise depuis 2015 openADS",
+          "image": "https://www.atreal.fr/references/urbanisme-communaute-communes-leins-gardonnenque/@@images/425c5f04-1953-44e7-a55b-008c570ec219.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Communes leins Gardonnenque",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-communaute-communes-leins-gardonnenque"
+        },
+        {
+          "title": "openADS à la communauté de communes du Piémont Cévenol",
+          "description": "La communauté de communes du Piémont Cévenol utilise depuis 2015 openADS",
+          "image": "https://www.atreal.fr/references/urbanisme-communaute-communes-piemont-cevenol/@@images/7551707a-46ab-4b91-a26f-fb0a594ee564.png",
+          "industry": "Public Administration & Government",
+          "customer": "Communes Piemont Cevenol",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-communaute-communes-piemont-cevenol"
+        },
+        {
+          "title": "openADS à la ville de Saint-Jory",
+          "description": "La ville de Saint-Jory reprend l'instruction de ses dossiers d'urbanisme avec openADS en 2016",
+          "image": "https://www.atreal.fr/references/urbanisme-commune-saint-jory/@@images/4e3f0be8-9f3e-47a2-9441-ff11df6deb23.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Saint Jory",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-commune-saint-jory"
+        },
+        {
+          "title": "openADS à la commune de Pompignac",
+          "description": "La commune de Pompignac prend en charge l'instruction de ses dossiers d'urbanisme avec openADS en 2016",
+          "image": "https://www.atreal.fr/references/urbanisme-commune-pompignac/@@images/f0067acd-e93d-4078-aba6-b03ee58e927b.png",
+          "industry": "Public Administration & Government",
+          "customer": "Commune de Pompignac",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-commune-pompignac"
+        },
+        {
+          "title": "openADS à la commune de Domessargues",
+          "description": "La commune de Domessargues prend en charge l'instruction de ses dossiers d'urbanisme avec openADS en 2017",
+          "image": "https://www.atreal.fr/references/urbanisme-commune-domessargues/@@images/eb3452a4-7b12-4eeb-8dd9-bd6607f97d13.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Commune de Domessargues",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-commune-domessargues"
+        },
+        {
+          "title": "openADS au Pays de Guingamp",
+          "description": "La communauté de communes du Pays de Guingamp utilise depuis 2015 openADS pour instruire les dossiers d'urbanisme déposés en commune.",
+          "image": "https://www.atreal.fr/references/urbanisme-agglo-pays-de-guingamp/@@images/8d5a5309-8bff-4927-8119-3ea034610861.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Pays de Guingamp",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/urbanisme-agglo-pays-de-guingamp"
+        }
+      ]
+    },
+    {
+      "title": "Publik",
+      "logo": "https://www.atreal.fr/applications/catalogue/publik/view/++widget++form.widgets.logo/@@download/logo-publik.png",
+      "website": "https://www.atreal.fr/applications/catalogue/publik",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "OpenElec",
+      "logo": "https://www.atreal.fr/applications/catalogue/logiciel-elections/view/++widget++form.widgets.logo/@@download/logo-openelec.png",
+      "website": "https://www.atreal.fr/applications/catalogue/logiciel-elections",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "openElec en multi-collectivités pour 140 communes de Corrèze - ADM19",
+          "description": "L'Associociation des Maires de la Corrèze a succédé à la Ville de Limoges en proposant openElec à 140 Communes",
+          "image": "https://www.atreal.fr/references/openelec-adm19/@@images/66d75ee8-69f3-4458-a04f-1618bccbeaab.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "L'Associociation des Maires de la Corrèze a succédé à la Ville de Limoges en proposant openElec à 140 Communes",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-adm19"
+        },
+        {
+          "title": "openElec à Ville d'Avray",
+          "description": "La ville de Ville d'Avray utilise openElec pour la gestion des listes électorales de sa commune",
+          "image": "https://www.atreal.fr/references/openelec-ville-d-avray/@@images/14a4a009-b33d-436d-8956-6dcc5faf2a03.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Ville-d'Avray",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-ville-d-avray"
+        },
+        {
+          "title": "openElec à la ville de Moissy Cramayel",
+          "description": "La ville de Moissy Cramayel utilise openElec pour la gestion des listes électorales de sa commune",
+          "image": "https://www.atreal.fr/references/openelec-moissy-cramayel/@@images/5c4f39ac-7495-435f-8edd-8c8626d3555c.png",
+          "industry": "Public Administration & Government",
+          "customer": "La ville de Moissy Cramayel",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-moissy-cramayel"
+        },
+        {
+          "title": "openElec à la ville d'Aubagne",
+          "description": "La ville d'Aubagne utilise openElec pour la gestion des listes électorales de sa commune",
+          "image": "https://www.atreal.fr/references/openelec-ville-aubagne/@@images/1efc9893-418e-435d-a07c-53f1ef8f9895.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Aubagne",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-ville-aubagne"
+        },
+        {
+          "title": "openElec à la Commune d'Assieu",
+          "description": "La Commune d'Assieu utilise openElec pour la gestion de ses listes électorales",
+          "image": "https://www.atreal.fr/references/openelec-a-la-commune-d-assieu/@@images/762904ec-58e1-4729-8208-c71c00ca1d4e.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Commune d'Assieu",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-a-la-commune-d-assieu"
+        },
+        {
+          "title": "openElec à la ville de Dreux",
+          "description": "La ville de Dreux utilise openElec pour la gestion des listes électorales de sa commune",
+          "image": "https://www.atreal.fr/references/openelec-dreux/@@images/5aeced4c-de6d-4afb-9ceb-2b738e536253.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Dreux",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-dreux"
+        },
+        {
+          "title": "openElec et openRésultat à la ville de Bouc-Bel-Air",
+          "description": "La ville de Bouc-Bel-Air utilise openElec et openRésultat pour la gestion des listes électorales de sa commune et l'animation des soirées électorales et transmission des résultats en Préfecture",
+          "image": "https://www.atreal.fr/references/openelec-et-openresultat-a-la-ville-de-bouc-bel-air/@@images/226f828d-c7ff-481e-8838-0f577f0e0b56.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Bouc-Bel-Air",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-et-openresultat-a-la-ville-de-bouc-bel-air"
+        },
+        {
+          "title": "openElec à la Commune de Ville sous Anjou",
+          "description": "La Commune de Ville sous Anjou utilise openElec pour la gestion de ses listes électorales",
+          "image": "https://www.atreal.fr/references/openelec-a-la-commune-de-ville-sous-anjou/@@images/73fe4820-9975-498b-b27d-313f60ed0080.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ville sous Anjou",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/openelec-a-la-commune-de-ville-sous-anjou"
+        }
+      ]
+    },
+    {
+      "title": "OpenCourrier",
+      "logo": "https://www.atreal.fr/applications/catalogue/logiciel-courrier/view/++widget++form.widgets.logo/@@download/icon-opencourrier.png",
+      "website": "https://www.atreal.fr/applications/catalogue/logiciel-courrier",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "OpenDebitBoisson",
+      "logo": "https://www.atreal.fr/applications/catalogue/opendebitdeboisson-logiciel-de-gestion-des-debits-de-boissons/view/++widget++form.widgets.logo/@@download/opendebitdeboisson.png",
+      "website": "https://www.atreal.fr/applications/catalogue/opendebitdeboisson-logiciel-de-gestion-des-debits-de-boissons",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "OpenRésultat",
+      "logo": "https://www.atreal.fr/applications/catalogue/logiciel-resultat-elections/view/++widget++form.widgets.logo/@@download/icon-openelec.png",
+      "website": "https://www.atreal.fr/applications/catalogue/logiciel-resultat-elections",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "La Ville de Cergy",
+          "description": "La ville de Cergy utilise openRésultat pour l'animation de ses journées d'élections",
+          "image": "https://www.atreal.fr/references/cergy/@@images/30ff69dc-2f0d-43ce-9f74-b4ca6d8e3842.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Cergy",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/cergy"
+        },
+        {
+          "title": "OpenRésultat pour Montpellier Méditerranée Métropole",
+          "description": "Montpellier Méditerranée Métropole utilise openRésultat pour l'animation de ses soirées électorales",
+          "image": "https://www.atreal.fr/references/montpellier-mediterranee-metropole/@@images/69e21633-332a-4765-b7c7-210760bc32cc.png",
+          "industry": "Public Administration & Government",
+          "customer": "Montpellier Méditerranée Métropole",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/montpellier-mediterranee-metropole"
+        }
+      ]
+    },
+    {
+      "title": "OpenCimetière",
+      "logo": "https://www.atreal.fr/applications/catalogue/logiciel-cimetiere/view/++widget++form.widgets.logo/@@download/opencimetiere.png",
+      "website": "https://www.atreal.fr/applications/catalogue/logiciel-cimetiere",
+      "category_list": ["Application"],
+      "source_code_download": "",
+      "source_code_profile": "",
+      "commercial_support": "https://www.atreal.fr/applications/services",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "openCimetière à la ville de Moissy Cramayel",
+          "description": "La ville de Moissy Cramayel utilise openCimetière pour la gestion de ses deux cimetières",
+          "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-moissy-cramayel/@@images/8e16a019-e610-4662-a2de-3523e54294c5.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Moissy Cramayel",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-moissy-cramayel"
+        },
+        {
+          "title": "openCimetière à la ville de Chatte",
+          "description": "La ville de Chatte utilise openCimetière pour la gestion de ses deux cimetières",
+          "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-chatte/@@images/74bb1641-fa40-4a4a-bd51-c6c0af140d9b.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Chatte",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-chatte"
+        },
+        {
+          "title": "openCimetière à la commune d'Assieu",
+          "description": "La commune d'Assieu utilise openCimetière pour la gestion de son cimetière",
+          "image": "https://www.atreal.fr/references/opencimetiere-a-la-commune-d-assieu/@@images/33219167-8e54-4e56-9de1-18bb2d1281aa.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Commune d'Assieu",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/opencimetiere-a-la-commune-d-assieu"
+        },
+        {
+          "title": "openCimetière à la Ville de Bouc-Bel-Air",
+          "description": "La ville de Bouc-Bel-Air utilise openCimetière pour la gestion de ses deux cimetières",
+          "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-bouc-bel-air/@@images/d26f063a-da13-471c-9a46-3517931e1eb1.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Bouc-Bel-Air",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-bouc-bel-air"
+        },
+        {
+          "title": "openCimetière à la ville de Noves",
+          "description": "La ville de Noves utilise openCimetière pour la gestion de ses deux cimetières",
+          "image": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-noves/@@images/7a6d7d04-8bff-4c86-8236-d6ce327d1e39.jpeg",
+          "industry": "Public Administration & Government",
+          "customer": "Ville de Noves",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/opencimetiere-a-la-ville-de-noves"
+        },
+        {
+          "title": "openCimetière à la Commune de Ville sous Anjou",
+          "description": "La Commune de Ville sous Anjou utilise openCimetière pour la gestion de son cimetière",
+          "image": "https://www.atreal.fr/references/opencimetiere-a-la-commune-de-ville-sous-anjou/@@images/8e807cc4-cb35-4596-8de7-097f116b07b2.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ville Sous Anjou",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.atreal.fr/references/opencimetiere-a-la-commune-de-ville-sous-anjou"
+        }
+      ]
+    }
+  ]
 }

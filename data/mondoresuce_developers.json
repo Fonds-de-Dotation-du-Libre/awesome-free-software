@@ -1,42 +1,44 @@
 {
-        "title": "Mondorescue Developers",
-        "logo": "http://www.mondorescue.org/images/bird_world.png",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "http://www.mondorescue.org/",
-        "founded_year": "2001",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "Borg",
-                "logo": "http://www.mondorescue.org/images/bird_world.png",
-                "website": "http://www.mondorescue.org/",
-                "category_list": ["Application"],
-                "source_code_download": "http://www.mondorescue.org/downloads.shtml",
-                "source_code_profile": "https://www.openhub.net/p/mondorescue/analyses/latest/languages_summary",
-                "commercial_support": "http://www.mondorescue.org/support.shtml",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }]
+  "title": "Mondorescue Developers",
+  "logo": "http://www.mondorescue.org/images/bird_world.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "http://www.mondorescue.org/",
+  "founded_year": "2001",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Borg",
+      "logo": "http://www.mondorescue.org/images/bird_world.png",
+      "website": "http://www.mondorescue.org/",
+      "category_list": ["Application"],
+      "source_code_download": "http://www.mondorescue.org/downloads.shtml",
+      "source_code_profile": "https://www.openhub.net/p/mondorescue/analyses/latest/languages_summary",
+      "commercial_support": "http://www.mondorescue.org/support.shtml",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

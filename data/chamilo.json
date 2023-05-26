@@ -1,42 +1,44 @@
 {
-        "title": "Chamilo",
-        "logo": "https://chamilo.org/wp-content/uploads/2018/09/chamilo_logo.png",
-        "country": "es",
-        "presence": ["es"],
-        "website": "https://chamilo.org",
-        "founded_year": "",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "Chamilo LMS",
-                "logo": "https://chamilo.org/wp-content/uploads/2018/09/chamilo_logo.png",
-                "website": "https://chamilo.org/",
-                "category_list": ["Application"],
-                "source_code_download": "https://chamilo.org/en/download/",
-                "source_code_profile": "",
-                "commercial_support": "https://www.openhub.net/p/chamilo",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Chamilo",
-                "success_case_list": []
-        }]
+  "title": "Chamilo",
+  "logo": "https://chamilo.org/wp-content/uploads/2018/09/chamilo_logo.png",
+  "country": "es",
+  "presence": ["es"],
+  "website": "https://chamilo.org",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Chamilo LMS",
+      "logo": "https://chamilo.org/wp-content/uploads/2018/09/chamilo_logo.png",
+      "website": "https://chamilo.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://chamilo.org/en/download/",
+      "source_code_profile": "",
+      "commercial_support": "https://www.openhub.net/p/chamilo",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chamilo",
+      "success_case_list": []
+    }
+  ]
 }

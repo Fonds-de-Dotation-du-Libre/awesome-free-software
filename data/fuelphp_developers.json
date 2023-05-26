@@ -1,42 +1,44 @@
 {
-        "title": "FuelPHP Developer Team",
-        "logo": "https://fuelphp.com/addons/shared_addons/themes/fuel/img/logo.png",
-        "country": "nl",
-        "presence": ["nl"],
-        "website": "https://fuelphp.com/",
-        "founded_year": "2010",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "FuelPHP",
-                "logo": "https://claroline.net/wp-content/uploads/2018/09/cropped-claroline_logoHD-09.pn",
-                "website": "https://fuelphp.com/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://fuelphp.com/downloads",
-                "source_code_profile": "https://www.openhub.net/p/fuelphp/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/FuelPHP",
-                "success_case_list": []
-        }]
+  "title": "FuelPHP Developer Team",
+  "logo": "https://fuelphp.com/addons/shared_addons/themes/fuel/img/logo.png",
+  "country": "nl",
+  "presence": ["nl"],
+  "website": "https://fuelphp.com/",
+  "founded_year": "2010",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "FuelPHP",
+      "logo": "https://claroline.net/wp-content/uploads/2018/09/cropped-claroline_logoHD-09.pn",
+      "website": "https://fuelphp.com/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://fuelphp.com/downloads",
+      "source_code_profile": "https://www.openhub.net/p/fuelphp/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/FuelPHP",
+      "success_case_list": []
+    }
+  ]
 }

@@ -1,42 +1,44 @@
 {
-        "title": "6wind",
-        "logo": "https://www.6wind.com/wp-content/uploads/2019/07/Sept-4-Webinar-300x150.jpg",
-        "country": "fr",
-        "presence": ["fr", "us", "cn"],
-        "website": "https://www.6wind.com/",
-        "founded_year": "2000",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "DPDK",
-                "logo": "https://www.dpdk.org/wp-content/uploads/sites/35/2018/05/logo_dpdk_wt.png",
-                "website": "https://www.dpdk.org/",
-                "category_list": ["Middleware"],
-                "source_code_download": "https://core.dpdk.org/download/",
-                "source_code_profile": "https://www.openhub.net/p/dpdk/analyses/latest/languages_summary",
-                "commercial_support": "https://www.dpdk.org/ecosystem#support",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Data_Plane_Development_Kit",
-                "success_case_list": []
-        }]
+  "title": "6wind",
+  "logo": "https://www.6wind.com/wp-content/uploads/2019/07/Sept-4-Webinar-300x150.jpg",
+  "country": "fr",
+  "presence": ["fr", "us", "cn"],
+  "website": "https://www.6wind.com/",
+  "founded_year": "2000",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "DPDK",
+      "logo": "https://www.dpdk.org/wp-content/uploads/sites/35/2018/05/logo_dpdk_wt.png",
+      "website": "https://www.dpdk.org/",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://core.dpdk.org/download/",
+      "source_code_profile": "https://www.openhub.net/p/dpdk/analyses/latest/languages_summary",
+      "commercial_support": "https://www.dpdk.org/ecosystem#support",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Data_Plane_Development_Kit",
+      "success_case_list": []
+    }
+  ]
 }

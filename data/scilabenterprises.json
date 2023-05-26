@@ -1,61 +1,66 @@
 {
-        "title": "ESI Group",
-        "logo": "https://www.esi-group.com/sites/all/themes/esigroup/images/header/logo_esi.png",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://www.esi-group.com/",
-        "founded_year": "1991",
-        "kpi_dict": {
-          "2018": {
-            "staff": "243",
-            "earnings": "5546967",
-            "total_assets": "206195716",
-            "revenues": "83883977",
-            "public_source": "true"
-          },
-          "2017": {
-            "staff": "234",
-            "earnings": "1632000",
-            "total_assets": "203704000",
-            "revenues": "84313000",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "217",
-            "earnings": "4035723",
-            "total_assets": "184659828",
-            "revenues": "79156886",
-            "public_source": "true"
-          }
-        },
-        "free_software_list": [{
-                "title": "SciLab",
-                "logo": "https://www.scilab.org/sites/all/themes/scilab/images/logo.png",
-                "website": "https://www.scilab.org",
-                "category_list": ["Analytics"],
-                "source_code_download": "https://www.scilab.org/download/6.0.2",
-                "source_code_profile": "https://www.openhub.net/p/scilab/analyses/latest/languages_summary",
-                "commercial_support": "https://www.scilab.org/services/support-maintenance",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Scilab",
-                "success_case_list": [{
-                        "title": "",
-                        "description": "",
-                        "image": "",
-                        "industry": "",
-                        "customer": "",
-                        "country": "",
-                        "language": "en",
-                        "url": ""
-                }]
-        }, {
-                "title": "OpenFoam",
-                "logo": "https://www.openfoam.com/img/OpenFOAMtrans.png",
-                "website": "https://www.openfoam.com/",
-                "category_list": ["Analytics"],
-                "source_code_download": "https://www.openfoam.com/download/",
-                "source_code_profile": "https://www.openhub.net/p/openfoam/analyses/latest/languages_summary",
-                "commercial_support": "https://www.openfoam.com/services/software.php",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/OpenFOAM",
-                "success_case_list": []
-        }]
+  "title": "ESI Group",
+  "logo": "https://www.esi-group.com/sites/all/themes/esigroup/images/header/logo_esi.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.esi-group.com/",
+  "founded_year": "1991",
+  "kpi_dict": {
+    "2018": {
+      "staff": "243",
+      "earnings": "5546967",
+      "total_assets": "206195716",
+      "revenues": "83883977",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "234",
+      "earnings": "1632000",
+      "total_assets": "203704000",
+      "revenues": "84313000",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "217",
+      "earnings": "4035723",
+      "total_assets": "184659828",
+      "revenues": "79156886",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "SciLab",
+      "logo": "https://www.scilab.org/sites/all/themes/scilab/images/logo.png",
+      "website": "https://www.scilab.org",
+      "category_list": ["Analytics"],
+      "source_code_download": "https://www.scilab.org/download/6.0.2",
+      "source_code_profile": "https://www.openhub.net/p/scilab/analyses/latest/languages_summary",
+      "commercial_support": "https://www.scilab.org/services/support-maintenance",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Scilab",
+      "success_case_list": [
+        {
+          "title": "",
+          "description": "",
+          "image": "",
+          "industry": "",
+          "customer": "",
+          "country": "",
+          "language": "en",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "OpenFoam",
+      "logo": "https://www.openfoam.com/img/OpenFOAMtrans.png",
+      "website": "https://www.openfoam.com/",
+      "category_list": ["Analytics"],
+      "source_code_download": "https://www.openfoam.com/download/",
+      "source_code_profile": "https://www.openhub.net/p/openfoam/analyses/latest/languages_summary",
+      "commercial_support": "https://www.openfoam.com/services/software.php",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OpenFOAM",
+      "success_case_list": []
+    }
+  ]
 }

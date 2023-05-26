@@ -1,42 +1,44 @@
 {
-        "title": "FrontAccounting",
-        "logo": "https://frontaccounting.com/fawiki/uploads/PmWiki/logo_frontaccounting.png",
-        "country": "se",
-        "presence": ["se", "pl"],
-        "website": "https://frontaccounting.com/",
-        "founded_year": "2007",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "FrontAccounting",
-                "logo": "https://frontaccounting.com/fawiki/uploads/PmWiki/logo_frontaccounting.png",
-                "website": "https://frontaccounting.com/",
-                "category_list": ["Application"],
-                "source_code_download": "https://sourceforge.net/projects/frontaccounting/",
-                "source_code_profile": "https://www.openhub.net/p/frontaccounting/analyses/latest/languages_summary",
-                "commercial_support": "https://frontaccounting.com/punbb/",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }]
+  "title": "FrontAccounting",
+  "logo": "https://frontaccounting.com/fawiki/uploads/PmWiki/logo_frontaccounting.png",
+  "country": "se",
+  "presence": ["se", "pl"],
+  "website": "https://frontaccounting.com/",
+  "founded_year": "2007",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "FrontAccounting",
+      "logo": "https://frontaccounting.com/fawiki/uploads/PmWiki/logo_frontaccounting.png",
+      "website": "https://frontaccounting.com/",
+      "category_list": ["Application"],
+      "source_code_download": "https://sourceforge.net/projects/frontaccounting/",
+      "source_code_profile": "https://www.openhub.net/p/frontaccounting/analyses/latest/languages_summary",
+      "commercial_support": "https://frontaccounting.com/punbb/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

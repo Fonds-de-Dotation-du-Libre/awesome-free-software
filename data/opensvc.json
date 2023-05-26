@@ -1,42 +1,44 @@
 {
-        "title": "OpenSVC",
-        "logo": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://www.opensvc.com/",
-        "founded_year": "2009",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "75735",
-            "total_assets": "912176",
-            "revenues": "645229",
-            "public_source": "yes"
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "154928",
-            "total_assets": "972256",
-            "revenues": "768214",
-            "public_source": "yes"
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "116846",
-            "total_assets": "774039",
-            "revenues": "622888",
-            "public_source": "yes"
-          }
-        },
-        "free_software_list": [{
-                "title": "OpenSVC",
-                "logo": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
-                "website": "https://www.opensvc.com/",
-                "category_list": ["Infrastructure"],
-                "source_code_download": "https://github.com/opensvc",
-                "source_code_profile": "",
-                "commercial_support": "https://www.opensvc.com/",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }]
+  "title": "OpenSVC",
+  "logo": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.opensvc.com/",
+  "founded_year": "2009",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "75735",
+      "total_assets": "912176",
+      "revenues": "645229",
+      "public_source": "yes"
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "154928",
+      "total_assets": "972256",
+      "revenues": "768214",
+      "public_source": "yes"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "116846",
+      "total_assets": "774039",
+      "revenues": "622888",
+      "public_source": "yes"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "OpenSVC",
+      "logo": "https://www.opensvc.com/init/static/images/opensvc-logo-2018.svg",
+      "website": "https://www.opensvc.com/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://github.com/opensvc",
+      "source_code_profile": "",
+      "commercial_support": "https://www.opensvc.com/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

@@ -1,42 +1,44 @@
 {
-        "title": "Modeliosoft",
-        "logo": "https://www.modeliosoft.com/images/logo-modelio-docaposte.png",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://www.modeliosoft.com/en/",
-        "founded_year": "2009",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "Modelio",
-                "logo": "https://www.modelio.org/images/logo-modelio-v4.png",
-                "website": "https://www.modelio.org/",
-                "category_list": ["Application"],
-                "source_code_download": "https://www.modelio.org/downloads/download-modelio.html",
-                "source_code_profile": "",
-                "commercial_support": "https://www.modeliosoft.com/en/services/support.html",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Modelio",
-                "success_case_list": []
-        }]
+  "title": "Modeliosoft",
+  "logo": "https://www.modeliosoft.com/images/logo-modelio-docaposte.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.modeliosoft.com/en/",
+  "founded_year": "2009",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Modelio",
+      "logo": "https://www.modelio.org/images/logo-modelio-v4.png",
+      "website": "https://www.modelio.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.modelio.org/downloads/download-modelio.html",
+      "source_code_profile": "",
+      "commercial_support": "https://www.modeliosoft.com/en/services/support.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Modelio",
+      "success_case_list": []
+    }
+  ]
 }

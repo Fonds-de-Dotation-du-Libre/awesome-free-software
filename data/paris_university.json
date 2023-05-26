@@ -1,11 +1,11 @@
 {
   "title": "Paris University",
-	"logo": "https://u-paris.fr/wp-content/uploads/2019/03/Universite_Paris_logo_horizontal.jpg",
-	"country": "fr",
-	"presence": ["fr"],
-	"website": "https://u-paris.fr/",
-	"founded_year": "1970",
-	"kpi_dict": {
+  "logo": "https://u-paris.fr/wp-content/uploads/2019/03/Universite_Paris_logo_horizontal.jpg",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://u-paris.fr/",
+  "founded_year": "1970",
+  "kpi_dict": {
     "2018": {
       "staff": "",
       "earnings": "",
@@ -28,15 +28,17 @@
       "public_source": ""
     }
   },
-	"free_software_list": [{
-		"title": "Unnamed SFU",
-		"logo": "",
-		"website": "https://www.irif.fr/~jch/software/sfu/",
-		"category_list": ["Application"],
-		"source_code_download": "https://www.irif.fr/~jch/software/sfu.git",
-		"source_code_profile": "",
-		"commercial_support": "",
-		"wikipedia_url": "",
-		"success_case_list": []
-	}]
+  "free_software_list": [
+    {
+      "title": "Unnamed SFU",
+      "logo": "",
+      "website": "https://www.irif.fr/~jch/software/sfu/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.irif.fr/~jch/software/sfu.git",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

@@ -1,78 +1,85 @@
 {
-        "title": "Bonitasoft",
-        "logo": "https://cdn3-b.bonitasoft.com//sites/default/themes/bonitasoft4/images/logo_bonitasoft_white_big.png",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://fr.bonitasoft.com/",
-        "founded_year": "2009",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "50",
-            "earnings": "846535",
-            "total_assets": "5124942",
-            "revenues": "6535380",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "52",
-            "earnings": "-349045",
-            "total_assets": "4595026",
-            "revenues": "5990843",
-            "public_source": "true"
-          }
+  "title": "Bonitasoft",
+  "logo": "https://cdn3-b.bonitasoft.com//sites/default/themes/bonitasoft4/images/logo_bonitasoft_white_big.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://fr.bonitasoft.com/",
+  "founded_year": "2009",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "50",
+      "earnings": "846535",
+      "total_assets": "5124942",
+      "revenues": "6535380",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "52",
+      "earnings": "-349045",
+      "total_assets": "4595026",
+      "revenues": "5990843",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Bonita",
+      "logo": "",
+      "website": "www.bonitasoft.com",
+      "category_list": ["Application"],
+      "source_code_download": "https://fr.bonitasoft.com/telechargez",
+      "source_code_profile": "https://www.openhub.net/p/bos/analyses/latest/languages_summary",
+      "commercial_support": "https://www.bonitasoft.com/support",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bonita_BPM",
+      "success_case_list": [
+        {
+          "title": "EnerNOC",
+          "description": "With Bonita  for its curtailing processes, EnerNOC has delivered more than $1 billion in customer savings to date.",
+          "image": "https://www.bonitasoft.com/system/files/Industries/energy_1.jpg",
+          "industry": "Energy",
+          "customer": "EnerNOC",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.bonitasoft.com/customer-stories/enernoc"
         },
-        "free_software_list": [{
-                "title": "Bonita",
-                "logo": "",
-                "website": "www.bonitasoft.com",
-                "category_list": ["Application"],
-                "source_code_download": "https://fr.bonitasoft.com/telechargez",
-                "source_code_profile": "https://www.openhub.net/p/bos/analyses/latest/languages_summary",
-                "commercial_support": "https://www.bonitasoft.com/support",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Bonita_BPM",
-                "success_case_list": [{
-                        "title": "EnerNOC",
-                        "description": "With Bonita  for its curtailing processes, EnerNOC has delivered more than $1 billion in customer savings to date.",
-                        "image": "https://www.bonitasoft.com/system/files/Industries/energy_1.jpg",
-                        "industry": "Energy",
-                        "customer": "EnerNOC",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.bonitasoft.com/customer-stories/enernoc"
-                }, {
-                        "title": "Bristol Myers Squibb",
-                        "description": "Digital transformation of processes in drug discovery by leveraging the Bonita platform",
-                        "image": "https://www.bonitasoft.com/system/files/Industries/healthcare_1.jpg",
-                        "industry": "Life Science",
-                        "customer": "Bristol Myers Squibb",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.bonitasoft.com/customer-stories/bms"
-                }, {
-                        "title": "Hearst Media",
-                        "description": "Automating complex digital solutions orders and product management in a rapidly growing business with Bonita",
-                        "image": "https://www.bonitasoft.com/system/files/Industries/media_1.jpg",
-                        "industry": "Entertainment",
-                        "customer": "Hearst Media",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.bonitasoft.com/customer-stories/Hearst"
-                }, {
-                        "title": "University of Queensland",
-                        "description": "With a focus on students as customers with high expectations, UQ digitised 40+ business processes in 12 months to provide a better overall user experience leveraging existing 15-20 year old legacy systems",
-                        "image": "https://www.bonitasoft.com/system/files/Industries/education_1.jpg",
-                        "industry": "Education",
-                        "customer": "University of Queensland",
-                        "country": "au",
-                        "language": "en",
-                        "url": "https://www.bonitasoft.com/customer-stories/university-queensland"
-                }]
-        }]
+        {
+          "title": "Bristol Myers Squibb",
+          "description": "Digital transformation of processes in drug discovery by leveraging the Bonita platform",
+          "image": "https://www.bonitasoft.com/system/files/Industries/healthcare_1.jpg",
+          "industry": "Life Science",
+          "customer": "Bristol Myers Squibb",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.bonitasoft.com/customer-stories/bms"
+        },
+        {
+          "title": "Hearst Media",
+          "description": "Automating complex digital solutions orders and product management in a rapidly growing business with Bonita",
+          "image": "https://www.bonitasoft.com/system/files/Industries/media_1.jpg",
+          "industry": "Entertainment",
+          "customer": "Hearst Media",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.bonitasoft.com/customer-stories/Hearst"
+        },
+        {
+          "title": "University of Queensland",
+          "description": "With a focus on students as customers with high expectations, UQ digitised 40+ business processes in 12 months to provide a better overall user experience leveraging existing 15-20 year old legacy systems",
+          "image": "https://www.bonitasoft.com/system/files/Industries/education_1.jpg",
+          "industry": "Education",
+          "customer": "University of Queensland",
+          "country": "au",
+          "language": "en",
+          "url": "https://www.bonitasoft.com/customer-stories/university-queensland"
+        }
+      ]
+    }
+  ]
 }

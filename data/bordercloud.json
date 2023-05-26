@@ -1,51 +1,55 @@
 {
-        "title": "Bordercloud",
-        "logo": "http://www.bordercloud.com/images/logo.png",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "http://www.bordercloud.com/",
-        "founded_year": "2010",
-        "kpi_dict": {
-          "2018": {
-            "staff": "2",
-            "earnings": "20200",
-            "total_assets": "91200",
-            "revenues": "108700",
-            "public_source": "true"
-          },
-          "2017": {
-            "staff": "3",
-            "earnings": "21300",
-            "total_assets": "78900",
-            "revenues": "115200",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "LinkedWiki",
-                "logo": "http://linkedwiki.com/images/logo_button.png",
-                "website": "http://linkedwiki.com/map.php",
-                "category_list": ["Analytics"],
-                "source_code_download": "https://github.com/BorderCloud/LinkedWiki",
-                "source_code_profile": "",
-                "commercial_support": "http://www.bordercloud.com/trainingMethodLinkedData.php",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "I/O Data Science",
-                        "description": "IO Data Science (IO for Input/Output) is a homogenised access to metadata descriptions of datasets via a single point of access. The scientists can declare their datasets as open data or for restricted usage within the university. The machines of scientists can use the SPARQL service to read the metadata of available datasets. ",
-                        "image": "https://io.datascience-paris-saclay.fr/images/logo_button.png",
-                        "industry": "Research",
-                        "customer": "Paris Saclay",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://io.datascience-paris-saclay.fr/map.php"
-                }]
-        }]
+  "title": "Bordercloud",
+  "logo": "http://www.bordercloud.com/images/logo.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "http://www.bordercloud.com/",
+  "founded_year": "2010",
+  "kpi_dict": {
+    "2018": {
+      "staff": "2",
+      "earnings": "20200",
+      "total_assets": "91200",
+      "revenues": "108700",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "3",
+      "earnings": "21300",
+      "total_assets": "78900",
+      "revenues": "115200",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "LinkedWiki",
+      "logo": "http://linkedwiki.com/images/logo_button.png",
+      "website": "http://linkedwiki.com/map.php",
+      "category_list": ["Analytics"],
+      "source_code_download": "https://github.com/BorderCloud/LinkedWiki",
+      "source_code_profile": "",
+      "commercial_support": "http://www.bordercloud.com/trainingMethodLinkedData.php",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "I/O Data Science",
+          "description": "IO Data Science (IO for Input/Output) is a homogenised access to metadata descriptions of datasets via a single point of access. The scientists can declare their datasets as open data or for restricted usage within the university. The machines of scientists can use the SPARQL service to read the metadata of available datasets. ",
+          "image": "https://io.datascience-paris-saclay.fr/images/logo_button.png",
+          "industry": "Research",
+          "customer": "Paris Saclay",
+          "country": "fr",
+          "language": "en",
+          "url": "https://io.datascience-paris-saclay.fr/map.php"
+        }
+      ]
+    }
+  ]
 }

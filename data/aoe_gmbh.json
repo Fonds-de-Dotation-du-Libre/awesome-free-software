@@ -1,159 +1,175 @@
 {
-        "title": "AOE GmbH",
-        "logo": "https://animejs.com/documentation/assets/img/anime-mini-logo.svg",
-        "country": "de",
-        "presence": ["de", "us", "hk", "ch", "ue"],
-        "website": "https://www.aoe.com/",
-        "founded_year": "1999",
-        "kpi_dict": {
-          "2018": {
-            "staff": "173",
-            "earnings": "297686",
-            "total_assets": "9774151",
-            "revenues": "20839000",
-            "public_source": "true"
-          },
-          "2017": {
-            "staff": "164",
-            "earnings": "321475",
-            "total_assets": "7869595",
-            "revenues": "17178000",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "134",
-            "earnings": "1658620",
-            "total_assets": "9100431",
-            "revenues": "17791000",
-            "public_source": "true"
-          }
+  "title": "AOE GmbH",
+  "logo": "https://animejs.com/documentation/assets/img/anime-mini-logo.svg",
+  "country": "de",
+  "presence": ["de", "us", "hk", "ch", "ue"],
+  "website": "https://www.aoe.com/",
+  "founded_year": "1999",
+  "kpi_dict": {
+    "2018": {
+      "staff": "173",
+      "earnings": "297686",
+      "total_assets": "9774151",
+      "revenues": "20839000",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "164",
+      "earnings": "321475",
+      "total_assets": "7869595",
+      "revenues": "17178000",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "134",
+      "earnings": "1658620",
+      "total_assets": "9100431",
+      "revenues": "17791000",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Flamingo",
+      "logo": "https://www.flamingo.me/assets/svg/logo_flamingo-core2.svg",
+      "website": "https://www.flamingo.me/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.flamingo.me/flamingo-core.html#Start",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Commerz Real: Digitalization creates new product range for financial service providers",
+          "description": "How can I digitalize my business model and make it more efficient? Commerz Real, a wholly owned subsidiary of Commerzbank, asked itself this question. In order to expand its product range and establish agile processes at the same time, Commerz Real contracted AOE to develop a solution for the automated, digital calculation of leasing contracts for moveable assets. In addition, AOE is supporting Commerz Real in its transformation to an agile, future-oriented project implementation.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/commerzReal_color.svg",
+          "industry": "Finance",
+          "customer": "Commerz Real",
+          "country": "de",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/commerz-real.html"
         },
-        "free_software_list": [{
-                "title": "Flamingo",
-                "logo": "https://www.flamingo.me/assets/svg/logo_flamingo-core2.svg",
-                "website": "https://www.flamingo.me/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://www.flamingo.me/flamingo-core.html#Start",
-                "source_code_profile": "",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "Commerz Real: Digitalization creates new product range for financial service providers",
-                        "description": "How can I digitalize my business model and make it more efficient? Commerz Real, a wholly owned subsidiary of Commerzbank, asked itself this question. In order to expand its product range and establish agile processes at the same time, Commerz Real contracted AOE to develop a solution for the automated, digital calculation of leasing contracts for moveable assets. In addition, AOE is supporting Commerz Real in its transformation to an agile, future-oriented project implementation.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/commerzReal_color.svg",
-                        "industry": "Finance",
-                        "customer": "Commerz Real",
-                        "country": "de",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/commerz-real.html"
-                }, {
-                        "title": "congstar: Agile Methods for Telco provider of the Year!",
-                        "description": "How can an enterprise online sales and self-care portal be set up step by step and adapted to constantly changing circumstances? How can self-organized teams be scaled in large, agile organizations? And how does a successful cooperation emerge from which service provider and client benefit? Just some of the questions that have been answered during the partnership between congstar and AOE. This case study provides insights into the history of the partnership, describes the evolution of the architecture and explains the change from a monolithic application to a microservices approach.",
-                        "image": "https://cdn1.aoe.com/fileadmin/AOE.com/images/logos/clients/Congstar_Logo_above.svg",
-                        "industry": "Telecommunication",
-                        "customer": "Congstar",
-                        "country": "de",
-                        "language": "en,de",
-                        "url": "https://www.aoe.com/en/clients/congstar.html"
-                }, {
-                        "title": "Sony PlayStation Network: Global CMS Rollout for more than 50 countries",
-                        "description": "If you want to see, listen to or play the latest movies, music or PlayStation offers, PlayStation Network is the place to be. PlayStation Network is the combination of all the digital services offered by Sony. Customers can access the service via smartphone, Sony Tablet, Sony TV, PlayStation or PC. Sony opted for the open source expert AOE to migrate the legacy portal.",
-                        "image": "https://cdn2.aoe.com/fileadmin/AOE.com/images/logos/clients/Sony.svg",
-                        "industry": "Entertainment",
-                        "customer": "Sony",
-                        "country": "de",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/sony.html"
-                }, {
-                        "title": "MyKidio: In-car entertainment in every BMW",
-                        "description": "Parents of children know the situation: During a long drive, the children in the rear quickly become impatient. They whine, they argue, they pester the adults with questions. This is not only bad for the kids, but also for the driver, who is distracted from the actual task of driving. What to do? Together with other partners, AOE has developed a customized car entertainment solution for T-Systems, specifically for BMW: myKIDIO. With myKIDIO, the journey in the BMW is also optimized for little passengers.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/T-Systems_Logo_above.svg",
-                        "industry": "Telecommunication",
-                        "customer": "T-Systems",
-                        "country": "de",
-                        "language": "en,de",
-                        "url": "https://www.aoe.com/en/mykidio.html"
-                }, {
-                        "title": "Condor: Corporate Intranet Relaunch",
-                        "description": "High employee acceptance. This is the unanimous verdict on Condor’s new intranet portal, which AOE implemented for Thomas Cook’s wholly owned subsidiary. The portal had to be implemented within a very short time. With the intranet, Condor wanted to offer its employees an attractive central platform for company-relevant news, internal reports, current statistics, frequently required forms, special employee offers and much more.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Condor_color_Logo_above.svg",
-                        "industry": "Aerospace",
-                        "customer": "Condor",
-                        "country": "de",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/condor.html"
-                }, {
-                        "title": "Thomas Cook: Internal portal for news, documents, data and company departments",
-                        "description": "Which criteria does an intranet have to meet in order for employees to receive an optimal tool for their purposes? To answer this question, AOE developed a completely new intranet portal for the world’s leading tourism company Thomas Cook within just four months.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Thomas_Cook_color_Logo_above.svg",
-                        "industry": "Tourism",
-                        "customer": "Thomas Cook",
-                        "country": "de",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/thomas-cook.html"
-                }, {
-                        "title": "Cisco WebEx: Global CMS Rollout",
-                        "description": "Cisco WebEx is the global leader in online meetings as well as web- and video conferencing. With WebEx, approximately 28,000 customers and 3.5 million monthly users exchange presentations, applications, documents or entire desktops over the Internet. WebEx maintains 13 Internet platforms in nine different languages around the world. The challenge: Individual country pages had to be localized – a process that to date was carried out manually on static websites. Cisco WebEx chose an Enterprise Content Management System (CMS) based on open source technology in order to maintain the country sites quickly and conveniently.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Cisco_webex_color.svg",
-                        "industry": "Software",
-                        "customer": "Cisco",
-                        "country": "us",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/cisco-webex.html"
-                }, {
-                        "title": "Anki: How Anki sent its Digital Strategy into Overdrive",
-                        "description": "Making artificial intelligence (AI) accessible to everyone and bringing consumer robotics into everyday life: This is the goal of the Californian company Anki. Anki manufactures AI-controlled consumer electronics products. The products are designed to make it extremely easy, for example, to get started with the Overdrive battle racing game. To deliver an optimal UX for its worldwide digital services, Anki needed a seamless solution for the website, E-Commerce store and mobile app.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/anki_color.svg",
-                        "industry": "Entertainment",
-                        "customer": "Anki",
-                        "country": "us",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/anki.html"
-                }, {
-                        "title": "Hankook: European CMS Introduction and Product Finder",
-                        "description": "Hankook Tire replaced its own CMS with an Open Source solution. With the new solution, it is now possible to integrate and edit content for the European market on the website independently of the headquarters",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Hankook_color.svg",
-                        "industry": "Manfacturing",
-                        "customer": "Hankook",
-                        "country": "sk",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/hankook.html"
-                }, {
-                        "title": "HP Palm: WebOS Developer Portal",
-                        "description": "Palm is a Californian manufacturer of PDAs and smartphones. The company was taken over by Hewlett-Packard in 2010 and has since been operating under the name HP Palm. The smartphone operating system HP webOS is the successor of Palm OS. webOS developers have their own platform for the further development of the operating system. The Developer Center offers information about the system, podcasts and videos, resources on various topics, an API guide, access to the developer community and much more.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/HP_Palm_color.svg",
-                        "industry": "Telecommunication",
-                        "customer": "HP Palm",
-                        "country": "us",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/hp-palm.html"
-                }, {
-                        "title": "Parallels: CMS with search- and marketing functions",
-                        "description": "Parallels is a global leader in virtualization and automation solutions. With a comprehensive software offering, it helps consumers and businesses take advantage of virtual computing environments across platforms.  The company was looking for a Content Management System (CMS) that could be seamlessly integrated into the existing system environment and contracted AOE to implement the new solution.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Parallels_color.svg",
-                        "industry": "Software",
-                        "customer": "Parallels Inc",
-                        "country": "us",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/parallels.html"
-                }, {
-                        "title": "airline direct: User-friendly Travel Booking Portal",
-                        "description": "airline direct is one of the best-known online travel portals and ISPs of the first hour. The portal has been offering users and customers the possibility to book flights, holidays and hotels online since 1999. Portal operator Travel Viva AG commissioned AOE to develop a new Open Source travel portal solution.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/airline_direct_color.svg",
-                        "industry": "Tourism",
-                        "customer": "Travel Viva AG",
-                        "country": "de",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/airline-direct.html"
-                }, {
-                        "title": "DQS Group: Workflows and APIs improve quality",
-                        "description": "Under a common roof, AOE completely redesigned and implemented the online offering on an Open Source basis for both the company group as well as the various countries. In total, the web platform, which was developed in 15 months, supports approximately 100 responsible editors worldwide in 45 different languages.",
-                        "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/DQS_color.svg",
-                        "industry": "Service",
-                        "customer": "DQS Group",
-                        "country": "de",
-                        "language": "en, de",
-                        "url": "https://www.aoe.com/en/clients/dqs-group.html"
-                }]
-        }]
+        {
+          "title": "congstar: Agile Methods for Telco provider of the Year!",
+          "description": "How can an enterprise online sales and self-care portal be set up step by step and adapted to constantly changing circumstances? How can self-organized teams be scaled in large, agile organizations? And how does a successful cooperation emerge from which service provider and client benefit? Just some of the questions that have been answered during the partnership between congstar and AOE. This case study provides insights into the history of the partnership, describes the evolution of the architecture and explains the change from a monolithic application to a microservices approach.",
+          "image": "https://cdn1.aoe.com/fileadmin/AOE.com/images/logos/clients/Congstar_Logo_above.svg",
+          "industry": "Telecommunication",
+          "customer": "Congstar",
+          "country": "de",
+          "language": "en,de",
+          "url": "https://www.aoe.com/en/clients/congstar.html"
+        },
+        {
+          "title": "Sony PlayStation Network: Global CMS Rollout for more than 50 countries",
+          "description": "If you want to see, listen to or play the latest movies, music or PlayStation offers, PlayStation Network is the place to be. PlayStation Network is the combination of all the digital services offered by Sony. Customers can access the service via smartphone, Sony Tablet, Sony TV, PlayStation or PC. Sony opted for the open source expert AOE to migrate the legacy portal.",
+          "image": "https://cdn2.aoe.com/fileadmin/AOE.com/images/logos/clients/Sony.svg",
+          "industry": "Entertainment",
+          "customer": "Sony",
+          "country": "de",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/sony.html"
+        },
+        {
+          "title": "MyKidio: In-car entertainment in every BMW",
+          "description": "Parents of children know the situation: During a long drive, the children in the rear quickly become impatient. They whine, they argue, they pester the adults with questions. This is not only bad for the kids, but also for the driver, who is distracted from the actual task of driving. What to do? Together with other partners, AOE has developed a customized car entertainment solution for T-Systems, specifically for BMW: myKIDIO. With myKIDIO, the journey in the BMW is also optimized for little passengers.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/T-Systems_Logo_above.svg",
+          "industry": "Telecommunication",
+          "customer": "T-Systems",
+          "country": "de",
+          "language": "en,de",
+          "url": "https://www.aoe.com/en/mykidio.html"
+        },
+        {
+          "title": "Condor: Corporate Intranet Relaunch",
+          "description": "High employee acceptance. This is the unanimous verdict on Condor’s new intranet portal, which AOE implemented for Thomas Cook’s wholly owned subsidiary. The portal had to be implemented within a very short time. With the intranet, Condor wanted to offer its employees an attractive central platform for company-relevant news, internal reports, current statistics, frequently required forms, special employee offers and much more.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Condor_color_Logo_above.svg",
+          "industry": "Aerospace",
+          "customer": "Condor",
+          "country": "de",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/condor.html"
+        },
+        {
+          "title": "Thomas Cook: Internal portal for news, documents, data and company departments",
+          "description": "Which criteria does an intranet have to meet in order for employees to receive an optimal tool for their purposes? To answer this question, AOE developed a completely new intranet portal for the world’s leading tourism company Thomas Cook within just four months.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Thomas_Cook_color_Logo_above.svg",
+          "industry": "Tourism",
+          "customer": "Thomas Cook",
+          "country": "de",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/thomas-cook.html"
+        },
+        {
+          "title": "Cisco WebEx: Global CMS Rollout",
+          "description": "Cisco WebEx is the global leader in online meetings as well as web- and video conferencing. With WebEx, approximately 28,000 customers and 3.5 million monthly users exchange presentations, applications, documents or entire desktops over the Internet. WebEx maintains 13 Internet platforms in nine different languages around the world. The challenge: Individual country pages had to be localized – a process that to date was carried out manually on static websites. Cisco WebEx chose an Enterprise Content Management System (CMS) based on open source technology in order to maintain the country sites quickly and conveniently.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Cisco_webex_color.svg",
+          "industry": "Software",
+          "customer": "Cisco",
+          "country": "us",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/cisco-webex.html"
+        },
+        {
+          "title": "Anki: How Anki sent its Digital Strategy into Overdrive",
+          "description": "Making artificial intelligence (AI) accessible to everyone and bringing consumer robotics into everyday life: This is the goal of the Californian company Anki. Anki manufactures AI-controlled consumer electronics products. The products are designed to make it extremely easy, for example, to get started with the Overdrive battle racing game. To deliver an optimal UX for its worldwide digital services, Anki needed a seamless solution for the website, E-Commerce store and mobile app.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/anki_color.svg",
+          "industry": "Entertainment",
+          "customer": "Anki",
+          "country": "us",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/anki.html"
+        },
+        {
+          "title": "Hankook: European CMS Introduction and Product Finder",
+          "description": "Hankook Tire replaced its own CMS with an Open Source solution. With the new solution, it is now possible to integrate and edit content for the European market on the website independently of the headquarters",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Hankook_color.svg",
+          "industry": "Manfacturing",
+          "customer": "Hankook",
+          "country": "sk",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/hankook.html"
+        },
+        {
+          "title": "HP Palm: WebOS Developer Portal",
+          "description": "Palm is a Californian manufacturer of PDAs and smartphones. The company was taken over by Hewlett-Packard in 2010 and has since been operating under the name HP Palm. The smartphone operating system HP webOS is the successor of Palm OS. webOS developers have their own platform for the further development of the operating system. The Developer Center offers information about the system, podcasts and videos, resources on various topics, an API guide, access to the developer community and much more.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/HP_Palm_color.svg",
+          "industry": "Telecommunication",
+          "customer": "HP Palm",
+          "country": "us",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/hp-palm.html"
+        },
+        {
+          "title": "Parallels: CMS with search- and marketing functions",
+          "description": "Parallels is a global leader in virtualization and automation solutions. With a comprehensive software offering, it helps consumers and businesses take advantage of virtual computing environments across platforms.  The company was looking for a Content Management System (CMS) that could be seamlessly integrated into the existing system environment and contracted AOE to implement the new solution.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/Parallels_color.svg",
+          "industry": "Software",
+          "customer": "Parallels Inc",
+          "country": "us",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/parallels.html"
+        },
+        {
+          "title": "airline direct: User-friendly Travel Booking Portal",
+          "description": "airline direct is one of the best-known online travel portals and ISPs of the first hour. The portal has been offering users and customers the possibility to book flights, holidays and hotels online since 1999. Portal operator Travel Viva AG commissioned AOE to develop a new Open Source travel portal solution.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/airline_direct_color.svg",
+          "industry": "Tourism",
+          "customer": "Travel Viva AG",
+          "country": "de",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/airline-direct.html"
+        },
+        {
+          "title": "DQS Group: Workflows and APIs improve quality",
+          "description": "Under a common roof, AOE completely redesigned and implemented the online offering on an Open Source basis for both the company group as well as the various countries. In total, the web platform, which was developed in 15 months, supports approximately 100 responsible editors worldwide in 45 different languages.",
+          "image": "https://cdn4.aoe.com/fileadmin/AOE.com/images/logos/clients/DQS_color.svg",
+          "industry": "Service",
+          "customer": "DQS Group",
+          "country": "de",
+          "language": "en, de",
+          "url": "https://www.aoe.com/en/clients/dqs-group.html"
+        }
+      ]
+    }
+  ]
 }

@@ -1,182 +1,205 @@
 {
-        "title": "Talend",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
-        "country": "us",
-        "presence": ["us", "fr", "gb", "jp", "de", "ch", "au", "sg", "cn"],
-        "website": "https://www.talend.com/",
-        "founded_year": "2006",
-        "kpi_dict": {
-          "2018": {
-            "staff": "308",
-            "earnings": "-3547860",
-            "total_assets": "125508594",
-            "revenues": "69072580",
-            "public_source": "true"
-          },
-          "2017": {
-            "staff": "210",
-            "earnings": "-19519177",
-            "total_assets": "111606368",
-            "revenues": "51015363",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "152",
-            "earnings": "-11977562",
-            "total_assets": "96654986",
-            "revenues": "39141670",
-            "public_source": "true"
-          }
+  "title": "Talend",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
+  "country": "us",
+  "presence": ["us", "fr", "gb", "jp", "de", "ch", "au", "sg", "cn"],
+  "website": "https://www.talend.com/",
+  "founded_year": "2006",
+  "kpi_dict": {
+    "2018": {
+      "staff": "308",
+      "earnings": "-3547860",
+      "total_assets": "125508594",
+      "revenues": "69072580",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "210",
+      "earnings": "-19519177",
+      "total_assets": "111606368",
+      "revenues": "51015363",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "152",
+      "earnings": "-11977562",
+      "total_assets": "96654986",
+      "revenues": "39141670",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Open Studio Data Integration",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
+      "category_list": ["Middleware"],
+      "website": "https://www.talend.com/products/data-integration",
+      "source_code_download": "https://www.talend.com/download/thankyou/data-integration",
+      "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Accent Group Raises the Roof on Performance Using Talend Data Integration",
+          "description": "L'associazione britannica operante nel settore dell'edilizia abitativa sociale sceglie un software open source per l'integrazione dati.",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/accent-group.jpg",
+          "industry": "Housing",
+          "customer": "Accent Group",
+          "country": "gb",
+          "language": "it",
+          "url": "https://www.talend.com/customers/customer-reference/accent-group-raises-roof-performance-using-talend-enterprise-data"
         },
-        "free_software_list": [{
-                "title": "Open Studio Data Integration",
-                "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
-                "category_list": ["Middleware"],
-                "website": "https://www.talend.com/products/data-integration",
-                "source_code_download": "https://www.talend.com/download/thankyou/data-integration",
-                "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "Accent Group Raises the Roof on Performance Using Talend Data Integration",
-                        "description": "L'associazione britannica operante nel settore dell'edilizia abitativa sociale sceglie un software open source per l'integrazione dati.",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/accent-group.jpg",
-                        "industry": "Housing",
-                        "customer": "Accent Group",
-                        "country": "gb",
-                        "language": "it",
-                        "url": "https://www.talend.com/customers/customer-reference/accent-group-raises-roof-performance-using-talend-enterprise-data"
-                }, {
-                        "title": "The Directorate for Maritime Affairs improves data quality and business intelligence with Talend",
-                        "description": "Quality controls directly integrated into data flows, data consolidated and distributed to different departments, and streamlined deployments help the Directorate for Maritime Affairs and its partners to optimize business intelligence",
-                        "image": "N/A",
-                        "industry": "Public Administration & Government",
-                        "customer": "Infrastructure, Transportation and the Sea (DGITM) of the French Ministry of Ecology, Sustainable Development and Energy",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/the-directorate-for-maritime-affairs-improves-data-quality-and-business"
-                }]
-        }, {
-                "title": "Open Studio Data Preparation",
-                "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
-                "website": "https://www.talend.com/products/data-preparation",
-                "category_list": ["Communication"],
-                "source_code_download": "https://www.talend.com/download/thankyou/data-preparation",
-                "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "BF&M: Leveraging Talend in the Insurance Industry to Move Out with the Old and In with the New",
-                        "description": "BF&M Insurance Group is one of the leading insurance companies in Bermuda providing life, health and pension products. As a general insurer, the company also offers all forms of property, casualty, motor and marine products. Given the inherent complexity of maintaining constantly changing customer service databases and underwriting policies for such a wide range of insurance products, front end and backend system upgrades are inevitable over time.",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/bfm_logo.jpg",
-                        "industry": "Insurance",
-                        "customer": "BF&M Insurance Group",
-                        "country": "bm",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/bfm-leveraging-talend-insurance-industry-move-out-old-and-new"
-                }]
-        }, {
-                "title": "Open Studio Big Data",
-                "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
-                "website": "https://www.talend.com/download/talend-open-studio",
-                "category_list": ["Analytics"],
-                "source_code_download": "https://www.talend.com/download/thankyou/big-data",
-                "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "Buffalo Studios Maximizes Data Value to Build Competitive Edge in Social Gaming",
-                        "description": "Talend Big Data adds much-needed flexibility to data integration pipeline",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/buffalo_logo_0.png",
-                        "industry": "Entertainment",
-                        "customer": "Buffalo Studios of Caesars Interactive Entertainment (CIE)",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/buffalo-studios-maximizes-data-value-to-build-competitive-edge-in"
-                }, {
-                        "title": "Accor Optimizes its Bookings Management",
-                        "description": "Talend Open Studio for Data Integration speeds up archiving and viewing data, addresses regulatory issues.",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/Accor.jpg",
-                        "industry": "Tourism",
-                        "customer": "Accor",
-                        "country": "worldwide",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/accor-optimizes-its-bookings-management"
-                }]
-        }, {
-                "title": "Open Studio Data Quality",
-                "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
-                "category_list": ["Analytics"],
-                "website": "https://www.talend.com/products/data-quality",
-                "source_code_download": "https://www.talend.com/download/thankyou/data-quality",
-                "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "Talend Makes Light Work of Legacy Integration for Aliaxis",
-                        "description": "The Aliaxis Group is an international group consisting of businesses primarily engaged in the manufacturing and commercialisation of plastic products for fluid transport relating to four key market segments: building, sanitary, industrial and utilities.",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/Aliaxis_logo_resize.jpg",
-                        "industry": "Manufacturing",
-                        "customer": "Aliaxis",
-                        "country": "gb",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/talend-makes-light-work-legacy-integration-aliaxis"
-                }, {
-                        "title": "Electrocomponents Increases Performance and Reliability of Systems with Talend Enterprise Data Quality",
-                        "description": "Founded in 1937, Electrocomponents plc is the world’s largest distributor of electronics and maintenance products, sourced from over 2,500 suppliers. Today, their range comprises around 500,000 products.",
-                        "image": "",
-                        "industry": "Commerce",
-                        "customer": "Electrocomponents plc",
-                        "country": "worldwide",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/electrocomponents-increases-performance-and-reliability-of-systems-with"
-                }]
-        }, {
-                "title": "Open Studio ESB/Application Integration",
-                "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
-                "category_list": ["Middleware"],
-                "website": "https://www.talend.com/products/application-integration",
-                "source_code_download": "https://www.talend.com/download/thankyou/esb",
-                "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "GE Healthcare Moves Core Data to Talend ESB",
-                        "description": "When the healthcare giant learned its data integration solution for EDI was being sunset, GE found new life and possibilities for its data with Talend.",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/ge_healthcare.jpg",
-                        "industry": "Health",
-                        "customer": "GE Healthcare",
-                        "country": "gb",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/ge-healthcare-moves-core-data-to-talend-esb"
-                }, {
-                        "title": "Globalway, Inc. Helps Japan Move from Ground to Cloud",
-                        "description": "Japan may be a world leader in manufacturing, but they are behind the curve on harnessing customer data. This Talend partner is working hard behind the scenes to change that.",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/globalway_0.png?itok=9sfwUNQP",
-                        "industry": "Web",
-                        "customer": "Globalway, Inc",
-                        "country": "jp",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/globalway-inc-helps-japan-move-from-ground-to-cloud"
-                }]
-        }, {
-                "title": "Open Studio Master Data Management",
-                "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
-                "website": "https://www.talend.com/products/mdm",
-                "category_list": ["Application"],
-                "source_code_download": "https://www.talend.com/download/thankyou/mdm",
-                "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "Ellie Mae turbo charges its sales and marketing activities with Talend MDM",
-                        "description": "Ellie Mae delivers a single source of truth, from department spreadsheets to quality proofed enterprise-wide data access, to business decision makers with Talend MDM.",
-                        "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/ellie_mae_logo_4.jpg?itok=R3UA4JpS",
-                        "industry": "Insurance",
-                        "customer": "Ellie Mae",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.talend.com/customers/customer-reference/ellie-mae-turbo-charges-its-sales-and-marketing-activities-with-talend"
-                }]
-        }]
+        {
+          "title": "The Directorate for Maritime Affairs improves data quality and business intelligence with Talend",
+          "description": "Quality controls directly integrated into data flows, data consolidated and distributed to different departments, and streamlined deployments help the Directorate for Maritime Affairs and its partners to optimize business intelligence",
+          "image": "N/A",
+          "industry": "Public Administration & Government",
+          "customer": "Infrastructure, Transportation and the Sea (DGITM) of the French Ministry of Ecology, Sustainable Development and Energy",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/the-directorate-for-maritime-affairs-improves-data-quality-and-business"
+        }
+      ]
+    },
+    {
+      "title": "Open Studio Data Preparation",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
+      "website": "https://www.talend.com/products/data-preparation",
+      "category_list": ["Communication"],
+      "source_code_download": "https://www.talend.com/download/thankyou/data-preparation",
+      "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "BF&M: Leveraging Talend in the Insurance Industry to Move Out with the Old and In with the New",
+          "description": "BF&M Insurance Group is one of the leading insurance companies in Bermuda providing life, health and pension products. As a general insurer, the company also offers all forms of property, casualty, motor and marine products. Given the inherent complexity of maintaining constantly changing customer service databases and underwriting policies for such a wide range of insurance products, front end and backend system upgrades are inevitable over time.",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/bfm_logo.jpg",
+          "industry": "Insurance",
+          "customer": "BF&M Insurance Group",
+          "country": "bm",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/bfm-leveraging-talend-insurance-industry-move-out-old-and-new"
+        }
+      ]
+    },
+    {
+      "title": "Open Studio Big Data",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
+      "website": "https://www.talend.com/download/talend-open-studio",
+      "category_list": ["Analytics"],
+      "source_code_download": "https://www.talend.com/download/thankyou/big-data",
+      "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Buffalo Studios Maximizes Data Value to Build Competitive Edge in Social Gaming",
+          "description": "Talend Big Data adds much-needed flexibility to data integration pipeline",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/buffalo_logo_0.png",
+          "industry": "Entertainment",
+          "customer": "Buffalo Studios of Caesars Interactive Entertainment (CIE)",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/buffalo-studios-maximizes-data-value-to-build-competitive-edge-in"
+        },
+        {
+          "title": "Accor Optimizes its Bookings Management",
+          "description": "Talend Open Studio for Data Integration speeds up archiving and viewing data, addresses regulatory issues.",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/Accor.jpg",
+          "industry": "Tourism",
+          "customer": "Accor",
+          "country": "worldwide",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/accor-optimizes-its-bookings-management"
+        }
+      ]
+    },
+    {
+      "title": "Open Studio Data Quality",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
+      "category_list": ["Analytics"],
+      "website": "https://www.talend.com/products/data-quality",
+      "source_code_download": "https://www.talend.com/download/thankyou/data-quality",
+      "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Talend Makes Light Work of Legacy Integration for Aliaxis",
+          "description": "The Aliaxis Group is an international group consisting of businesses primarily engaged in the manufacturing and commercialisation of plastic products for fluid transport relating to four key market segments: building, sanitary, industrial and utilities.",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/Aliaxis_logo_resize.jpg",
+          "industry": "Manufacturing",
+          "customer": "Aliaxis",
+          "country": "gb",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/talend-makes-light-work-legacy-integration-aliaxis"
+        },
+        {
+          "title": "Electrocomponents Increases Performance and Reliability of Systems with Talend Enterprise Data Quality",
+          "description": "Founded in 1937, Electrocomponents plc is the world’s largest distributor of electronics and maintenance products, sourced from over 2,500 suppliers. Today, their range comprises around 500,000 products.",
+          "image": "",
+          "industry": "Commerce",
+          "customer": "Electrocomponents plc",
+          "country": "worldwide",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/electrocomponents-increases-performance-and-reliability-of-systems-with"
+        }
+      ]
+    },
+    {
+      "title": "Open Studio ESB/Application Integration",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
+      "category_list": ["Middleware"],
+      "website": "https://www.talend.com/products/application-integration",
+      "source_code_download": "https://www.talend.com/download/thankyou/esb",
+      "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "GE Healthcare Moves Core Data to Talend ESB",
+          "description": "When the healthcare giant learned its data integration solution for EDI was being sunset, GE found new life and possibilities for its data with Talend.",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/ge_healthcare.jpg",
+          "industry": "Health",
+          "customer": "GE Healthcare",
+          "country": "gb",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/ge-healthcare-moves-core-data-to-talend-esb"
+        },
+        {
+          "title": "Globalway, Inc. Helps Japan Move from Ground to Cloud",
+          "description": "Japan may be a world leader in manufacturing, but they are behind the curve on harnessing customer data. This Talend partner is working hard behind the scenes to change that.",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/globalway_0.png?itok=9sfwUNQP",
+          "industry": "Web",
+          "customer": "Globalway, Inc",
+          "country": "jp",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/globalway-inc-helps-japan-move-from-ground-to-cloud"
+        }
+      ]
+    },
+    {
+      "title": "Open Studio Master Data Management",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Talend_logo.png",
+      "website": "https://www.talend.com/products/mdm",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.talend.com/download/thankyou/mdm",
+      "source_code_profile": "https://www.openhub.net/p/talend-studio/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Ellie Mae turbo charges its sales and marketing activities with Talend MDM",
+          "description": "Ellie Mae delivers a single source of truth, from department spreadsheets to quality proofed enterprise-wide data access, to business decision makers with Talend MDM.",
+          "image": "https://www.talend.com/sites/default/files/styles/thumbnail_120x120/public/ellie_mae_logo_4.jpg?itok=R3UA4JpS",
+          "industry": "Insurance",
+          "customer": "Ellie Mae",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.talend.com/customers/customer-reference/ellie-mae-turbo-charges-its-sales-and-marketing-activities-with-talend"
+        }
+      ]
+    }
+  ]
 }

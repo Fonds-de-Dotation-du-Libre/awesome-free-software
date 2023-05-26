@@ -1,60 +1,64 @@
 {
-        "title": "OCAML Pro",
-        "logo": "http://www.ocamlpro.com/wp-content/uploads/2018/01/logo-1.svg",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "http://www.ocamlpro.com/",
-        "founded_year": "2011",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "OPAM",
-                "logo": "",
-                "category_list": ["Middleware"],
-                "source_code_download": "https://github.com/OCamlPro/opam",
-                "source_code_profile": "https://www.openhub.net/p/opam/analyses/latest/languages_summary",
-                "commercial_support": "http://ocamlpro.com/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/OCaml#Development_environment",
-                "success_case_list": []
-        }, {
-                "title": "Scilint",
-                "logo": "",
-                "category_list": ["Developer"],
-                "source_code_download": "https://github.com/OCamlPro/scilint/releases",
-                "source_code_profile": "https://www.openhub.net/p/scilint/analyses/latest/languages_summary",
-                "commercial_support": "http://ocamlpro.com/",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }, {
-                "title": "Liquidity",
-                "logo": "",
-                "website": "http://www.liquidity-lang.org/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://github.com/OCamlPro/liquidity",
-                "source_code_profile": "",
-                "commercial_support": "http://www.liquidity-lang.org/",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }]
+  "title": "OCAML Pro",
+  "logo": "http://www.ocamlpro.com/wp-content/uploads/2018/01/logo-1.svg",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "http://www.ocamlpro.com/",
+  "founded_year": "2011",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "OPAM",
+      "logo": "",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://github.com/OCamlPro/opam",
+      "source_code_profile": "https://www.openhub.net/p/opam/analyses/latest/languages_summary",
+      "commercial_support": "http://ocamlpro.com/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OCaml#Development_environment",
+      "success_case_list": []
+    },
+    {
+      "title": "Scilint",
+      "logo": "",
+      "category_list": ["Developer"],
+      "source_code_download": "https://github.com/OCamlPro/scilint/releases",
+      "source_code_profile": "https://www.openhub.net/p/scilint/analyses/latest/languages_summary",
+      "commercial_support": "http://ocamlpro.com/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Liquidity",
+      "logo": "",
+      "website": "http://www.liquidity-lang.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://github.com/OCamlPro/liquidity",
+      "source_code_profile": "",
+      "commercial_support": "http://www.liquidity-lang.org/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

@@ -1,150 +1,165 @@
 {
-        "title": "Istraxx UG",
-        "logo": "https://www.virtuemart.net/images/banners/vm-logo-220.png",
-        "country": "de",
-        "presence": ["de"],
-        "website": "https://www.virtuemart.net/",
-        "founded_year": "2012",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Istraxx UG",
+  "logo": "https://www.virtuemart.net/images/banners/vm-logo-220.png",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://www.virtuemart.net/",
+  "founded_year": "2012",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "VirtueMart",
+      "logo": "https://www.virtuemart.net/images/banners/vm-logo-220.png",
+      "website": "https://www.virtuemart.net/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.virtuemart.net/download",
+      "source_code_profile": "",
+      "commercial_support": "https://virtuemart.net/partner",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/VirtueMart",
+      "success_case_list": [
+        {
+          "title": "Technology and products which allow greening on houses",
+          "description": "BRANDMEIER BEGRÜNUNGSTECHNIK - GERMANY",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/Brandmeier-Begruenungstechnik.jpg",
+          "industry": "Applicances",
+          "customer": "Brandmeier Begrünungstechnik",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/brandmeier-begr%C3%BCnungstechnik-germany-detail"
         },
-        "free_software_list": [{
-                "title": "VirtueMart",
-                "logo": "https://www.virtuemart.net/images/banners/vm-logo-220.png",
-                "website": "https://www.virtuemart.net/",
-                "category_list": ["Application"],
-                "source_code_download": "https://www.virtuemart.net/download",
-                "source_code_profile": "",
-                "commercial_support": "https://virtuemart.net/partner",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/VirtueMart",
-                "success_case_list": [{
-                        "title": "Technology and products which allow greening on houses",
-                        "description": "BRANDMEIER BEGRÜNUNGSTECHNIK - GERMANY",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/Brandmeier-Begruenungstechnik.jpg",
-                        "industry": "Applicances",
-                        "customer": "Brandmeier Begrünungstechnik",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/brandmeier-begr%C3%BCnungstechnik-germany-detail"
-                },{
-                        "title": "A national (Italian) distributor of EVOLVEO, a Czech Hi-Tech brand.",
-                        "description": "EVOLVEO DISTRIBUZIONE - ITALY",
-                        "image": "https://www.virtuemart.net/showcase/evolveo-distribuzione-italy-detail",
-                        "industry": "Commerce",
-                        "customer": "Evolveo Distribuzione",
-                        "country": "it",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/evolveo-distribuzione-italy-detail"
-                },{
-                        "title": "Meistergerberei Trautwein – alles aus einer Hand, alles unter einem Dach",
-                        "description": "GERBEREI TRAUTWEIN - GERMANY",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/Gerberei-TRAUTWEIN.jpg",
-                        "industry": "Manufacturing",
-                        "customer": "Gerberei Trautwein",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/gerberei-trautwein-germany-detail"
-                },{
-                        "title": "Wir verstehen uns als Fachgeschäft für Produkte aus und mit dem Rohstoff Hanf.",
-                        "description": "HANFHAUS REUTLINGEN - GERMANY",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/HanfHaus-Reutlingen.jpg",
-                        "industry": "Manufacturing",
-                        "customer": "Hanfhaus Reutlingen",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://www.virtuemart.net/showcase/hanfhaus-reutlingen-germany-detail"
-                },{
-                        "title": "KKsport.cz sells all kinds of sport clothing and sport equipment.",
-                        "description": "K+K SPORT - CZECH REPUBLIC",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/KK-Sport.jpg",
-                        "industry": "Retail",
-                        "customer": "K+K Sport",
-                        "country": "cz",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/k-k-sport-czech-republic-detail"
-                },{
-                        "title": "This shop is designed for the special needs of fashion presentation.",
-                        "description": "KOSTUMN°1 - ITALY",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/KOSTUMN1.jpg",
-                        "industry": "Retail",
-                        "customer": "Kostum No 1",
-                        "country": "it",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/kostumn-1-italy-detail"
-                },{
-                        "title": "A shop for art prints and paintings with specific topics like i.e. automobile art, aviation art, maritime art and golf art.",
-                        "description": "KUNSTDRUCKHANDEL KIEKEBUSCH - GERMANY",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/Kunstdruckhandel-Kiekebusch.jpg",
-                        "industry": "Commerce",
-                        "customer": "Kunstdruckhandel Kiekenbusch",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/kunstdruckhandel-kiekebusch-germany-detail"
-                },{
-                        "title": "An online gift and home decor shop in Lund - Sweden",
-                        "description": "LIVING STUDIO - SWEDEN",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/Living-Studio.jpg",
-                        "industry": "Retail",
-                        "customer": "Living Studio",
-                        "country": "se",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/living-studio-sweden-detail"
-                },{
-                        "title": "The Nintendo Catalog of northern Europe countries.",
-                        "description": "NINTENDO - NORWAY",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/Nintendo.jpg",
-                        "industry": "Entertainment",
-                        "customer": "Nintendo",
-                        "country": "no",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/nintendo-norway-detail"
-                },{
-                        "title": "Focusing on car exhaust systems and performance improvement.",
-                        "description": "QUALITY TUNING - CYPRUS",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/Quality-Tuning.jpg",
-                        "industry": "Manufacturing",
-                        "customer": "Quality Tuning",
-                        "country": "cy",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/quality-tuning-cyprus-detail"
-                },{
-                        "title": "Wedding costumes, tailored suits and accessories for the groom of Europe",
-                        "description": "ROKA - NETHERLANDS",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/ROKA.jpg",
-                        "industry": "Retail",
-                        "customer": "Roka",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/roka-netherlands-detail"
-                },{
-                        "title": "We offer audio products from world-renowned manufacturers Sennheiser and Audio-Technica",
-                        "description": "VSYSTEM - BULGARIA",
-                        "image": "https://www.virtuemart.net/images/virtuemart/product/VSystem.jpg",
-                        "industry": "Commerce",
-                        "customer": "VSystem",
-                        "country": "bu",
-                        "language": "en",
-                        "url": "https://www.virtuemart.net/showcase/vsystem-bulgaria-detail"
-                }]
-        }]
+        {
+          "title": "A national (Italian) distributor of EVOLVEO, a Czech Hi-Tech brand.",
+          "description": "EVOLVEO DISTRIBUZIONE - ITALY",
+          "image": "https://www.virtuemart.net/showcase/evolveo-distribuzione-italy-detail",
+          "industry": "Commerce",
+          "customer": "Evolveo Distribuzione",
+          "country": "it",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/evolveo-distribuzione-italy-detail"
+        },
+        {
+          "title": "Meistergerberei Trautwein – alles aus einer Hand, alles unter einem Dach",
+          "description": "GERBEREI TRAUTWEIN - GERMANY",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/Gerberei-TRAUTWEIN.jpg",
+          "industry": "Manufacturing",
+          "customer": "Gerberei Trautwein",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/gerberei-trautwein-germany-detail"
+        },
+        {
+          "title": "Wir verstehen uns als Fachgeschäft für Produkte aus und mit dem Rohstoff Hanf.",
+          "description": "HANFHAUS REUTLINGEN - GERMANY",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/HanfHaus-Reutlingen.jpg",
+          "industry": "Manufacturing",
+          "customer": "Hanfhaus Reutlingen",
+          "country": "de",
+          "language": "de",
+          "url": "https://www.virtuemart.net/showcase/hanfhaus-reutlingen-germany-detail"
+        },
+        {
+          "title": "KKsport.cz sells all kinds of sport clothing and sport equipment.",
+          "description": "K+K SPORT - CZECH REPUBLIC",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/KK-Sport.jpg",
+          "industry": "Retail",
+          "customer": "K+K Sport",
+          "country": "cz",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/k-k-sport-czech-republic-detail"
+        },
+        {
+          "title": "This shop is designed for the special needs of fashion presentation.",
+          "description": "KOSTUMN°1 - ITALY",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/KOSTUMN1.jpg",
+          "industry": "Retail",
+          "customer": "Kostum No 1",
+          "country": "it",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/kostumn-1-italy-detail"
+        },
+        {
+          "title": "A shop for art prints and paintings with specific topics like i.e. automobile art, aviation art, maritime art and golf art.",
+          "description": "KUNSTDRUCKHANDEL KIEKEBUSCH - GERMANY",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/Kunstdruckhandel-Kiekebusch.jpg",
+          "industry": "Commerce",
+          "customer": "Kunstdruckhandel Kiekenbusch",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/kunstdruckhandel-kiekebusch-germany-detail"
+        },
+        {
+          "title": "An online gift and home decor shop in Lund - Sweden",
+          "description": "LIVING STUDIO - SWEDEN",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/Living-Studio.jpg",
+          "industry": "Retail",
+          "customer": "Living Studio",
+          "country": "se",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/living-studio-sweden-detail"
+        },
+        {
+          "title": "The Nintendo Catalog of northern Europe countries.",
+          "description": "NINTENDO - NORWAY",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/Nintendo.jpg",
+          "industry": "Entertainment",
+          "customer": "Nintendo",
+          "country": "no",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/nintendo-norway-detail"
+        },
+        {
+          "title": "Focusing on car exhaust systems and performance improvement.",
+          "description": "QUALITY TUNING - CYPRUS",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/Quality-Tuning.jpg",
+          "industry": "Manufacturing",
+          "customer": "Quality Tuning",
+          "country": "cy",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/quality-tuning-cyprus-detail"
+        },
+        {
+          "title": "Wedding costumes, tailored suits and accessories for the groom of Europe",
+          "description": "ROKA - NETHERLANDS",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/ROKA.jpg",
+          "industry": "Retail",
+          "customer": "Roka",
+          "country": "nl",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/roka-netherlands-detail"
+        },
+        {
+          "title": "We offer audio products from world-renowned manufacturers Sennheiser and Audio-Technica",
+          "description": "VSYSTEM - BULGARIA",
+          "image": "https://www.virtuemart.net/images/virtuemart/product/VSystem.jpg",
+          "industry": "Commerce",
+          "customer": "VSystem",
+          "country": "bu",
+          "language": "en",
+          "url": "https://www.virtuemart.net/showcase/vsystem-bulgaria-detail"
+        }
+      ]
+    }
+  ]
 }

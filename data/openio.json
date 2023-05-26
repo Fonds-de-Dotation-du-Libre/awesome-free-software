@@ -1,69 +1,75 @@
 {
-        "title": "Openio",
-        "logo": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/themes/openio/img/logo_v2.svg",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://www.openio.io/",
-        "founded_year": "2015",
-        "kpi_dict": {
-          "2018": {
-            "staff": "40",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "10",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Openio",
+  "logo": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/themes/openio/img/logo_v2.svg",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.openio.io/",
+  "founded_year": "2015",
+  "kpi_dict": {
+    "2018": {
+      "staff": "40",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "10",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "OpenIO",
+      "logo": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/themes/openio/img/logo_v2.svg",
+      "website": "https://www.openio.io/product/product-overview",
+      "category_list": ["Database"],
+      "source_code_download": "https://docs.openio.io/latest/source/sandbox-guide/build_from_source.html#download-source-code",
+      "source_code_profile": "",
+      "commercial_support": "https://www.openio.io/plans",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OpenIO",
+      "success_case_list": [
+        {
+          "title": "Aqua Ray",
+          "description": "How Aqua Ray Leverages OpenIO’s Conscience Technology to Build a Flexible Storage Infrastructure",
+          "image": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/uploads/2018/04/logo-aquaray.png",
+          "industry": "Software",
+          "customer": "Aqua Ray",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.openio.io/resources/how-aqua-ray-leverages-openios-conscience-technology-to-build-a-flexible-storage-infrastructure"
         },
-        "free_software_list": [{
-                "title": "OpenIO",
-                "logo": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/themes/openio/img/logo_v2.svg",
-                "website": "https://www.openio.io/product/product-overview",
-                "category_list": ["Database"],
-                "source_code_download": "https://docs.openio.io/latest/source/sandbox-guide/build_from_source.html#download-source-code",
-                "source_code_profile": "",
-                "commercial_support": "https://www.openio.io/plans",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/OpenIO",
-                "success_case_list": [{
-                        "title": "Aqua Ray",
-                        "description": "How Aqua Ray Leverages OpenIO’s Conscience Technology to Build a Flexible Storage Infrastructure",
-                        "image": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/uploads/2018/04/logo-aquaray.png",
-                        "industry": "Software",
-                        "customer": "Aqua Ray",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.openio.io/resources/how-aqua-ray-leverages-openios-conscience-technology-to-build-a-flexible-storage-infrastructure"
-                }, {
-                        "title": "Daily Motion",
-                        "description": "Dailymotion improves infrastructure sustainability and TCO with OpenIO SDS",
-                        "image": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/uploads/2018/03/logo-dailymotion@2x.png",
-                        "industry": "Entertainment",
-                        "customer": "Daily Motion",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.openio.io/resources/dailymotion-improves-infrastructure-sustainability-and-tco-with-openio-sds"
-                }, {
-                        "title": "Internet Initiative Japan uses OpenIO object storage for the all-flash infrastructure of their Secure MX Service",
-                        "description": "IIJ Chooses OpenIO SDS to Build a High-Performance Object Store for their Email Service for Secure Sensitive Organizations",
-                        "image": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/uploads/2018/04/logo-customer-iij@2x.png",
-                        "industry": "Software",
-                        "customer": "IIJ",
-                        "country": "jp",
-                        "language": "en",
-                        "url": "https://www.openio.io/resources/iij-openio-fast-object-storage-securemx-email-case-study"
-                }]
-        }]
+        {
+          "title": "Daily Motion",
+          "description": "Dailymotion improves infrastructure sustainability and TCO with OpenIO SDS",
+          "image": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/uploads/2018/03/logo-dailymotion@2x.png",
+          "industry": "Entertainment",
+          "customer": "Daily Motion",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.openio.io/resources/dailymotion-improves-infrastructure-sustainability-and-tco-with-openio-sds"
+        },
+        {
+          "title": "Internet Initiative Japan uses OpenIO object storage for the all-flash infrastructure of their Secure MX Service",
+          "description": "IIJ Chooses OpenIO SDS to Build a High-Performance Object Store for their Email Service for Secure Sensitive Organizations",
+          "image": "https://mk0openioo80ctbhsnje.kinstacdn.com/wp-content/uploads/2018/04/logo-customer-iij@2x.png",
+          "industry": "Software",
+          "customer": "IIJ",
+          "country": "jp",
+          "language": "en",
+          "url": "https://www.openio.io/resources/iij-openio-fast-object-storage-securemx-email-case-study"
+        }
+      ]
+    }
+  ]
 }

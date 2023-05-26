@@ -1,141 +1,155 @@
 {
-        "title": "Haulmont",
-        "logo": "https://www.haulmont.com/_nuxt/img/879814a.svg",
-        "country": "uk",
-        "presence": ["uk", "ru"],
-        "website": "https://www.haulmont.com/",
-        "founded_year": "2008",
-        "kpi_dict": {
-          "2018": {
-            "staff": "7",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Haulmont",
+  "logo": "https://www.haulmont.com/_nuxt/img/879814a.svg",
+  "country": "uk",
+  "presence": ["uk", "ru"],
+  "website": "https://www.haulmont.com/",
+  "founded_year": "2008",
+  "kpi_dict": {
+    "2018": {
+      "staff": "7",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Cuba Platform",
+      "logo": "https://pbs.twimg.com/media/Eg9xtuLWAAcS_im?format=png&name=360x360",
+      "website": "https://www.cuba-platform.com/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.cuba-platform.com/tools/",
+      "source_code_profile": "https://www.openhub.net/p/cuba-platform/analyses/latest/languages_summary",
+      "commercial_support": "https://www.cuba-platform.com/support-options/",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Haulmont supports Addison Lee’s growth into the global taxi market",
+          "description": "Custom taxi solution to manage end to end process from bookings through to allocation and payments. Smartphone apps, custom websites, integrations and booking platforms that built Europe's largest taxi company prior to its sale for over £300m.",
+          "image": "https://www.haulmont.com/_nuxt/img/fc212c2.png",
+          "industry": "Transport",
+          "customer": "Addison Lee",
+          "country": "UK",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/addlee/"
         },
-        "free_software_list": [{
-                "title": "Cuba Platform",
-                "logo": "https://pbs.twimg.com/media/Eg9xtuLWAAcS_im?format=png&name=360x360",
-                "website": "https://www.cuba-platform.com/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://www.cuba-platform.com/tools/",
-                "source_code_profile": "https://www.openhub.net/p/cuba-platform/analyses/latest/languages_summary",
-                "commercial_support": "https://www.cuba-platform.com/support-options/",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "Haulmont supports Addison Lee’s growth into the global taxi market",
-                        "description": "Custom taxi solution to manage end to end process from bookings through to allocation and payments. Smartphone apps, custom websites, integrations and booking platforms that built Europe's largest taxi company prior to its sale for over £300m.",
-                        "image": "https://www.haulmont.com/_nuxt/img/fc212c2.png",
-                        "industry": "Transport",
-                        "customer": "Addison Lee",
-                        "country": "UK",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/addlee/"
-                },{
-                        "title": "The Keyholding Company – full systems replacement",
-                        "description": "Highly scalable enterprise system featuring mobile workforce management, smart allocation and automation to manage over 450,000 alarm response, security and patrol jobs per month.",
-                        "image": "https://www.haulmont.com/_nuxt/img/d0ee201.png",
-                        "industry": "Housing",
-                        "customer": "The Keyholding Company",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/keyholding/"
-                },{
-                        "title": "Hito Edge – automation solution for debt recovery agencies",
-                        "description": "Case management system using complex statistical models to automate intake and prioritization. Generates advance schedules for agent visits, combining with real-time allocation based on priority. Fully featured enterprise app to manage visits and financial arrangements.",
-                        "image": "https://www.haulmont.com/_nuxt/img/006a3e4.png",
-                        "industry": "Finance",
-                        "customer": "JBW",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/jbw/"
-                },{
-                        "title": "LeCab - A taxi dispatch and management solution for a leading private hire company in Paris",
-                        "description": "Sherlock Taxi solution support LeCab's growth from 30 cars to over 2,000 in just six years to become one of Paris's leading taxi providers.",
-                        "image": "https://www.haulmont.com/_nuxt/img/299ca83.png",
-                        "industry": "Transport",
-                        "customer": "LeCab",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/lecab/"
-                },{
-                        "title": "Haulmont delivers custom technology platform to enable TAB Bank’s growth and expansion",
-                        "description": "Haulmont develops custom tech platform to manage loan application processing, credit/risk scoring to automate the approval process in over 85% of applications.",
-                        "image": "https://www.haulmont.com/_nuxt/img/65f1759.png",
-                        "industry": "Finance",
-                        "customer": "TAB Bank",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/tabbank/"
-                },{
-                        "title": "Haulmont develops nationwide training portal for Russian Ministry of Health",
-                        "description": "Russian Ministry of Health commissions Haulmont to modernise its training website through the creation of an online educational portal customised and personalised to individual needs. As of May 2020, the portal is being used by 1.9 million specialists and contains 33,000 educational programmes and 3,000 interactive modules from over 1000 organisations",
-                        "image": "https://www.haulmont.com/_nuxt/img/a82465e.jpg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Russian Health Ministry",
-                        "country": "ru",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/rnimu/"
-                },{
-                        "title": "Document flow automation for energy business",
-                        "description": "Document management system to automate new client onboarding for over 3,000 active users. Digitization of paper-based processes delivered 20-50% time saving.",
-                        "image": "https://www.haulmont.com/_nuxt/img/db4c71d.png",
-                        "industry": "Energy",
-                        "customer": "CAEPCO",
-                        "country": "kz",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/caepco/"
-                },{
-                        "title": "BlackCab grows to over 500 vehicles with Sherlock Taxi dispatch system",
-                        "description": "Sherlock supports transformation of a Bucharest taxi service to deliver huge growth in a turbulent marketplace.",
-                        "image": "https://www.haulmont.com/_nuxt/img/323c7c3.png",
-                        "industry": "Transport",
-                        "customer": "BlackCab",
-                        "country": "ro",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/blackcab/"
-                },{
-                        "title": "Russian Maritime Register of shipping automates inspection requests",
-                        "description": "ECM system that handles more than three million documents and tasks for over 1,500 users. Automation of business processes has delivered savings of 80% admin time for core processes",
-                        "image": "https://www.haulmont.com/_nuxt/img/23129b4.png",
-                        "industry": "Transport",
-                        "customer": "Russian Maritime Register of Shipping",
-                        "country": "ru",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/register-of-shipping/"
-                },{
-                        "title": "Haulmont partners with Raiser Technology to deliver digital portal to Kyrgyzstani Government",
-                        "description": "Haulmont and Raiser digitise public services for Kyrgyzstan Government",
-                        "image": "https://www.haulmont.com/_nuxt/img/9cec385.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Kyrgyzstani Government",
-                        "country": "kg",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/government/"
-                },{
-                        "title": "Rideshare, scheduling and fleet management solution",
-                        "description": "Standalone web-based application that schedules rideshares for cruise passenger travel. Automating rideshares according to customer priority and distribution of excess work to partner fleets.",
-                        "image": "https://www.haulmont.com/_nuxt/img/fc038e2.png",
-                        "industry": "Transport",
-                        "customer": "Tristar",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://www.haulmont.com/solutions/tristar/"
-                }]
-        }]
+        {
+          "title": "The Keyholding Company – full systems replacement",
+          "description": "Highly scalable enterprise system featuring mobile workforce management, smart allocation and automation to manage over 450,000 alarm response, security and patrol jobs per month.",
+          "image": "https://www.haulmont.com/_nuxt/img/d0ee201.png",
+          "industry": "Housing",
+          "customer": "The Keyholding Company",
+          "country": "uk",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/keyholding/"
+        },
+        {
+          "title": "Hito Edge – automation solution for debt recovery agencies",
+          "description": "Case management system using complex statistical models to automate intake and prioritization. Generates advance schedules for agent visits, combining with real-time allocation based on priority. Fully featured enterprise app to manage visits and financial arrangements.",
+          "image": "https://www.haulmont.com/_nuxt/img/006a3e4.png",
+          "industry": "Finance",
+          "customer": "JBW",
+          "country": "uk",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/jbw/"
+        },
+        {
+          "title": "LeCab - A taxi dispatch and management solution for a leading private hire company in Paris",
+          "description": "Sherlock Taxi solution support LeCab's growth from 30 cars to over 2,000 in just six years to become one of Paris's leading taxi providers.",
+          "image": "https://www.haulmont.com/_nuxt/img/299ca83.png",
+          "industry": "Transport",
+          "customer": "LeCab",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/lecab/"
+        },
+        {
+          "title": "Haulmont delivers custom technology platform to enable TAB Bank’s growth and expansion",
+          "description": "Haulmont develops custom tech platform to manage loan application processing, credit/risk scoring to automate the approval process in over 85% of applications.",
+          "image": "https://www.haulmont.com/_nuxt/img/65f1759.png",
+          "industry": "Finance",
+          "customer": "TAB Bank",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/tabbank/"
+        },
+        {
+          "title": "Haulmont develops nationwide training portal for Russian Ministry of Health",
+          "description": "Russian Ministry of Health commissions Haulmont to modernise its training website through the creation of an online educational portal customised and personalised to individual needs. As of May 2020, the portal is being used by 1.9 million specialists and contains 33,000 educational programmes and 3,000 interactive modules from over 1000 organisations",
+          "image": "https://www.haulmont.com/_nuxt/img/a82465e.jpg",
+          "industry": "Public Administration & Government",
+          "customer": "Russian Health Ministry",
+          "country": "ru",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/rnimu/"
+        },
+        {
+          "title": "Document flow automation for energy business",
+          "description": "Document management system to automate new client onboarding for over 3,000 active users. Digitization of paper-based processes delivered 20-50% time saving.",
+          "image": "https://www.haulmont.com/_nuxt/img/db4c71d.png",
+          "industry": "Energy",
+          "customer": "CAEPCO",
+          "country": "kz",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/caepco/"
+        },
+        {
+          "title": "BlackCab grows to over 500 vehicles with Sherlock Taxi dispatch system",
+          "description": "Sherlock supports transformation of a Bucharest taxi service to deliver huge growth in a turbulent marketplace.",
+          "image": "https://www.haulmont.com/_nuxt/img/323c7c3.png",
+          "industry": "Transport",
+          "customer": "BlackCab",
+          "country": "ro",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/blackcab/"
+        },
+        {
+          "title": "Russian Maritime Register of shipping automates inspection requests",
+          "description": "ECM system that handles more than three million documents and tasks for over 1,500 users. Automation of business processes has delivered savings of 80% admin time for core processes",
+          "image": "https://www.haulmont.com/_nuxt/img/23129b4.png",
+          "industry": "Transport",
+          "customer": "Russian Maritime Register of Shipping",
+          "country": "ru",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/register-of-shipping/"
+        },
+        {
+          "title": "Haulmont partners with Raiser Technology to deliver digital portal to Kyrgyzstani Government",
+          "description": "Haulmont and Raiser digitise public services for Kyrgyzstan Government",
+          "image": "https://www.haulmont.com/_nuxt/img/9cec385.png",
+          "industry": "Public Administration & Government",
+          "customer": "Kyrgyzstani Government",
+          "country": "kg",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/government/"
+        },
+        {
+          "title": "Rideshare, scheduling and fleet management solution",
+          "description": "Standalone web-based application that schedules rideshares for cruise passenger travel. Automating rideshares according to customer priority and distribution of excess work to partner fleets.",
+          "image": "https://www.haulmont.com/_nuxt/img/fc038e2.png",
+          "industry": "Transport",
+          "customer": "Tristar",
+          "country": "uk",
+          "language": "en",
+          "url": "https://www.haulmont.com/solutions/tristar/"
+        }
+      ]
+    }
+  ]
 }

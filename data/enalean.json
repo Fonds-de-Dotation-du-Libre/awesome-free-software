@@ -1,105 +1,115 @@
 {
-        "title": "Enalean",
-        "logo": "https://www.enalean.com/assets/img/logo-enalean-inverse.svg",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://www.enalean.com/",
-        "founded_year": "2011",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "1403947",
-            "revenues": "",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "1230550",
-            "revenues": "",
-            "public_source": "true"
-          }
+  "title": "Enalean",
+  "logo": "https://www.enalean.com/assets/img/logo-enalean-inverse.svg",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.enalean.com/",
+  "founded_year": "2011",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "1403947",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "1230550",
+      "revenues": "",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Tuleap",
+      "logo": "https://www.tuleap.org/assets/img/logo-tuleap-flat-orange-white.svg",
+      "website": "https://www.tuleap.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.tuleap.org/get-started",
+      "source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
+      "commercial_support": "https://www.tuleap.org/tuleap-community",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tuleap_(project_management)",
+      "success_case_list": [
+        {
+          "title": "Gérer l'avancement de grands projets IT avec Tuleap",
+          "description": "Monitoring Activity and Deliverables of large IT projects with Tuleap",
+          "image": "https://www.tuleap.org/assets/img/organizations/customer-st.png",
+          "industry": "Manufacturing",
+          "customer": "STMicroelectronics",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.tuleap.org/they-use-and-love-tuleap/monitoring-project-activity-large-projects"
         },
-        "free_software_list": [{
-                "title": "Tuleap",
-                "logo": "https://www.tuleap.org/assets/img/logo-tuleap-flat-orange-white.svg",
-                "website": "https://www.tuleap.org/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://www.tuleap.org/get-started",
-                "source_code_profile": "https://www.openhub.net/p/tuleap/analyses/latest/languages_summary",
-                "commercial_support": "https://www.tuleap.org/tuleap-community",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Tuleap_(project_management)",
-                "success_case_list": [{
-                        "title": "Gérer l'avancement de grands projets IT avec Tuleap",
-                        "description": "Monitoring Activity and Deliverables of large IT projects with Tuleap",
-                        "image": "https://www.tuleap.org/assets/img/organizations/customer-st.png",
-                        "industry": "Manufacturing",
-                        "customer": "STMicroelectronics",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.tuleap.org/they-use-and-love-tuleap/monitoring-project-activity-large-projects"
-                },{
-                        "title": "Plusieurs équipes. Des cas d'utilisations différents. Un seul Tuleap.",
-                        "description": "Multiple teams. Various use cases. One single Tuleap.",
-                        "image": "https://www.tuleap.org/assets/img/organizations/customer-thales.png",
-                        "industry": "Defense",
-                        "customer": "Thales",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.tuleap.org/they-use-and-love-tuleap/multiple-teams-various-use-cases-one-tuleap"
-                },{
-                        "title": "Sodern",
-                        "description": "Quality and efficiency targets reached at Sodern",
-                        "image": "https://blog.enalean.com/wp-content/uploads/2016/07/tuleap-at-sodern-2.png",
-                        "industry": "Defense",
-                        "customer": "Sodern",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://blog.enalean.com/quality-and-efficiency-targets-at-sodern/"
-                },{
-                        "title": "AceAxis",
-                        "description": "Aceaxis Developer Team found its happiness with Tuleap",
-                        "image": "https://blog.enalean.com/wp-content/uploads/2016/05/aceaxis-tuleap.png",
-                        "industry": "Telecommunications",
-                        "customer": "AceAxis",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://blog.enalean.com/ace-axis-found-its-happiness-with-tuleap/"
-                },{
-                        "title": "Matooma",
-                        "description": "Matooma M2M développe ses projets logiciels avec l’ALM Tuleap",
-                        "image": "https://blog.enalean.com/wp-content/uploads/2014/12/tuleap-for-m-to-m-market-matooma.png",
-                        "industry": "Telecommunications",
-                        "customer": "Matooma",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://blog.enalean.com/matooma-m2m-dveloppe-ses-projets-logiciels-avec-lalm-tuleap/"
-                },{
-                        "title": "Capsys",
-                        "description": "Capsys Departments get more software projects’ visibility",
-                        "image": "https://blog.enalean.com/wp-content/uploads/2016/10/capsys-tuleap-software-development-collaboration.png",
-                        "industry": "Transport",
-                        "customer": "Capsys",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://blog.enalean.com/capsys-departments-get-more-software-projects-visibility/"
-                },{
-                        "title": "Afsol",
-                        "description": "Afsol get immediate results implementing Agility with Tuleap",
-                        "image": "https://blog.enalean.com/wp-content/uploads/2016/10/afsol-tuleap-improved-quality-deliveries.png",
-                        "industry": "Finance",
-                        "customer": "Afsol",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://blog.enalean.com/afsol-get-immediate-results-implementing-agility-with-tuleap/"
-                }]
-        }]
+        {
+          "title": "Plusieurs équipes. Des cas d'utilisations différents. Un seul Tuleap.",
+          "description": "Multiple teams. Various use cases. One single Tuleap.",
+          "image": "https://www.tuleap.org/assets/img/organizations/customer-thales.png",
+          "industry": "Defense",
+          "customer": "Thales",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.tuleap.org/they-use-and-love-tuleap/multiple-teams-various-use-cases-one-tuleap"
+        },
+        {
+          "title": "Sodern",
+          "description": "Quality and efficiency targets reached at Sodern",
+          "image": "https://blog.enalean.com/wp-content/uploads/2016/07/tuleap-at-sodern-2.png",
+          "industry": "Defense",
+          "customer": "Sodern",
+          "country": "de",
+          "language": "en",
+          "url": "https://blog.enalean.com/quality-and-efficiency-targets-at-sodern/"
+        },
+        {
+          "title": "AceAxis",
+          "description": "Aceaxis Developer Team found its happiness with Tuleap",
+          "image": "https://blog.enalean.com/wp-content/uploads/2016/05/aceaxis-tuleap.png",
+          "industry": "Telecommunications",
+          "customer": "AceAxis",
+          "country": "uk",
+          "language": "en",
+          "url": "https://blog.enalean.com/ace-axis-found-its-happiness-with-tuleap/"
+        },
+        {
+          "title": "Matooma",
+          "description": "Matooma M2M développe ses projets logiciels avec l’ALM Tuleap",
+          "image": "https://blog.enalean.com/wp-content/uploads/2014/12/tuleap-for-m-to-m-market-matooma.png",
+          "industry": "Telecommunications",
+          "customer": "Matooma",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://blog.enalean.com/matooma-m2m-dveloppe-ses-projets-logiciels-avec-lalm-tuleap/"
+        },
+        {
+          "title": "Capsys",
+          "description": "Capsys Departments get more software projects’ visibility",
+          "image": "https://blog.enalean.com/wp-content/uploads/2016/10/capsys-tuleap-software-development-collaboration.png",
+          "industry": "Transport",
+          "customer": "Capsys",
+          "country": "fr",
+          "language": "en",
+          "url": "https://blog.enalean.com/capsys-departments-get-more-software-projects-visibility/"
+        },
+        {
+          "title": "Afsol",
+          "description": "Afsol get immediate results implementing Agility with Tuleap",
+          "image": "https://blog.enalean.com/wp-content/uploads/2016/10/afsol-tuleap-improved-quality-deliveries.png",
+          "industry": "Finance",
+          "customer": "Afsol",
+          "country": "fr",
+          "language": "en",
+          "url": "https://blog.enalean.com/afsol-get-immediate-results-implementing-agility-with-tuleap/"
+        }
+      ]
+    }
+  ]
 }

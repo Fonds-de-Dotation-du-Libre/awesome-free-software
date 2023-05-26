@@ -1,42 +1,44 @@
 {
-        "title": "Owncloud GmbH",
-        "logo": "https://owncloud.org/wp-content/themes/owncloud/img/owncloud-org-logo.svg",
-        "country": "de",
-        "presence": ["de"],
-        "website": "https://owncloud.org/",
-        "founded_year": "",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "788750",
-            "total_assets": "3585704",
-            "revenues": "",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "819788",
-            "total_assets": "4108086",
-            "revenues": "",
-            "public_source": "true"
-          }
-        },
-        "free_software_list": [{
-                "title": "Owncloud",
-                "logo": "https://owncloud.org/wp-content/themes/owncloud/img/owncloud-org-logo.svg",
-                "website": "https://owncloud.org/imprint/",
-                "category_list": ["Application"],
-                "source_code_download": "https://owncloud.org/download/",
-                "source_code_profile": "https://www.openhub.net/p/ownCloud/analyses/latest/languages_summary",
-                "commercial_support": "https://owncloud.com/licenses/owncloud-support-maintenance/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/OwnCloud",
-                "success_case_list": []
-        }]
+  "title": "Owncloud GmbH",
+  "logo": "https://owncloud.org/wp-content/themes/owncloud/img/owncloud-org-logo.svg",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://owncloud.org/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "788750",
+      "total_assets": "3585704",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "819788",
+      "total_assets": "4108086",
+      "revenues": "",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Owncloud",
+      "logo": "https://owncloud.org/wp-content/themes/owncloud/img/owncloud-org-logo.svg",
+      "website": "https://owncloud.org/imprint/",
+      "category_list": ["Application"],
+      "source_code_download": "https://owncloud.org/download/",
+      "source_code_profile": "https://www.openhub.net/p/ownCloud/analyses/latest/languages_summary",
+      "commercial_support": "https://owncloud.com/licenses/owncloud-support-maintenance/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OwnCloud",
+      "success_case_list": []
+    }
+  ]
 }

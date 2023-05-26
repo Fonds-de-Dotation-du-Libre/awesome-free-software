@@ -1,115 +1,126 @@
 {
-        "title": "Neos Foundation",
-        "logo": "https://www.neos.io/_Resources/Persistent/8dfd5ae2038a46921f7aa3ed6fe7d759bec53402/neos_full_primary.svg",
-        "country": "uk",
-        "presence": ["uk"],
-        "website": "https://www.neos.io/",
-        "founded_year": "2013",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Neos Foundation",
+  "logo": "https://www.neos.io/_Resources/Persistent/8dfd5ae2038a46921f7aa3ed6fe7d759bec53402/neos_full_primary.svg",
+  "country": "uk",
+  "presence": ["uk"],
+  "website": "https://www.neos.io/",
+  "founded_year": "2013",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Flow",
+      "logo": "https://flow.neos.io/apple-touch-icon.png",
+      "website": "https://flow.neos.io/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://flow.neos.io/download.html",
+      "source_code_profile": "https://www.openhub.net/p/neos-flow/analyses/latest/languages_summary",
+      "commercial_support": "https://flow.neos.io/docs-and-support.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Neos_Flow",
+      "success_case_list": []
+    },
+    {
+      "title": "NEOS CMS (Typo3)",
+      "logo": "https://www.neos.io/_Resources/Persistent/8dfd5ae2038a46921f7aa3ed6fe7d759bec53402/neos_full_primary.svg",
+      "website": "https://www.neos.io/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.neos.io/download-and-extend.html",
+      "source_code_profile": "https://www.openhub.net/p/neos/analyses/latest/languages_summary",
+      "commercial_support": "https://www.neos.io/community/support.html",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Neos_(Content_Application_Platform)",
+      "success_case_list": [
+        {
+          "title": "Markenboden.de",
+          "description": "Markenboden.de offers a wide range of products as well as guidance, information, and inspiration on all topics related to high-quality flooring – from parquet to laminate to design flooring. All products on Markenboden.de are 100% made in Germany and can be purchased online or locally from competent specialist retailers.",
+          "image": "https://www.neos.io/_Resources/Persistent/038ffe6a0b7b0b54492702e448c3332f1a1255e5/markenboden_holzboden-1280x853.jpg",
+          "industry": "Manufacturing",
+          "customer": "Markenboden.de",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.neos.io/who-uses-neos/case-studies/markenboden.html"
         },
-        "free_software_list": [{
-                "title": "Flow",
-                "logo": "https://flow.neos.io/apple-touch-icon.png",
-                "website": "https://flow.neos.io/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://flow.neos.io/download.html",
-                "source_code_profile": "https://www.openhub.net/p/neos-flow/analyses/latest/languages_summary",
-                "commercial_support": "https://flow.neos.io/docs-and-support.html",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Neos_Flow",
-                "success_case_list": []
-              }, {
-                "title": "NEOS CMS (Typo3)",
-                "logo": "https://www.neos.io/_Resources/Persistent/8dfd5ae2038a46921f7aa3ed6fe7d759bec53402/neos_full_primary.svg",
-                "website": "https://www.neos.io/",
-                "category_list": ["Application"],
-                "source_code_download": "https://www.neos.io/download-and-extend.html",
-                "source_code_profile": "https://www.openhub.net/p/neos/analyses/latest/languages_summary",
-                "commercial_support": "https://www.neos.io/community/support.html",
-                "wikipedia_url": "https://de.wikipedia.org/wiki/Neos_(Content_Application_Platform)",
-                "success_case_list": [{
-                        "title": "Markenboden.de",
-                        "description": "Markenboden.de offers a wide range of products as well as guidance, information, and inspiration on all topics related to high-quality flooring – from parquet to laminate to design flooring. All products on Markenboden.de are 100% made in Germany and can be purchased online or locally from competent specialist retailers.",
-                        "image": "https://www.neos.io/_Resources/Persistent/038ffe6a0b7b0b54492702e448c3332f1a1255e5/markenboden_holzboden-1280x853.jpg",
-                        "industry": "Manufacturing",
-                        "customer": "Markenboden.de",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.neos.io/who-uses-neos/case-studies/markenboden.html"
-                }, {
-                        "title": "H-Hotels",
-                        "description": "As a company of the Hospitality Alliance, H-Hotels AG is one of the final remaining privately managed hotel groups in Germany and maintains it's own brand hotels H4 Hotels, H2 Hotels, H+ Hotels and Treff Hotels and is also a sales partner of the American Wyndham Hotel Group for the brand RAMADA in Germany and Switzerland. H-Hotels operates about 60 Hotels in Germany, Austria and Switzerland.",
-                        "image": "https://www.neos.io/_Resources/Persistent/6bd853ef57a24c3fcff908e0f3b985b1b8a287f9/H-Hotels_Teaser_Handy-1280x777.jpg",
-                        "industry": "Travel",
-                        "customer": "H-Hotels",
-                        "country": "at",
-                        "language": "en",
-                        "url": "https://www.neos.io/who-uses-neos/h-hotels.html"
-                }, {
-                        "title": "Core Kites",
-                        "description": "„CORE Kites“ is a brand of the German kite pioneer Hiss-Tec GmbH & Co. KG. We consciously say no to yearly release cycles and short lived products. Instead we take our time to develop high end kite surf gear with experienced kiters and test them thoroughly worldwide. This allows us to deliver the highest performance, safety, quality and service in the market.",
-                        "image": "https://www.neos.io/_Resources/Persistent/6ba92ec0a2984de312b99565bc5e3ceb9ece794c/Corekites.com_screenshot-3219x1812-1280x721.png",
-                        "industry": "Manufacturing",
-                        "customer": "Core Kites",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.neos.io/who-uses-neos/case-studies/core-kites.html"
-                }, {
-                        "title": "Swisscom",
-                        "description": "Swisscom, Switzerland’s leading telecoms company and one of it's leading IT companies is headquartered in Ittigen, close to the capital city Bern. Swisscom’s international activities are concentrated mainly in Italy, where it's subsidiary Fastweb is one of the biggest broadband providers. Swisscom is one of the most sustainable companies in Switzerland and Europe.",
-                        "image": "https://www.neos.io/_Resources/Persistent/06e34d9fb39b4eb4e09b20f5225934aa1c08610f/Capture%202016-04-06%20at%2015.16.46-1280x633.png",
-                        "industry": "Telecommunication",
-                        "customer": "Swisscom",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://www.neos.io/who-uses-neos/swisscom.html"
-                }, {
-                        "title": "Allplan",
-                        "description": "„Allplan“ is a swiss software company which develops software solutions for architects and engineers world wide. With more than 40.000 users, the Allplan software family is an industry pioneer and enhances the workflow of its users with innovative and intelligent features from rough drafts to finalized 3D models and CAD sketches.",
-                        "image": "https://www.neos.io/_Resources/Persistent/7c3b2ca754a6dd5bbed6918fa49d3b3b0da8d2be/referenz-allplan-ingenieure.png",
-                        "industry": "Service",
-                        "customer": "Allplan",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://www.neos.io/who-uses-neos/case-studies/allplan.html"
-                }, {
-                        "title": "Nemetschek",
-                        "description": "The Munich-based Nemetschek Group is a globally leading software provider for the AEC (Architecture, Engineering, Construction) industry. With 2000 employees in 14 brands, the Nemetschek Group today serves around 2.3 million users in 142 countries from 60 locations worldwide. The Nemetschek Group is publicly listed since 1999 and quoted on the TecDAX.",
-                        "image": "https://www.neos.io/_Resources/Persistent/ba2264b7d6c82ed59c1d00635ef0bbb1d29288b8/HeaderVisual-1280x782.jpg",
-                        "industry": "Software",
-                        "customer": "Nemetschek",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.neos.io/who-uses-neos/nemetschek-one-extranet.html"
-                }, {
-                        "title": "Gotthardt Yacht",
-                        "description": "Gotthardt Yacht is a leading supplier of high-quality branded products for sports boats and water sports, located in Hamburg, Germany. The high level of specialized personal customer support  had to be transferred digitally to the online platform and extended by various e-commerce functions.",
-                        "image": "https://www.neos.io/_Resources/Persistent/104315d58eb3dedbfe8564ce1f30174ec02913ae/1_Gotthardt_Image-Header.1024x669.jpg",
-                        "industry": "Retail",
-                        "customer": "Gotthardt Yacht",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.neos.io/who-uses-neos/case-studies/gotthardt-yacht.html"
-                }]
-        }]
+        {
+          "title": "H-Hotels",
+          "description": "As a company of the Hospitality Alliance, H-Hotels AG is one of the final remaining privately managed hotel groups in Germany and maintains it's own brand hotels H4 Hotels, H2 Hotels, H+ Hotels and Treff Hotels and is also a sales partner of the American Wyndham Hotel Group for the brand RAMADA in Germany and Switzerland. H-Hotels operates about 60 Hotels in Germany, Austria and Switzerland.",
+          "image": "https://www.neos.io/_Resources/Persistent/6bd853ef57a24c3fcff908e0f3b985b1b8a287f9/H-Hotels_Teaser_Handy-1280x777.jpg",
+          "industry": "Travel",
+          "customer": "H-Hotels",
+          "country": "at",
+          "language": "en",
+          "url": "https://www.neos.io/who-uses-neos/h-hotels.html"
+        },
+        {
+          "title": "Core Kites",
+          "description": "„CORE Kites“ is a brand of the German kite pioneer Hiss-Tec GmbH & Co. KG. We consciously say no to yearly release cycles and short lived products. Instead we take our time to develop high end kite surf gear with experienced kiters and test them thoroughly worldwide. This allows us to deliver the highest performance, safety, quality and service in the market.",
+          "image": "https://www.neos.io/_Resources/Persistent/6ba92ec0a2984de312b99565bc5e3ceb9ece794c/Corekites.com_screenshot-3219x1812-1280x721.png",
+          "industry": "Manufacturing",
+          "customer": "Core Kites",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.neos.io/who-uses-neos/case-studies/core-kites.html"
+        },
+        {
+          "title": "Swisscom",
+          "description": "Swisscom, Switzerland’s leading telecoms company and one of it's leading IT companies is headquartered in Ittigen, close to the capital city Bern. Swisscom’s international activities are concentrated mainly in Italy, where it's subsidiary Fastweb is one of the biggest broadband providers. Swisscom is one of the most sustainable companies in Switzerland and Europe.",
+          "image": "https://www.neos.io/_Resources/Persistent/06e34d9fb39b4eb4e09b20f5225934aa1c08610f/Capture%202016-04-06%20at%2015.16.46-1280x633.png",
+          "industry": "Telecommunication",
+          "customer": "Swisscom",
+          "country": "ch",
+          "language": "en",
+          "url": "https://www.neos.io/who-uses-neos/swisscom.html"
+        },
+        {
+          "title": "Allplan",
+          "description": "„Allplan“ is a swiss software company which develops software solutions for architects and engineers world wide. With more than 40.000 users, the Allplan software family is an industry pioneer and enhances the workflow of its users with innovative and intelligent features from rough drafts to finalized 3D models and CAD sketches.",
+          "image": "https://www.neos.io/_Resources/Persistent/7c3b2ca754a6dd5bbed6918fa49d3b3b0da8d2be/referenz-allplan-ingenieure.png",
+          "industry": "Service",
+          "customer": "Allplan",
+          "country": "ch",
+          "language": "en",
+          "url": "https://www.neos.io/who-uses-neos/case-studies/allplan.html"
+        },
+        {
+          "title": "Nemetschek",
+          "description": "The Munich-based Nemetschek Group is a globally leading software provider for the AEC (Architecture, Engineering, Construction) industry. With 2000 employees in 14 brands, the Nemetschek Group today serves around 2.3 million users in 142 countries from 60 locations worldwide. The Nemetschek Group is publicly listed since 1999 and quoted on the TecDAX.",
+          "image": "https://www.neos.io/_Resources/Persistent/ba2264b7d6c82ed59c1d00635ef0bbb1d29288b8/HeaderVisual-1280x782.jpg",
+          "industry": "Software",
+          "customer": "Nemetschek",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.neos.io/who-uses-neos/nemetschek-one-extranet.html"
+        },
+        {
+          "title": "Gotthardt Yacht",
+          "description": "Gotthardt Yacht is a leading supplier of high-quality branded products for sports boats and water sports, located in Hamburg, Germany. The high level of specialized personal customer support  had to be transferred digitally to the online platform and extended by various e-commerce functions.",
+          "image": "https://www.neos.io/_Resources/Persistent/104315d58eb3dedbfe8564ce1f30174ec02913ae/1_Gotthardt_Image-Header.1024x669.jpg",
+          "industry": "Retail",
+          "customer": "Gotthardt Yacht",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.neos.io/who-uses-neos/case-studies/gotthardt-yacht.html"
+        }
+      ]
+    }
+  ]
 }

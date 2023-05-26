@@ -1,42 +1,44 @@
 {
-        "title": "Alkacon",
-        "logo": "http://www.alkacon.com/export/system/modules/org.opencms.website.template/resources/img/logo/logo_alkacon.gif",
-        "country": "de",
-        "presence": ["de"],
-        "website": "http://www.alkacon.com/",
-        "founded_year": "1999",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "994390",
-            "revenues": "",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "769422",
-            "revenues": "",
-            "public_source": "true"
-          }
-        },
-        "free_software_list": [{
-                "title": "OpenCMS",
-                "logo": "http://www.opencms.org/export/system/modules/org.opencms.website.template/resources/img/logo/logo_opencms.gif",
-                "website": "http://www.opencms.org/",
-                "category_list": ["Application"],
-                "source_code_download": "http://www.opencms.org/en/download/opencms.html",
-                "source_code_profile": "https://www.openhub.net/p/opencms/analyses/latest/languages_summary",
-                "commercial_support": "http://www.alkacon.com/de/products/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/OpenCms",
-                "success_case_list": []
-        }]
+  "title": "Alkacon",
+  "logo": "http://www.alkacon.com/export/system/modules/org.opencms.website.template/resources/img/logo/logo_alkacon.gif",
+  "country": "de",
+  "presence": ["de"],
+  "website": "http://www.alkacon.com/",
+  "founded_year": "1999",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "994390",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "769422",
+      "revenues": "",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "OpenCMS",
+      "logo": "http://www.opencms.org/export/system/modules/org.opencms.website.template/resources/img/logo/logo_opencms.gif",
+      "website": "http://www.opencms.org/",
+      "category_list": ["Application"],
+      "source_code_download": "http://www.opencms.org/en/download/opencms.html",
+      "source_code_profile": "https://www.openhub.net/p/opencms/analyses/latest/languages_summary",
+      "commercial_support": "http://www.alkacon.com/de/products/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OpenCms",
+      "success_case_list": []
+    }
+  ]
 }

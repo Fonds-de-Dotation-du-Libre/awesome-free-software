@@ -1,11 +1,11 @@
 {
   "title": "Gradle",
-	"logo": "",
-	"country": "de",
-	"presence": ["de", "us", "ch"],
-	"website": "https://gradle.org/",
-	"founded_year": "2012",
-	"kpi_dict": {
+  "logo": "",
+  "country": "de",
+  "presence": ["de", "us", "ch"],
+  "website": "https://gradle.org/",
+  "founded_year": "2012",
+  "kpi_dict": {
     "2018": {
       "staff": "15",
       "earnings": "36004",
@@ -28,15 +28,17 @@
       "public_source": ""
     }
   },
-	"free_software_list": [{
-		"title": "Gradle",
-		"logo": "",
-		"website": "https://gradle.org/",
-		"category_list": ["Infrastructure"],
-		"source_code_download": "https://gradle.org/releases/",
-		"source_code_profile": "https://www.openhub.net/p/gradle/analyses/latest/languages_summary",
-		"commercial_support": "https://gradle.com/?_ga=2.125672266.1914199285.1601307210-1245986244.1600896727",
-		"wikipedia_url": "https://en.wikipedia.org/wiki/Gradle",
-		"success_case_list": []
-	}]
+  "free_software_list": [
+    {
+      "title": "Gradle",
+      "logo": "",
+      "website": "https://gradle.org/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://gradle.org/releases/",
+      "source_code_profile": "https://www.openhub.net/p/gradle/analyses/latest/languages_summary",
+      "commercial_support": "https://gradle.com/?_ga=2.125672266.1914199285.1601307210-1245986244.1600896727",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gradle",
+      "success_case_list": []
+    }
+  ]
 }

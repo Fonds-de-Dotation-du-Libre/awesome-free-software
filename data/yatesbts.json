@@ -1,42 +1,44 @@
 {
-        "title": "YateBTS",
-        "logo": "http://www.yate.ro/images/yate_logo.png",
-        "country": "ro",
-        "presence": ["ro", "us"],
-        "website": "http://www.yate.ro/",
-        "founded_year": "",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "Yate",
-                "logo": "http://www.yate.ro/images/yate_logo.png",
-                "website": "http://www.yate.ro/products.php?page=yate",
-                "category_list": ["Infrastructure"],
-                "source_code_download": "http://yate.ro/links/dl",
-                "source_code_profile": "https://www.openhub.net/p/yatebts/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }]
+  "title": "YateBTS",
+  "logo": "http://www.yate.ro/images/yate_logo.png",
+  "country": "ro",
+  "presence": ["ro", "us"],
+  "website": "http://www.yate.ro/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Yate",
+      "logo": "http://www.yate.ro/images/yate_logo.png",
+      "website": "http://www.yate.ro/products.php?page=yate",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "http://yate.ro/links/dl",
+      "source_code_profile": "https://www.openhub.net/p/yatebts/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

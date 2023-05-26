@@ -1,51 +1,55 @@
 {
-        "title": "BISDN",
-        "logo": "https://www.bisdn.de/wp-content/themes/bisdn2.0/images/logo_230x78-middle.png",
-        "country": "de",
-        "presence": ["de"],
-        "website": "https://www.bisdn.de/",
-        "founded_year": "2012",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "13",
-            "earnings": "207571",
-            "total_assets": "529834",
-            "revenues": "",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "12",
-            "earnings": "293636",
-            "total_assets": "782588",
-            "revenues": "",
-            "public_source": "true"
-          }
-        },
-        "free_software_list": [{
-                "title": "basebox",
-                "logo": "https://www.basebox.org/wp-content/themes/bisdn/images/basebox-logo.png",
-                "website": "https://www.basebox.org/",
-                "category_list": ["Infrastructure"],
-                "source_code_download": "https://repo.bisdn.de/pub/onie/",
-                "source_code_profile": "",
-                "commercial_support": "https://www.bisdn.de/#contact",
-                "wikipedia_url": "",
-                "success_case_list": [{
-                        "title": "GTP Signalling Firewall Real-time Prevention and Detection of Attacks on Mobile Signalling Networks",
-                        "description": "The unified Cellusys Signalling Firewall(1) system protects a mobile operator's network by sitting on its external links to other networks and filtering messages from reaching the network, ensuring threats from individual messages, flooding or other issues are prevented from reaching the network and causing issues. The unified firewall is using BISDN-OS as platform and supports all relevant signalling protocols: SS7/SIGTRAN, Diameter, SMPP, GTP",
-                        "image": "https://www.cellusys.com/wp-content/themes/cellusys-2015-1.1/images/logo.png",
-                        "industry": "Telecommunication",
-                        "customer": "Cellusys",
-                        "country": "ir",
-                        "language": "en",
-                        "url": "https://www.cellusys.com/download/Cellusys_GTP_Signalling_Firewall_v1.5.pdf"
-                }]
-        }]
+  "title": "BISDN",
+  "logo": "https://www.bisdn.de/wp-content/themes/bisdn2.0/images/logo_230x78-middle.png",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://www.bisdn.de/",
+  "founded_year": "2012",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "13",
+      "earnings": "207571",
+      "total_assets": "529834",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "12",
+      "earnings": "293636",
+      "total_assets": "782588",
+      "revenues": "",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "basebox",
+      "logo": "https://www.basebox.org/wp-content/themes/bisdn/images/basebox-logo.png",
+      "website": "https://www.basebox.org/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://repo.bisdn.de/pub/onie/",
+      "source_code_profile": "",
+      "commercial_support": "https://www.bisdn.de/#contact",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "GTP Signalling Firewall Real-time Prevention and Detection of Attacks on Mobile Signalling Networks",
+          "description": "The unified Cellusys Signalling Firewall(1) system protects a mobile operator's network by sitting on its external links to other networks and filtering messages from reaching the network, ensuring threats from individual messages, flooding or other issues are prevented from reaching the network and causing issues. The unified firewall is using BISDN-OS as platform and supports all relevant signalling protocols: SS7/SIGTRAN, Diameter, SMPP, GTP",
+          "image": "https://www.cellusys.com/wp-content/themes/cellusys-2015-1.1/images/logo.png",
+          "industry": "Telecommunication",
+          "customer": "Cellusys",
+          "country": "ir",
+          "language": "en",
+          "url": "https://www.cellusys.com/download/Cellusys_GTP_Signalling_Firewall_v1.5.pdf"
+        }
+      ]
+    }
+  ]
 }

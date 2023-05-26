@@ -1,11 +1,11 @@
 {
   "title": "Merlinux GmbH",
-	"logo": "https://delta.chat/assets/logos/delta-chat.svg",
-	"country": "de",
-	"presence": ["de"],
-	"website": "https://delta.chat/",
-	"founded_year": "2004",
-	"kpi_dict": {
+  "logo": "https://delta.chat/assets/logos/delta-chat.svg",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://delta.chat/",
+  "founded_year": "2004",
+  "kpi_dict": {
     "2018": {
       "staff": "",
       "earnings": "",
@@ -28,15 +28,17 @@
       "public_source": ""
     }
   },
-	"free_software_list": [{
-		"title": "Delta Chat",
-		"logo": "https://delta.chat/assets/logos/delta-chat.svg",
-		"website": "https://delta.chat/",
-		"category_list": ["Application"],
-		"source_code_download": "https://delta.chat/de/download",
-		"source_code_profile": "https://www.openhub.net/p/Delta-Chat/analyses/latest/languages_summary",
-		"commercial_support": "",
-		"wikipedia_url": "",
-		"success_case_list": []
-	}]
+  "free_software_list": [
+    {
+      "title": "Delta Chat",
+      "logo": "https://delta.chat/assets/logos/delta-chat.svg",
+      "website": "https://delta.chat/",
+      "category_list": ["Application"],
+      "source_code_download": "https://delta.chat/de/download",
+      "source_code_profile": "https://www.openhub.net/p/Delta-Chat/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

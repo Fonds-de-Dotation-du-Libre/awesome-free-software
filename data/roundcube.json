@@ -1,42 +1,44 @@
 {
-        "title": "Roundcube Developers",
-        "logo": "https://roundcube.net/images/roundcube_logo_icon.svg",
-        "country": "ch",
-        "presence": ["ch"],
-        "website": "https://roundcube.net/",
-        "founded_year": "",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "Roundcube",
-                "logo": "https://roundcube.net/images/roundcube_logo_icon.svg",
-                "website": "https://roundcube.net/",
-                "category_list": ["Communication"],
-                "source_code_download": "https://roundcube.net/download/",
-                "source_code_profile": "https://www.openhub.net/p/roundcube/analyses/latest/languages_summary",
-                "commercial_support": "https://roundcube.net/support/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Roundcube",
-                "success_case_list": []
-        }]
+  "title": "Roundcube Developers",
+  "logo": "https://roundcube.net/images/roundcube_logo_icon.svg",
+  "country": "ch",
+  "presence": ["ch"],
+  "website": "https://roundcube.net/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Roundcube",
+      "logo": "https://roundcube.net/images/roundcube_logo_icon.svg",
+      "website": "https://roundcube.net/",
+      "category_list": ["Communication"],
+      "source_code_download": "https://roundcube.net/download/",
+      "source_code_profile": "https://www.openhub.net/p/roundcube/analyses/latest/languages_summary",
+      "commercial_support": "https://roundcube.net/support/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roundcube",
+      "success_case_list": []
+    }
+  ]
 }

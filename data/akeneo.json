@@ -1,240 +1,265 @@
 {
-        "title": "Akeneo",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_akeneo.png/220px-Logo_akeneo.png",
-        "country": "fr",
-        "presence": ["fr", "de", "uk", "us"],
-        "website": "https://www.akeneo.com/",
-        "founded_year": "",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Akeneo",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_akeneo.png/220px-Logo_akeneo.png",
+  "country": "fr",
+  "presence": ["fr", "de", "uk", "us"],
+  "website": "https://www.akeneo.com/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Akeneo PIM",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_akeneo.png/220px-Logo_akeneo.png",
+      "website": "https://www.akeneo.com/what-is-a-pim/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.akeneo.com/download/",
+      "source_code_profile": "https://www.openhub.net/p/akeneo/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Akeneo#Akeneo_PIM",
+      "success_case_list": [
+        {
+          "title": "Tarkett",
+          "description": "Tarkett wanted to take back control of its product data, identified as a business asset, and this has helped them rethink their customer relationships",
+          "image": "https://www.akeneo.com/wp-content/uploads/2019/01/Logo_tarkett_website-300x177.png",
+          "industry": "Construction",
+          "customer": "Tarkett",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/tarkett/"
         },
-        "free_software_list": [{
-                "title": "Akeneo PIM",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_akeneo.png/220px-Logo_akeneo.png",
-                "website": "https://www.akeneo.com/what-is-a-pim/",
-                "category_list": ["Application"],
-                "source_code_download": "https://www.akeneo.com/download/",
-                "source_code_profile": "https://www.openhub.net/p/akeneo/analyses/latest/languages_summary",
-                "commercial_support": "",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Akeneo#Akeneo_PIM",
-                "success_case_list": [{
-                        "title": "Tarkett",
-                        "description": "Tarkett wanted to take back control of its product data, identified as a business asset, and this has helped them rethink their customer relationships",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2019/01/Logo_tarkett_website-300x177.png",
-                        "industry": "Construction",
-                        "customer": "Tarkett",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/tarkett/"
-                }, {
-                        "title": "Lancaster",
-                        "description": "Akeneo PIM makes us much more responsive, allowing us to provide the most up-to- date product information, regardless of the channel.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/Logo_Lancaster_2016-300x42.png",
-                        "industry": "Retail",
-                        "customer": "Lancaster",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/lancaster/"
-                }, {
-                        "title": "GSM55",
-                        "description": "After installing the PIM system, our conversion rate multiplied by 4.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/11/brandIaGn0-76660-300x112.png",
-                        "industry": "Telecommunication",
-                        "customer": "GSM55",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/gsm55/"
-                }, {
-                        "title": "Frankfurt Airport Shopping",
-                        "description": "Akeneo PIM makes it possible for Fraport Retailers to smoothly integrate their product information into the e-commerce suite and to enrich the data once it’s there",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2017/02/Logo_Fra_Shopping_355_200-300x169.jpg",
-                        "industry": "Retail",
-                        "customer": "Frankfurt Airport Shopping",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/fraport-frankfurt-airport-shopping/"
-                }, {
-                        "title": "Lagardér Travel Retail",
-                        "description": "The user-friendly interface is a major feature of Akeneo PIM",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/Logo-LTR-300x151.jpg",
-                        "industry": "Retail",
-                        "customer": "Lagardér Travel Retail",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/lagardere-travel-retail-2/"
-                }, {
-                        "title": "Axonlab",
-                        "description": "Due to its intuitive user interface, the PIM was well-accepted and made our transformation process easier.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2017/07/Axonlab-300x177.png",
-                        "industry": "Life Science",
-                        "customer": "Axonlab",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/axonlab/"
-                }, {
-                        "title": "Deventrade",
-                        "description": "Before, we only updated our products on the website 4 times a year, now we can do it on a daily basis, so the website is really up-to-date!",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2017/04/Deventrade-300x177.png",
-                        "industry": "Retail",
-                        "customer": "Deventrade",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/deventrade/"
-                }, {
-                        "title": "SLV Experience Light",
-                        "description": "Spending 60% less time on translation management and 80% less on enriching specific eCommerce data has enabled us to radically optimize our work.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2019/01/Logo_SLV_EN-version_website-300x177.png",
-                        "industry": "Retail",
-                        "customer": "SLV Experience Light",
-                        "country": "at",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/slv-erlebe-licht/"
-                }, {
-                        "title": "Adam Hall",
-                        "description": "Akeneo offers us speed and flexibility while ensuring product information remains accurate and consistent.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2019/05/Adam-Hall-Website-Akeneo-300x177.png",
-                        "industry": "Electronics",
-                        "customer": "Adam Hall",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/adam-hall/"
-                }, {
-                        "title": "Kurt Geiger",
-                        "description": "In the fashion world, everything move quickly. With Akeneo, we can now respond much quicker to changing business needs!",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/kurt_geiger.png",
-                        "industry": "Retail",
-                        "customer": "Kurt Geiger",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/kurt-geiger/"
-                }, {
-                        "title": "Meyer",
-                        "description": "We’ve managed to increase product velocity, and increase our product range for the vast majority of our suppliers",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2018/10/Logo_Myer_website-300x178.png",
-                        "industry": "Retail",
-                        "customer": "Meyer",
-                        "country": "au",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/myer/"
-                }, {
-                        "title": "Eram",
-                        "description": "The PIM, a valuable tool for a fast digital transformation!",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/eram-1.png",
-                        "industry": "Retail",
-                        "customer": "Eram",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/eram/"
-                }, {
-                        "title": "Caceis",
-                        "description": "PIM has provided us with the opportunity to structure our product information in an attractive format and easily facilitate the dissemination of this information to our clients and employees.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2017/01/Logo-Caceis-150-x-100-WEB.png",
-                        "industry": "Consulting",
-                        "customer": "Caceis",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/caceis/"
-                }, {
-                        "title": "Villa Verde",
-                        "description": "In six months, not just 25,000 products were published online, but more than 42,000 !",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/villaverde.png",
-                        "industry": "Retail",
-                        "customer": "Villa Verde",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/villaverde/"
-                }, {
-                        "title": "Zodio",
-                        "description": "We wanted total freedom to take creative license with our product presentation, and needed a simple, intuitive solution",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/zodio.png",
-                        "industry": "Retail",
-                        "customer": "Zodio",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/zodio/"
-                }, {
-                        "title": "Arbitare",
-                        "description": "Akeneo PIM allowed us to throw ourselves in a global and omnichannel approach",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/abitare.png",
-                        "industry": "retail",
-                        "customer": "Arbitare",
-                        "country": "lu",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/abitare/"
-                }, {
-                        "title": "Docti Pharma",
-                        "description": "We needed a simple tool with a functional interface that could be handled by people with different skills",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/docti_pharma.png",
-                        "industry": "Life Science",
-                        "customer": "Docti Pharma",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/doctipharma/"
-                }, {
-                        "title": "Obelink",
-                        "description": "With Akeneo, we have taken an important step towards delivering a consistent customer experience across all channels.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2018/10/logo-obelink-website-300x177.jpg",
-                        "industry": "Retail",
-                        "customer": "Obelink",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/obelink/"
-                }, {
-                        "title": "Espacio Industria",
-                        "description": "Akeneo is a real milestone of the expansion of Espacio Industria.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2017/12/Espacio_Industria_Logo_WEB-300x149.png",
-                        "industry": "Construction",
-                        "customer": "Espacio Industria",
-                        "country": "es",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/espacio-industria/"
-                }, {
-                        "title": "Novia",
-                        "description": "With Akeneo, we can enrich much more product data and help our customers more easily find what they are really looking for.",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2018/10/logo-novia-website-300x177.jpg",
-                        "industry": "Construction",
-                        "customer": "Novia",
-                        "country": "be",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/novia/"
-                }, {
-                        "title": "Rob Market",
-                        "description": "Without PIM, our e-shop project would not have been feasible",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2018/10/logo-rob-website-300x177.jpg",
-                        "industry": "Retail",
-                        "customer": "Rob Market",
-                        "country": "be",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/rob-the-gourmets-market/"
-                }, {
-                        "title": "Market America Shop.com",
-                        "description": "Akeneo PIM is very intuitive. It has the most simple interface we have ever seen!",
-                        "image": "https://www.akeneo.com/wp-content/uploads/2016/02/MarketXShopDotComLogos_0614-300x140.png",
-                        "industry": "Retail",
-                        "customer": "Market America Shop.com",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.akeneo.com/customer-story/shop-com-market-america/"
-                }]
-        }]
+        {
+          "title": "Lancaster",
+          "description": "Akeneo PIM makes us much more responsive, allowing us to provide the most up-to- date product information, regardless of the channel.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/Logo_Lancaster_2016-300x42.png",
+          "industry": "Retail",
+          "customer": "Lancaster",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/lancaster/"
+        },
+        {
+          "title": "GSM55",
+          "description": "After installing the PIM system, our conversion rate multiplied by 4.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/11/brandIaGn0-76660-300x112.png",
+          "industry": "Telecommunication",
+          "customer": "GSM55",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/gsm55/"
+        },
+        {
+          "title": "Frankfurt Airport Shopping",
+          "description": "Akeneo PIM makes it possible for Fraport Retailers to smoothly integrate their product information into the e-commerce suite and to enrich the data once it’s there",
+          "image": "https://www.akeneo.com/wp-content/uploads/2017/02/Logo_Fra_Shopping_355_200-300x169.jpg",
+          "industry": "Retail",
+          "customer": "Frankfurt Airport Shopping",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/fraport-frankfurt-airport-shopping/"
+        },
+        {
+          "title": "Lagardér Travel Retail",
+          "description": "The user-friendly interface is a major feature of Akeneo PIM",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/Logo-LTR-300x151.jpg",
+          "industry": "Retail",
+          "customer": "Lagardér Travel Retail",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/lagardere-travel-retail-2/"
+        },
+        {
+          "title": "Axonlab",
+          "description": "Due to its intuitive user interface, the PIM was well-accepted and made our transformation process easier.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2017/07/Axonlab-300x177.png",
+          "industry": "Life Science",
+          "customer": "Axonlab",
+          "country": "ch",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/axonlab/"
+        },
+        {
+          "title": "Deventrade",
+          "description": "Before, we only updated our products on the website 4 times a year, now we can do it on a daily basis, so the website is really up-to-date!",
+          "image": "https://www.akeneo.com/wp-content/uploads/2017/04/Deventrade-300x177.png",
+          "industry": "Retail",
+          "customer": "Deventrade",
+          "country": "nl",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/deventrade/"
+        },
+        {
+          "title": "SLV Experience Light",
+          "description": "Spending 60% less time on translation management and 80% less on enriching specific eCommerce data has enabled us to radically optimize our work.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2019/01/Logo_SLV_EN-version_website-300x177.png",
+          "industry": "Retail",
+          "customer": "SLV Experience Light",
+          "country": "at",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/slv-erlebe-licht/"
+        },
+        {
+          "title": "Adam Hall",
+          "description": "Akeneo offers us speed and flexibility while ensuring product information remains accurate and consistent.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2019/05/Adam-Hall-Website-Akeneo-300x177.png",
+          "industry": "Electronics",
+          "customer": "Adam Hall",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/adam-hall/"
+        },
+        {
+          "title": "Kurt Geiger",
+          "description": "In the fashion world, everything move quickly. With Akeneo, we can now respond much quicker to changing business needs!",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/kurt_geiger.png",
+          "industry": "Retail",
+          "customer": "Kurt Geiger",
+          "country": "uk",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/kurt-geiger/"
+        },
+        {
+          "title": "Meyer",
+          "description": "We’ve managed to increase product velocity, and increase our product range for the vast majority of our suppliers",
+          "image": "https://www.akeneo.com/wp-content/uploads/2018/10/Logo_Myer_website-300x178.png",
+          "industry": "Retail",
+          "customer": "Meyer",
+          "country": "au",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/myer/"
+        },
+        {
+          "title": "Eram",
+          "description": "The PIM, a valuable tool for a fast digital transformation!",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/eram-1.png",
+          "industry": "Retail",
+          "customer": "Eram",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/eram/"
+        },
+        {
+          "title": "Caceis",
+          "description": "PIM has provided us with the opportunity to structure our product information in an attractive format and easily facilitate the dissemination of this information to our clients and employees.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2017/01/Logo-Caceis-150-x-100-WEB.png",
+          "industry": "Consulting",
+          "customer": "Caceis",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/caceis/"
+        },
+        {
+          "title": "Villa Verde",
+          "description": "In six months, not just 25,000 products were published online, but more than 42,000 !",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/villaverde.png",
+          "industry": "Retail",
+          "customer": "Villa Verde",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/villaverde/"
+        },
+        {
+          "title": "Zodio",
+          "description": "We wanted total freedom to take creative license with our product presentation, and needed a simple, intuitive solution",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/zodio.png",
+          "industry": "Retail",
+          "customer": "Zodio",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/zodio/"
+        },
+        {
+          "title": "Arbitare",
+          "description": "Akeneo PIM allowed us to throw ourselves in a global and omnichannel approach",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/abitare.png",
+          "industry": "retail",
+          "customer": "Arbitare",
+          "country": "lu",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/abitare/"
+        },
+        {
+          "title": "Docti Pharma",
+          "description": "We needed a simple tool with a functional interface that could be handled by people with different skills",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/docti_pharma.png",
+          "industry": "Life Science",
+          "customer": "Docti Pharma",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/doctipharma/"
+        },
+        {
+          "title": "Obelink",
+          "description": "With Akeneo, we have taken an important step towards delivering a consistent customer experience across all channels.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2018/10/logo-obelink-website-300x177.jpg",
+          "industry": "Retail",
+          "customer": "Obelink",
+          "country": "nl",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/obelink/"
+        },
+        {
+          "title": "Espacio Industria",
+          "description": "Akeneo is a real milestone of the expansion of Espacio Industria.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2017/12/Espacio_Industria_Logo_WEB-300x149.png",
+          "industry": "Construction",
+          "customer": "Espacio Industria",
+          "country": "es",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/espacio-industria/"
+        },
+        {
+          "title": "Novia",
+          "description": "With Akeneo, we can enrich much more product data and help our customers more easily find what they are really looking for.",
+          "image": "https://www.akeneo.com/wp-content/uploads/2018/10/logo-novia-website-300x177.jpg",
+          "industry": "Construction",
+          "customer": "Novia",
+          "country": "be",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/novia/"
+        },
+        {
+          "title": "Rob Market",
+          "description": "Without PIM, our e-shop project would not have been feasible",
+          "image": "https://www.akeneo.com/wp-content/uploads/2018/10/logo-rob-website-300x177.jpg",
+          "industry": "Retail",
+          "customer": "Rob Market",
+          "country": "be",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/rob-the-gourmets-market/"
+        },
+        {
+          "title": "Market America Shop.com",
+          "description": "Akeneo PIM is very intuitive. It has the most simple interface we have ever seen!",
+          "image": "https://www.akeneo.com/wp-content/uploads/2016/02/MarketXShopDotComLogos_0614-300x140.png",
+          "industry": "Retail",
+          "customer": "Market America Shop.com",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.akeneo.com/customer-story/shop-com-market-america/"
+        }
+      ]
+    }
+  ]
 }

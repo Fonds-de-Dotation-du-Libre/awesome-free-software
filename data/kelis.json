@@ -1,447 +1,495 @@
 {
-        "title": "Kelis",
-        "logo": "https://scenari.kelis.fr/skin/img/tpl/logo-kelis.svg",
-        "country": "fr",
-        "presence": ["fr"],
-        "website": "https://scenari.kelis.fr/index.html",
-        "founded_year": "2004",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "15",
-            "earnings": "353300",
-            "total_assets": "2045100",
-            "revenues": "1398600",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "13",
-            "earnings": "393672",
-            "total_assets": "1844787",
-            "revenues": "1304917",
-            "public_source": "true"
-          }
+  "title": "Kelis",
+  "logo": "https://scenari.kelis.fr/skin/img/tpl/logo-kelis.svg",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://scenari.kelis.fr/index.html",
+  "founded_year": "2004",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "15",
+      "earnings": "353300",
+      "total_assets": "2045100",
+      "revenues": "1398600",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "13",
+      "earnings": "393672",
+      "total_assets": "1844787",
+      "revenues": "1304917",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Scenari",
+      "logo": "https://scenari.software/fr/skin/img/logo.svg",
+      "website": "https://scenari.software/fr/",
+      "category_list": ["Application"],
+      "source_code_download": "https://download.scenari.software/fr/",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "https://fr.wikipedia.org/wiki/Scenari",
+      "success_case_list": [
+        {
+          "title": "LexisNexis - Plateforme documentaire de contenus législatifs",
+          "description": "LexisNexis Middle East produit et diffuse avec Scenari des contenus législatifs à destination des professionnels du droit pour l'ensemble de la zone Moyen Orient.",
+          "image": "https://scenari.kelis.fr/res/MEO-Home.png",
+          "industry": "Public Administration & Government",
+          "customer": "LexisNexis Middle East",
+          "country": "ae",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/LexisNexis-meo.html"
         },
-        "free_software_list": [{
-                "title": "Scenari",
-                "logo": "https://scenari.software/fr/skin/img/logo.svg",
-                "website": "https://scenari.software/fr/",
-                "category_list": ["Application"],
-                "source_code_download": "https://download.scenari.software/fr/",
-                "source_code_profile": "",
-                "commercial_support": "",
-                "wikipedia_url": "https://fr.wikipedia.org/wiki/Scenari",
-                "success_case_list": [{
-                        "title": "LexisNexis - Plateforme documentaire de contenus législatifs",
-                        "description": "LexisNexis Middle East produit et diffuse avec Scenari des contenus législatifs à destination des professionnels du droit pour l'ensemble de la zone Moyen Orient.",
-                        "image": "https://scenari.kelis.fr/res/MEO-Home.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "LexisNexis Middle East",
-                        "country": "ae",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/LexisNexis-meo.html"
-                }, {
-                        "title": "DILA - service-public.fr",
-                        "description": "Depuis 2012, la DILA, service du Premier Ministre, produit avec Scenari l'information administrative de référence diffusée sur le site service-public.fr.",
-                        "image": "https://scenari.kelis.fr/res/coperia-editeur.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "DILA",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/dila-coperia.html"
-                }, {
-                        "title": "Réseau Canopé - Canoprof, pour les enseignants",
-                        "description": "Le réseau Canopé met à disposition des enseignants du primaire et du secondaire le système en ligne Canoprof, fondé sur Scenari, pour produire et diffuser des activités pédagogiques adaptées.",
-                        "image": "https://scenari.kelis.fr/res/Canoprof-Editeur.png",
-                        "industry": "Education",
-                        "customer": "Réseau Canopé",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/canoprof.html"
-                }, {
-                        "title": "AFPA - Supports de formation des Titres professionnels et des Mise En Situation Métiers",
-                        "description": "Supports de formation des Titres professionnels et des Mise En Situation Métiers",
-                        "image": "https://scenari.kelis.fr/res/logo-afpa-284x300.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "AFPA",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/afpa-tethys.html"
-                }, {
-                        "title": "AMF - Règlement Général",
-                        "description": "Le Règlement Général de l'Autorité des Marchés Financiers (AMF) est construit avec une chaîne éditoriale Scenari sur mesure.",
-                        "image": "https://scenari.kelis.fr/res/rg1.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "AMF",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/amf_rgEdit.html"
-                }, {
-                        "title": "Burger King/Quick - Fonds documentaire de référence",
-                        "description": "Quick et BurgerKing utilisent Scenari pour constituer un fonds documentaire de fiches scénarisées pour de multiples contextes d'information et de formation.",
-                        "image": "https://scenari.kelis.fr/res/quick2.png",
-                        "industry": "Commerce",
-                        "customer": "Burger King/Quick",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/BK-quick.html"
-                }, {
-                        "title": "IFCAM - e-learning",
-                        "description": "L'IFCAM, Université du Groupe Crédit Agricole, produit, avec Scenari, des modules de formation selon la didactique du domaine bancaire.",
-                        "image": "https://scenari.kelis.fr/res/IFCAM-relecture.png",
-                        "industry": "Education",
-                        "customer": "IFCAM",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/ifcam.html"
-                }, {
-                        "title": "Essilor Instruments - Documentation de machine outils",
-                        "description": "L'équipe de documentation d'Essilor Instruments réalise la documentation technique multilingue sur les équipements de taillage-montage de verres de lunettes.",
-                        "image": "https://scenari.kelis.fr/res/LOGO_ESSILOR_INSTRUMENTS_RVB.png",
-                        "industry": "Commerce",
-                        "customer": "Essilor Instruments",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/essilor.html"
-                }, {
-                        "title": "ENAC - Catalogue de la formation continue",
-                        "description": "La formation continue de l'Ecole Nationale de l'Aviation Civile (ENAC) propose des stages aux entreprises et au personnel de l'Aviation Civile. Depuis 2009, l'ENAC a choisi une chaîne éditoriale Scenari intégrée dans son système d'information. La dernière version est diffusée par Scenari-Dépot.",
-                        "image": "https://scenari.kelis.fr/res/trainingEnac.png",
-                        "industry": "Education",
-                        "customer": "ENAC",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/enac-catalog.html"
-                }, {
-                        "title": "Total - Catalogue de formations et Annuaire des formateurs",
-                        "description": "Le catalogue des formations et l'annuaire des formateurs diffusés dans l'intranet de Total sont produits à partir de chaînes éditoriales Scenari.",
-                        "image": "https://scenari.kelis.fr/res/catform_fiche.png",
-                        "industry": "Commerce",
-                        "customer": "Total",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/totalFORM.html"
-                }, {
-                        "title": "Société Générale - Audit",
-                        "description": "Depuis 2008, le groupe Société Générale a choisi de coupler Scenari à un ECM pour la création et la gestion des rapports d'audit.",
-                        "image": "https://scenari.kelis.fr/res/map-editeur.png",
-                        "industry": "Finance",
-                        "customer": "Société Générale",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/sg.html"
-                }, {
-                        "title": "Serimax - Documentation technique",
-                        "description": "Serimax produit la documentation technique (manuels de maintenance, fiches techniques, etc.) de ses machines outils en 3 langues avec Scenari depuis 2013.",
-                        "image": "https://scenari.kelis.fr/res/b_1_q_0_p_0.jpg",
-                        "industry": "Construction",
-                        "customer": "Serimax",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/syntax.html"
-                }, {
-                        "title": "Unisciel - Banque nationale de tests de positionnement",
-                        "description": "Unisciel produit et diffuse avec Scenari plus de 1700 tests de positionnement scientifique et permet leur réutilisation par les universités partenaires.",
-                        "image": "https://scenari.kelis.fr/res/Faq-accueil_1.png",
-                        "industry": "Education",
-                        "customer": "Unisciel",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/unisciel.html"
-                }, {
-                        "title": "Total - Blended learning vidéo",
-                        "description": "La branche Exploration Production a choisi une chaîne éditoriale vidéo, pour répondre à l'enjeu de formation des cadres dans l'ensemble des filiales.",
-                        "image": "https://scenari.kelis.fr/res/total3.png",
-                        "industry": "Education",
-                        "customer": "Total",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/total-train.html"
-                }, {
-                        "title": "UTC - Un partenariat de recherche",
-                        "description": "L'UTC est à l'origine de Scenari. L'UTC et Kelis sont partenaires depuis 2004, année de création de Kelis.",
-                        "image": "https://scenari.kelis.fr/res/APP-Web.png",
-                        "industry": "Education",
-                        "customer": "UTC",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/UTC.html"
-                }, {
-                        "title": "Documentation et formation logicielle et métier",
-                        "description": "L'Agence de Mutualisation des Universités et Établissements d'enseignement supérieur (AMUE) rationalise la production de ses documents d'accompagnement au déploiement de logiciels.",
-                        "image": "https://scenari.kelis.fr/res/amue-dokiel-papier2.png",
-                        "industry": "Education",
-                        "customer": "UTC",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/amue-dokiel.html"
-                }, {
-                        "title": "UCANNS - Guides juridiques et lettres d'informations",
-                        "description": "L'Union des Caisses Nationales de la Sécurité Sociale (UCANSS) diffuse sur son portail extranet différents guides juridiques, d’administration du personnel, des bonnes pratiques environnementales, d'achat, etc. ainsi que des lettres d'informations.",
-                        "image": "https://scenari.kelis.fr/res/ucanss-web.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "UCANNS",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/ucanss-guides-lettres.html"
-                }, {
-                        "title": "CDC-GTU - Guide de formation et ressources pédagogiques",
-                        "description": "Dès leur création en 2016, les Centres de compétences ont choisi Scenari pour réaliser les parcours et supports pédagogiques.",
-                        "image": "https://scenari.kelis.fr/res/cdc.png",
-                        "industry": "Education",
-                        "customer": "CDC-GTU",
-                        "country": "lu",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/cdc-pedago.html"
-                }, {
-                        "title": "EFSOAA - Fonds documentaire didactique",
-                        "description": "L’École de Formation des Sous-Officiers de l'Armée de l'Air (l'EFSOAA) utilise une chaîne éditoriale pédagogique Scenari, synchronisée avec l'ECM Nuxeo, pour gérer le fonds documentaire de formation.",
-                        "image": "https://scenari.kelis.fr/res/Scenari-FDD-PresProjetee.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "EFSOAA",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/fdd.html"
-                }, {
-                        "title": "CDC-GTU - Référentiel des métiers et offre de formations",
-                        "description": "Dès leur création en 2016, les Centres de compétences ont choisi Scenari pour organiser leur production documentaire : référentiels des métiers et offre de formation.",
-                        "image": "https://scenari.kelis.fr/res/gaia_web1.png",
-                        "industry": "Education",
-                        "customer": "CDC-GTU",
-                        "country": "lu",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/cdc-comm.html"
-                }, {
-                        "title": "ENFiP - Supports de formation présentielle et distancielle",
-                        "description": "Depuis 2007, l’École Nationale des Finances Publiques (ENFiP) a choisi Scenari pour rationaliser la production de ses documents pédagogiques présentiels et distanciels.",
-                        "image": "https://scenari.kelis.fr/res/enfip-slideshow.PNG",
-                        "industry": "Education",
-                        "customer": "ENFiP",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/enfip.html"
-                }, {
-                        "title": "ENAC - Supports pédagogiques avec solutions libres",
-                        "description": "L'Ecole Nationale de l'Aviation Civile a décidé en 2009 une stratégie de production documentaire utilisant les chaînes éditoriales Scenari. Actuellement, plusieurs modèles documentaires sont en production dans l'établissement, couvrant les domaines de la pédagogie.",
-                        "image": "https://scenari.kelis.fr/res/logo_enac.png",
-                        "industry": "Education",
-                        "customer": "ENAC",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/enac.html"
-                }, {
-                        "title": "ESENESR - Valorisation et accessibilité de conférences vidéo",
-                        "description": "L'ESENESR enrichit des vidéos de conférences, tables rondes, etc. et les rend accessibles selon le référentiel RGAA.",
-                        "image": "https://scenari.kelis.fr/res/ESENESR-WM-Editeur.png",
-                        "industry": "Education",
-                        "customer": "ESENESR",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/esenesr.html"
-                }, {
-                        "title": "ESPE - Jeux sérieux",
-                        "description": "L'ESPE Lille Nord de France utilise Scenari pour la production et la diffusion de jeux sérieux. La plateforme de diffusion garantit une synchronisation de la progression et un suivi des traces d'apprentissage indépendamment des modes de consultation utilisés (mobilité, mode offline ou online).",
-                        "image": "https://scenari.kelis.fr/res/logo_espe.png",
-                        "industry": "Education",
-                        "customer": "ESPE",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/espe-lnf.html"
-                }, {
-                        "title": "DRHAT Formation",
-                        "description": "Depuis 2012, la Direction des ressources humaines de l'Armée de Terre (DRHAT) conçoit avec Scenari ses propres solutions d'ingénierie documentaire.",
-                        "image": "https://scenari.kelis.fr/res/HOME_notice.PNG",
-                        "industry": "Public Administration & Government",
-                        "customer": "DRHAT",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/drhat.html"
-                }, {
-                        "title": "DGAC - Dokiel pour la documentation de logiciels",
-                        "description": "La Direction Générale de l'Aviation Civile (DGAC) utilise Dokiel pour documenter les applications mises en service par la DSI et réaliser les supports de formation des agents.",
-                        "image": "https://scenari.kelis.fr/res/HOME_notice.PNG",
-                        "industry": "Public Administration & Government",
-                        "customer": "DGAC",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/dgac.html"
-                }, {
-                        "title": "EPLEFPA - Supports de formation avec Opale",
-                        "description": "L'Etablissement Public Local d'Enseignement et de Formation Professionnelle Agricole de Bordeaux-Grionde (EPLEFPA) utile Opale pour produire ses supports pédagogiques.",
-                        "image": "https://scenari.kelis.fr/res/HOME_notice.PNG",
-                        "industry": "Education",
-                        "customer": "EPLEFPA",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/formagri33.html"
-                }, {
-                        "title": "IGPDE - Catalogue de formation",
-                        "description": "L'IGPDE, Institut de la gestion publique et du développement économique, saisit les fiches de formation, les scénarise et publie automatiquement les différents catalogues.",
-                        "image": "https://scenari.kelis.fr/res/exemple-ficheeco-igpde.jpg",
-                        "industry": "Public Administration & Government",
-                        "customer": "IGPDE",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/igpde-catalog.html"
-                }, {
-                        "title": "CNCT - Opale pour la diffusion d'informations réglementaires",
-                        "description": "La Confédération Nationale des Charcutiers-Traiteurs et Traiteurs rédige et enrichit le Guide des Bonnes Pratiques d'Hygiène.",
-                        "image": "https://scenari.kelis.fr/res/CNCT-GuideWeb-PDG.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "CNCT",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/CNCT_-_guide_reglementaire.html"
-                }, {
-                        "title": "i410 - Catalogue de formation",
-                        "description": "L'Institut 4.10, centre de formation et d'accompagnement du régime général de la Sécurité Sociale, gère son offre de formation avec une chaîne éditoriale Scenari.",
-                        "image": "https://scenari.kelis.fr/res/i410-fichecataloguePDF.png",
-                        "industry": "Education",
-                        "customer": "i410",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/i410-catalogue.html"
-                }, {
-                        "title": "ICEDAP - Base documentaire",
-                        "description": "ICEDAP a choisi Scenari pour concevoir une base d'information web dans les domaines social, fiscal et juridique et des fiches d'informations Print.",
-                        "image": "https://scenari.kelis.fr/res/20170123.PNG",
-                        "industry": "Education",
-                        "customer": "ICEDAP",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/icedap.html"
-                }, {
-                        "title": "URPS - Plateforme de formation à la chirurgie ambulatoire",
-                        "description": "L'URPS Infirmiers des Hauts-de-France produit et diffuse avec Scenari des ressources de formation (notices et vidéos enrichies) à destination des professionnels de santé afin d'améliorer la prise en charge des patients éligibles à la chirurgie ambulatoire",
-                        "image": "https://scenari.kelis.fr/res/ISIPAD-Portail_1.png",
-                        "industry": "Education",
-                        "customer": "URPS",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/isipad.html"
-                }, {
-                        "title": "AFPA - Lexique de termes métiers",
-                        "description": "L'Afpa a choisi une chaîne éditoriale Scenari pour produire son lexique de termes professionnels accessibles à tous les publics.",
-                        "image": "https://scenari.kelis.fr/res/editeurTerme.png",
-                        "industry": "Education",
-                        "customer": "AFPA",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/afpa-vocabula.html"
-                }, {
-                        "title": "DCI - Conception de solutions pour la formation",
-                        "description": "DCI a fait le choix d'une internalisation des compétences de rédaction et de modélisation Scenari afin de maîtriser l'ensemble de la chaîne de la production documentaire pédagogique et technique.",
-                        "image": "https://scenari.kelis.fr/res/logo-dci.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "DCI",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/dci.html"
-                }, {
-                        "title": "URPS - Plateforme de formation pour les Professionnels de Santé Libéraux",
-                        "description": "L'URPS Infirmiers et l'URPS Pharmaciens des Hauts-de-France produisent et diffusent avec Scenari des ressources de formation (fiches traitements et fiches pathologie) pour les Professionnels de Santé Libéraux (PSL).",
-                        "image": "https://scenari.kelis.fr/res/coordo01.png",
-                        "industry": "Education",
-                        "customer": "URPS",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/coordolib.html"
-                }, {
-                        "title": "ENAC - Exerciseur et banques de questions Quetzal",
-                        "description": "L'Ecole Nationale de l'Aviation Civile (ENAC) a organisé la production des banques de questions et réalise des évaluations (pré-requis, examens partiels, certificats) en ligne ou en salle à partir de la chaîne éditoriale dédiée : Quetzal.",
-                        "image": "https://scenari.kelis.fr/res/logo4.png",
-                        "industry": "Education",
-                        "customer": "ENAC",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/enac-quetzal.html"
-                }, {
-                        "title": "UNISCIEL - Lexico",
-                        "description": "L'UNFS3F et UNISCIEL produisent des lexiques scientifiques et des glossaires multimédias multilingues avec la chaine éditoriale open source Lexico.",
-                        "image": "https://scenari.kelis.fr/res/minExLexico_unilim.png",
-                        "industry": "Education",
-                        "customer": "UNISCIEL",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/lexique.html"
-                }, {
-                        "title": "Université de Lille - Topaze",
-                        "description": "Kelis assure la réalisation technique et la maintenance de la chaine éditoriale open source Topaze dédiée à la conception de formations en ligne multi-parcours, différenciées et adaptées en fonction des réponses de l'apprenant.",
-                        "image": "https://scenari.kelis.fr/res/e-caducee1_2.png",
-                        "industry": "Education",
-                        "customer": "Université de Lille",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/topaze.html"
-                }, {
-                        "title": "Siveco -Dokiel pour la documentation de logiciels",
-                        "description": "Siveco, éditeur du logiciel de gestion de maintenance Coswin, utilise la chaîne éditoriale Dokiel pour produire sa documentation technique.",
-                        "image": "https://scenari.kelis.fr/res/siveco.png",
-                        "industry": "Software",
-                        "customer": "Siveco",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/siveco.html"
-                }, {
-                        "title": "Abvent - Dokiel pour la documentation de logiciels",
-                        "description": "L'utilisation de Dokiel, permet à Abvent, éditeur de logiciels professionnels, de produire la documentation des logiciels et les supports de formation des utilisateurs.",
-                        "image": "https://scenari.kelis.fr/res/abvent_logo.png",
-                        "industry": "Software",
-                        "customer": "Abvent",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/abvent.html"
-                }, {
-                        "title": "PMB Services - Dokiel - documentation et formation logiciels",
-                        "description": "L'utilisation de Dokiel, adapté à leurs besoins, permet à PMB depuis 2010 de centraliser le contenu de l'ensemble des formateurs et de mutualiser des fragments de contenus utilisés en formation et dans les manuels utilisateurs.",
-                        "image": "https://scenari.kelis.fr/res/logo-pmb.png",
-                        "industry": "Software",
-                        "customer": "PMB Services",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/pmbServices.html"
-                }, {
-                        "title": "Météo France - Dokiel pour la documentation de logiciels",
-                        "description": "Météo France a choisi Dokiel pour documenter son logiciel spécialisé, de prévisions météorologiques.",
-                        "image": "https://scenari.kelis.fr/res/LogoMeteoFrance.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Météo France",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/meteofrance.html"
-                }, {
-                        "title": "Abes - Dokiel pour la documentation de logiciels",
-                        "description": "L'Agence Bibliographique de l'Enseignement Supérieur (ABES) utilise Dokiel pour produire la documentation de ses applications et des formations utilisateurs.",
-                        "image": "https://scenari.kelis.fr/res/abes1.png",
-                        "industry": "Public Administration & Government",
-                        "customer": "Abes",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/abes.html"
-                }, {
-                        "title": "Sita - Référentiel de projets",
-                        "description": "SITA a choisi OptimOffice en 2013 pour exposer ses projets en recherche et développement.",
-                        "image": "https://scenari.kelis.fr/res/SitaOffice-editeur.png",
-                        "industry": "Transport",
-                        "customer": "Sita",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/sita.html"
-                }, {
-                        "title": "Vethyqua - La documentation en qualité alimentaire",
-                        "description": "VETHYQUA, organisme de formation et de conseil autour de la qualité en alimentaire, utilise les chaînes éditoriales open source pour sa documentation.",
-                        "image": "https://scenari.kelis.fr/res/SiteWebVethyqua.png",
-                        "industry": "Education",
-                        "customer": "Vethyqua",
-                        "country": "fr",
-                        "language": "fr",
-                        "url": "https://scenari.kelis.fr/co/vethyqua.html"
-                }]
-        }]
+        {
+          "title": "DILA - service-public.fr",
+          "description": "Depuis 2012, la DILA, service du Premier Ministre, produit avec Scenari l'information administrative de référence diffusée sur le site service-public.fr.",
+          "image": "https://scenari.kelis.fr/res/coperia-editeur.png",
+          "industry": "Public Administration & Government",
+          "customer": "DILA",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/dila-coperia.html"
+        },
+        {
+          "title": "Réseau Canopé - Canoprof, pour les enseignants",
+          "description": "Le réseau Canopé met à disposition des enseignants du primaire et du secondaire le système en ligne Canoprof, fondé sur Scenari, pour produire et diffuser des activités pédagogiques adaptées.",
+          "image": "https://scenari.kelis.fr/res/Canoprof-Editeur.png",
+          "industry": "Education",
+          "customer": "Réseau Canopé",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/canoprof.html"
+        },
+        {
+          "title": "AFPA - Supports de formation des Titres professionnels et des Mise En Situation Métiers",
+          "description": "Supports de formation des Titres professionnels et des Mise En Situation Métiers",
+          "image": "https://scenari.kelis.fr/res/logo-afpa-284x300.png",
+          "industry": "Public Administration & Government",
+          "customer": "AFPA",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/afpa-tethys.html"
+        },
+        {
+          "title": "AMF - Règlement Général",
+          "description": "Le Règlement Général de l'Autorité des Marchés Financiers (AMF) est construit avec une chaîne éditoriale Scenari sur mesure.",
+          "image": "https://scenari.kelis.fr/res/rg1.png",
+          "industry": "Public Administration & Government",
+          "customer": "AMF",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/amf_rgEdit.html"
+        },
+        {
+          "title": "Burger King/Quick - Fonds documentaire de référence",
+          "description": "Quick et BurgerKing utilisent Scenari pour constituer un fonds documentaire de fiches scénarisées pour de multiples contextes d'information et de formation.",
+          "image": "https://scenari.kelis.fr/res/quick2.png",
+          "industry": "Commerce",
+          "customer": "Burger King/Quick",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/BK-quick.html"
+        },
+        {
+          "title": "IFCAM - e-learning",
+          "description": "L'IFCAM, Université du Groupe Crédit Agricole, produit, avec Scenari, des modules de formation selon la didactique du domaine bancaire.",
+          "image": "https://scenari.kelis.fr/res/IFCAM-relecture.png",
+          "industry": "Education",
+          "customer": "IFCAM",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/ifcam.html"
+        },
+        {
+          "title": "Essilor Instruments - Documentation de machine outils",
+          "description": "L'équipe de documentation d'Essilor Instruments réalise la documentation technique multilingue sur les équipements de taillage-montage de verres de lunettes.",
+          "image": "https://scenari.kelis.fr/res/LOGO_ESSILOR_INSTRUMENTS_RVB.png",
+          "industry": "Commerce",
+          "customer": "Essilor Instruments",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/essilor.html"
+        },
+        {
+          "title": "ENAC - Catalogue de la formation continue",
+          "description": "La formation continue de l'Ecole Nationale de l'Aviation Civile (ENAC) propose des stages aux entreprises et au personnel de l'Aviation Civile. Depuis 2009, l'ENAC a choisi une chaîne éditoriale Scenari intégrée dans son système d'information. La dernière version est diffusée par Scenari-Dépot.",
+          "image": "https://scenari.kelis.fr/res/trainingEnac.png",
+          "industry": "Education",
+          "customer": "ENAC",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/enac-catalog.html"
+        },
+        {
+          "title": "Total - Catalogue de formations et Annuaire des formateurs",
+          "description": "Le catalogue des formations et l'annuaire des formateurs diffusés dans l'intranet de Total sont produits à partir de chaînes éditoriales Scenari.",
+          "image": "https://scenari.kelis.fr/res/catform_fiche.png",
+          "industry": "Commerce",
+          "customer": "Total",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/totalFORM.html"
+        },
+        {
+          "title": "Société Générale - Audit",
+          "description": "Depuis 2008, le groupe Société Générale a choisi de coupler Scenari à un ECM pour la création et la gestion des rapports d'audit.",
+          "image": "https://scenari.kelis.fr/res/map-editeur.png",
+          "industry": "Finance",
+          "customer": "Société Générale",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/sg.html"
+        },
+        {
+          "title": "Serimax - Documentation technique",
+          "description": "Serimax produit la documentation technique (manuels de maintenance, fiches techniques, etc.) de ses machines outils en 3 langues avec Scenari depuis 2013.",
+          "image": "https://scenari.kelis.fr/res/b_1_q_0_p_0.jpg",
+          "industry": "Construction",
+          "customer": "Serimax",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/syntax.html"
+        },
+        {
+          "title": "Unisciel - Banque nationale de tests de positionnement",
+          "description": "Unisciel produit et diffuse avec Scenari plus de 1700 tests de positionnement scientifique et permet leur réutilisation par les universités partenaires.",
+          "image": "https://scenari.kelis.fr/res/Faq-accueil_1.png",
+          "industry": "Education",
+          "customer": "Unisciel",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/unisciel.html"
+        },
+        {
+          "title": "Total - Blended learning vidéo",
+          "description": "La branche Exploration Production a choisi une chaîne éditoriale vidéo, pour répondre à l'enjeu de formation des cadres dans l'ensemble des filiales.",
+          "image": "https://scenari.kelis.fr/res/total3.png",
+          "industry": "Education",
+          "customer": "Total",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/total-train.html"
+        },
+        {
+          "title": "UTC - Un partenariat de recherche",
+          "description": "L'UTC est à l'origine de Scenari. L'UTC et Kelis sont partenaires depuis 2004, année de création de Kelis.",
+          "image": "https://scenari.kelis.fr/res/APP-Web.png",
+          "industry": "Education",
+          "customer": "UTC",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/UTC.html"
+        },
+        {
+          "title": "Documentation et formation logicielle et métier",
+          "description": "L'Agence de Mutualisation des Universités et Établissements d'enseignement supérieur (AMUE) rationalise la production de ses documents d'accompagnement au déploiement de logiciels.",
+          "image": "https://scenari.kelis.fr/res/amue-dokiel-papier2.png",
+          "industry": "Education",
+          "customer": "UTC",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/amue-dokiel.html"
+        },
+        {
+          "title": "UCANNS - Guides juridiques et lettres d'informations",
+          "description": "L'Union des Caisses Nationales de la Sécurité Sociale (UCANSS) diffuse sur son portail extranet différents guides juridiques, d’administration du personnel, des bonnes pratiques environnementales, d'achat, etc. ainsi que des lettres d'informations.",
+          "image": "https://scenari.kelis.fr/res/ucanss-web.png",
+          "industry": "Public Administration & Government",
+          "customer": "UCANNS",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/ucanss-guides-lettres.html"
+        },
+        {
+          "title": "CDC-GTU - Guide de formation et ressources pédagogiques",
+          "description": "Dès leur création en 2016, les Centres de compétences ont choisi Scenari pour réaliser les parcours et supports pédagogiques.",
+          "image": "https://scenari.kelis.fr/res/cdc.png",
+          "industry": "Education",
+          "customer": "CDC-GTU",
+          "country": "lu",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/cdc-pedago.html"
+        },
+        {
+          "title": "EFSOAA - Fonds documentaire didactique",
+          "description": "L’École de Formation des Sous-Officiers de l'Armée de l'Air (l'EFSOAA) utilise une chaîne éditoriale pédagogique Scenari, synchronisée avec l'ECM Nuxeo, pour gérer le fonds documentaire de formation.",
+          "image": "https://scenari.kelis.fr/res/Scenari-FDD-PresProjetee.png",
+          "industry": "Public Administration & Government",
+          "customer": "EFSOAA",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/fdd.html"
+        },
+        {
+          "title": "CDC-GTU - Référentiel des métiers et offre de formations",
+          "description": "Dès leur création en 2016, les Centres de compétences ont choisi Scenari pour organiser leur production documentaire : référentiels des métiers et offre de formation.",
+          "image": "https://scenari.kelis.fr/res/gaia_web1.png",
+          "industry": "Education",
+          "customer": "CDC-GTU",
+          "country": "lu",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/cdc-comm.html"
+        },
+        {
+          "title": "ENFiP - Supports de formation présentielle et distancielle",
+          "description": "Depuis 2007, l’École Nationale des Finances Publiques (ENFiP) a choisi Scenari pour rationaliser la production de ses documents pédagogiques présentiels et distanciels.",
+          "image": "https://scenari.kelis.fr/res/enfip-slideshow.PNG",
+          "industry": "Education",
+          "customer": "ENFiP",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/enfip.html"
+        },
+        {
+          "title": "ENAC - Supports pédagogiques avec solutions libres",
+          "description": "L'Ecole Nationale de l'Aviation Civile a décidé en 2009 une stratégie de production documentaire utilisant les chaînes éditoriales Scenari. Actuellement, plusieurs modèles documentaires sont en production dans l'établissement, couvrant les domaines de la pédagogie.",
+          "image": "https://scenari.kelis.fr/res/logo_enac.png",
+          "industry": "Education",
+          "customer": "ENAC",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/enac.html"
+        },
+        {
+          "title": "ESENESR - Valorisation et accessibilité de conférences vidéo",
+          "description": "L'ESENESR enrichit des vidéos de conférences, tables rondes, etc. et les rend accessibles selon le référentiel RGAA.",
+          "image": "https://scenari.kelis.fr/res/ESENESR-WM-Editeur.png",
+          "industry": "Education",
+          "customer": "ESENESR",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/esenesr.html"
+        },
+        {
+          "title": "ESPE - Jeux sérieux",
+          "description": "L'ESPE Lille Nord de France utilise Scenari pour la production et la diffusion de jeux sérieux. La plateforme de diffusion garantit une synchronisation de la progression et un suivi des traces d'apprentissage indépendamment des modes de consultation utilisés (mobilité, mode offline ou online).",
+          "image": "https://scenari.kelis.fr/res/logo_espe.png",
+          "industry": "Education",
+          "customer": "ESPE",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/espe-lnf.html"
+        },
+        {
+          "title": "DRHAT Formation",
+          "description": "Depuis 2012, la Direction des ressources humaines de l'Armée de Terre (DRHAT) conçoit avec Scenari ses propres solutions d'ingénierie documentaire.",
+          "image": "https://scenari.kelis.fr/res/HOME_notice.PNG",
+          "industry": "Public Administration & Government",
+          "customer": "DRHAT",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/drhat.html"
+        },
+        {
+          "title": "DGAC - Dokiel pour la documentation de logiciels",
+          "description": "La Direction Générale de l'Aviation Civile (DGAC) utilise Dokiel pour documenter les applications mises en service par la DSI et réaliser les supports de formation des agents.",
+          "image": "https://scenari.kelis.fr/res/HOME_notice.PNG",
+          "industry": "Public Administration & Government",
+          "customer": "DGAC",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/dgac.html"
+        },
+        {
+          "title": "EPLEFPA - Supports de formation avec Opale",
+          "description": "L'Etablissement Public Local d'Enseignement et de Formation Professionnelle Agricole de Bordeaux-Grionde (EPLEFPA) utile Opale pour produire ses supports pédagogiques.",
+          "image": "https://scenari.kelis.fr/res/HOME_notice.PNG",
+          "industry": "Education",
+          "customer": "EPLEFPA",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/formagri33.html"
+        },
+        {
+          "title": "IGPDE - Catalogue de formation",
+          "description": "L'IGPDE, Institut de la gestion publique et du développement économique, saisit les fiches de formation, les scénarise et publie automatiquement les différents catalogues.",
+          "image": "https://scenari.kelis.fr/res/exemple-ficheeco-igpde.jpg",
+          "industry": "Public Administration & Government",
+          "customer": "IGPDE",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/igpde-catalog.html"
+        },
+        {
+          "title": "CNCT - Opale pour la diffusion d'informations réglementaires",
+          "description": "La Confédération Nationale des Charcutiers-Traiteurs et Traiteurs rédige et enrichit le Guide des Bonnes Pratiques d'Hygiène.",
+          "image": "https://scenari.kelis.fr/res/CNCT-GuideWeb-PDG.png",
+          "industry": "Public Administration & Government",
+          "customer": "CNCT",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/CNCT_-_guide_reglementaire.html"
+        },
+        {
+          "title": "i410 - Catalogue de formation",
+          "description": "L'Institut 4.10, centre de formation et d'accompagnement du régime général de la Sécurité Sociale, gère son offre de formation avec une chaîne éditoriale Scenari.",
+          "image": "https://scenari.kelis.fr/res/i410-fichecataloguePDF.png",
+          "industry": "Education",
+          "customer": "i410",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/i410-catalogue.html"
+        },
+        {
+          "title": "ICEDAP - Base documentaire",
+          "description": "ICEDAP a choisi Scenari pour concevoir une base d'information web dans les domaines social, fiscal et juridique et des fiches d'informations Print.",
+          "image": "https://scenari.kelis.fr/res/20170123.PNG",
+          "industry": "Education",
+          "customer": "ICEDAP",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/icedap.html"
+        },
+        {
+          "title": "URPS - Plateforme de formation à la chirurgie ambulatoire",
+          "description": "L'URPS Infirmiers des Hauts-de-France produit et diffuse avec Scenari des ressources de formation (notices et vidéos enrichies) à destination des professionnels de santé afin d'améliorer la prise en charge des patients éligibles à la chirurgie ambulatoire",
+          "image": "https://scenari.kelis.fr/res/ISIPAD-Portail_1.png",
+          "industry": "Education",
+          "customer": "URPS",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/isipad.html"
+        },
+        {
+          "title": "AFPA - Lexique de termes métiers",
+          "description": "L'Afpa a choisi une chaîne éditoriale Scenari pour produire son lexique de termes professionnels accessibles à tous les publics.",
+          "image": "https://scenari.kelis.fr/res/editeurTerme.png",
+          "industry": "Education",
+          "customer": "AFPA",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/afpa-vocabula.html"
+        },
+        {
+          "title": "DCI - Conception de solutions pour la formation",
+          "description": "DCI a fait le choix d'une internalisation des compétences de rédaction et de modélisation Scenari afin de maîtriser l'ensemble de la chaîne de la production documentaire pédagogique et technique.",
+          "image": "https://scenari.kelis.fr/res/logo-dci.png",
+          "industry": "Public Administration & Government",
+          "customer": "DCI",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/dci.html"
+        },
+        {
+          "title": "URPS - Plateforme de formation pour les Professionnels de Santé Libéraux",
+          "description": "L'URPS Infirmiers et l'URPS Pharmaciens des Hauts-de-France produisent et diffusent avec Scenari des ressources de formation (fiches traitements et fiches pathologie) pour les Professionnels de Santé Libéraux (PSL).",
+          "image": "https://scenari.kelis.fr/res/coordo01.png",
+          "industry": "Education",
+          "customer": "URPS",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/coordolib.html"
+        },
+        {
+          "title": "ENAC - Exerciseur et banques de questions Quetzal",
+          "description": "L'Ecole Nationale de l'Aviation Civile (ENAC) a organisé la production des banques de questions et réalise des évaluations (pré-requis, examens partiels, certificats) en ligne ou en salle à partir de la chaîne éditoriale dédiée : Quetzal.",
+          "image": "https://scenari.kelis.fr/res/logo4.png",
+          "industry": "Education",
+          "customer": "ENAC",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/enac-quetzal.html"
+        },
+        {
+          "title": "UNISCIEL - Lexico",
+          "description": "L'UNFS3F et UNISCIEL produisent des lexiques scientifiques et des glossaires multimédias multilingues avec la chaine éditoriale open source Lexico.",
+          "image": "https://scenari.kelis.fr/res/minExLexico_unilim.png",
+          "industry": "Education",
+          "customer": "UNISCIEL",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/lexique.html"
+        },
+        {
+          "title": "Université de Lille - Topaze",
+          "description": "Kelis assure la réalisation technique et la maintenance de la chaine éditoriale open source Topaze dédiée à la conception de formations en ligne multi-parcours, différenciées et adaptées en fonction des réponses de l'apprenant.",
+          "image": "https://scenari.kelis.fr/res/e-caducee1_2.png",
+          "industry": "Education",
+          "customer": "Université de Lille",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/topaze.html"
+        },
+        {
+          "title": "Siveco -Dokiel pour la documentation de logiciels",
+          "description": "Siveco, éditeur du logiciel de gestion de maintenance Coswin, utilise la chaîne éditoriale Dokiel pour produire sa documentation technique.",
+          "image": "https://scenari.kelis.fr/res/siveco.png",
+          "industry": "Software",
+          "customer": "Siveco",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/siveco.html"
+        },
+        {
+          "title": "Abvent - Dokiel pour la documentation de logiciels",
+          "description": "L'utilisation de Dokiel, permet à Abvent, éditeur de logiciels professionnels, de produire la documentation des logiciels et les supports de formation des utilisateurs.",
+          "image": "https://scenari.kelis.fr/res/abvent_logo.png",
+          "industry": "Software",
+          "customer": "Abvent",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/abvent.html"
+        },
+        {
+          "title": "PMB Services - Dokiel - documentation et formation logiciels",
+          "description": "L'utilisation de Dokiel, adapté à leurs besoins, permet à PMB depuis 2010 de centraliser le contenu de l'ensemble des formateurs et de mutualiser des fragments de contenus utilisés en formation et dans les manuels utilisateurs.",
+          "image": "https://scenari.kelis.fr/res/logo-pmb.png",
+          "industry": "Software",
+          "customer": "PMB Services",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/pmbServices.html"
+        },
+        {
+          "title": "Météo France - Dokiel pour la documentation de logiciels",
+          "description": "Météo France a choisi Dokiel pour documenter son logiciel spécialisé, de prévisions météorologiques.",
+          "image": "https://scenari.kelis.fr/res/LogoMeteoFrance.png",
+          "industry": "Public Administration & Government",
+          "customer": "Météo France",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/meteofrance.html"
+        },
+        {
+          "title": "Abes - Dokiel pour la documentation de logiciels",
+          "description": "L'Agence Bibliographique de l'Enseignement Supérieur (ABES) utilise Dokiel pour produire la documentation de ses applications et des formations utilisateurs.",
+          "image": "https://scenari.kelis.fr/res/abes1.png",
+          "industry": "Public Administration & Government",
+          "customer": "Abes",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/abes.html"
+        },
+        {
+          "title": "Sita - Référentiel de projets",
+          "description": "SITA a choisi OptimOffice en 2013 pour exposer ses projets en recherche et développement.",
+          "image": "https://scenari.kelis.fr/res/SitaOffice-editeur.png",
+          "industry": "Transport",
+          "customer": "Sita",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/sita.html"
+        },
+        {
+          "title": "Vethyqua - La documentation en qualité alimentaire",
+          "description": "VETHYQUA, organisme de formation et de conseil autour de la qualité en alimentaire, utilise les chaînes éditoriales open source pour sa documentation.",
+          "image": "https://scenari.kelis.fr/res/SiteWebVethyqua.png",
+          "industry": "Education",
+          "customer": "Vethyqua",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://scenari.kelis.fr/co/vethyqua.html"
+        }
+      ]
+    }
+  ]
 }

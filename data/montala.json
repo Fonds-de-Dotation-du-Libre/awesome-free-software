@@ -1,69 +1,75 @@
 {
-        "title": "Montala Ltd.",
-        "logo": "https://www.montala.com/img/montala_white.svg",
-        "country": "uk",
-        "presence": ["uk"],
-        "website": "https://www.montala.com/",
-        "founded_year": "2005",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Montala Ltd.",
+  "logo": "https://www.montala.com/img/montala_white.svg",
+  "country": "uk",
+  "presence": ["uk"],
+  "website": "https://www.montala.com/",
+  "founded_year": "2005",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Resource Space",
+      "logo": "https://www.resourcespace.com/img/RS_coloured_white.svg",
+      "website": "https://www.resourcespace.com/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.resourcespace.com/get",
+      "source_code_profile": "",
+      "commercial_support": "https://www.resourcespace.com/pricing",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/ResourceSpace",
+      "success_case_list": [
+        {
+          "title": "Care International",
+          "description": "Speed and co-ordination is critical for CARE International, particularly during large scale emergency appeals. The charity's ResourceSpace platform now holds more than 21,000 images, submitted and accessed by 495 users in worldwide locations.",
+          "image": "https://www.resourcespace.com/img/content/sectors/care-case.jpg",
+          "industry": "Public Administration & Government",
+          "customer": "Care International",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.resourcespace.com/download?cs=381"
         },
-        "free_software_list": [{
-                "title": "Resource Space",
-                "logo": "https://www.resourcespace.com/img/RS_coloured_white.svg",
-                "website": "https://www.resourcespace.com/",
-                "category_list": ["Application"],
-                "source_code_download": "https://www.resourcespace.com/get",
-                "source_code_profile": "",
-                "commercial_support": "https://www.resourcespace.com/pricing",
-                "wikipedia_url": "https://de.wikipedia.org/wiki/ResourceSpace",
-                "success_case_list": [{
-                        "title": "Care International",
-                        "description": "Speed and co-ordination is critical for CARE International, particularly during large scale emergency appeals. The charity's ResourceSpace platform now holds more than 21,000 images, submitted and accessed by 495 users in worldwide locations.",
-                        "image": "https://www.resourcespace.com/img/content/sectors/care-case.jpg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Care International",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.resourcespace.com/download?cs=381"
-                }, {
-                        "title": "The Walters Art Museum",
-                        "description": "Having previously relied on manual file hierarchies and then an unreliable alternative DAM system, The Walters has seen real results with ResourceSpace.",
-                        "image": "https://www.resourcespace.com/img/content/sectors/walters-case.jpg",
-                        "industry": "Entertainment",
-                        "customer": "The Walters Art Museum",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.resourcespace.com/download?cs=333"
-                }, {
-                        "title": "Scotch College",
-                        "description": "For Scotch College in Western Australia, sharing photos and videos of daily life with parents, students and staff plays a big part in the school community. And they do this using ResourceSpace.",
-                        "image": "https://www.resourcespace.com/img/content/sectors/scotch-case.jpg",
-                        "industry": "Education",
-                        "customer": "Scotch College",
-                        "country": "au",
-                        "language": "en",
-                        "url": "https://www.resourcespace.com/download?cs=378"
-                }]
-        }]
+        {
+          "title": "The Walters Art Museum",
+          "description": "Having previously relied on manual file hierarchies and then an unreliable alternative DAM system, The Walters has seen real results with ResourceSpace.",
+          "image": "https://www.resourcespace.com/img/content/sectors/walters-case.jpg",
+          "industry": "Entertainment",
+          "customer": "The Walters Art Museum",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.resourcespace.com/download?cs=333"
+        },
+        {
+          "title": "Scotch College",
+          "description": "For Scotch College in Western Australia, sharing photos and videos of daily life with parents, students and staff plays a big part in the school community. And they do this using ResourceSpace.",
+          "image": "https://www.resourcespace.com/img/content/sectors/scotch-case.jpg",
+          "industry": "Education",
+          "customer": "Scotch College",
+          "country": "au",
+          "language": "en",
+          "url": "https://www.resourcespace.com/download?cs=378"
+        }
+      ]
+    }
+  ]
 }

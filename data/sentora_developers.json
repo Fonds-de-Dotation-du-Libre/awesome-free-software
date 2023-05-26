@@ -1,42 +1,44 @@
 {
-        "title": "Sentora Developers",
-        "logo": "http://www.sentora.org/img/sentora_logo.png",
-        "country": "uk",
-        "presence": ["uk"],
-        "website": "http://www.sentora.org/",
-        "founded_year": "2014",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "Sentora",
-                "logo": "http://www.sentora.org/img/sentora_logo.png",
-                "website": "http://www.sentora.org/",
-                "category_list": ["Application"],
-                "source_code_download": "https://www.sentora.org/download",
-                "source_code_profile": "",
-                "commercial_support": "http://www.sentora.org/support",
-                "wikipedia_url": "",
-                "success_case_list": []
-        }]
+  "title": "Sentora Developers",
+  "logo": "http://www.sentora.org/img/sentora_logo.png",
+  "country": "uk",
+  "presence": ["uk"],
+  "website": "http://www.sentora.org/",
+  "founded_year": "2014",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Sentora",
+      "logo": "http://www.sentora.org/img/sentora_logo.png",
+      "website": "http://www.sentora.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.sentora.org/download",
+      "source_code_profile": "",
+      "commercial_support": "http://www.sentora.org/support",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
 }

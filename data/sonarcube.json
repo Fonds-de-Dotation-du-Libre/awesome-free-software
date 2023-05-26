@@ -1,123 +1,135 @@
 {
-        "title": "Sonarsource",
-        "logo": "https://www.sonarsource.com/assets/sonarsource-black-logo-05ca896462d08cc54739bf42e27c778071bdd67301041e4ebcc9206635fe1922.svg",
-        "country": "ch",
-        "presence": ["ch"],
-        "website": "https://www.sonarsource.com/",
-        "founded_year": "2007",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Sonarsource",
+  "logo": "https://www.sonarsource.com/assets/sonarsource-black-logo-05ca896462d08cc54739bf42e27c778071bdd67301041e4ebcc9206635fe1922.svg",
+  "country": "ch",
+  "presence": ["ch"],
+  "website": "https://www.sonarsource.com/",
+  "founded_year": "2007",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Sonarqube",
+      "logo": "https://www.sonarqube.org/assets/logo_white-2c5ede933137d4cd08aee2e089d2800011796bd01f11ec32e280289e9985b713.svg",
+      "website": "https://www.sonarqube.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.sonarqube.org/downloads/",
+      "source_code_profile": "https://www.openhub.net/p/sonar/analyses/latest/languages_summary",
+      "commercial_support": "https://www.sonarqube.org/downloads/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/SonarQube",
+      "success_case_list": [
+        {
+          "title": "Siemens",
+          "description": "Siemens Software Factory improves code quality across 40 million lines of code by integrating SonarQube with Microsoft ALM tools and technologies.",
+          "image": "https://www.sonarsource.com/customers/stories/siemens/siemens-office.jpg",
+          "industry": "Manufacturing",
+          "customer": "Siemens",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/siemens.html"
         },
-        "free_software_list": [{
-                "title": "Sonarqube",
-                "logo": "https://www.sonarqube.org/assets/logo_white-2c5ede933137d4cd08aee2e089d2800011796bd01f11ec32e280289e9985b713.svg",
-                "website": "https://www.sonarqube.org/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://www.sonarqube.org/downloads/",
-                "source_code_profile": "https://www.openhub.net/p/sonar/analyses/latest/languages_summary",
-                "commercial_support": "https://www.sonarqube.org/downloads/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/SonarQube",
-                "success_case_list": [{
-                        "title": "Siemens",
-                        "description": "Siemens Software Factory improves code quality across 40 million lines of code by integrating SonarQube with Microsoft ALM tools and technologies.",
-                        "image": "https://www.sonarsource.com/customers/stories/siemens/siemens-office.jpg",
-                        "industry": "Manufacturing",
-                        "customer": "Siemens",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/siemens.html"
-                }, {
-                        "title": "Amadeus SDS",
-                        "description": "AMADEUS EDS INVESTS IN THE FUTURE WITH PROFESSIONAL SERVICES AND AUTOMATED ENTERPRISE - GRADE CODE QUALITY MANAGEMENT",
-                        "image": "https://www.sonarsource.com/customers/stories/amadeus/amadeus.jpg",
-                        "industry": "Software",
-                        "customer": "Amadeus SDS",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/amadeus.html"
-                }, {
-                        "title": "Agirc & Arrco",
-                        "description": "SonarQube makes software quality an integral component embedded in the software development process at Agirc & Arrco.",
-                        "image": "https://www.sonarsource.com/customers/stories/agirc-arrco/agirc-arrco.jpg",
-                        "industry": "Finance",
-                        "customer": "Agirc & Arrco",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/agirc-arrco.html"
-                }, {
-                        "title": "Cisco IT",
-                        "description": "SONARSOURCE’S PRODUCTS AND SERVICES ARE USED BY CUSTOMERS ALL OVER THE WORLD.",
-                        "image": "https://www.sonarsource.com/customers/stories/cisco-it/cisco-it.jpg",
-                        "industry": "Telecommunications",
-                        "customer": "Cisco IT",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/cisco-it.html"
-                }, {
-                        "title": "BSB",
-                        "description": "By analyzing 5.75 Million LoC with SonarQube on a daily basis, BSB (Business Solutions Builders) has been successful in improving the quality of its entire software product suite.",
-                        "image": "https://www.sonarsource.com/customers/stories/bsb/bsb.jpg",
-                        "industry": "Software",
-                        "customer": "BSB",
-                        "country": "be",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/bsb.html"
-                }, {
-                        "title": "Kapsch",
-                        "description": "https://www.sonarsource.com/customers/stories/kapsch/kapsch.jpg",
-                        "image": "SonarQube is used on a daily basis by the development teams spread out across three different sites in Europe. Quality results are displayed on wall monitors!",
-                        "industry": "Software",
-                        "customer": "Kapsch",
-                        "country": "at",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/kapsch.html"
-                }, {
-                        "title": "Zitro Games",
-                        "description": "SonarQube is used on a daily basis by Zitro Games to review its C++ and PHP code and assign quality improvement tasks to its engineers.",
-                        "image": "https://www.sonarsource.com/customers/stories/zitro/zitro-games.jpg",
-                        "industry": "Entertainment",
-                        "customer": "Zitro Games",
-                        "country": "es",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/zitro.html"
-                }, {
-                        "title": "Thales",
-                        "description": "ThalesRaytheonSystems uses SonarQube as an “integrated solution and easy to use at each level of a project in development”",
-                        "image": "https://www.sonarsource.com/customers/stories/thales/thales.jpg",
-                        "industry": "Defense",
-                        "customer": "Thales",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/thales.html"
-                }, {
-                        "title": "Silverpeas",
-                        "description": "Silverpeas has been able to implement new features and improve product performance, which has led to winning more and bigger customers.",
-                        "image": "https://www.sonarsource.com/customers/stories/silverpeas/silverpeas.png",
-                        "industry": "Software",
-                        "customer": "Silverpeas",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://www.sonarsource.com/customers/stories/silverpeas.html"
-                }]
-        }]
+        {
+          "title": "Amadeus SDS",
+          "description": "AMADEUS EDS INVESTS IN THE FUTURE WITH PROFESSIONAL SERVICES AND AUTOMATED ENTERPRISE - GRADE CODE QUALITY MANAGEMENT",
+          "image": "https://www.sonarsource.com/customers/stories/amadeus/amadeus.jpg",
+          "industry": "Software",
+          "customer": "Amadeus SDS",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/amadeus.html"
+        },
+        {
+          "title": "Agirc & Arrco",
+          "description": "SonarQube makes software quality an integral component embedded in the software development process at Agirc & Arrco.",
+          "image": "https://www.sonarsource.com/customers/stories/agirc-arrco/agirc-arrco.jpg",
+          "industry": "Finance",
+          "customer": "Agirc & Arrco",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/agirc-arrco.html"
+        },
+        {
+          "title": "Cisco IT",
+          "description": "SONARSOURCE’S PRODUCTS AND SERVICES ARE USED BY CUSTOMERS ALL OVER THE WORLD.",
+          "image": "https://www.sonarsource.com/customers/stories/cisco-it/cisco-it.jpg",
+          "industry": "Telecommunications",
+          "customer": "Cisco IT",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/cisco-it.html"
+        },
+        {
+          "title": "BSB",
+          "description": "By analyzing 5.75 Million LoC with SonarQube on a daily basis, BSB (Business Solutions Builders) has been successful in improving the quality of its entire software product suite.",
+          "image": "https://www.sonarsource.com/customers/stories/bsb/bsb.jpg",
+          "industry": "Software",
+          "customer": "BSB",
+          "country": "be",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/bsb.html"
+        },
+        {
+          "title": "Kapsch",
+          "description": "https://www.sonarsource.com/customers/stories/kapsch/kapsch.jpg",
+          "image": "SonarQube is used on a daily basis by the development teams spread out across three different sites in Europe. Quality results are displayed on wall monitors!",
+          "industry": "Software",
+          "customer": "Kapsch",
+          "country": "at",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/kapsch.html"
+        },
+        {
+          "title": "Zitro Games",
+          "description": "SonarQube is used on a daily basis by Zitro Games to review its C++ and PHP code and assign quality improvement tasks to its engineers.",
+          "image": "https://www.sonarsource.com/customers/stories/zitro/zitro-games.jpg",
+          "industry": "Entertainment",
+          "customer": "Zitro Games",
+          "country": "es",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/zitro.html"
+        },
+        {
+          "title": "Thales",
+          "description": "ThalesRaytheonSystems uses SonarQube as an “integrated solution and easy to use at each level of a project in development”",
+          "image": "https://www.sonarsource.com/customers/stories/thales/thales.jpg",
+          "industry": "Defense",
+          "customer": "Thales",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/thales.html"
+        },
+        {
+          "title": "Silverpeas",
+          "description": "Silverpeas has been able to implement new features and improve product performance, which has led to winning more and bigger customers.",
+          "image": "https://www.sonarsource.com/customers/stories/silverpeas/silverpeas.png",
+          "industry": "Software",
+          "customer": "Silverpeas",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.sonarsource.com/customers/stories/silverpeas.html"
+        }
+      ]
+    }
+  ]
 }

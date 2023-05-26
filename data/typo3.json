@@ -1,951 +1,1055 @@
 {
-        "title": "Typo3 GmbH",
-        "logo": "https://typo3.org/typo3conf/ext/t3olayout/Resources/Public/Images/Template/typo3_nomargins.svg",
-        "country": "ch",
-        "presence": ["world"],
-        "website": "https://typo3.org/",
-        "founded_year": "2003",
-        "kpi_dict": {
-          "2018": {
-            "staff": "11",
-            "earnings": "182603",
-            "total_assets": "574726",
-            "revenues": "",
-            "public_source": "true"
-          },
-          "2017": {
-            "staff": "5",
-            "earnings": "182291",
-            "total_assets": "507895",
-            "revenues": "",
-            "public_source": "true"
-          },
-          "2016": {
-            "staff": "5",
-            "earnings": "-366924",
-            "total_assets": "443917",
-            "revenues": "",
-            "public_source": "true"
-          }
+  "title": "Typo3 GmbH",
+  "logo": "https://typo3.org/typo3conf/ext/t3olayout/Resources/Public/Images/Template/typo3_nomargins.svg",
+  "country": "ch",
+  "presence": ["world"],
+  "website": "https://typo3.org/",
+  "founded_year": "2003",
+  "kpi_dict": {
+    "2018": {
+      "staff": "11",
+      "earnings": "182603",
+      "total_assets": "574726",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "5",
+      "earnings": "182291",
+      "total_assets": "507895",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "5",
+      "earnings": "-366924",
+      "total_assets": "443917",
+      "revenues": "",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Peertube",
+      "logo": "https://typo3.org/typo3conf/ext/t3olayout/Resources/Public/Images/Template/typo3_nomargins.svg",
+      "website": "https://joinpeertube.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://get.typo3.org/",
+      "source_code_profile": "https://www.openhub.net/p/typo3/analyses/latest/languages_summary",
+      "commercial_support": "https://typo3.com/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/TYPO3",
+      "success_case_list": [
+        {
+          "title": "It’s getting tasty with KRÜGER and TYPO3",
+          "description": "Krüger, a manufacturer of instant products, needed a tailored solution, streamlined for best user experience. Using TYPO3 and its expertise as a digital agency, Webmatch relaunched KRÜGER’s brand website with inspiring results",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/590/logo_color.svg",
+          "industry": "Manufacturing",
+          "customer": "Krüger",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/krueger-gmbh-co-kg"
         },
-        "free_software_list": [{
-                "title": "Peertube",
-                "logo": "https://typo3.org/typo3conf/ext/t3olayout/Resources/Public/Images/Template/typo3_nomargins.svg",
-                "website": "https://joinpeertube.org/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://get.typo3.org/",
-                "source_code_profile": "https://www.openhub.net/p/typo3/analyses/latest/languages_summary",
-                "commercial_support": "https://typo3.com/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/TYPO3",
-                "success_case_list": [{
-                        "title": "It’s getting tasty with KRÜGER and TYPO3",
-                        "description": "Krüger, a manufacturer of instant products, needed a tailored solution, streamlined for best user experience. Using TYPO3 and its expertise as a digital agency, Webmatch relaunched KRÜGER’s brand website with inspiring results",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/590/logo_color.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Krüger",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/krueger-gmbh-co-kg"
-                },{
-                        "title": "International development cooperation with TYPO3",
-                        "description": "Independent and simple editing from all over the world and various information for donors and sponsors – enabled by TYPO3",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/752/Swisscontact_Logo_Farbe.svg",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "Swisscontact",
-                        "country": "ch",
-                        "language": "ch",
-                        "url": "https://typo3.com/case-studies/krueger-gmbh-co-kg"
-                },{
-                        "title": "Switzerland’s largest healthcare system – linked by TYPO3",
-                        "description": "New design with improved user navigation and usability for the Insel Group hospitals.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/749/Logo_Inselgruppe_Farbe.svg",
-                        "industry": "Insurance",
-                        "customer": "Insel Group",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/insel-group"
-                },{
-                        "title": "Once a website, now the Astron centre of excellence",
-                        "description": "Looking for a fresh design for its website, the steel buildings company Astron relied on the competence of Webmatch and TYPO3. The result is something to be proud of –a multilingual sales platform with impressive features. ",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/805/ASTRON-Logo.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Astrong Buildings",
-                        "country": "lu",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/astron-buildings-sa"
-                },{
-                        "title": "Worldwide university content platform",
-                        "description": "Educate students and advance knowledge in science & technology for the benefit of humanity. Eindhoven University of Technology is powered by TYPO3.",
-                        "image": "https://typo3.com/fileadmin/_processed_/8/2/csm_logo-tue-t3_342b77dcbd.png",
-                        "industry": "Education",
-                        "customer": "Eindhoeven University of Technology",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/eindhoven-university-of-technology"
-                },{
-                        "title": "PDFlib GmbH",
-                        "description": "Technical and visual relaunch of the corporate website in connection with a TYPO3 upgrade to version 8.7 LTS.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/784/logo_02.svg",
-                        "industry": "Software",
-                        "customer": "PDFlib GmbH",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/pdflib-gmbh"
-                },{
-                        "title": "Service and Manufacturing with TYPO3",
-                        "description": "BIBUS AG Group is a trading, service and manufacturing company that has existed for 70 years operating with more than 30 subsidiaries worldwide selling products in pneumatics, hydraulics, mechanics, drive technology, electrical engineering / electronics and automation",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/605/BIBUS.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Bibus AG",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/bibus-ag-group"
-                },{
-                        "title": "International and user-friendly new website with TYPO3",
-                        "description": "How a German global player in sports surfaces is demonstrating its market leadership online – with a new international and user-friendly website.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/533/logo-polytan.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Polytan",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/polytan-gmbh"
-                },{
-                        "title": "Engineering and Manufacturing with TYPO3",
-                        "description": "Huegli Tech is a Manufacturer, Engineering company and Wholesaler with core competencies in Engine Governing Systems, Generating Set Controls, Engine Starting Solutions, Gas Engine Management System, Engine Accessories and Dual Fuel Conversions.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/740/logo_hueglitech_color-01.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Huegli Tech AG",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/huegli-tech-ag"
-                },{
-                        "title": "Construction and Environment Engineering with TYPO3",
-                        "description": "Eberhard Unternehmungen, a family owned business in their third generation, are pioneers in construction and the environment. They offer overall services in the fields of civil engineering, excavation, earthworks, hydraulic engineering, demolition, recycling, building materials, logistics, environmental remediation, treatment, recycling and landfill.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/1730/EBAG_logo-02.svg",
-                        "industry": "Construction",
-                        "customer": "Eberhard Unternehmungen",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/eberhard-unternehmungen"
-                },{
-                        "title": "Modern, elegant, customised: EGT AG's website's brilliant new look",
-                        "description": "blindwerk – neue medien completed the technical redesign of their website for the EGT Group, including numerous customised adaptations and visual effects, in just a few weeks",
-                        "image": "https://typo3.com/fileadmin/_processed_/4/3/csm_10422_001_001_EGT_LOGO_Gross_CMYK_LY3_81ba3a4d96.png",
-                        "industry": "Retail",
-                        "customer": "EGT Energiehandel",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/egt-energiehandel-gmbh"
-                },{
-                        "title": "Internet² with TYPO3",
-                        "description": "United Internet, Europe's leading internet specialist, makes full use of squares and TYPO3.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/united-internet-logo.svg",
-                        "industry": "Telecommunication",
-                        "customer": "United Internet",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/united-internet"
-                },{
-                        "title": "Online Property Financing",
-                        "description": "Award winning hosting, development, and security at enterprise level through standardized processes from Browserwerk",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/2001/degussa-logo_07.svg",
-                        "industry": "Finance",
-                        "customer": "Degussa Bank",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/degussa-bank-ag"
-                },{
-                        "title": "Paysafe",
-                        "description": "The TYPO3 Award Winner Website for Finance Solutions",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/1682/logo-colour-white.svg",
-                        "industry": "Finance",
-                        "customer": "Paysafe",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/paysafe-group"
-                },{
-                        "title": "All national websites in 1 multi-site solution",
-                        "description": "A national platform for all political websites (400+) of CDA. Both national, provincial and local websites. A multi-platform with over 400 active websites and 700 editors!",
-                        "image": "https://typo3.com/fileadmin/_processed_/c/e/csm_t3-cda-logo_874688e688.png",
-                        "industry": "Non Governmental Organisations",
-                        "customer": "CDA",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/political-party-cda"
-                },{
-                        "title": "Rent a car with TYPO3",
-                        "description": "High Quality Rental Cars Worldwide",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/607/tui_cars_logo_04.svg",
-                        "industry": "Transport",
-                        "customer": "TUI Cars",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/tui-cars"
-                },{
-                        "title": "Accounting with TYPO3",
-                        "description": "Find everything you need to know about commercial accounting with Lexware and TYPO3",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/760/Lexware_Logos_Monochrom_01.svg",
-                        "industry": "Software",
-                        "customer": "Lexware",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/lexware"
-                },{
-                        "title": "Find your next holiday - with TUI and TYPO3",
-                        "description": "We’re part of TUI Group – one of the world’s leading travel companies and all of our holidays are designed to help you Discover Your Smile",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/743/TUI_logo.svg",
-                        "industry": "Travel",
-                        "customer": "TUI Group",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/tuicom"
-                },{
-                        "title": "Website relaunch for the German Youth Hostel Association",
-                        "description": "Vacationing in special places with TYPO3",
-                        "image": "https://typo3.com/fileadmin/_processed_/1/b/csm_logo-djh_618a0c4b2c.png",
-                        "industry": "Tourism",
-                        "customer": "Jugendherbergen.de",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/djh"
-                },{
-                        "title": "International logistics with TYPO3",
-                        "description": "Raben Group has been present on the European market for over 85 years offering comprehensive logistics services. Companies of the Group are located in 11 European countries in: the Czech Republic, Estonia, the Netherlands, Germany, Lithuania, Latvia, Poland, Rumania, Slovakia, Ukraine and Hungary.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Raben_Group_Logo.svg",
-                        "industry": "Transport",
-                        "customer": "Raben Group",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/raben-group"
-                },{
-                        "title": "From northern Germany into the world with TYPO3",
-                        "description": "BREMEN AIRPORT - WE KEEP THE NORTHWEST MOVING",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/833/Airport_Bremen_Logo.svg",
-                        "industry": "Travel",
-                        "customer": "Bremen Airport",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/bremen-airport"
-                },{
-                        "title": "Web Development for an Education System with TYPO3",
-                        "description": "New website consists of a number of portals dedicated to particular markets of Central and Eastern Europe. New web is designed for different groups of users. When registering, person chooses his role: student or lecturer. Depending on the profile, he has access to educational materials, supplementary courses etc. Thanks to integration with the corporate identity management system (SSO), user data is registered in all Pearson applications",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/783/Pearson_logo.svg",
-                        "industry": "Education",
-                        "customer": "Pearson",
-                        "country": "pl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/pearson"
-                },{
-                        "title": "Soccer goes digital",
-                        "description": "New concept, new graphics, new technology",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/1975/SV-Werder-Bremen-Logo.svg",
-                        "industry": "Entertainment",
-                        "customer": "Werder Bremen",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/sv-werder-bremen"
-                },{
-                        "title": "Swiss Museum of Transport: the most visited museum in Switzerland – linked by TYPO3",
-                        "description": "New design with user experience in focus and interfaces to ticketing system",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/2049/Logo-farbig.svg",
-                        "industry": "Transport",
-                        "customer": "Verkehrshaus",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/swiss-transport-museum"
-                },{
-                        "title": "Responsive Website And Product Catalog",
-                        "description": "SAMSON operates wherever there is controlled flow of oils, gases, vapors or chemical substances. Valves are our core business.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/759/Logo_Samson_CI.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Samson",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/samson-ag"
-                },{
-                        "title": "Multilanguage Responsive Website Relaunch",
-                        "description": "Dental Milestones Guaranteed – For over 50 years, in more than 90 countries.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/758/Logo_DMG_CI.svg",
-                        "industry": "Life Sciences",
-                        "customer": "DMG",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/fileadmin/assets/case_studies/758/Logo_DMG_CI.svg"
-                },{
-                        "title": "Responsive Website Relaunch",
-                        "description": "MHK Kueche.de” is the online portal of the MHK Group, one of the very largest purchasing and service association groups in Europe.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/1980/Logo_kueche-de_1_.svg",
-                        "industry": "Retail",
-                        "customer": "MHK Gruppe",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/mhk-kuechede-gmbh"
-                },{
-                        "title": "Multilingual Responsive Website Relaunch",
-                        "description": "Frankfurt University of Applied Sciences, formerly FH Frankfurt, is one of the largest universities in Germany with over 11.000 students.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/1718/logo_FRA-UAS.svg",
-                        "industry": "Education",
-                        "customer": "Frankfurt University of Applied Sciences",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/frankfurt-university-of-applied-sciences"
-                },{
-                        "title": "Responsive Website Relaunch with TYPO3",
-                        "description": "ISRA VISION - Leading Machine Vision Systems",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/1956/Logo_ISRA_Vision_AG_02.svg",
-                        "industry": "Manufacturing",
-                        "customer": "ISRA",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/isra-vision-ag"
-                },{
-                        "title": "Barrier-free / Accessible responsive website relaunch",
-                        "description": "We want to be seen – Inclusive instead of exclusive.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/861/BSBH_Logo-CI.svg",
-                        "industry": "Non Governmental Association",
-                        "customer": "Blinden- und Sehbehindertenbund in Hessen e. V.",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/blinden-und-sehbehindertenbund-in-hessen-ev"
-                },{
-                        "title": "RMV-On: Campaign Website with TYPO3",
-                        "description": "24 hours on for you",
-                        "image": "https://typo3.com/fileadmin/_processed_/8/3/csm_logo-rmv_11fbc60836.png",
-                        "industry": "Travel",
-                        "customer": "Rhein-Main Verkehrsbund",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/rhein-main-verkehrsverbund-gmbh"
-                },{
-                        "title": "TYPO3 Website Relaunch",
-                        "description": "FVA GmbH makes gears run.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/2048/logo.svg",
-                        "industry": "Automotive",
-                        "customer": "FVA GmbH",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/fva-gmbh"
-                },{
-                        "title": "Summer sport gamification built in TYPO3 CMS",
-                        "description": "Holiday campaign based on gamification was launched in July 2018 and it includes access to summer sports facilities and an attractive loyalty program, motivating users to physical activity in summer. Points collected for specific activities can be exchanged for prizes or spent on a charity goal. The biggest technological challenge of the project was a very short time to implement and creating from scratch a system of awarding, totalizing and counting points for all user activities durung the summer gamification.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/779/benefit_logo-02_01.svg",
-                        "industry": "Entertainment",
-                        "customer": "Benefit-Systems",
-                        "country": "pl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/benefit-systems"
-                },{
-                        "title": "Minebea Intec",
-                        "description": "We are a driving force for the further globalization and concentration of our industry.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/psl/Minebea_Intec_Logo.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Minebea",
-                        "country": "jp",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/minebea"
-                },{
-                        "title": "Sysmex Europe",
-                        "description": "Mission, value and mind come together to form the way we work, think and act",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/psl/Sysmex.svg",
-                        "industry": "Life Sciences",
-                        "customer": "Sysmex-Europe",
-                        "country": "jp",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/sysmex-europe"
-                },{
-                        "title": "Travel Charme Hotels & Resorts AG",
-                        "description": "Relax with TYPO3.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/psl/TravelCharme.svg",
-                        "industry": "Travel",
-                        "customer": "Travel Charme Hotels AG",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/travel-charme-hotels-resorts-ag"
-                },{
-                        "title": "Jugend Forscht",
-                        "description": "Jugend forscht encourages and supports talented achievers in the areas of science, technology, engineering and mathematics (STEM).",
-                        "image": "https://typo3.com/fileadmin/user_upload/Jugend_forscht__1_.svg",
-                        "industry": "Education",
-                        "customer": "Jugend Fortscht",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/jugend-forscht"
-                },{
-                        "title": "Henkel AG & Co. KGaA – Henkelhaus.de",
-                        "description": "TYPO3-based DIY portal with interactive adhesive and decorating adviser",
-                        "image": "https://typo3.com/fileadmin/_processed_/3/d/csm_henkelhaus-logo_02_905b1afddb.png",
-                        "industry": "Manufacturing",
-                        "customer": "Henkel AG & Co. KGaA",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/henkel-co-kgaa"
-                },{
-                        "title": "KALDEWEI Worldwide",
-                        "description": "KALDEWEI steel enamel is the company’s brand essence and the result of continuous innovation management. Sustainability across the entire lifecycle – an immutable element of the KALDEWEI corporate philosophy",
-                        "image": "https://typo3.com/fileadmin/user_upload/Kaldewei.svg",
-                        "industry": "Retail",
-                        "customer": "Kaldewei",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/franz-kaldewei-gmbh-co-kg"
-                },{
-                        "title": "Refuel with TYPO3",
-                        "description": "Aral is one of the best known and most valuable german brands",
-                        "image": "https://typo3.com/fileadmin/user_upload/Aral_Logo.svg",
-                        "industry": "Automotive",
-                        "customer": "Aral",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/aral"
-                },{
-                        "title": "pfm medical",
-                        "description": "We work with you in a partnership of trust, supporting your daily efforts to help patients and improve their quality of life.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/psl/pfm_medical.svg",
-                        "industry": "Manufacturing",
-                        "customer": "PFM Medical AG",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/pfm-medical-ag"
-                },{
-                        "title": "Henkel AG & Co. KGaA – Interactive Shelf Computer",
-                        "description": "Interactive product advice: online, mobile and in retail space",
-                        "image": "https://typo3.com/fileadmin/user_upload/Henkel-Logo.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Henkel AG & Co. KGaA",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/henkel-ag-co-kgaa"
-                },{
-                        "title": "The making of the first Digital Asset Manager with TYPO3",
-                        "description": "In 10 weeks to the new Corporate Website with modern design and optimal usability.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/739/commerzreal_01.svg",
-                        "industry": "Finance",
-                        "customer": "Commerce Real",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/commerz-real-ag"
-                },{
-                        "title": "Ready for the era of digital gambling",
-                        "description": "Ready for the era of digital gambling",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/771/logo-SWC.svg",
-                        "industry": "Entertainment",
-                        "customer": "Swiss Casino",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/swiss-casinos-brands-ag"
-                },{
-                        "title": "More performance, stability and range with TYPO3 and SEO",
-                        "description": "A future-proof corporate website for a rapidly growing company in the financial sector",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/750/logo_01.svg",
-                        "industry": "Finance",
-                        "customer": "Flossback von Storch",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/flossbach-von-storch-ag"
-                },{
-                        "title": "Building the Bank of the Future",
-                        "description": "Getting ready for digital banking with TYPO3",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/775/Acrevis_Bank_logo.svg",
-                        "industry": "Finance",
-                        "customer": "Acrevis Bank AG",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/acrevis-bank-ag"
-                },{
-                        "title": "Faster and better communication: New Content Management for Healthcare Professionals",
-                        "description": "How MSD reached new spheres with TYPO3",
-                        "image": "https://typo3.com/fileadmin/_processed_/6/c/csm_msd-logo-sw_a927ea5307.png",
-                        "industry": "Life Sciences",
-                        "customer": "Merck, Sharpe & Dhome",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/merck-sharp-dohme-ag"
-                },{
-                        "title": "More B2B leads and brand repositioning through website relaunch with TYPO3",
-                        "description": "More customers and more brand thanks to a new content management system",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/781/comforte-logo.svg",
-                        "industry": "Software",
-                        "customer": "Comforte",
-                        "country": "More customers and more brand thanks to a new content management system",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/comforte"
-                },{
-                        "title": "Digital services government with TYPO3",
-                        "description": "Easy to use and lots of opportunities",
-                        "image": "https://typo3.com/fileadmin/user_upload/logo-color.svg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Gemeente Tilburg",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/gemeente-tilburg"
-                },{
-                        "title": "Effective communication with TYPO3",
-                        "description": "Online when possible and in person when necessary",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-utrecht-rood.svg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Gemeente Utrecht",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/gemeente-utrecht"
-                },{
-                        "title": "Give electrical installation a face within a month with TYPO3",
-                        "description": "Energa is an allround electrical installation company that helps customers with installing data network, home automation, electrical installation, intruder alarm installations, telematics and sustainable technology",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-energa.svg",
-                        "industry": "Utilities",
-                        "customer": "Energa",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/beechit/energa"
-                },{
-                        "title": "Telecommunication services with TYPO3",
-                        "description": "How to offer highly configurable telecommunication services and create package offerings in no time.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/gga-maur-logo.svg",
-                        "industry": "Telecommunication",
-                        "customer": "GGA Maur",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/gga-maur"
-                },{
-                        "title": "Condor Airlines Intranet",
-                        "description": "Fly through the Intranet with TYPO3",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/psl/Condor_logo.svg",
-                        "industry": "Travel",
-                        "customer": "Condor Airlines",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/condor-airlines"
-                },{
-                        "title": "Hankook Tires",
-                        "description": "Our mission is to 'Contribute to Advancement in Driving.' We inspire drivers to take on challenges and create new possibilities. We strive to help drivers enjoy their time on the road and be confident in the choices they make.",
-                        "image": "https://typo3.com/fileadmin/user_upload/Hankook_Tire_logo_new.svg",
-                        "industry": "Automotive",
-                        "customer": "Hankook",
-                        "country": "kr",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/hankook"
-                },{
-                        "title": "Thomas Cook Intranet",
-                        "description": "We are focused on transforming our business so that we can serve even more customers in ways that deliver better their holiday dreams",
-                        "image": "https://typo3.com/fileadmin/user_upload/Thomas_Cook_Group_logo.svg",
-                        "industry": "Travel",
-                        "customer": "Thomas Cook",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/psl-cases/thomas-cook"
-                },{
-                        "title": "2000 personal member pages with TYPO3",
-                        "description": "LTO Glaskracht Netherlands works together with the regions: LTO North Glaskracht, LLTB and ZLTO in the area of sectoral policy development and innovation for the connected greenhouses horticulture entrepreneurs. The site of LTO Glaskracht Netherlands has the ability to list messages and parts on the site for members only",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-lto.svg",
-                        "industry": "Agriculture",
-                        "customer": "LTO Glaskracht",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/beechit/lto-glaskracht-netherlands"
-                },{
-                        "title": "Easy investigation and comprehensive search module with TYPO3",
-                        "description": "Greenhouse as energy source is the innovation and action program that stimulates energy saving and the use of sustainable energy in greenhouse horticulture stimulates. Growers will be kept informed about everything in the field of energy with the new website in full responsive design",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-kas-2.svg",
-                        "industry": "Energy",
-                        "customer": "Kas Als Energiebron",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/beechit/greenhouse-as-energy-source"
-                },{
-                        "title": "Twenty websites in one with TYPO3",
-                        "description": "Kerobei is a foundation for primary education with twenty schools in the north of Limburg. Two of those schools are a special primary school and a full time day-time school for gifted children",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-kerobei.svg",
-                        "industry": "Education",
-                        "customer": "Kerobei Foundation",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/beechit/kerobei"
-                },{
-                        "title": "New technique behind an old design with TYPO3",
-                        "description": "Because of The Lindenberg, art and culture are accessible for professionals, amateurs, students and the public. That happens during courses in art, cultural education at school, during professional and amateur performances, and in our theatre café No23",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-lindenberg.svg",
-                        "industry": "Entertainment",
-                        "customer": "Lindenberg House for the Arts",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/beechit/the-lindenberg-house-for-the-arts"
-                },{
-                        "title": "Buy Groceries with TYPO3",
-                        "description": "Customers of tegut… can expect to find a variety of offers from fresh and organic food, premium brands and regional food to frozen goods, newspapers and magazines from every price range. ",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Tegut.svg",
-                        "industry": "Manufacturing",
-                        "customer": "tegut",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/tegut"
-                },{
-                        "title": "Debt collection with TYPO3",
-                        "description": "Creditreform International is the umbrella association of independent Creditreform country offices from 22 European countries plus China. Its objective is to provide international information and debt collection services in order to ensure secure business to its clients all around the world…",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Creditreform.svg",
-                        "industry": "Finance",
-                        "customer": "Creditreform",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/creditreform"
-                },{
-                        "title": "Energy Expertise with TYPO3",
-                        "description": "Our goal is to be the world’s best independent provider of technical services for testing, inspection, certification, consultation and training. Since 1872, we have been developing solutions to ensure the safety, quality and economic efficiency of the interaction between man, technology and the environment.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/TUEV-Rheinland-Logo1.svg",
-                        "industry": "Engineering",
-                        "customer": "TÜV Rheinland",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/tuev-rheinland"
-                },{
-                        "title": "Knowledge to go with TYPO3",
-                        "description": "The ZID enables institutes, faculties, service providers and projects to establish and run their own web presences within the centralized TYPO3 system.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/universitaet_wien_color_transparent.svg",
-                        "industry": "Education",
-                        "customer": "University Wien",
-                        "country": "at",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/universitaet-wien"
-                },{
-                        "title": "Protecting People with Uvex on TYPO3",
-                        "description": "Innovative personal protective equipment since 1926",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/uvex_01.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Uvex",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/uvex"
-                },{
-                        "title": "Gaming and streaming with TYPO3",
-                        "description": "Explore a vast digital network brimming with not only the very best in console gaming, but all of your favourite movies, music and television as well.",
-                        "image": "https://typo3.com/fileadmin/_processed_/e/e/csm_sen_logo_540_50cb1f6e47.png",
-                        "industry": "Entertainment",
-                        "customer": "Sony Entertainment",
-                        "country": "jp",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/sony-entertainment-network"
-                },{
-                        "title": "Handcraft with TYPO3",
-                        "description": "Welcome to WAGNER - a world-leading manufacturer of systems for surface finishing with paints, powder coatings, wet coatings and other liquid materials.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/white_logos/J._Wagner.svg",
-                        "industry": "Appliances",
-                        "customer": "Wagner",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/wagner-group"
-                },{
-                        "title": "Support Relief Organizations with TYPO3",
-                        "description": "Our vision: A world in which all people can exercise their right to lead a self-determined life in dignity and justice, free from hunger and poverty",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Welthungerhilfe_logo.svg",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "Welthungerhilfe",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/welthungerhilfe"
-                },{
-                        "title": "Rent a car with TYPO3",
-                        "description": "The customer is the most important person in our business. The customer is not an interruption of our work – they are the purpose of it. We are not doing the customer a favor in our service – the customer is giving us the opportunity to do so.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Sixt-Logo.svg",
-                        "industry": "Travel",
-                        "customer": "Sixt AG",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/sixt"
-                },{
-                        "title": "Helping people with TYPO3",
-                        "description": "As a non-profit corporate foundation, we promote sustainable social development, which is crucially dependent on access to basic services, high-quality education, and an understanding of culture",
-                        "image": "",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "Siemens Stiftung",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/siemens-stiftung"
-                },{
-                        "title": "Discover a State with TYPO3",
-                        "description": "Saxony-Anhalt is a federal state of Germany known for its beautiful landscapes and numerous UNESCO World Heritage Sites. The present British and Belgian royal families descend in patrilineal line from the House of Wettin, which originated in the village of the same name along the Saale River",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo_saxony_anhalt__colored.svg",
-                        "industry": "Tourism",
-                        "customer": "Sachsen-Anhalt",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/sachsen-anhalt"
-                },{
-                        "title": "National Insurance with TYPO3",
-                        "description": "Since its founding in 1836 the Provinzial Rhineland ist located in its main area of business, Germany's Rhineland. As a public insurer the corporation is part of the Sparkassenfinanzgruppe with its operational area in the administrative districts of Dusseldorf, Cologne, Koblenz and Trier.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Provinzial_Rheinland.svg",
-                        "industry": "Insurance",
-                        "customer": "Provinzial Rheinland",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/provinzial-rheinland"
-                },{
-                        "title": "Be precise with TYPO3",
-                        "description": "From OMEGA’s beginnings, our timepieces have recorded some of the most significant moments in the world (and beyond). They have been worn by presidents and kings, astronauts and spies, movie stars and you. Behind each one is a legacy of horological quality and innovation",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Omega_Logo.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Omega",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/omega"
-                },{
-                        "title": "New Web Strategy with TYPO3",
-                        "description": "The enterprising bank. Crystal-clear answers to complex financial challenges. Spot-on solutions for defining moments. The top team for the task - every single time. Agile and always available.",
-                        "image": "https://typo3.com/fileadmin/_processed_/2/7/csm_logo_nibc_b8f5e3a1ef.png",
-                        "industry": "Finance",
-                        "customer": "NIBC",
-                        "country": "jp",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/nibc"
-                },{
-                        "title": "Presenting art with TYPO3",
-                        "description": "The Staatliche Museen zu Berlin (National Museums in Berlin), housed in historical buildings, constitute a Universal Museum for the preservation, research and mediation of treasures of art and culture of the entire history of humanity. Their collections embrace the areas of European and extra- European art, archaeology and ethnology",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/smb.svg",
-                        "industry": "Entertainment",
-                        "customer": "Stattliches Museum Berlin",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/national-museums-berlin"
-                },{
-                        "title": "Flying Services with TYPO3",
-                        "description": "We are one of the leading German manufacturers of high-tech products and special solutions for airport ground support and roadside maintenance vehicles. The well-known MULAG quality is based on decades of experience in special vehicle construction",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/mulag.svg",
-                        "industry": "Agriculture",
-                        "customer": "Mulag",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/mulag"
-                },{
-                        "title": "Pharmacological wares with TYPO3",
-                        "description": "Meda's vision is to become a world-leading specialty pharma company with a focus on sustainable and profitable growth to provide value for our patients, shareholders and other stakeholders",
-                        "image": "",
-                        "industry": "Life Sciences",
-                        "customer": "Meda",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/meda"
-                },{
-                        "title": "In the air tonight with TYPO3",
-                        "description": "Lean back, relax and sip on your tomato juice while you're flying to your next meeting with Lufthansa. Guess what, the attendant who served this wonderful beverage was employed using a TYPO3 website.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Lufthansa_logo.svg",
-                        "industry": "Travel",
-                        "customer": "Lufthansa AG",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/lufthansa"
-                },{
-                        "title": "The Secrets of chocolate with TYPO3",
-                        "description": "David Sprüngli-Schwarz and his son Rudolf Sprüngli-Ammann bought a small confectionery shop in the old town of Zürich in 1836, producing chocolates under the name David Sprüngli & Son. Two years later, a small factory was added that produced chocolate in solid form. Out of that factory the company started growing to become a world-wide known brand",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Lindt-spruengli-logo.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Lindt & Sprüngli",
-                        "country": "ch",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/lindt-spruengli-ag"
-                },{
-                        "title": "Boost the Economy with TYPO3",
-                        "description": "The German Chambers of Commerce support businesses by providing market entry services, organizing business events to improve business relationships, and promote a favorable business environment",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/AHK-Logo_2.svg",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "Deutsche Handelskammer",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/german-chambers-of-commerce"
-                },{
-                        "title": "Environmental protection with TYPO3",
-                        "description": "The Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety, is a cabinet-level ministry of the Federal Republic of Germany. It is headquartered in Bonn with a branch office in Berlin. The current minister of the environment is Barbara Hendricks, who assumed office on December 17th, 2013",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Bundesministerium_fuer_Umwelt_Naturschutz_Bau_und_Reaktorsicherheit_Logo.svg",
-                        "industry": "Public Administration & Government",
-                        "customer": "Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/federal-ministry-for-the-environment-nature-conservation-building-and-nuclear-safety"
-                },{
-                        "title": "Save lives with TYPO3",
-                        "description": "The German Red Cross is part of the International Red Cross and Red Crescent Movement, the largest humanitarian organization in the world",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/DRK_Logo2.svg",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "Deutsches Rotes Kreuz",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/deutsches-rotes-kreuz"
-                },{
-                        "title": "Win the world cup with TYPO3",
-                        "description": "The development of the DFB, from its humble beginnings to becoming one of the biggest professional associations in world sport, almost quintessentially reflects football’s triumphal march across all the continents on our planet",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Deutscher_Fussball-Bund_logo.svg",
-                        "industry": "Entertainment",
-                        "customer": "DFB",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/deutscher-fussball-bund"
-                },{
-                        "title": "Responsive e-business and multishop with TYPO3",
-                        "description": "With T3CMS and the MultiShop Extension, we have got a solution that fully meets our high standards and expectations.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Carlsberg_logo_01.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Carlsberg Denmark A/S",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/carlsberg"
-                },{
-                        "title": "Investment management with TYPO3",
-                        "description": "The German Investment Funds Association BVI is the point of contact for politicians and supervisory authorities on all issues related to the German Capital Investment Code (Kapitalanlagegesetzbuch, KAGB), and represents the interests of investment fund management companies",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/BVI_logo.svg",
-                        "industry": "Finance",
-                        "customer": "BVI",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/bvi"
-                },{
-                        "title": "International trading services with TYPO3",
-                        "description": "BayWa AG is a trading and services Group composed of three core business segements: Agriculture, Energy, and Building Materials. The company, headquartered in Munich, is active on every continent in the world.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/BayWa.svg",
-                        "industry": "Construction",
-                        "customer": "Trade",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/baywa"
-                },{
-                        "title": "Build aircraft with TYPO3",
-                        "description": "Airbus makes the freedom of flight possible by designing, manufacturing and supporting the world’s best aircraft. Its people around the globe are united by a passion for aviation, as well as their desire to create better, more efficient ways for airlines and passengers to fly",
-                        "image": "https://typo3.com/fileadmin/_processed_/b/9/csm_Airbus_logo_3D_Blue_5a0ea082ba.png",
-                        "industry": "Aerospace",
-                        "customer": "Airbus",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/airbus"
-                },{
-                        "title": "Unite for children with UNICEF and TYPO3",
-                        "description": "All children have a right to survive, thrive and fulfill their potential - to the benefit of a better world",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/UNICEF_logo_copy.svg",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "UNICEF",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/unicef"
-                },{
-                        "title": "Microscopic view with TYPO3",
-                        "description": "Explore Leica Microsystems’ World of Microscopes and Scientific Instruments",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Leica_Microsystems_copy.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Leica",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/leica"
-                },{
-                        "title": "Loewe Entertains with TYPO3",
-                        "description": "Crucial to the success of Loewe is the combination of high-tech, design, quality, and ease of use",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/LOEWE-Logo_copy.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Loewe",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/loewe"
-                },{
-                        "title": "Rent a car with TYPO3",
-                        "description": "With over 60 years’ experience and around six million drivers in 2014, Europcar is a world player and Europe’s leading vehicle rental firm.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Europcar-Logo_copy.svg",
-                        "industry": "Travel",
-                        "customer": "Europcar",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/europcar"
-                },{
-                        "title": "Travel with TUI with TYPO3",
-                        "description": "We’re part of TUI Group – one of the world’s leading travel companies and all of our holidays are designed to help you Discover Your Smile",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/TUI_logo.svg",
-                        "industry": "Travel",
-                        "customer": "TUI",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/tui"
-                },{
-                        "title": "Governmental trading with TYPO3",
-                        "description": "IHK Reutlingen provides councel programs for many requirements companies might have. That includes finances, owner transfer, energy, environmental concerns and work-life-balance questions.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/IHK-logo.svg",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "IHK Reutlingen",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/ihk-reutlingen"
-                },{
-                        "title": "Dynamic sound with TYPO3",
-                        "description": "For us, perfect sound is quintessential.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Beyerdynamic_logo_copy.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Beyer Dynamic",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/beyerdynamic"
-                },{
-                        "title": "Snapshot with TYPO3",
-                        "description": "Creating “New Eyes for Industry” that assure a sense of excitement, trust and security",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Tamron_Logo_copy.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Tamron",
-                        "country": "jp",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/tamron"
-                },{
-                        "title": "Heavy duties with TYPO3",
-                        "description": "Simply. Everything. For successful bodies and conversions",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Mercedes-Benz_Logo_2010__1_.svg",
-                        "industry": "Automotive",
-                        "customer": "Mercedes Benz",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/mercedes-benz"
-                },{
-                        "title": "Be entertained with TYPO3",
-                        "description": "A success story of innovations. Rewritten every day.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Grundig_logo_copy.svg",
-                        "industry": "Manufacturing",
-                        "customer": "Grundig",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/grundig"
-                },{
-                        "title": "Logistics with TYPO3",
-                        "description": "Protecting resources, setting high quality standards and making every stage of the logistics chain safe – we are committed to these principles",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Logwin_copy.svg",
-                        "industry": "Transport",
-                        "customer": "Logwin",
-                        "country": "lu",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/logwin"
-                },{
-                        "title": "Global communication with TYPO3",
-                        "description": "Gigaset is a hardware manufacturer focused on the communication sector. They produce landline telephones, smartphones and smart home components, together with the software to operate them",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Gigaset_Communications_2010_logo_1_.svg",
-                        "industry": "Telecommunication",
-                        "customer": "Gigaset",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/gigaset-ag"
-                },{
-                        "title": "Hosting solutions from Rackspace with TYPO3",
-                        "description": "We're the largest managed cloud provider, offering you expertise across the world's leading clouds.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Rackspace_copy.svg",
-                        "industry": "Telecommunication",
-                        "customer": "Rackspace",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://typo3.com/case-studies/rackspace"
-                },{
-                        "title": "Raising money for children with TYPO3",
-                        "description": "We have been giving stranded orphans and children a loving home since 1954. With the donation web shop, which has been integrated into our existing TYPO3 website, the workflows are easier and projects as well as products can be promoted through one system only",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/nph_deutschland_logo_Kopie.svg",
-                        "industry": "Non Governmental Organisation",
-                        "customer": "nph Deutschland",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/nph-deutschland-ev"
-                },{
-                        "title": "New nursing portals with TYPO3",
-                        "description": "Bibliomed is the leading publishing house for nurses and hospital managers in Germany. Combined, the print magazines and the web portals reach more than 1 million readers.",
-                        "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Bibliomed_CI-Colors.svg",
-                        "industry": "Entertainment",
-                        "customer": "Bibliomed",
-                        "country": "de",
-                        "language": "de",
-                        "url": "https://typo3.com/case-studies/bibliomed"
-                }]
-        }]
+        {
+          "title": "International development cooperation with TYPO3",
+          "description": "Independent and simple editing from all over the world and various information for donors and sponsors – enabled by TYPO3",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/752/Swisscontact_Logo_Farbe.svg",
+          "industry": "Non Governmental Organisation",
+          "customer": "Swisscontact",
+          "country": "ch",
+          "language": "ch",
+          "url": "https://typo3.com/case-studies/krueger-gmbh-co-kg"
+        },
+        {
+          "title": "Switzerland’s largest healthcare system – linked by TYPO3",
+          "description": "New design with improved user navigation and usability for the Insel Group hospitals.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/749/Logo_Inselgruppe_Farbe.svg",
+          "industry": "Insurance",
+          "customer": "Insel Group",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/insel-group"
+        },
+        {
+          "title": "Once a website, now the Astron centre of excellence",
+          "description": "Looking for a fresh design for its website, the steel buildings company Astron relied on the competence of Webmatch and TYPO3. The result is something to be proud of –a multilingual sales platform with impressive features. ",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/805/ASTRON-Logo.svg",
+          "industry": "Manufacturing",
+          "customer": "Astrong Buildings",
+          "country": "lu",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/astron-buildings-sa"
+        },
+        {
+          "title": "Worldwide university content platform",
+          "description": "Educate students and advance knowledge in science & technology for the benefit of humanity. Eindhoven University of Technology is powered by TYPO3.",
+          "image": "https://typo3.com/fileadmin/_processed_/8/2/csm_logo-tue-t3_342b77dcbd.png",
+          "industry": "Education",
+          "customer": "Eindhoeven University of Technology",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/eindhoven-university-of-technology"
+        },
+        {
+          "title": "PDFlib GmbH",
+          "description": "Technical and visual relaunch of the corporate website in connection with a TYPO3 upgrade to version 8.7 LTS.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/784/logo_02.svg",
+          "industry": "Software",
+          "customer": "PDFlib GmbH",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/pdflib-gmbh"
+        },
+        {
+          "title": "Service and Manufacturing with TYPO3",
+          "description": "BIBUS AG Group is a trading, service and manufacturing company that has existed for 70 years operating with more than 30 subsidiaries worldwide selling products in pneumatics, hydraulics, mechanics, drive technology, electrical engineering / electronics and automation",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/605/BIBUS.svg",
+          "industry": "Manufacturing",
+          "customer": "Bibus AG",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/bibus-ag-group"
+        },
+        {
+          "title": "International and user-friendly new website with TYPO3",
+          "description": "How a German global player in sports surfaces is demonstrating its market leadership online – with a new international and user-friendly website.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/533/logo-polytan.svg",
+          "industry": "Manufacturing",
+          "customer": "Polytan",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/polytan-gmbh"
+        },
+        {
+          "title": "Engineering and Manufacturing with TYPO3",
+          "description": "Huegli Tech is a Manufacturer, Engineering company and Wholesaler with core competencies in Engine Governing Systems, Generating Set Controls, Engine Starting Solutions, Gas Engine Management System, Engine Accessories and Dual Fuel Conversions.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/740/logo_hueglitech_color-01.svg",
+          "industry": "Manufacturing",
+          "customer": "Huegli Tech AG",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/huegli-tech-ag"
+        },
+        {
+          "title": "Construction and Environment Engineering with TYPO3",
+          "description": "Eberhard Unternehmungen, a family owned business in their third generation, are pioneers in construction and the environment. They offer overall services in the fields of civil engineering, excavation, earthworks, hydraulic engineering, demolition, recycling, building materials, logistics, environmental remediation, treatment, recycling and landfill.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/1730/EBAG_logo-02.svg",
+          "industry": "Construction",
+          "customer": "Eberhard Unternehmungen",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/eberhard-unternehmungen"
+        },
+        {
+          "title": "Modern, elegant, customised: EGT AG's website's brilliant new look",
+          "description": "blindwerk – neue medien completed the technical redesign of their website for the EGT Group, including numerous customised adaptations and visual effects, in just a few weeks",
+          "image": "https://typo3.com/fileadmin/_processed_/4/3/csm_10422_001_001_EGT_LOGO_Gross_CMYK_LY3_81ba3a4d96.png",
+          "industry": "Retail",
+          "customer": "EGT Energiehandel",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/egt-energiehandel-gmbh"
+        },
+        {
+          "title": "Internet² with TYPO3",
+          "description": "United Internet, Europe's leading internet specialist, makes full use of squares and TYPO3.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/united-internet-logo.svg",
+          "industry": "Telecommunication",
+          "customer": "United Internet",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/united-internet"
+        },
+        {
+          "title": "Online Property Financing",
+          "description": "Award winning hosting, development, and security at enterprise level through standardized processes from Browserwerk",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/2001/degussa-logo_07.svg",
+          "industry": "Finance",
+          "customer": "Degussa Bank",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/degussa-bank-ag"
+        },
+        {
+          "title": "Paysafe",
+          "description": "The TYPO3 Award Winner Website for Finance Solutions",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/1682/logo-colour-white.svg",
+          "industry": "Finance",
+          "customer": "Paysafe",
+          "country": "uk",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/paysafe-group"
+        },
+        {
+          "title": "All national websites in 1 multi-site solution",
+          "description": "A national platform for all political websites (400+) of CDA. Both national, provincial and local websites. A multi-platform with over 400 active websites and 700 editors!",
+          "image": "https://typo3.com/fileadmin/_processed_/c/e/csm_t3-cda-logo_874688e688.png",
+          "industry": "Non Governmental Organisations",
+          "customer": "CDA",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/political-party-cda"
+        },
+        {
+          "title": "Rent a car with TYPO3",
+          "description": "High Quality Rental Cars Worldwide",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/607/tui_cars_logo_04.svg",
+          "industry": "Transport",
+          "customer": "TUI Cars",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/tui-cars"
+        },
+        {
+          "title": "Accounting with TYPO3",
+          "description": "Find everything you need to know about commercial accounting with Lexware and TYPO3",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/760/Lexware_Logos_Monochrom_01.svg",
+          "industry": "Software",
+          "customer": "Lexware",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/lexware"
+        },
+        {
+          "title": "Find your next holiday - with TUI and TYPO3",
+          "description": "We’re part of TUI Group – one of the world’s leading travel companies and all of our holidays are designed to help you Discover Your Smile",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/743/TUI_logo.svg",
+          "industry": "Travel",
+          "customer": "TUI Group",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/tuicom"
+        },
+        {
+          "title": "Website relaunch for the German Youth Hostel Association",
+          "description": "Vacationing in special places with TYPO3",
+          "image": "https://typo3.com/fileadmin/_processed_/1/b/csm_logo-djh_618a0c4b2c.png",
+          "industry": "Tourism",
+          "customer": "Jugendherbergen.de",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/djh"
+        },
+        {
+          "title": "International logistics with TYPO3",
+          "description": "Raben Group has been present on the European market for over 85 years offering comprehensive logistics services. Companies of the Group are located in 11 European countries in: the Czech Republic, Estonia, the Netherlands, Germany, Lithuania, Latvia, Poland, Rumania, Slovakia, Ukraine and Hungary.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Raben_Group_Logo.svg",
+          "industry": "Transport",
+          "customer": "Raben Group",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/raben-group"
+        },
+        {
+          "title": "From northern Germany into the world with TYPO3",
+          "description": "BREMEN AIRPORT - WE KEEP THE NORTHWEST MOVING",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/833/Airport_Bremen_Logo.svg",
+          "industry": "Travel",
+          "customer": "Bremen Airport",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/bremen-airport"
+        },
+        {
+          "title": "Web Development for an Education System with TYPO3",
+          "description": "New website consists of a number of portals dedicated to particular markets of Central and Eastern Europe. New web is designed for different groups of users. When registering, person chooses his role: student or lecturer. Depending on the profile, he has access to educational materials, supplementary courses etc. Thanks to integration with the corporate identity management system (SSO), user data is registered in all Pearson applications",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/783/Pearson_logo.svg",
+          "industry": "Education",
+          "customer": "Pearson",
+          "country": "pl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/pearson"
+        },
+        {
+          "title": "Soccer goes digital",
+          "description": "New concept, new graphics, new technology",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/1975/SV-Werder-Bremen-Logo.svg",
+          "industry": "Entertainment",
+          "customer": "Werder Bremen",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/sv-werder-bremen"
+        },
+        {
+          "title": "Swiss Museum of Transport: the most visited museum in Switzerland – linked by TYPO3",
+          "description": "New design with user experience in focus and interfaces to ticketing system",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/2049/Logo-farbig.svg",
+          "industry": "Transport",
+          "customer": "Verkehrshaus",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/swiss-transport-museum"
+        },
+        {
+          "title": "Responsive Website And Product Catalog",
+          "description": "SAMSON operates wherever there is controlled flow of oils, gases, vapors or chemical substances. Valves are our core business.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/759/Logo_Samson_CI.svg",
+          "industry": "Manufacturing",
+          "customer": "Samson",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/samson-ag"
+        },
+        {
+          "title": "Multilanguage Responsive Website Relaunch",
+          "description": "Dental Milestones Guaranteed – For over 50 years, in more than 90 countries.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/758/Logo_DMG_CI.svg",
+          "industry": "Life Sciences",
+          "customer": "DMG",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/fileadmin/assets/case_studies/758/Logo_DMG_CI.svg"
+        },
+        {
+          "title": "Responsive Website Relaunch",
+          "description": "MHK Kueche.de” is the online portal of the MHK Group, one of the very largest purchasing and service association groups in Europe.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/1980/Logo_kueche-de_1_.svg",
+          "industry": "Retail",
+          "customer": "MHK Gruppe",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/mhk-kuechede-gmbh"
+        },
+        {
+          "title": "Multilingual Responsive Website Relaunch",
+          "description": "Frankfurt University of Applied Sciences, formerly FH Frankfurt, is one of the largest universities in Germany with over 11.000 students.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/1718/logo_FRA-UAS.svg",
+          "industry": "Education",
+          "customer": "Frankfurt University of Applied Sciences",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/frankfurt-university-of-applied-sciences"
+        },
+        {
+          "title": "Responsive Website Relaunch with TYPO3",
+          "description": "ISRA VISION - Leading Machine Vision Systems",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/1956/Logo_ISRA_Vision_AG_02.svg",
+          "industry": "Manufacturing",
+          "customer": "ISRA",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/isra-vision-ag"
+        },
+        {
+          "title": "Barrier-free / Accessible responsive website relaunch",
+          "description": "We want to be seen – Inclusive instead of exclusive.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/861/BSBH_Logo-CI.svg",
+          "industry": "Non Governmental Association",
+          "customer": "Blinden- und Sehbehindertenbund in Hessen e. V.",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/blinden-und-sehbehindertenbund-in-hessen-ev"
+        },
+        {
+          "title": "RMV-On: Campaign Website with TYPO3",
+          "description": "24 hours on for you",
+          "image": "https://typo3.com/fileadmin/_processed_/8/3/csm_logo-rmv_11fbc60836.png",
+          "industry": "Travel",
+          "customer": "Rhein-Main Verkehrsbund",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/rhein-main-verkehrsverbund-gmbh"
+        },
+        {
+          "title": "TYPO3 Website Relaunch",
+          "description": "FVA GmbH makes gears run.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/2048/logo.svg",
+          "industry": "Automotive",
+          "customer": "FVA GmbH",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/fva-gmbh"
+        },
+        {
+          "title": "Summer sport gamification built in TYPO3 CMS",
+          "description": "Holiday campaign based on gamification was launched in July 2018 and it includes access to summer sports facilities and an attractive loyalty program, motivating users to physical activity in summer. Points collected for specific activities can be exchanged for prizes or spent on a charity goal. The biggest technological challenge of the project was a very short time to implement and creating from scratch a system of awarding, totalizing and counting points for all user activities durung the summer gamification.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/779/benefit_logo-02_01.svg",
+          "industry": "Entertainment",
+          "customer": "Benefit-Systems",
+          "country": "pl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/benefit-systems"
+        },
+        {
+          "title": "Minebea Intec",
+          "description": "We are a driving force for the further globalization and concentration of our industry.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/psl/Minebea_Intec_Logo.svg",
+          "industry": "Manufacturing",
+          "customer": "Minebea",
+          "country": "jp",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/minebea"
+        },
+        {
+          "title": "Sysmex Europe",
+          "description": "Mission, value and mind come together to form the way we work, think and act",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/psl/Sysmex.svg",
+          "industry": "Life Sciences",
+          "customer": "Sysmex-Europe",
+          "country": "jp",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/sysmex-europe"
+        },
+        {
+          "title": "Travel Charme Hotels & Resorts AG",
+          "description": "Relax with TYPO3.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/psl/TravelCharme.svg",
+          "industry": "Travel",
+          "customer": "Travel Charme Hotels AG",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/travel-charme-hotels-resorts-ag"
+        },
+        {
+          "title": "Jugend Forscht",
+          "description": "Jugend forscht encourages and supports talented achievers in the areas of science, technology, engineering and mathematics (STEM).",
+          "image": "https://typo3.com/fileadmin/user_upload/Jugend_forscht__1_.svg",
+          "industry": "Education",
+          "customer": "Jugend Fortscht",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/jugend-forscht"
+        },
+        {
+          "title": "Henkel AG & Co. KGaA – Henkelhaus.de",
+          "description": "TYPO3-based DIY portal with interactive adhesive and decorating adviser",
+          "image": "https://typo3.com/fileadmin/_processed_/3/d/csm_henkelhaus-logo_02_905b1afddb.png",
+          "industry": "Manufacturing",
+          "customer": "Henkel AG & Co. KGaA",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/henkel-co-kgaa"
+        },
+        {
+          "title": "KALDEWEI Worldwide",
+          "description": "KALDEWEI steel enamel is the company’s brand essence and the result of continuous innovation management. Sustainability across the entire lifecycle – an immutable element of the KALDEWEI corporate philosophy",
+          "image": "https://typo3.com/fileadmin/user_upload/Kaldewei.svg",
+          "industry": "Retail",
+          "customer": "Kaldewei",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/franz-kaldewei-gmbh-co-kg"
+        },
+        {
+          "title": "Refuel with TYPO3",
+          "description": "Aral is one of the best known and most valuable german brands",
+          "image": "https://typo3.com/fileadmin/user_upload/Aral_Logo.svg",
+          "industry": "Automotive",
+          "customer": "Aral",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/aral"
+        },
+        {
+          "title": "pfm medical",
+          "description": "We work with you in a partnership of trust, supporting your daily efforts to help patients and improve their quality of life.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/psl/pfm_medical.svg",
+          "industry": "Manufacturing",
+          "customer": "PFM Medical AG",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/pfm-medical-ag"
+        },
+        {
+          "title": "Henkel AG & Co. KGaA – Interactive Shelf Computer",
+          "description": "Interactive product advice: online, mobile and in retail space",
+          "image": "https://typo3.com/fileadmin/user_upload/Henkel-Logo.svg",
+          "industry": "Manufacturing",
+          "customer": "Henkel AG & Co. KGaA",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/henkel-ag-co-kgaa"
+        },
+        {
+          "title": "The making of the first Digital Asset Manager with TYPO3",
+          "description": "In 10 weeks to the new Corporate Website with modern design and optimal usability.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/739/commerzreal_01.svg",
+          "industry": "Finance",
+          "customer": "Commerce Real",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/commerz-real-ag"
+        },
+        {
+          "title": "Ready for the era of digital gambling",
+          "description": "Ready for the era of digital gambling",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/771/logo-SWC.svg",
+          "industry": "Entertainment",
+          "customer": "Swiss Casino",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/swiss-casinos-brands-ag"
+        },
+        {
+          "title": "More performance, stability and range with TYPO3 and SEO",
+          "description": "A future-proof corporate website for a rapidly growing company in the financial sector",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/750/logo_01.svg",
+          "industry": "Finance",
+          "customer": "Flossback von Storch",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/flossbach-von-storch-ag"
+        },
+        {
+          "title": "Building the Bank of the Future",
+          "description": "Getting ready for digital banking with TYPO3",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/775/Acrevis_Bank_logo.svg",
+          "industry": "Finance",
+          "customer": "Acrevis Bank AG",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/acrevis-bank-ag"
+        },
+        {
+          "title": "Faster and better communication: New Content Management for Healthcare Professionals",
+          "description": "How MSD reached new spheres with TYPO3",
+          "image": "https://typo3.com/fileadmin/_processed_/6/c/csm_msd-logo-sw_a927ea5307.png",
+          "industry": "Life Sciences",
+          "customer": "Merck, Sharpe & Dhome",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/merck-sharp-dohme-ag"
+        },
+        {
+          "title": "More B2B leads and brand repositioning through website relaunch with TYPO3",
+          "description": "More customers and more brand thanks to a new content management system",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/781/comforte-logo.svg",
+          "industry": "Software",
+          "customer": "Comforte",
+          "country": "More customers and more brand thanks to a new content management system",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/comforte"
+        },
+        {
+          "title": "Digital services government with TYPO3",
+          "description": "Easy to use and lots of opportunities",
+          "image": "https://typo3.com/fileadmin/user_upload/logo-color.svg",
+          "industry": "Public Administration & Government",
+          "customer": "Gemeente Tilburg",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/gemeente-tilburg"
+        },
+        {
+          "title": "Effective communication with TYPO3",
+          "description": "Online when possible and in person when necessary",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-utrecht-rood.svg",
+          "industry": "Public Administration & Government",
+          "customer": "Gemeente Utrecht",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/gemeente-utrecht"
+        },
+        {
+          "title": "Give electrical installation a face within a month with TYPO3",
+          "description": "Energa is an allround electrical installation company that helps customers with installing data network, home automation, electrical installation, intruder alarm installations, telematics and sustainable technology",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-energa.svg",
+          "industry": "Utilities",
+          "customer": "Energa",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/beechit/energa"
+        },
+        {
+          "title": "Telecommunication services with TYPO3",
+          "description": "How to offer highly configurable telecommunication services and create package offerings in no time.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/gga-maur-logo.svg",
+          "industry": "Telecommunication",
+          "customer": "GGA Maur",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/gga-maur"
+        },
+        {
+          "title": "Condor Airlines Intranet",
+          "description": "Fly through the Intranet with TYPO3",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/psl/Condor_logo.svg",
+          "industry": "Travel",
+          "customer": "Condor Airlines",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/condor-airlines"
+        },
+        {
+          "title": "Hankook Tires",
+          "description": "Our mission is to 'Contribute to Advancement in Driving.' We inspire drivers to take on challenges and create new possibilities. We strive to help drivers enjoy their time on the road and be confident in the choices they make.",
+          "image": "https://typo3.com/fileadmin/user_upload/Hankook_Tire_logo_new.svg",
+          "industry": "Automotive",
+          "customer": "Hankook",
+          "country": "kr",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/hankook"
+        },
+        {
+          "title": "Thomas Cook Intranet",
+          "description": "We are focused on transforming our business so that we can serve even more customers in ways that deliver better their holiday dreams",
+          "image": "https://typo3.com/fileadmin/user_upload/Thomas_Cook_Group_logo.svg",
+          "industry": "Travel",
+          "customer": "Thomas Cook",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/psl-cases/thomas-cook"
+        },
+        {
+          "title": "2000 personal member pages with TYPO3",
+          "description": "LTO Glaskracht Netherlands works together with the regions: LTO North Glaskracht, LLTB and ZLTO in the area of sectoral policy development and innovation for the connected greenhouses horticulture entrepreneurs. The site of LTO Glaskracht Netherlands has the ability to list messages and parts on the site for members only",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-lto.svg",
+          "industry": "Agriculture",
+          "customer": "LTO Glaskracht",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/beechit/lto-glaskracht-netherlands"
+        },
+        {
+          "title": "Easy investigation and comprehensive search module with TYPO3",
+          "description": "Greenhouse as energy source is the innovation and action program that stimulates energy saving and the use of sustainable energy in greenhouse horticulture stimulates. Growers will be kept informed about everything in the field of energy with the new website in full responsive design",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-kas-2.svg",
+          "industry": "Energy",
+          "customer": "Kas Als Energiebron",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/beechit/greenhouse-as-energy-source"
+        },
+        {
+          "title": "Twenty websites in one with TYPO3",
+          "description": "Kerobei is a foundation for primary education with twenty schools in the north of Limburg. Two of those schools are a special primary school and a full time day-time school for gifted children",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-kerobei.svg",
+          "industry": "Education",
+          "customer": "Kerobei Foundation",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/beechit/kerobei"
+        },
+        {
+          "title": "New technique behind an old design with TYPO3",
+          "description": "Because of The Lindenberg, art and culture are accessible for professionals, amateurs, students and the public. That happens during courses in art, cultural education at school, during professional and amateur performances, and in our theatre café No23",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo-lindenberg.svg",
+          "industry": "Entertainment",
+          "customer": "Lindenberg House for the Arts",
+          "country": "nl",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/beechit/the-lindenberg-house-for-the-arts"
+        },
+        {
+          "title": "Buy Groceries with TYPO3",
+          "description": "Customers of tegut… can expect to find a variety of offers from fresh and organic food, premium brands and regional food to frozen goods, newspapers and magazines from every price range. ",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Tegut.svg",
+          "industry": "Manufacturing",
+          "customer": "tegut",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/tegut"
+        },
+        {
+          "title": "Debt collection with TYPO3",
+          "description": "Creditreform International is the umbrella association of independent Creditreform country offices from 22 European countries plus China. Its objective is to provide international information and debt collection services in order to ensure secure business to its clients all around the world…",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Creditreform.svg",
+          "industry": "Finance",
+          "customer": "Creditreform",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/creditreform"
+        },
+        {
+          "title": "Energy Expertise with TYPO3",
+          "description": "Our goal is to be the world’s best independent provider of technical services for testing, inspection, certification, consultation and training. Since 1872, we have been developing solutions to ensure the safety, quality and economic efficiency of the interaction between man, technology and the environment.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/TUEV-Rheinland-Logo1.svg",
+          "industry": "Engineering",
+          "customer": "TÜV Rheinland",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/tuev-rheinland"
+        },
+        {
+          "title": "Knowledge to go with TYPO3",
+          "description": "The ZID enables institutes, faculties, service providers and projects to establish and run their own web presences within the centralized TYPO3 system.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/universitaet_wien_color_transparent.svg",
+          "industry": "Education",
+          "customer": "University Wien",
+          "country": "at",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/universitaet-wien"
+        },
+        {
+          "title": "Protecting People with Uvex on TYPO3",
+          "description": "Innovative personal protective equipment since 1926",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/uvex_01.svg",
+          "industry": "Manufacturing",
+          "customer": "Uvex",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/uvex"
+        },
+        {
+          "title": "Gaming and streaming with TYPO3",
+          "description": "Explore a vast digital network brimming with not only the very best in console gaming, but all of your favourite movies, music and television as well.",
+          "image": "https://typo3.com/fileadmin/_processed_/e/e/csm_sen_logo_540_50cb1f6e47.png",
+          "industry": "Entertainment",
+          "customer": "Sony Entertainment",
+          "country": "jp",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/sony-entertainment-network"
+        },
+        {
+          "title": "Handcraft with TYPO3",
+          "description": "Welcome to WAGNER - a world-leading manufacturer of systems for surface finishing with paints, powder coatings, wet coatings and other liquid materials.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/white_logos/J._Wagner.svg",
+          "industry": "Appliances",
+          "customer": "Wagner",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/wagner-group"
+        },
+        {
+          "title": "Support Relief Organizations with TYPO3",
+          "description": "Our vision: A world in which all people can exercise their right to lead a self-determined life in dignity and justice, free from hunger and poverty",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Welthungerhilfe_logo.svg",
+          "industry": "Non Governmental Organisation",
+          "customer": "Welthungerhilfe",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/welthungerhilfe"
+        },
+        {
+          "title": "Rent a car with TYPO3",
+          "description": "The customer is the most important person in our business. The customer is not an interruption of our work – they are the purpose of it. We are not doing the customer a favor in our service – the customer is giving us the opportunity to do so.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Sixt-Logo.svg",
+          "industry": "Travel",
+          "customer": "Sixt AG",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/sixt"
+        },
+        {
+          "title": "Helping people with TYPO3",
+          "description": "As a non-profit corporate foundation, we promote sustainable social development, which is crucially dependent on access to basic services, high-quality education, and an understanding of culture",
+          "image": "",
+          "industry": "Non Governmental Organisation",
+          "customer": "Siemens Stiftung",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/siemens-stiftung"
+        },
+        {
+          "title": "Discover a State with TYPO3",
+          "description": "Saxony-Anhalt is a federal state of Germany known for its beautiful landscapes and numerous UNESCO World Heritage Sites. The present British and Belgian royal families descend in patrilineal line from the House of Wettin, which originated in the village of the same name along the Saale River",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/logo_saxony_anhalt__colored.svg",
+          "industry": "Tourism",
+          "customer": "Sachsen-Anhalt",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/sachsen-anhalt"
+        },
+        {
+          "title": "National Insurance with TYPO3",
+          "description": "Since its founding in 1836 the Provinzial Rhineland ist located in its main area of business, Germany's Rhineland. As a public insurer the corporation is part of the Sparkassenfinanzgruppe with its operational area in the administrative districts of Dusseldorf, Cologne, Koblenz and Trier.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Provinzial_Rheinland.svg",
+          "industry": "Insurance",
+          "customer": "Provinzial Rheinland",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/provinzial-rheinland"
+        },
+        {
+          "title": "Be precise with TYPO3",
+          "description": "From OMEGA’s beginnings, our timepieces have recorded some of the most significant moments in the world (and beyond). They have been worn by presidents and kings, astronauts and spies, movie stars and you. Behind each one is a legacy of horological quality and innovation",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Omega_Logo.svg",
+          "industry": "Manufacturing",
+          "customer": "Omega",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/omega"
+        },
+        {
+          "title": "New Web Strategy with TYPO3",
+          "description": "The enterprising bank. Crystal-clear answers to complex financial challenges. Spot-on solutions for defining moments. The top team for the task - every single time. Agile and always available.",
+          "image": "https://typo3.com/fileadmin/_processed_/2/7/csm_logo_nibc_b8f5e3a1ef.png",
+          "industry": "Finance",
+          "customer": "NIBC",
+          "country": "jp",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/nibc"
+        },
+        {
+          "title": "Presenting art with TYPO3",
+          "description": "The Staatliche Museen zu Berlin (National Museums in Berlin), housed in historical buildings, constitute a Universal Museum for the preservation, research and mediation of treasures of art and culture of the entire history of humanity. Their collections embrace the areas of European and extra- European art, archaeology and ethnology",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/smb.svg",
+          "industry": "Entertainment",
+          "customer": "Stattliches Museum Berlin",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/national-museums-berlin"
+        },
+        {
+          "title": "Flying Services with TYPO3",
+          "description": "We are one of the leading German manufacturers of high-tech products and special solutions for airport ground support and roadside maintenance vehicles. The well-known MULAG quality is based on decades of experience in special vehicle construction",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/mulag.svg",
+          "industry": "Agriculture",
+          "customer": "Mulag",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/mulag"
+        },
+        {
+          "title": "Pharmacological wares with TYPO3",
+          "description": "Meda's vision is to become a world-leading specialty pharma company with a focus on sustainable and profitable growth to provide value for our patients, shareholders and other stakeholders",
+          "image": "",
+          "industry": "Life Sciences",
+          "customer": "Meda",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/meda"
+        },
+        {
+          "title": "In the air tonight with TYPO3",
+          "description": "Lean back, relax and sip on your tomato juice while you're flying to your next meeting with Lufthansa. Guess what, the attendant who served this wonderful beverage was employed using a TYPO3 website.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Lufthansa_logo.svg",
+          "industry": "Travel",
+          "customer": "Lufthansa AG",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/lufthansa"
+        },
+        {
+          "title": "The Secrets of chocolate with TYPO3",
+          "description": "David Sprüngli-Schwarz and his son Rudolf Sprüngli-Ammann bought a small confectionery shop in the old town of Zürich in 1836, producing chocolates under the name David Sprüngli & Son. Two years later, a small factory was added that produced chocolate in solid form. Out of that factory the company started growing to become a world-wide known brand",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Lindt-spruengli-logo.svg",
+          "industry": "Manufacturing",
+          "customer": "Lindt & Sprüngli",
+          "country": "ch",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/lindt-spruengli-ag"
+        },
+        {
+          "title": "Boost the Economy with TYPO3",
+          "description": "The German Chambers of Commerce support businesses by providing market entry services, organizing business events to improve business relationships, and promote a favorable business environment",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/AHK-Logo_2.svg",
+          "industry": "Non Governmental Organisation",
+          "customer": "Deutsche Handelskammer",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/german-chambers-of-commerce"
+        },
+        {
+          "title": "Environmental protection with TYPO3",
+          "description": "The Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety, is a cabinet-level ministry of the Federal Republic of Germany. It is headquartered in Bonn with a branch office in Berlin. The current minister of the environment is Barbara Hendricks, who assumed office on December 17th, 2013",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Bundesministerium_fuer_Umwelt_Naturschutz_Bau_und_Reaktorsicherheit_Logo.svg",
+          "industry": "Public Administration & Government",
+          "customer": "Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/federal-ministry-for-the-environment-nature-conservation-building-and-nuclear-safety"
+        },
+        {
+          "title": "Save lives with TYPO3",
+          "description": "The German Red Cross is part of the International Red Cross and Red Crescent Movement, the largest humanitarian organization in the world",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/DRK_Logo2.svg",
+          "industry": "Non Governmental Organisation",
+          "customer": "Deutsches Rotes Kreuz",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/deutsches-rotes-kreuz"
+        },
+        {
+          "title": "Win the world cup with TYPO3",
+          "description": "The development of the DFB, from its humble beginnings to becoming one of the biggest professional associations in world sport, almost quintessentially reflects football’s triumphal march across all the continents on our planet",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Deutscher_Fussball-Bund_logo.svg",
+          "industry": "Entertainment",
+          "customer": "DFB",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/deutscher-fussball-bund"
+        },
+        {
+          "title": "Responsive e-business and multishop with TYPO3",
+          "description": "With T3CMS and the MultiShop Extension, we have got a solution that fully meets our high standards and expectations.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Carlsberg_logo_01.svg",
+          "industry": "Manufacturing",
+          "customer": "Carlsberg Denmark A/S",
+          "country": "dk",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/carlsberg"
+        },
+        {
+          "title": "Investment management with TYPO3",
+          "description": "The German Investment Funds Association BVI is the point of contact for politicians and supervisory authorities on all issues related to the German Capital Investment Code (Kapitalanlagegesetzbuch, KAGB), and represents the interests of investment fund management companies",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/BVI_logo.svg",
+          "industry": "Finance",
+          "customer": "BVI",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/bvi"
+        },
+        {
+          "title": "International trading services with TYPO3",
+          "description": "BayWa AG is a trading and services Group composed of three core business segements: Agriculture, Energy, and Building Materials. The company, headquartered in Munich, is active on every continent in the world.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/BayWa.svg",
+          "industry": "Construction",
+          "customer": "Trade",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/baywa"
+        },
+        {
+          "title": "Build aircraft with TYPO3",
+          "description": "Airbus makes the freedom of flight possible by designing, manufacturing and supporting the world’s best aircraft. Its people around the globe are united by a passion for aviation, as well as their desire to create better, more efficient ways for airlines and passengers to fly",
+          "image": "https://typo3.com/fileadmin/_processed_/b/9/csm_Airbus_logo_3D_Blue_5a0ea082ba.png",
+          "industry": "Aerospace",
+          "customer": "Airbus",
+          "country": "fr",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/airbus"
+        },
+        {
+          "title": "Unite for children with UNICEF and TYPO3",
+          "description": "All children have a right to survive, thrive and fulfill their potential - to the benefit of a better world",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/UNICEF_logo_copy.svg",
+          "industry": "Non Governmental Organisation",
+          "customer": "UNICEF",
+          "country": "us",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/unicef"
+        },
+        {
+          "title": "Microscopic view with TYPO3",
+          "description": "Explore Leica Microsystems’ World of Microscopes and Scientific Instruments",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Leica_Microsystems_copy.svg",
+          "industry": "Manufacturing",
+          "customer": "Leica",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/leica"
+        },
+        {
+          "title": "Loewe Entertains with TYPO3",
+          "description": "Crucial to the success of Loewe is the combination of high-tech, design, quality, and ease of use",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/LOEWE-Logo_copy.svg",
+          "industry": "Manufacturing",
+          "customer": "Loewe",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/loewe"
+        },
+        {
+          "title": "Rent a car with TYPO3",
+          "description": "With over 60 years’ experience and around six million drivers in 2014, Europcar is a world player and Europe’s leading vehicle rental firm.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Europcar-Logo_copy.svg",
+          "industry": "Travel",
+          "customer": "Europcar",
+          "country": "fr",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/europcar"
+        },
+        {
+          "title": "Travel with TUI with TYPO3",
+          "description": "We’re part of TUI Group – one of the world’s leading travel companies and all of our holidays are designed to help you Discover Your Smile",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/TUI_logo.svg",
+          "industry": "Travel",
+          "customer": "TUI",
+          "country": "de",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/tui"
+        },
+        {
+          "title": "Governmental trading with TYPO3",
+          "description": "IHK Reutlingen provides councel programs for many requirements companies might have. That includes finances, owner transfer, energy, environmental concerns and work-life-balance questions.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/IHK-logo.svg",
+          "industry": "Non Governmental Organisation",
+          "customer": "IHK Reutlingen",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/ihk-reutlingen"
+        },
+        {
+          "title": "Dynamic sound with TYPO3",
+          "description": "For us, perfect sound is quintessential.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Beyerdynamic_logo_copy.svg",
+          "industry": "Manufacturing",
+          "customer": "Beyer Dynamic",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/beyerdynamic"
+        },
+        {
+          "title": "Snapshot with TYPO3",
+          "description": "Creating “New Eyes for Industry” that assure a sense of excitement, trust and security",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Tamron_Logo_copy.svg",
+          "industry": "Manufacturing",
+          "customer": "Tamron",
+          "country": "jp",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/tamron"
+        },
+        {
+          "title": "Heavy duties with TYPO3",
+          "description": "Simply. Everything. For successful bodies and conversions",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Mercedes-Benz_Logo_2010__1_.svg",
+          "industry": "Automotive",
+          "customer": "Mercedes Benz",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/mercedes-benz"
+        },
+        {
+          "title": "Be entertained with TYPO3",
+          "description": "A success story of innovations. Rewritten every day.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Grundig_logo_copy.svg",
+          "industry": "Manufacturing",
+          "customer": "Grundig",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/grundig"
+        },
+        {
+          "title": "Logistics with TYPO3",
+          "description": "Protecting resources, setting high quality standards and making every stage of the logistics chain safe – we are committed to these principles",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Logwin_copy.svg",
+          "industry": "Transport",
+          "customer": "Logwin",
+          "country": "lu",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/logwin"
+        },
+        {
+          "title": "Global communication with TYPO3",
+          "description": "Gigaset is a hardware manufacturer focused on the communication sector. They produce landline telephones, smartphones and smart home components, together with the software to operate them",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Gigaset_Communications_2010_logo_1_.svg",
+          "industry": "Telecommunication",
+          "customer": "Gigaset",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/gigaset-ag"
+        },
+        {
+          "title": "Hosting solutions from Rackspace with TYPO3",
+          "description": "We're the largest managed cloud provider, offering you expertise across the world's leading clouds.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Rackspace_copy.svg",
+          "industry": "Telecommunication",
+          "customer": "Rackspace",
+          "country": "us",
+          "language": "en",
+          "url": "https://typo3.com/case-studies/rackspace"
+        },
+        {
+          "title": "Raising money for children with TYPO3",
+          "description": "We have been giving stranded orphans and children a loving home since 1954. With the donation web shop, which has been integrated into our existing TYPO3 website, the workflows are easier and projects as well as products can be promoted through one system only",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/nph_deutschland_logo_Kopie.svg",
+          "industry": "Non Governmental Organisation",
+          "customer": "nph Deutschland",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/nph-deutschland-ev"
+        },
+        {
+          "title": "New nursing portals with TYPO3",
+          "description": "Bibliomed is the leading publishing house for nurses and hospital managers in Germany. Combined, the print magazines and the web portals reach more than 1 million readers.",
+          "image": "https://typo3.com/fileadmin/assets/case_studies/logos/Logo_Bibliomed_CI-Colors.svg",
+          "industry": "Entertainment",
+          "customer": "Bibliomed",
+          "country": "de",
+          "language": "de",
+          "url": "https://typo3.com/case-studies/bibliomed"
+        }
+      ]
+    }
+  ]
 }

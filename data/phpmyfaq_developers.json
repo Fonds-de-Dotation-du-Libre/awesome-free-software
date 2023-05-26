@@ -1,42 +1,44 @@
 {
-        "title": "PHPmyFaq Developers",
-        "logo": "https://www.phpmyfaq.de/images/logo.png",
-        "country": "de",
-        "presence": ["de"],
-        "website": "https://www.phpmyfaq.de/",
-        "founded_year": "",
-        "kpi_dict": {
-          "2018": {
-            "staff": "2",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "2",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "2",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "PHPmyFaq",
-                "logo": "https://www.phpmyfaq.de/images/logo.png",
-                "website": "https://www.phpmyfaq.de/",
-                "category_list": ["Developer"],
-                "source_code_download": "https://www.phpmyfaq.de/download",
-                "source_code_profile": "",
-                "commercial_support": "https://www.phpmyfaq.de/support",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Drupal",
-                "success_case_list": []
-        }]
+  "title": "PHPmyFaq Developers",
+  "logo": "https://www.phpmyfaq.de/images/logo.png",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://www.phpmyfaq.de/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "2",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "2",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "2",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "PHPmyFaq",
+      "logo": "https://www.phpmyfaq.de/images/logo.png",
+      "website": "https://www.phpmyfaq.de/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.phpmyfaq.de/download",
+      "source_code_profile": "",
+      "commercial_support": "https://www.phpmyfaq.de/support",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Drupal",
+      "success_case_list": []
+    }
+  ]
 }

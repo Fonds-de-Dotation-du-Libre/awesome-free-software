@@ -1,573 +1,635 @@
 {
-        "title": "Umbraco",
-        "logo": "https://umbraco.com/media/4884/cloud_b.png",
-        "country": "dk",
-        "presence": ["dk"],
-        "website": "https://umbraco.com/",
-        "founded_year": "",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
+  "title": "Umbraco",
+  "logo": "https://umbraco.com/media/4884/cloud_b.png",
+  "country": "dk",
+  "presence": ["dk"],
+  "website": "https://umbraco.com/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Umbraco",
+      "logo": "https://umbraco.com/media/4884/cloud_b.png",
+      "website": "https://umbraco.com/",
+      "category_list": ["Application"],
+      "source_code_download": "https://umbraco.com/products/umbraco-cms/how-to-download-umbraco/",
+      "source_code_profile": "https://www.openhub.net/p/umbraco/analyses/latest/languages_summary",
+      "commercial_support": "https://umbraco.com/products/umbraco-support/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Umbraco",
+      "success_case_list": [
+        {
+          "title": "Thomas Cook",
+          "description": "Thomas Cook is one of the largest travel groups in the world. Its Northern Europe division, consisting of 3 travel agencies in 4 countries: Spies in Denmark, Ving in Sweden and Norway, and Tjäreborg in Finland, sells around 1,5 mi...",
+          "image": "https://umbraco.com/media/4486/sddopuj1026.jpg?anchor=center&mode=crop&width=600&height=350&rnd=131890786760000000",
+          "industry": "Travel",
+          "customer": "Thomas Cook",
+          "country": "de",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/thomas-cook/"
         },
-        "free_software_list": [{
-                "title": "Umbraco",
-                "logo": "https://umbraco.com/media/4884/cloud_b.png",
-                "website": "https://umbraco.com/",
-                "category_list": ["Application"],
-                "source_code_download": "https://umbraco.com/products/umbraco-cms/how-to-download-umbraco/",
-                "source_code_profile": "https://www.openhub.net/p/umbraco/analyses/latest/languages_summary",
-                "commercial_support": "https://umbraco.com/products/umbraco-support/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Umbraco",
-                "success_case_list": [{
-                        "title": "Thomas Cook",
-                        "description": "Thomas Cook is one of the largest travel groups in the world. Its Northern Europe division, consisting of 3 travel agencies in 4 countries: Spies in Denmark, Ving in Sweden and Norway, and Tjäreborg in Finland, sells around 1,5 mi...",
-                        "image": "https://umbraco.com/media/4486/sddopuj1026.jpg?anchor=center&mode=crop&width=600&height=350&rnd=131890786760000000",
-                        "industry": "Travel",
-                        "customer": "Thomas Cook",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/thomas-cook/"
-                }, {
-                        "title": "Council of the European Union",
-                        "description": "",
-                        "image": "https://umbraco.com/media/2686/eu.jpg?anchor=center&mode=crop&width=600&height=350&rnd=131616548660000000",
-                        "industry": "Public Administration",
-                        "customer": "Council of the European Union",
-                        "country": "be",
-                        "language": "en",
-                        "url": ""
-                }, {
-                        "title": "IntraVAT",
-                        "description": "A brand new website to support new identity, brand and name. That was the goal Ecreo had to achieve for IntraVAT, a company that specializes in VAT registration in Norway, Switzerland and the European Union. Ecreo crafted the new solution using Umbraco Cloud. How did it go? Ecreo will share the full story:",
-                        "image": "https://umbraco.com/media/5924/intravat_-_visuel_design_-_01.png?anchor=center&mode=crop&width=375&height=355&rnd=132089495400000000",
-                        "industry": "Consulting",
-                        "customer": "Intravat",
-                        "country": "be",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/intravat/"
-                }, {
-                        "title": "Normal",
-                        "description": "Illumi had only a month to develop a brand new platform for Normal, a store that provides ordinary household products at extraordinary prices. Normal is a brand known for having an honest and well, “normal”, communication with consumers, so it was important that the new website reflected the same integrity in its design and functionality. All that in one month? For many it might have sounded like an unsolvable project, but let’s take a look at how Illumi managed to get it done",
-                        "image": "https://umbraco.com/media/5670/normal4.jpg?center=0.49473684210526314,0.62565905096660812&mode=crop&width=375&height=355&rnd=132048214510000000",
-                        "industry": "Retail",
-                        "customer": "Normal",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/normal/"
-                }, {
-                        "title": "Nonstop Ski & Snowboard",
-                        "description": "Nonstop Ski & Snowboard, a snow sports tour operator, needed a complete redesign and rebrand of their website. The solution that Wattle set out to build leveraged Umbraco to develop a comprehensive tour operator management platform that now sits as the businesses primary line of business application. See how Wattle did it:",
-                        "image": "https://umbraco.com/media/5808/nssc2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132077833870000000",
-                        "industry": "Tourism",
-                        "customer": "Nonstop Ski & Snowboard",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/nonstop/"
-                }, {
-                        "title": "Wagenborg Ferry Services",
-                        "description": "Wagenborg Ferry Services (in Dutch; Wagenborg Passagiers Diensten or WPD) transports 2 million passengers and around 200,000 cars and trucks to and from the Wadden Islands in the Netherlands every year. WPD and Perplex Digital are constantly working together to make sure that the WPD website provides an optimal user experience. Using Umbraco, they completely renewed the ecommerce platform, including a Customer Service Hub, monitoring dashboard and ticket machine integration. Perplex is sharing the story of the award-winning case:",
-                        "image": "https://umbraco.com/media/5829/_hero-wpd-screens.png?anchor=center&mode=crop&width=375&height=355&rnd=132079131250000000",
-                        "industry": "Transport",
-                        "customer": "Wagenborg Ferry Services",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/wagenborg-ferry-services/"
-                }, {
-                        "title": "LivingData",
-                        "description": "LivingData is the leading software and system provider for the public sector in the German state of Bavaria. When re-launching their product komXcms, a custom web page builder for municipalities and administrative districts, LivingData chose Umbraco as their new CMS and Umbraco Gold Partner, byte5, as their partner. Right now there are about 100 websites running on the developed Umbraco-based system all over Bavaria.",
-                        "image": "https://umbraco.com/media/3588/thmubnail-pic-living-data.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131741256900000000",
-                        "industry": "Software",
-                        "customer": "LivingData",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/livingdata/"
-                }, {
-                        "title": "Carlsberg Group",
-                        "description": "Carlsberg Group’s big online move is a website framework called Pegasus. It allows their 500+ brands to think consumer & content first, speak to fans everyday and share experiences across all markets, channel & screen size, securing the widest digital footprint possible. Pegasus enables individual brands and markets to create locally relevant, on-brand experiences that can be adapted for all.",
-                        "image": "https://umbraco.com/media/3663/visitcarlsberg.png?anchor=center&mode=crop&width=375&height=355&rnd=131749988030000000",
-                        "industry": "Manufacturing",
-                        "customer": "Carlsberg Group",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/carlsberg-group/"
-                }, {
-                        "title": "The Agency for Digitisation",
-                        "description": "The Agency for Digitisation is an agency within the Ministry of Finance in Denmark. The agency is at the very front of driving public sector collaboration in the efforts to digitally transform the public sector. With such a mission the institution has to have a website that’s digitally modern, appealing and friendly to visitors. Using GoBasic, a modular extension package built on Umbraco, Berú provided The Agency for Digitisation with a top-notch solution:",
-                        "image": "https://umbraco.com/media/3724/agency-of-digitasation.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131757809640000000",
-                        "industry": "Public Administration & Government",
-                        "customer": "The Agency for Digitisation",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/the-agency-for-digitisation/"
-                }, {
-                        "title": "Trex",
-                        "description": "The world’s largest manufacturer of wood-alternative decking products, Trex, was using an expensive and inflexible CMS that required IT resources to do the simplest content updates. Naturally, this had to change. Trex chose Umbraco as their CMS replacement and reached out to Marathon Consulting to do the migration. How did it go? Marathon Consulting will tell you:",
-                        "image": "https://umbraco.com/media/3738/trex_halfpage_image-5.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131762889010000000",
-                        "industry": "Manufacturing",
-                        "customer": "Trex",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/trex/"
-                }, {
-                        "title": "Shawbrook Bank",
-                        "description": "Shawbrook Bank is a UK saving and lending company that wanted to update their brand and transform the digital experience they offer customers. This would mean refreshing all their brand assets and redesigning their site to make it more appealing and easier to use for customers of all backgrounds. Their new Umbraco-based website was indeed a transformation; 41% of increased organic traffic alone is a hardcore post-launch result. Equator is the digital transformation agency behind the Shawbrook's new website and they will tell you all about how they did it:",
-                        "image": "https://umbraco.com/media/4462/shawbrook-bank-case-study-3.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131889968080000000",
-                        "industry": "Banking",
-                        "customer": "Shawbrook Bank",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/shawbrook-bank/"
-                }, {
-                        "title": "Sport England",
-                        "description": "Sport England is working towards getting more people active across England – regardless of age, background or ability. Building an active nation is a great purpose, one that should be backed by a solid website. Which is what our Gold Partner Sigma achieved by upgrading Sport England’s website from Umbraco 4 to Umbraco 7. Have a peek at this adventure (and expect some sport puns).",
-                        "image": "https://umbraco.com/media/1958/sportenglandmain-onscreen-tablet.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131456354340000000",
-                        "industry": "Public Administration & Government",
-                        "customer": "Sport England",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/sport-england/"
-                }, {
-                        "title": "Danish Crown",
-                        "description": "The Danish Crown Group is a multinational meat processing company and among the biggest players in its field worldwide. Perhaps they’re even the company providing you with your breakfast bacon? Skybrud.dk had a major task of changing an old CMS Danish Crown's website was based on and moving it to Umbraco.",
-                        "image": "https://umbraco.com/media/2159/smalleropskrifter.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131497686890000000",
-                        "industry": "Manufacturing",
-                        "customer": "Danish Crown",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/danish-crown/"
-                }, {
-                        "title": "RM Sotheby’s",
-                        "description": "This case is a witness to Umbraco’s flexibility and suitability with large high-profile websites that get a lot of traffic. RM Sotheby’s, an international classic car auction company, is a website with over 300 thousand nodes which include about 250 thousand high-resolution images and 50 thousand content nodes. It is a massive project Stateside has developed using Umbraco CMS.",
-                        "image": "https://umbraco.com/media/2357/smaaallerpasted-image-0.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131551232850000000",
-                        "industry": "Retail",
-                        "customer": "RM Sotheby’s",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/rm-sotheby-s/"
-                }, {
-                        "title": "Advance",
-                        "description": "Advance is a large advertising agency based in Copenhagen. Their old website was outdated and clunky, and was restricting editors in many ways. Spring/Summer had the challenge of not only redesigning the “oldie”, but also making its back office editor-friendly. Did they succeed? You bet. And the Umbraco Award for the Best Editing Experience is a reliable witness. Spring/Summer found the perfect balance between giving the editors a lot of freedom, while still having a user friendly and easy back office experience.",
-                        "image": "https://umbraco.com/media/2364/smallerwebsite_0003.jpg?center=0.347953216374269,0.5033333333333333&mode=crop&width=375&height=355&rnd=131553982870000000",
-                        "industry": "Media",
-                        "customer": "Advance",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/advance/"
-                }, {
-                        "title": "London & Capital",
-                        "description": "London & Capital is a global Wealth Manager, offering highly personalised investment advice to individuals and organisations around the world. GrowCreate was tasked with the development of a secure client portal to improve the overall client experience, on the desktop and on the move. The complex solution was delivered using Umbraco CMS. Curious about the end result? GrowCreate will tell you (and show you) all about it:",
-                        "image": "https://umbraco.com/media/2281/smallerlc-portal.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131528928380000000",
-                        "industry": "Finance",
-                        "customer": "London & Capital",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/london-capital/"
-                }, {
-                        "title": "Liberty Tax",
-                        "description": "Liberty Tax Service is one of the fastest-growing tax preparation franchises with over 4300 offices in the United States and Canada. Liberty’s website was based on a CMS that not only was expensive, but also frequently caused various technical and performance issues. Here Marathon Consulting came to the rescue: they recommended Liberty to migrate all of their public websites to Umbraco to give them relief from the burdensome license fees and the frustration their staff was feeling from using their old CMS.",
-                        "image": "https://umbraco.com/media/2415/biggermarathon_casestudies_liberty_halfpage_image.jpg?center=0.30827067669172931,0.49&mode=crop&width=375&height=355&rnd=131570331360000000",
-                        "industry": "Consulting",
-                        "customer": "Liberty Tax",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/liberty-tax/"
-                }, {
-                        "title": "StreetWise",
-                        "description": "StreetWise carries a great purpose. The Chicago-based non-profit workforce development agency empowers those facing homelessness by providing access to the resources and employment opportunities so individuals can work toward self-sufficiency with dignity. A great purpose requires a flawless website! Our Gold Partner Marcel Digital took that challenge. The major goal was to design and redevelop StreetWise’s website to include easy to use functionality, navigation, and a truer representation of the brand using Umbraco Cloud.",
-                        "image": "https://umbraco.com/media/3339/joined-streetwise-covers.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131713291210000000",
-                        "industry": "Public Administration & Government",
-                        "customer": "StreetWise",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/streetwise/"
-                }, {
-                        "title": "DOT",
-                        "description": "Umbraco can be a match for a wide range of projects, no matter if that includes small or larger websites, private or public sector. Take this case for example; Umbraco proved to be the perfect fit for a major public sector website - DOT (or Din Offentlige Transport, eng. Your Public Transport). DOT is a cooperation between three Danish public transportation providers: Movia (bus), DSB (rail) and Metroselskabet (metro). Kruso built both website and webshop for DOT.",
-                        "image": "https://umbraco.com/media/2525/smallerwebsite2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131594414660000000",
-                        "industry": "",
-                        "customer": "DOT",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/dot/"
-                }, {
-                        "title": "Lobster Ink",
-                        "description": "The Lobster Ink platform is an enterprise-class learning solution that enables the multinational organizations to better manage their change process. This is the story of how Arlanet helped Lobster Ink build a corporate website that supports this ambition. Arlanet spun up the solution on Umbraco Cloud and crafted the whole website in only 60 days. They’ll let you in on more details:",
-                        "image": "https://umbraco.com/media/5367/lobsterink-case-header2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132007424760000000",
-                        "industry": "Software",
-                        "customer": "Lobster Ink",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/lobster-ink/"
-                }, {
-                        "title": "Merlin's Magical London",
-                        "description": "Merlin Entertainments is a British-based company which operates over 120 popular visitor attractions across four continents. The company approached Jaywing and asked to help deliver a customisable ticket-building site - Merlin's Magical London. It’s a website where visitors can book their visits to some of the top tourist destinations in London: Coca-Cola London Eye, The London Dungeon, Shrek’s Adventure, Madame Tussauds London and the SEA LIFE London Aquarium. Merlin's Magical London is a visually attractive website that Jaywing built using Umbraco.",
-                        "image": "https://umbraco.com/media/2760/london-big-ticket-1.jpg?center=0.34333333333333332,0.5033333333333333&mode=crop&width=375&height=355&rnd=131630700260000000",
-                        "industry": "Entertainment",
-                        "customer": "Merlin's Magical London",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/merlins-magical-london/"
-                }, {
-                        "title": "Sanistaal",
-                        "description": "Sanistaal is among the largest Danish suppliers to the construction and manufacturing industries. With Umbraco as a foundation, Danish agency Vertica built a fully fledged business solution around Sanistaal’s website. The overall bounce rate has dropped by 23 percent and that’s just one of the impressive after-launch numbers. The solution has enabled Sanistaal to grow their digital business significantly and granted Vertica with the “crown” for the best technical solution at the Umbraco Awards 2017.",
-                        "image": "https://umbraco.com/media/1991/smallersanistaal_vertica_umbracopris_presse.jpg?center=0.31989924433249373,0.42&mode=crop&width=375&height=355&rnd=131468214660000000",
-                        "industry": "Construction",
-                        "customer": "Sanistaal",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/sanistaal/"
-                }, {
-                        "title": "British Thoracic Society",
-                        "description": "The British Thoracic Society (BTS) had many challenges with its old CMS. Content was difficult to update and documents difficult to manage. Agidea used the power and flexibility of Umbraco to transform the way BTS manages its digital presence:",
-                        "image": "https://umbraco.com/media/3858/structured_intelligent_content_management.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131781950820000000",
-                        "industry": "Public Administratino & Government",
-                        "customer": "British Thoracic Society",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/british-thoracic-society/"
-                }, {
-                        "title": "Groenhart",
-                        "description": "The North-Holland based wholesaler Groenhart is a leader when it comes to the construction, installation sector and facility services. As a growing business, Groenhart saw the need for an improved website with a better commerce solution. They decided to pursue a complete commerce environment rebuilt and integrate it with their ERP. All with the help and skills of Arlanet:",
-                        "image": "https://umbraco.com/media/3640/groenhart-box.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131745752740000000",
-                        "industry": "Construction",
-                        "customer": "Groenhart",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/groenhart/"
-                }, {
-                        "title": "Rako Controls",
-                        "description": "Rako Controls is an international manufacturer of lighting controls. It’s a technology that allows its users to manage lighting and dimming throughout their homes, office or any building. Rako Controls wanted to change their outdated in-house developed website to a new site that’s more user-friendly, beautiful and light (pun intended). All of this was achieved by our Gold Partner Visarc using Umbraco as a foundation.",
-                        "image": "https://umbraco.com/media/2010/smallerhomepage.jpg?center=0.73487031700288186,0.49666666666666665&mode=crop&width=375&height=355&rnd=131472791080000000",
-                        "industry": "Energy",
-                        "customer": "Rako Controls",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/rako-controls/"
-                }, {
-                        "title": "DBU (Danish Football Association)",
-                        "description": "DBU offers all member clubs a custom website for their club. Klub-CMS is a solution of standard templates and modules which each club can modify allowing for quick, flexible and large volume website creation. Solution was built on Umbraco Cloud by our Gold Partner SportsSys:",
-                        "image": "https://umbraco.com/media/3899/dbu-case.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131788123930000000",
-                        "industry": "Entertainment",
-                        "customer": "DBU (Danish Football Association)",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/dbu-danish-football-association/"
-                }, {
-                        "title": "YoungMinds",
-                        "description": "YoungMinds, the UK charity who is fighting for young people’s mental health, had an outdated website. Plus, the platform was difficult to use and update, and frequently presented broken features. This caused big issues for their already overwhelmed young people who wanted to access support and advice quickly and easily. Things were about to change for the better - within just 3 months, our Certified Partner Yoyo updated, redesigned and redeveloped their website using Umbraco Cloud. How did it go? Yoyo will tell you:",
-                        "image": "https://umbraco.com/media/5221/youngminds-6.jpg?center=0.30407523510971785,0.46924428822495606&mode=crop&width=375&height=355&rnd=131987645800000000",
-                        "industry": "Public Administration & Government",
-                        "customer": "YoungMinds",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/youngminds/"
-                }, {
-                        "title": "Rubbermaid Commercial Products",
-                        "description": "Rubbermaid Commercial Products, the global leader of the commercial cleaning industry, needed a powerful enterprise-level content management system (CMS). The company turned to The Scylla Group to streamline the flow of their digital ecosystem and develop a website that was as impactful as their brand and future-ready. The Scylla Group will tell you how they did it using Umbraco Cloud:",
-                        "image": "https://umbraco.com/media/4349/image7.png?anchor=center&mode=crop&width=375&height=355&rnd=131871824630000000",
-                        "industry": "Manufacturing",
-                        "customer": "Rubbermaid Commercial Products",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/rubbermaid-commercial-products/"
-                }, {
-                        "title": "Team Danmark",
-                        "description": "Team Danmark, the Danish elite sports organization, decided to create a new website and were looking for something more lightweight and simple. The choice of platform was not a hard decision, since their Intranet (on Uintra) was already based on Umbraco and they have had a great experience with it. The new website was developed as a collaboration between Team Danmark (project owner), Magic People Voodoo People (design and UX) and Compent (development and integration), who will tell you the whole story:",
-                        "image": "https://umbraco.com/media/5103/team-danmark-19.png?anchor=center&mode=crop&width=375&height=355&rnd=131967281030000000",
-                        "industry": "Entertainment",
-                        "customer": "Team Danmark",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/team-danmark/"
-                }, {
-                        "title": "e→d films",
-                        "description": "e→d films is a Montreal-based animation studio that makes award-winning films with a handcrafted feel. Their website and online store were not in the best shape: the backend platform and solution architecture came with a set of limitations, loading time was slow, product descriptions and display of the offerings were not expansive, navigation wasn’t intuitive and the list goes on. Using Umbraco, Yaksa set out to change all that:",
-                        "image": "https://umbraco.com/media/4300/ed-films-screenshot.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131858957050000000",
-                        "industry": "Entertainment",
-                        "customer": "e→d films",
-                        "country": "ca",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/e-d-films/"
-                }, {
-                        "title": "ASFINAG",
-                        "description": "ASFINAG is a publicly owned Austrian corporation which plans, builds and maintains Austria's motorways and expressways. The company planned a complete rebuild of their website, with multiple applications integrated, and turned to kraftwerk for help. kraftwerk will tell you the full story:",
-                        "image": "https://umbraco.com/media/6005/asfinag_blog.png?anchor=center&mode=crop&width=375&height=355&rnd=132098100890000000",
-                        "industry": "Tolling",
-                        "customer": "ASFINAG",
-                        "country": "at",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/asfinag/"
-                }, {
-                        "title": "Cielo Talent",
-                        "description": "Being a world leader in strategic Recruitment Process Outsourcing (RPO), a modern, cutting edge web presence is a true necessity for Cielo Talent. Back in 2009 they turned to Fyin.com to help transform their website. Through a decade of friendship, Fyin.com assisted Cielo Talent in a rebranding campaign in 2014 and then a major redesign in 2018. Today Cielo Talent has a beautiful Umbraco website that’s a joy to use for editors. Fyin.com will tell you more:",
-                        "image": "https://umbraco.com/media/5697/cielo_case_study.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132053330560000000",
-                        "industry": "Service",
-                        "customer": "Cielo Talent",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/cielo-talent/"
-                }, {
-                        "title": "Shamballa Jewels",
-                        "description": "Shamballa Jewels is a world-renowned jeweler offering superior quality, impeccable craftsmanship and unique fine jewelry designs. The company needed a new ordering system, which Compent developed using Umbraco and Ucommerce. The new solution was so good, that at Umbraco Awards 2018 it won the Best New Tech award! See how Compent did it:",
-                        "image": "https://umbraco.com/media/3314/shamballa_aus_jan_201811sm.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131713203950000000",
-                        "industry": "Manufacturing",
-                        "customer": "Shamballa Jewels",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/shamballa-jewels/"
-                }, {
-                        "title": "Lighthouse",
-                        "description": "When completed, the brand new apartment building Lighthouse will be the tallest in Denmark. Placed in the new marinas in Aarhus East, the building is expected to be finished in 2020, but already now, those interested can get a very realistic impression of what Aarhus' new landmark will look like. Novicell, together with real estate developer DOMIS and Kilden & Hindby created a virtual world where you can experience Lighthouse from water, land and air. A virtual world that’s been built on Umbraco and won Best Designed Site at Umbraco Awards ’18. Novicell will give you a peek at the whole process:",
-                        "image": "https://umbraco.com/media/4587/lighthouse-case-10.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131909084700000000",
-                        "industry": "Construction",
-                        "customer": "Lighthouse",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/lighthouse/"
-                }, {
-                        "title": "Chateau de Fontaine",
-                        "description": "Chateau de Fontaine is a state-of-the-art stud farm breeding the best horses in the world. Luxury, quality and elegance echoes throughout the business and are of course characteristics that should be reflected on their website. Chateau de Fontaine wanted a solution that could give them an elegant, custom made, logical and reliable website. A solution produced and designed by WebVision using Umbraco Cloud:",
-                        "image": "https://umbraco.com/media/3106/front_0m2a0114_1800x1200.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131677534130000000",
-                        "industry": "Entertainment",
-                        "customer": "Chateau de Fontaine",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/chateau-de-fontaine/"
-                }, {
-                        "title": "Hotel Le Recif",
-                        "description": "After 4 years, the Hotel Le Recif's website needed a fresh new look and more importantly, it needed to be available on mobile and tablet devices. LUX* Resorts & Hotels were therefore looking for a solution that could facilitate these demands and wishes. A solution they found by the means of Umbraco 7 and Umbraco Cloud:",
-                        "image": "https://umbraco.com/media/3851/screen-shot-2016-07-18-at-115146-am.png?center=0.29878048780487804,0.494&mode=crop&width=375&height=355&rnd=131781921530000000",
-                        "industry": "Travel",
-                        "customer": "Hotel Le Recif",
-                        "country": "fr",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/hotel-le-recif/"
-                }, {
-                        "title": "Saniona",
-                        "description": "Saniona is a research and development company focused on drugs for diseases of the central nervous system, autoimmune diseases, metabolic diseases and treatment of pain. With Saniona's 2016 launch on the Nasdaq, it was important that their website could easily and seamlessly present relevant investor and trading information. See how WebVision did the job, they'll tell you:",
-                        "image": "https://umbraco.com/media/3111/saniona2.png?anchor=center&mode=crop&width=375&height=355&rnd=131677599680000000",
-                        "industry": "Life Science",
-                        "customer": "Saniona",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/saniona/"
-                }, {
-                        "title": "Motor Village",
-                        "description": "Motor Village is FCA’s (Fiat Chrysler Automobiles) wholly owned dealer group. The Motor Village UK division currently has two showrooms and a service centre, all based in London, and selling the full range of Fiat, Alfa Romeo, Jeep and Abarth. New and used cars are sold, along with multiple other services, including fleet, aftersales and parts. The website plays a critical role in driving sales and promoting all elements of the business and therefore it needs to be user-friendly, reliable and of course, visually stunning. Using Umbraco as a foundation Visarc achieved exactly that, together with increased traffic and SEO results.",
-                        "image": "https://umbraco.com/media/2196/smalleralfa-used-screenshot.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131511425430000000",
-                        "industry": "Retail",
-                        "customer": "Motor Village",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/motor-village/"
-                }, {
-                        "title": "BBMC Mortgage",
-                        "description": "BBMC Mortgage (BBMC) came to Scandia with the challenge to help set them apart in a very competitive market, with billions of dollars at stake. The task at hand - after many hours of analysis and collaboration with BBMC marketing stakeholders - ended up being a full redesign and Umbraco implementation of the corporate site, build-out of a micro-site for one of their community initiatives and just a week before going live - a lead-gen Sweepstakes site. Finally, a custom lead management platform was built and fully integrated with the Umbraco back office.",
-                        "image": "https://umbraco.com/media/4092/bbmc-multi.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131825498390000000",
-                        "industry": "Banking",
-                        "customer": "BBMC Mortgage",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/bbmc-mortgage/"
-                }, {
-                        "title": "Danish Agency for Labour Market and Recruitment",
-                        "description": "The Danish Agency for Labour Market and Recruitment (STAR) has a website that services job centres, unemployment insurance funds, municipal case handling, a host of educational institutions, HR-departments in organizations, among others. Over the years the agency had deployed a large host of different websites to service every audience, and was beginning to lose track of it all. With the help of Umbraco and Capgemini Sogeti things were about to change for the better:",
-                        "image": "https://umbraco.com/media/3822/star.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131775028880000000",
-                        "industry": "Public Administration & Government",
-                        "customer": "Danish Agency for Labour Market and Recruitment",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/danish-agency-for-labour-market-and-recruitment/"
-                }, {
-                        "title": "Sierra Nevada Corporation",
-                        "description": "Sierra Nevada Corporation (SNCorp) delivers innovative, customer-focused, end-to-end solutions for Space, Aviation, Electronics and Systems Integration. That includes both public and private sector clients. SNCorp launched a static website with an eye-catching professional design, but their overall plan was to also launch a dynamic site backed by a CMS. Long story short - they selected Umbraco and Fyin.com built the solution:",
-                        "image": "https://umbraco.com/media/3758/case-study-sierra-nevada-corporation-slider2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131764748000000000",
-                        "industry": "Aviation",
-                        "customer": "Sierra Nevada Corporation",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/sierra-nevada-corporation/"
-                }, {
-                        "title": "Pasfall",
-                        "description": "Pasfall is a luxurious gourmet restaurant placed in Odense, Denmark. Standing proud on Funen and being recognized to a worldly extent, Pasfall was bound to expect a lot of attention. The restaurant’s website had to not only be able to take on a lot of traffic, but also reflect high-class service, unique atmosphere and sophisticated taste.",
-                        "image": "https://umbraco.com/media/1610/smallerpasfall-arrangement.jpg?center=0.356,0.50666666666666671&mode=crop&width=375&height=355&rnd=131381039150000000",
-                        "industry": "Retail",
-                        "customer": "Pasfall",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/pasfall/"
-                }, {
-                        "title": "Scholl",
-                        "description": "choll is over a 100 years old, widespread global foot care brand. It is the leader in its field with products sold in over 50 countries. To coincide with a new global product launch, Scholl asked our Gold Partner The Cogworks to design and create three digital campaigns and undertake a global site migration from an old and unresponsive CMS to a new version of Umbraco 7, all within just 6 months.",
-                        "image": "https://umbraco.com/media/2350/scholl-website.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131644507420000000",
-                        "industry": "Retail",
-                        "customer": "Scholl",
-                        "country": "ie",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/scholl/"
-                }, {
-                        "title": "Northmill",
-                        "description": "Northmill is a Swedish fintech company, founded as a startup in Stockholm 2006. Their products include consumer loans and a flexible credit account. The vision of the company is to revolutionize the old banking system by building a bank designed for our digital and modern lifestyle. Northmill needed a fast and easy to use CMS to publish and edit content on five different sites, they chose Umbraco. They'll tell you all the whys and hows:",
-                        "image": "https://umbraco.com/media/3860/northmill-screenshot.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131781992450000000",
-                        "industry": "Finance",
-                        "customer": "Northmill",
-                        "country": "se",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/northmill/"
-                }, {
-                        "title": "Action for Children",
-                        "description": "With the festive period approaching, equipped with the knowledge that charitable donations increase during this time, Action for Children (AfC) wanted to ensure that their donation journey, especially the key landing page, was at peak performance and converting as much traffic as possible. AfC then approached Cantarus, asking to redevelop their donation landing page with a mobile-first design, with a view to increasing their conversion rates across all platforms. Cantarus will tell you the rest:",
-                        "image": "https://umbraco.com/media/6014/afc-challenge-img.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132101786850000000",
-                        "industry": "Public Administration & Government",
-                        "customer": "Action for Children",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/action-for-children/"
-                }, {
-                        "title": "J.P. Morgan Asset Management: A Story About Trusts",
-                        "description": "J.P. Morgan Asset Management wanted a fresh and innovative way to engage and educate the investor audience whilst establishing their credibility and knowledge in the market. Collaborating with Yoyo Design, they built A Story About Trusts, a website that provides users with a beautiful interactive digital experience. It is no surprise then that at Umbraco Awards 2019 Yoyo Design won twice: as Best Design and as Best Certified Partner Solution. The agency will tell you the full story:",
-                        "image": "https://umbraco.com/media/5994/jp-morgan-2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132097305880000000",
-                        "industry": "Banking",
-                        "customer": "J.P. Morgan Asset Management: A Story About Trusts",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/jp-morgan-asset-management/"
-                }, {
-                        "title": "vacature.com",
-                        "description": "De Persgroep Online Services decided to give one of their platforms, vacature.com, a complete overhaul. The company gave Umbraco Gold Partner The Reference the go-ahead to build a completely new site that included deep integrations with the backend system. Using Umbraco Cloud, The Reference accomplished the mission in under 6 months. See more about the case, told to you by The Reference:",
-                        "image": "https://umbraco.com/media/4899/vacature-case-11.png?anchor=center&mode=crop&width=375&height=355&rnd=131921071670000000",
-                        "industry": "Travel",
-                        "customer": "vacature.com",
-                        "country": "be",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/vacaturecom/"
-                }, {
-                        "title": "Mercedes-Benz Private Lease",
-                        "description": "Private lease is a booming market in the car industry; prices are being adjusted on a daily basis and customer standards and demands rise day by day. Mercedes-Benz was in need of a platform that would make it possible to not only cope with this dynamic market but also one that would place them in charge. Perplex then took Umbraco and developed a solid solution that has already produced top-notch results and is an Umbraco Award winner. Perplex will tell you all:",
-                        "image": "https://umbraco.com/media/4928/mercedes-benz-case-study-4.png?anchor=center&mode=crop&width=375&height=355&rnd=131925327560000000",
-                        "industry": "Automotive",
-                        "customer": "Mercedes-Benz Private Lease",
-                        "country": "de",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/mercedes-benz-private-lease/"
-                }, {
-                        "title": "Cumberland Farms",
-                        "description": "Cumberland Farms, or as locals call it, Cumby’s, is a large convenience store and gas station chain with locations all across the United States of America. Cumby’s Umbraco website was built using the wrong technique and approach. This resulted in the internal marketing team not being able to manage content properly, produce updates on products, or launch landing pages and create campaigns. Looking for Umbraco experts to turn things around, Cumberland Farms reached out to Scandia. And Scandia is here to tell you the rest:",
-                        "image": "https://umbraco.com/media/5836/cumberlandfarms-screen-4.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132079273160000000",
-                        "industry": "Retail",
-                        "customer": "Cumberland Farms",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/cumberland-farms/"
-                }, {
-                        "title": "Southwest Power Pool",
-                        "description": "As one of the biggest power pools in the United States, Southwest Power Pool (SPP) has the job of maintaining power grids in 14 states — no simple task. Their new responsive website, designed with Umbraco, helps SPP’s staff and partners keep the lights on and stay informed. See how Aristotle built it:",
-                        "image": "https://umbraco.com/media/5825/spp_responsive-comparison.png?anchor=center&mode=crop&width=375&height=355&rnd=132078394250000000",
-                        "industry": "Utility",
-                        "customer": "Southwest Power Pool",
-                        "country": "us",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/southwest-power-pool/"
-                }, {
-                        "title": "Country Choice",
-                        "description": "If you’re eating food on the go in the UK, chances are you’ll have eaten products supplied by Country Choice on more than one occasion. The UK’s leading supplier of in-store bakery and retail food service products needed a new website to replace the existing one in its entirety, involving a whole new front-end, Umbraco CMS and multiple custom-built elements to fulfill its business requirements. Visarc then set out to work:",
-                        "image": "https://umbraco.com/media/5143/country_choice_-_primary_image.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131973864100000000",
-                        "industry": "Manufacturing",
-                        "customer": "Country Choice",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/country-choice/"
-                }, {
-                        "title": "CeramicSpeed",
-                        "description": "Just weeks after their new website was launched, CeramicSpeed, manufacturer of cycling industry's most sought-after ceramic bearings and optimised chains, also unveiled the biggest revolution in cycling for at least the last decade - Driven. A brand new drivetrain concept that eliminates the need for derailleurs and chains quickly went viral, growing traffic enormously - up to 18 thousand visitors daily to CeramicSpeed’s website. The new Umbraco Cloud-based solution handled all this without a peep. Oxygen will tell you all about how they built this solution for CeramicSpeed and what magic happened post-launch:",
-                        "image": "https://umbraco.com/media/3945/ceramicspeed.jpg?center=0.71,0.515&mode=crop&width=375&height=355&rnd=131799372520000000",
-                        "industry": "Manufacturing",
-                        "customer": "CeramicSpeed",
-                        "country": "nl",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/ceramicspeed/"
-                }, {
-                        "title": "Zenegy",
-                        "description": "Zenegy is paving the way for a whole new generation of payroll systems. It challenges the classic wage-setup and invites businesses to move on an open, innovative platform that’s easy to use. With the use of Umbraco Cloud, WebVision was able to create a beautifully designed and highly functional website with smooth content editing and API synchronization. All of which made Zenegy a very happy end-client:",
-                        "image": "https://umbraco.com/media/3616/zenegy-thumbnail.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131741403390000000",
-                        "industry": "Software",
-                        "customer": "Zenegy",
-                        "country": "dk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/zenegy/"
-                }, {
-                        "title": "Tili",
-                        "description": "Equator was given the challenging brief to design and build an innovative new product that would transform the energy market through delivering a “one-stop-shop” for tenants to set-up all their essential home services. The new product came to be Tili and it was crafted using Umbraco CMS. Equator will spill all the beans on the whole story:",
-                        "image": "https://umbraco.com/media/5218/tili-brochure-image2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131986853390000000",
-                        "industry": "Service",
-                        "customer": "Tili",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/tili/"
-                }, {
-                        "title": "Cormar Carpet Company",
-                        "description": "Cormar Carpet Company, one of the leading carpet manufacturers in the UK, needed a modern digital presence to effectively market their product, encourage users to order carpet samples, and visit their local Cormar stockist. The company reached out to CSI Media for designing and developing a brand new B2C website. Have a look at how CSI media did it using Umbraco CMS, they’ll tell you all:",
-                        "image": "https://umbraco.com/media/5043/cormar-carpets-umbraco-mobile.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131957363660000000",
-                        "industry": "Manufacturing",
-                        "customer": "Cormar Carpet Company",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/cormar-carpet-company/"
-                }, {
-                        "title": "Olympic Holidays",
-                        "description": "Multi-million pound turnover travel site Olympic Holidays was built on an old version of Umbraco - version 4. For such a traffic-heavy website an update to a newer version was vital. Our Gold Partner Offroadcode took that challenge. During the process they developed multiple packages for this solution and open-sourced them. This is a fantastic example of true open-source spirit. No wonder this case won the Jury’s choice award at the Umbraco Awards 2017!",
-                        "image": "https://umbraco.com/media/2028/smallercyprus.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131475301700000000",
-                        "industry": "Travel",
-                        "customer": "Olympic Holidays",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/olympic-holidays/"
-                }, {
-                        "title": "BoxNation",
-                        "description": "BoxNation is a UK boxing subscription TV channel – showcasing domestic and international fights, classic match footage, and boxer profiles. Keep the website online and make sure that the subscription process is stable during periods of extreme traffic - these were the two main goals that Crumpled Dog had building BoxNation's website on Umbraco. Crumpled Dog will tell you all:",
-                        "image": "https://umbraco.com/media/5800/hero_top.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132077799250000000",
-                        "industry": "Entertainment",
-                        "customer": "BoxNation",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/boxnation/"
-                }, {
-                        "title": "HH Global",
-                        "description": "HH Global is an organisation that deals with outsourced marketing execution. It’s a global organisation in growth thus, an organisation in need of a professional looking, well structured and responsive website. Three Deep implemented the new website using Umbraco CMS, and soon after launch the website already showed impressive results, including increased organic traffic. Three Deep is telling the story:",
-                        "image": "https://umbraco.com/media/5817/hhglobal_responsive.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132078354850000000",
-                        "industry": "Service",
-                        "customer": "HH Global",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/hh-global/"
-                }, {
-                        "title": "NetConstruct",
-                        "description": "Remember the proverb “the cobbler’s children go barefoot”? Well for the UK agency NetConstruct, this is definitely not the case. They recently redesigned their own website so well that it even earned them an Umbraco Award this year for Best Design. NetConstruct wanted a simpler, cleaner taxonomy with far more flexibility to express their creativity, stretching the boundaries for design, interactivity and best practice. Check out how they achieved that using Umbraco CMS.",
-                        "image": "https://umbraco.com/media/2219/untitled-1.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131515054930000000",
-                        "industry": "Service",
-                        "customer": "NetConstruct",
-                        "country": "uk",
-                        "language": "en",
-                        "url": "https://umbraco.com/case-studies-testimonials/netconstruct/"
-                }]
-        }]
+        {
+          "title": "Council of the European Union",
+          "description": "",
+          "image": "https://umbraco.com/media/2686/eu.jpg?anchor=center&mode=crop&width=600&height=350&rnd=131616548660000000",
+          "industry": "Public Administration",
+          "customer": "Council of the European Union",
+          "country": "be",
+          "language": "en",
+          "url": ""
+        },
+        {
+          "title": "IntraVAT",
+          "description": "A brand new website to support new identity, brand and name. That was the goal Ecreo had to achieve for IntraVAT, a company that specializes in VAT registration in Norway, Switzerland and the European Union. Ecreo crafted the new solution using Umbraco Cloud. How did it go? Ecreo will share the full story:",
+          "image": "https://umbraco.com/media/5924/intravat_-_visuel_design_-_01.png?anchor=center&mode=crop&width=375&height=355&rnd=132089495400000000",
+          "industry": "Consulting",
+          "customer": "Intravat",
+          "country": "be",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/intravat/"
+        },
+        {
+          "title": "Normal",
+          "description": "Illumi had only a month to develop a brand new platform for Normal, a store that provides ordinary household products at extraordinary prices. Normal is a brand known for having an honest and well, “normal”, communication with consumers, so it was important that the new website reflected the same integrity in its design and functionality. All that in one month? For many it might have sounded like an unsolvable project, but let’s take a look at how Illumi managed to get it done",
+          "image": "https://umbraco.com/media/5670/normal4.jpg?center=0.49473684210526314,0.62565905096660812&mode=crop&width=375&height=355&rnd=132048214510000000",
+          "industry": "Retail",
+          "customer": "Normal",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/normal/"
+        },
+        {
+          "title": "Nonstop Ski & Snowboard",
+          "description": "Nonstop Ski & Snowboard, a snow sports tour operator, needed a complete redesign and rebrand of their website. The solution that Wattle set out to build leveraged Umbraco to develop a comprehensive tour operator management platform that now sits as the businesses primary line of business application. See how Wattle did it:",
+          "image": "https://umbraco.com/media/5808/nssc2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132077833870000000",
+          "industry": "Tourism",
+          "customer": "Nonstop Ski & Snowboard",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/nonstop/"
+        },
+        {
+          "title": "Wagenborg Ferry Services",
+          "description": "Wagenborg Ferry Services (in Dutch; Wagenborg Passagiers Diensten or WPD) transports 2 million passengers and around 200,000 cars and trucks to and from the Wadden Islands in the Netherlands every year. WPD and Perplex Digital are constantly working together to make sure that the WPD website provides an optimal user experience. Using Umbraco, they completely renewed the ecommerce platform, including a Customer Service Hub, monitoring dashboard and ticket machine integration. Perplex is sharing the story of the award-winning case:",
+          "image": "https://umbraco.com/media/5829/_hero-wpd-screens.png?anchor=center&mode=crop&width=375&height=355&rnd=132079131250000000",
+          "industry": "Transport",
+          "customer": "Wagenborg Ferry Services",
+          "country": "nl",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/wagenborg-ferry-services/"
+        },
+        {
+          "title": "LivingData",
+          "description": "LivingData is the leading software and system provider for the public sector in the German state of Bavaria. When re-launching their product komXcms, a custom web page builder for municipalities and administrative districts, LivingData chose Umbraco as their new CMS and Umbraco Gold Partner, byte5, as their partner. Right now there are about 100 websites running on the developed Umbraco-based system all over Bavaria.",
+          "image": "https://umbraco.com/media/3588/thmubnail-pic-living-data.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131741256900000000",
+          "industry": "Software",
+          "customer": "LivingData",
+          "country": "de",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/livingdata/"
+        },
+        {
+          "title": "Carlsberg Group",
+          "description": "Carlsberg Group’s big online move is a website framework called Pegasus. It allows their 500+ brands to think consumer & content first, speak to fans everyday and share experiences across all markets, channel & screen size, securing the widest digital footprint possible. Pegasus enables individual brands and markets to create locally relevant, on-brand experiences that can be adapted for all.",
+          "image": "https://umbraco.com/media/3663/visitcarlsberg.png?anchor=center&mode=crop&width=375&height=355&rnd=131749988030000000",
+          "industry": "Manufacturing",
+          "customer": "Carlsberg Group",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/carlsberg-group/"
+        },
+        {
+          "title": "The Agency for Digitisation",
+          "description": "The Agency for Digitisation is an agency within the Ministry of Finance in Denmark. The agency is at the very front of driving public sector collaboration in the efforts to digitally transform the public sector. With such a mission the institution has to have a website that’s digitally modern, appealing and friendly to visitors. Using GoBasic, a modular extension package built on Umbraco, Berú provided The Agency for Digitisation with a top-notch solution:",
+          "image": "https://umbraco.com/media/3724/agency-of-digitasation.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131757809640000000",
+          "industry": "Public Administration & Government",
+          "customer": "The Agency for Digitisation",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/the-agency-for-digitisation/"
+        },
+        {
+          "title": "Trex",
+          "description": "The world’s largest manufacturer of wood-alternative decking products, Trex, was using an expensive and inflexible CMS that required IT resources to do the simplest content updates. Naturally, this had to change. Trex chose Umbraco as their CMS replacement and reached out to Marathon Consulting to do the migration. How did it go? Marathon Consulting will tell you:",
+          "image": "https://umbraco.com/media/3738/trex_halfpage_image-5.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131762889010000000",
+          "industry": "Manufacturing",
+          "customer": "Trex",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/trex/"
+        },
+        {
+          "title": "Shawbrook Bank",
+          "description": "Shawbrook Bank is a UK saving and lending company that wanted to update their brand and transform the digital experience they offer customers. This would mean refreshing all their brand assets and redesigning their site to make it more appealing and easier to use for customers of all backgrounds. Their new Umbraco-based website was indeed a transformation; 41% of increased organic traffic alone is a hardcore post-launch result. Equator is the digital transformation agency behind the Shawbrook's new website and they will tell you all about how they did it:",
+          "image": "https://umbraco.com/media/4462/shawbrook-bank-case-study-3.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131889968080000000",
+          "industry": "Banking",
+          "customer": "Shawbrook Bank",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/shawbrook-bank/"
+        },
+        {
+          "title": "Sport England",
+          "description": "Sport England is working towards getting more people active across England – regardless of age, background or ability. Building an active nation is a great purpose, one that should be backed by a solid website. Which is what our Gold Partner Sigma achieved by upgrading Sport England’s website from Umbraco 4 to Umbraco 7. Have a peek at this adventure (and expect some sport puns).",
+          "image": "https://umbraco.com/media/1958/sportenglandmain-onscreen-tablet.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131456354340000000",
+          "industry": "Public Administration & Government",
+          "customer": "Sport England",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/sport-england/"
+        },
+        {
+          "title": "Danish Crown",
+          "description": "The Danish Crown Group is a multinational meat processing company and among the biggest players in its field worldwide. Perhaps they’re even the company providing you with your breakfast bacon? Skybrud.dk had a major task of changing an old CMS Danish Crown's website was based on and moving it to Umbraco.",
+          "image": "https://umbraco.com/media/2159/smalleropskrifter.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131497686890000000",
+          "industry": "Manufacturing",
+          "customer": "Danish Crown",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/danish-crown/"
+        },
+        {
+          "title": "RM Sotheby’s",
+          "description": "This case is a witness to Umbraco’s flexibility and suitability with large high-profile websites that get a lot of traffic. RM Sotheby’s, an international classic car auction company, is a website with over 300 thousand nodes which include about 250 thousand high-resolution images and 50 thousand content nodes. It is a massive project Stateside has developed using Umbraco CMS.",
+          "image": "https://umbraco.com/media/2357/smaaallerpasted-image-0.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131551232850000000",
+          "industry": "Retail",
+          "customer": "RM Sotheby’s",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/rm-sotheby-s/"
+        },
+        {
+          "title": "Advance",
+          "description": "Advance is a large advertising agency based in Copenhagen. Their old website was outdated and clunky, and was restricting editors in many ways. Spring/Summer had the challenge of not only redesigning the “oldie”, but also making its back office editor-friendly. Did they succeed? You bet. And the Umbraco Award for the Best Editing Experience is a reliable witness. Spring/Summer found the perfect balance between giving the editors a lot of freedom, while still having a user friendly and easy back office experience.",
+          "image": "https://umbraco.com/media/2364/smallerwebsite_0003.jpg?center=0.347953216374269,0.5033333333333333&mode=crop&width=375&height=355&rnd=131553982870000000",
+          "industry": "Media",
+          "customer": "Advance",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/advance/"
+        },
+        {
+          "title": "London & Capital",
+          "description": "London & Capital is a global Wealth Manager, offering highly personalised investment advice to individuals and organisations around the world. GrowCreate was tasked with the development of a secure client portal to improve the overall client experience, on the desktop and on the move. The complex solution was delivered using Umbraco CMS. Curious about the end result? GrowCreate will tell you (and show you) all about it:",
+          "image": "https://umbraco.com/media/2281/smallerlc-portal.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131528928380000000",
+          "industry": "Finance",
+          "customer": "London & Capital",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/london-capital/"
+        },
+        {
+          "title": "Liberty Tax",
+          "description": "Liberty Tax Service is one of the fastest-growing tax preparation franchises with over 4300 offices in the United States and Canada. Liberty’s website was based on a CMS that not only was expensive, but also frequently caused various technical and performance issues. Here Marathon Consulting came to the rescue: they recommended Liberty to migrate all of their public websites to Umbraco to give them relief from the burdensome license fees and the frustration their staff was feeling from using their old CMS.",
+          "image": "https://umbraco.com/media/2415/biggermarathon_casestudies_liberty_halfpage_image.jpg?center=0.30827067669172931,0.49&mode=crop&width=375&height=355&rnd=131570331360000000",
+          "industry": "Consulting",
+          "customer": "Liberty Tax",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/liberty-tax/"
+        },
+        {
+          "title": "StreetWise",
+          "description": "StreetWise carries a great purpose. The Chicago-based non-profit workforce development agency empowers those facing homelessness by providing access to the resources and employment opportunities so individuals can work toward self-sufficiency with dignity. A great purpose requires a flawless website! Our Gold Partner Marcel Digital took that challenge. The major goal was to design and redevelop StreetWise’s website to include easy to use functionality, navigation, and a truer representation of the brand using Umbraco Cloud.",
+          "image": "https://umbraco.com/media/3339/joined-streetwise-covers.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131713291210000000",
+          "industry": "Public Administration & Government",
+          "customer": "StreetWise",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/streetwise/"
+        },
+        {
+          "title": "DOT",
+          "description": "Umbraco can be a match for a wide range of projects, no matter if that includes small or larger websites, private or public sector. Take this case for example; Umbraco proved to be the perfect fit for a major public sector website - DOT (or Din Offentlige Transport, eng. Your Public Transport). DOT is a cooperation between three Danish public transportation providers: Movia (bus), DSB (rail) and Metroselskabet (metro). Kruso built both website and webshop for DOT.",
+          "image": "https://umbraco.com/media/2525/smallerwebsite2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131594414660000000",
+          "industry": "",
+          "customer": "DOT",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/dot/"
+        },
+        {
+          "title": "Lobster Ink",
+          "description": "The Lobster Ink platform is an enterprise-class learning solution that enables the multinational organizations to better manage their change process. This is the story of how Arlanet helped Lobster Ink build a corporate website that supports this ambition. Arlanet spun up the solution on Umbraco Cloud and crafted the whole website in only 60 days. They’ll let you in on more details:",
+          "image": "https://umbraco.com/media/5367/lobsterink-case-header2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132007424760000000",
+          "industry": "Software",
+          "customer": "Lobster Ink",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/lobster-ink/"
+        },
+        {
+          "title": "Merlin's Magical London",
+          "description": "Merlin Entertainments is a British-based company which operates over 120 popular visitor attractions across four continents. The company approached Jaywing and asked to help deliver a customisable ticket-building site - Merlin's Magical London. It’s a website where visitors can book their visits to some of the top tourist destinations in London: Coca-Cola London Eye, The London Dungeon, Shrek’s Adventure, Madame Tussauds London and the SEA LIFE London Aquarium. Merlin's Magical London is a visually attractive website that Jaywing built using Umbraco.",
+          "image": "https://umbraco.com/media/2760/london-big-ticket-1.jpg?center=0.34333333333333332,0.5033333333333333&mode=crop&width=375&height=355&rnd=131630700260000000",
+          "industry": "Entertainment",
+          "customer": "Merlin's Magical London",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/merlins-magical-london/"
+        },
+        {
+          "title": "Sanistaal",
+          "description": "Sanistaal is among the largest Danish suppliers to the construction and manufacturing industries. With Umbraco as a foundation, Danish agency Vertica built a fully fledged business solution around Sanistaal’s website. The overall bounce rate has dropped by 23 percent and that’s just one of the impressive after-launch numbers. The solution has enabled Sanistaal to grow their digital business significantly and granted Vertica with the “crown” for the best technical solution at the Umbraco Awards 2017.",
+          "image": "https://umbraco.com/media/1991/smallersanistaal_vertica_umbracopris_presse.jpg?center=0.31989924433249373,0.42&mode=crop&width=375&height=355&rnd=131468214660000000",
+          "industry": "Construction",
+          "customer": "Sanistaal",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/sanistaal/"
+        },
+        {
+          "title": "British Thoracic Society",
+          "description": "The British Thoracic Society (BTS) had many challenges with its old CMS. Content was difficult to update and documents difficult to manage. Agidea used the power and flexibility of Umbraco to transform the way BTS manages its digital presence:",
+          "image": "https://umbraco.com/media/3858/structured_intelligent_content_management.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131781950820000000",
+          "industry": "Public Administratino & Government",
+          "customer": "British Thoracic Society",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/british-thoracic-society/"
+        },
+        {
+          "title": "Groenhart",
+          "description": "The North-Holland based wholesaler Groenhart is a leader when it comes to the construction, installation sector and facility services. As a growing business, Groenhart saw the need for an improved website with a better commerce solution. They decided to pursue a complete commerce environment rebuilt and integrate it with their ERP. All with the help and skills of Arlanet:",
+          "image": "https://umbraco.com/media/3640/groenhart-box.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131745752740000000",
+          "industry": "Construction",
+          "customer": "Groenhart",
+          "country": "nl",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/groenhart/"
+        },
+        {
+          "title": "Rako Controls",
+          "description": "Rako Controls is an international manufacturer of lighting controls. It’s a technology that allows its users to manage lighting and dimming throughout their homes, office or any building. Rako Controls wanted to change their outdated in-house developed website to a new site that’s more user-friendly, beautiful and light (pun intended). All of this was achieved by our Gold Partner Visarc using Umbraco as a foundation.",
+          "image": "https://umbraco.com/media/2010/smallerhomepage.jpg?center=0.73487031700288186,0.49666666666666665&mode=crop&width=375&height=355&rnd=131472791080000000",
+          "industry": "Energy",
+          "customer": "Rako Controls",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/rako-controls/"
+        },
+        {
+          "title": "DBU (Danish Football Association)",
+          "description": "DBU offers all member clubs a custom website for their club. Klub-CMS is a solution of standard templates and modules which each club can modify allowing for quick, flexible and large volume website creation. Solution was built on Umbraco Cloud by our Gold Partner SportsSys:",
+          "image": "https://umbraco.com/media/3899/dbu-case.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131788123930000000",
+          "industry": "Entertainment",
+          "customer": "DBU (Danish Football Association)",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/dbu-danish-football-association/"
+        },
+        {
+          "title": "YoungMinds",
+          "description": "YoungMinds, the UK charity who is fighting for young people’s mental health, had an outdated website. Plus, the platform was difficult to use and update, and frequently presented broken features. This caused big issues for their already overwhelmed young people who wanted to access support and advice quickly and easily. Things were about to change for the better - within just 3 months, our Certified Partner Yoyo updated, redesigned and redeveloped their website using Umbraco Cloud. How did it go? Yoyo will tell you:",
+          "image": "https://umbraco.com/media/5221/youngminds-6.jpg?center=0.30407523510971785,0.46924428822495606&mode=crop&width=375&height=355&rnd=131987645800000000",
+          "industry": "Public Administration & Government",
+          "customer": "YoungMinds",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/youngminds/"
+        },
+        {
+          "title": "Rubbermaid Commercial Products",
+          "description": "Rubbermaid Commercial Products, the global leader of the commercial cleaning industry, needed a powerful enterprise-level content management system (CMS). The company turned to The Scylla Group to streamline the flow of their digital ecosystem and develop a website that was as impactful as their brand and future-ready. The Scylla Group will tell you how they did it using Umbraco Cloud:",
+          "image": "https://umbraco.com/media/4349/image7.png?anchor=center&mode=crop&width=375&height=355&rnd=131871824630000000",
+          "industry": "Manufacturing",
+          "customer": "Rubbermaid Commercial Products",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/rubbermaid-commercial-products/"
+        },
+        {
+          "title": "Team Danmark",
+          "description": "Team Danmark, the Danish elite sports organization, decided to create a new website and were looking for something more lightweight and simple. The choice of platform was not a hard decision, since their Intranet (on Uintra) was already based on Umbraco and they have had a great experience with it. The new website was developed as a collaboration between Team Danmark (project owner), Magic People Voodoo People (design and UX) and Compent (development and integration), who will tell you the whole story:",
+          "image": "https://umbraco.com/media/5103/team-danmark-19.png?anchor=center&mode=crop&width=375&height=355&rnd=131967281030000000",
+          "industry": "Entertainment",
+          "customer": "Team Danmark",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/team-danmark/"
+        },
+        {
+          "title": "e→d films",
+          "description": "e→d films is a Montreal-based animation studio that makes award-winning films with a handcrafted feel. Their website and online store were not in the best shape: the backend platform and solution architecture came with a set of limitations, loading time was slow, product descriptions and display of the offerings were not expansive, navigation wasn’t intuitive and the list goes on. Using Umbraco, Yaksa set out to change all that:",
+          "image": "https://umbraco.com/media/4300/ed-films-screenshot.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131858957050000000",
+          "industry": "Entertainment",
+          "customer": "e→d films",
+          "country": "ca",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/e-d-films/"
+        },
+        {
+          "title": "ASFINAG",
+          "description": "ASFINAG is a publicly owned Austrian corporation which plans, builds and maintains Austria's motorways and expressways. The company planned a complete rebuild of their website, with multiple applications integrated, and turned to kraftwerk for help. kraftwerk will tell you the full story:",
+          "image": "https://umbraco.com/media/6005/asfinag_blog.png?anchor=center&mode=crop&width=375&height=355&rnd=132098100890000000",
+          "industry": "Tolling",
+          "customer": "ASFINAG",
+          "country": "at",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/asfinag/"
+        },
+        {
+          "title": "Cielo Talent",
+          "description": "Being a world leader in strategic Recruitment Process Outsourcing (RPO), a modern, cutting edge web presence is a true necessity for Cielo Talent. Back in 2009 they turned to Fyin.com to help transform their website. Through a decade of friendship, Fyin.com assisted Cielo Talent in a rebranding campaign in 2014 and then a major redesign in 2018. Today Cielo Talent has a beautiful Umbraco website that’s a joy to use for editors. Fyin.com will tell you more:",
+          "image": "https://umbraco.com/media/5697/cielo_case_study.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132053330560000000",
+          "industry": "Service",
+          "customer": "Cielo Talent",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/cielo-talent/"
+        },
+        {
+          "title": "Shamballa Jewels",
+          "description": "Shamballa Jewels is a world-renowned jeweler offering superior quality, impeccable craftsmanship and unique fine jewelry designs. The company needed a new ordering system, which Compent developed using Umbraco and Ucommerce. The new solution was so good, that at Umbraco Awards 2018 it won the Best New Tech award! See how Compent did it:",
+          "image": "https://umbraco.com/media/3314/shamballa_aus_jan_201811sm.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131713203950000000",
+          "industry": "Manufacturing",
+          "customer": "Shamballa Jewels",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/shamballa-jewels/"
+        },
+        {
+          "title": "Lighthouse",
+          "description": "When completed, the brand new apartment building Lighthouse will be the tallest in Denmark. Placed in the new marinas in Aarhus East, the building is expected to be finished in 2020, but already now, those interested can get a very realistic impression of what Aarhus' new landmark will look like. Novicell, together with real estate developer DOMIS and Kilden & Hindby created a virtual world where you can experience Lighthouse from water, land and air. A virtual world that’s been built on Umbraco and won Best Designed Site at Umbraco Awards ’18. Novicell will give you a peek at the whole process:",
+          "image": "https://umbraco.com/media/4587/lighthouse-case-10.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131909084700000000",
+          "industry": "Construction",
+          "customer": "Lighthouse",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/lighthouse/"
+        },
+        {
+          "title": "Chateau de Fontaine",
+          "description": "Chateau de Fontaine is a state-of-the-art stud farm breeding the best horses in the world. Luxury, quality and elegance echoes throughout the business and are of course characteristics that should be reflected on their website. Chateau de Fontaine wanted a solution that could give them an elegant, custom made, logical and reliable website. A solution produced and designed by WebVision using Umbraco Cloud:",
+          "image": "https://umbraco.com/media/3106/front_0m2a0114_1800x1200.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131677534130000000",
+          "industry": "Entertainment",
+          "customer": "Chateau de Fontaine",
+          "country": "fr",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/chateau-de-fontaine/"
+        },
+        {
+          "title": "Hotel Le Recif",
+          "description": "After 4 years, the Hotel Le Recif's website needed a fresh new look and more importantly, it needed to be available on mobile and tablet devices. LUX* Resorts & Hotels were therefore looking for a solution that could facilitate these demands and wishes. A solution they found by the means of Umbraco 7 and Umbraco Cloud:",
+          "image": "https://umbraco.com/media/3851/screen-shot-2016-07-18-at-115146-am.png?center=0.29878048780487804,0.494&mode=crop&width=375&height=355&rnd=131781921530000000",
+          "industry": "Travel",
+          "customer": "Hotel Le Recif",
+          "country": "fr",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/hotel-le-recif/"
+        },
+        {
+          "title": "Saniona",
+          "description": "Saniona is a research and development company focused on drugs for diseases of the central nervous system, autoimmune diseases, metabolic diseases and treatment of pain. With Saniona's 2016 launch on the Nasdaq, it was important that their website could easily and seamlessly present relevant investor and trading information. See how WebVision did the job, they'll tell you:",
+          "image": "https://umbraco.com/media/3111/saniona2.png?anchor=center&mode=crop&width=375&height=355&rnd=131677599680000000",
+          "industry": "Life Science",
+          "customer": "Saniona",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/saniona/"
+        },
+        {
+          "title": "Motor Village",
+          "description": "Motor Village is FCA’s (Fiat Chrysler Automobiles) wholly owned dealer group. The Motor Village UK division currently has two showrooms and a service centre, all based in London, and selling the full range of Fiat, Alfa Romeo, Jeep and Abarth. New and used cars are sold, along with multiple other services, including fleet, aftersales and parts. The website plays a critical role in driving sales and promoting all elements of the business and therefore it needs to be user-friendly, reliable and of course, visually stunning. Using Umbraco as a foundation Visarc achieved exactly that, together with increased traffic and SEO results.",
+          "image": "https://umbraco.com/media/2196/smalleralfa-used-screenshot.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131511425430000000",
+          "industry": "Retail",
+          "customer": "Motor Village",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/motor-village/"
+        },
+        {
+          "title": "BBMC Mortgage",
+          "description": "BBMC Mortgage (BBMC) came to Scandia with the challenge to help set them apart in a very competitive market, with billions of dollars at stake. The task at hand - after many hours of analysis and collaboration with BBMC marketing stakeholders - ended up being a full redesign and Umbraco implementation of the corporate site, build-out of a micro-site for one of their community initiatives and just a week before going live - a lead-gen Sweepstakes site. Finally, a custom lead management platform was built and fully integrated with the Umbraco back office.",
+          "image": "https://umbraco.com/media/4092/bbmc-multi.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131825498390000000",
+          "industry": "Banking",
+          "customer": "BBMC Mortgage",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/bbmc-mortgage/"
+        },
+        {
+          "title": "Danish Agency for Labour Market and Recruitment",
+          "description": "The Danish Agency for Labour Market and Recruitment (STAR) has a website that services job centres, unemployment insurance funds, municipal case handling, a host of educational institutions, HR-departments in organizations, among others. Over the years the agency had deployed a large host of different websites to service every audience, and was beginning to lose track of it all. With the help of Umbraco and Capgemini Sogeti things were about to change for the better:",
+          "image": "https://umbraco.com/media/3822/star.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131775028880000000",
+          "industry": "Public Administration & Government",
+          "customer": "Danish Agency for Labour Market and Recruitment",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/danish-agency-for-labour-market-and-recruitment/"
+        },
+        {
+          "title": "Sierra Nevada Corporation",
+          "description": "Sierra Nevada Corporation (SNCorp) delivers innovative, customer-focused, end-to-end solutions for Space, Aviation, Electronics and Systems Integration. That includes both public and private sector clients. SNCorp launched a static website with an eye-catching professional design, but their overall plan was to also launch a dynamic site backed by a CMS. Long story short - they selected Umbraco and Fyin.com built the solution:",
+          "image": "https://umbraco.com/media/3758/case-study-sierra-nevada-corporation-slider2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131764748000000000",
+          "industry": "Aviation",
+          "customer": "Sierra Nevada Corporation",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/sierra-nevada-corporation/"
+        },
+        {
+          "title": "Pasfall",
+          "description": "Pasfall is a luxurious gourmet restaurant placed in Odense, Denmark. Standing proud on Funen and being recognized to a worldly extent, Pasfall was bound to expect a lot of attention. The restaurant’s website had to not only be able to take on a lot of traffic, but also reflect high-class service, unique atmosphere and sophisticated taste.",
+          "image": "https://umbraco.com/media/1610/smallerpasfall-arrangement.jpg?center=0.356,0.50666666666666671&mode=crop&width=375&height=355&rnd=131381039150000000",
+          "industry": "Retail",
+          "customer": "Pasfall",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/pasfall/"
+        },
+        {
+          "title": "Scholl",
+          "description": "choll is over a 100 years old, widespread global foot care brand. It is the leader in its field with products sold in over 50 countries. To coincide with a new global product launch, Scholl asked our Gold Partner The Cogworks to design and create three digital campaigns and undertake a global site migration from an old and unresponsive CMS to a new version of Umbraco 7, all within just 6 months.",
+          "image": "https://umbraco.com/media/2350/scholl-website.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131644507420000000",
+          "industry": "Retail",
+          "customer": "Scholl",
+          "country": "ie",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/scholl/"
+        },
+        {
+          "title": "Northmill",
+          "description": "Northmill is a Swedish fintech company, founded as a startup in Stockholm 2006. Their products include consumer loans and a flexible credit account. The vision of the company is to revolutionize the old banking system by building a bank designed for our digital and modern lifestyle. Northmill needed a fast and easy to use CMS to publish and edit content on five different sites, they chose Umbraco. They'll tell you all the whys and hows:",
+          "image": "https://umbraco.com/media/3860/northmill-screenshot.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131781992450000000",
+          "industry": "Finance",
+          "customer": "Northmill",
+          "country": "se",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/northmill/"
+        },
+        {
+          "title": "Action for Children",
+          "description": "With the festive period approaching, equipped with the knowledge that charitable donations increase during this time, Action for Children (AfC) wanted to ensure that their donation journey, especially the key landing page, was at peak performance and converting as much traffic as possible. AfC then approached Cantarus, asking to redevelop their donation landing page with a mobile-first design, with a view to increasing their conversion rates across all platforms. Cantarus will tell you the rest:",
+          "image": "https://umbraco.com/media/6014/afc-challenge-img.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132101786850000000",
+          "industry": "Public Administration & Government",
+          "customer": "Action for Children",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/action-for-children/"
+        },
+        {
+          "title": "J.P. Morgan Asset Management: A Story About Trusts",
+          "description": "J.P. Morgan Asset Management wanted a fresh and innovative way to engage and educate the investor audience whilst establishing their credibility and knowledge in the market. Collaborating with Yoyo Design, they built A Story About Trusts, a website that provides users with a beautiful interactive digital experience. It is no surprise then that at Umbraco Awards 2019 Yoyo Design won twice: as Best Design and as Best Certified Partner Solution. The agency will tell you the full story:",
+          "image": "https://umbraco.com/media/5994/jp-morgan-2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132097305880000000",
+          "industry": "Banking",
+          "customer": "J.P. Morgan Asset Management: A Story About Trusts",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/jp-morgan-asset-management/"
+        },
+        {
+          "title": "vacature.com",
+          "description": "De Persgroep Online Services decided to give one of their platforms, vacature.com, a complete overhaul. The company gave Umbraco Gold Partner The Reference the go-ahead to build a completely new site that included deep integrations with the backend system. Using Umbraco Cloud, The Reference accomplished the mission in under 6 months. See more about the case, told to you by The Reference:",
+          "image": "https://umbraco.com/media/4899/vacature-case-11.png?anchor=center&mode=crop&width=375&height=355&rnd=131921071670000000",
+          "industry": "Travel",
+          "customer": "vacature.com",
+          "country": "be",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/vacaturecom/"
+        },
+        {
+          "title": "Mercedes-Benz Private Lease",
+          "description": "Private lease is a booming market in the car industry; prices are being adjusted on a daily basis and customer standards and demands rise day by day. Mercedes-Benz was in need of a platform that would make it possible to not only cope with this dynamic market but also one that would place them in charge. Perplex then took Umbraco and developed a solid solution that has already produced top-notch results and is an Umbraco Award winner. Perplex will tell you all:",
+          "image": "https://umbraco.com/media/4928/mercedes-benz-case-study-4.png?anchor=center&mode=crop&width=375&height=355&rnd=131925327560000000",
+          "industry": "Automotive",
+          "customer": "Mercedes-Benz Private Lease",
+          "country": "de",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/mercedes-benz-private-lease/"
+        },
+        {
+          "title": "Cumberland Farms",
+          "description": "Cumberland Farms, or as locals call it, Cumby’s, is a large convenience store and gas station chain with locations all across the United States of America. Cumby’s Umbraco website was built using the wrong technique and approach. This resulted in the internal marketing team not being able to manage content properly, produce updates on products, or launch landing pages and create campaigns. Looking for Umbraco experts to turn things around, Cumberland Farms reached out to Scandia. And Scandia is here to tell you the rest:",
+          "image": "https://umbraco.com/media/5836/cumberlandfarms-screen-4.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132079273160000000",
+          "industry": "Retail",
+          "customer": "Cumberland Farms",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/cumberland-farms/"
+        },
+        {
+          "title": "Southwest Power Pool",
+          "description": "As one of the biggest power pools in the United States, Southwest Power Pool (SPP) has the job of maintaining power grids in 14 states — no simple task. Their new responsive website, designed with Umbraco, helps SPP’s staff and partners keep the lights on and stay informed. See how Aristotle built it:",
+          "image": "https://umbraco.com/media/5825/spp_responsive-comparison.png?anchor=center&mode=crop&width=375&height=355&rnd=132078394250000000",
+          "industry": "Utility",
+          "customer": "Southwest Power Pool",
+          "country": "us",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/southwest-power-pool/"
+        },
+        {
+          "title": "Country Choice",
+          "description": "If you’re eating food on the go in the UK, chances are you’ll have eaten products supplied by Country Choice on more than one occasion. The UK’s leading supplier of in-store bakery and retail food service products needed a new website to replace the existing one in its entirety, involving a whole new front-end, Umbraco CMS and multiple custom-built elements to fulfill its business requirements. Visarc then set out to work:",
+          "image": "https://umbraco.com/media/5143/country_choice_-_primary_image.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131973864100000000",
+          "industry": "Manufacturing",
+          "customer": "Country Choice",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/country-choice/"
+        },
+        {
+          "title": "CeramicSpeed",
+          "description": "Just weeks after their new website was launched, CeramicSpeed, manufacturer of cycling industry's most sought-after ceramic bearings and optimised chains, also unveiled the biggest revolution in cycling for at least the last decade - Driven. A brand new drivetrain concept that eliminates the need for derailleurs and chains quickly went viral, growing traffic enormously - up to 18 thousand visitors daily to CeramicSpeed’s website. The new Umbraco Cloud-based solution handled all this without a peep. Oxygen will tell you all about how they built this solution for CeramicSpeed and what magic happened post-launch:",
+          "image": "https://umbraco.com/media/3945/ceramicspeed.jpg?center=0.71,0.515&mode=crop&width=375&height=355&rnd=131799372520000000",
+          "industry": "Manufacturing",
+          "customer": "CeramicSpeed",
+          "country": "nl",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/ceramicspeed/"
+        },
+        {
+          "title": "Zenegy",
+          "description": "Zenegy is paving the way for a whole new generation of payroll systems. It challenges the classic wage-setup and invites businesses to move on an open, innovative platform that’s easy to use. With the use of Umbraco Cloud, WebVision was able to create a beautifully designed and highly functional website with smooth content editing and API synchronization. All of which made Zenegy a very happy end-client:",
+          "image": "https://umbraco.com/media/3616/zenegy-thumbnail.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131741403390000000",
+          "industry": "Software",
+          "customer": "Zenegy",
+          "country": "dk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/zenegy/"
+        },
+        {
+          "title": "Tili",
+          "description": "Equator was given the challenging brief to design and build an innovative new product that would transform the energy market through delivering a “one-stop-shop” for tenants to set-up all their essential home services. The new product came to be Tili and it was crafted using Umbraco CMS. Equator will spill all the beans on the whole story:",
+          "image": "https://umbraco.com/media/5218/tili-brochure-image2.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131986853390000000",
+          "industry": "Service",
+          "customer": "Tili",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/tili/"
+        },
+        {
+          "title": "Cormar Carpet Company",
+          "description": "Cormar Carpet Company, one of the leading carpet manufacturers in the UK, needed a modern digital presence to effectively market their product, encourage users to order carpet samples, and visit their local Cormar stockist. The company reached out to CSI Media for designing and developing a brand new B2C website. Have a look at how CSI media did it using Umbraco CMS, they’ll tell you all:",
+          "image": "https://umbraco.com/media/5043/cormar-carpets-umbraco-mobile.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131957363660000000",
+          "industry": "Manufacturing",
+          "customer": "Cormar Carpet Company",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/cormar-carpet-company/"
+        },
+        {
+          "title": "Olympic Holidays",
+          "description": "Multi-million pound turnover travel site Olympic Holidays was built on an old version of Umbraco - version 4. For such a traffic-heavy website an update to a newer version was vital. Our Gold Partner Offroadcode took that challenge. During the process they developed multiple packages for this solution and open-sourced them. This is a fantastic example of true open-source spirit. No wonder this case won the Jury’s choice award at the Umbraco Awards 2017!",
+          "image": "https://umbraco.com/media/2028/smallercyprus.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131475301700000000",
+          "industry": "Travel",
+          "customer": "Olympic Holidays",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/olympic-holidays/"
+        },
+        {
+          "title": "BoxNation",
+          "description": "BoxNation is a UK boxing subscription TV channel – showcasing domestic and international fights, classic match footage, and boxer profiles. Keep the website online and make sure that the subscription process is stable during periods of extreme traffic - these were the two main goals that Crumpled Dog had building BoxNation's website on Umbraco. Crumpled Dog will tell you all:",
+          "image": "https://umbraco.com/media/5800/hero_top.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132077799250000000",
+          "industry": "Entertainment",
+          "customer": "BoxNation",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/boxnation/"
+        },
+        {
+          "title": "HH Global",
+          "description": "HH Global is an organisation that deals with outsourced marketing execution. It’s a global organisation in growth thus, an organisation in need of a professional looking, well structured and responsive website. Three Deep implemented the new website using Umbraco CMS, and soon after launch the website already showed impressive results, including increased organic traffic. Three Deep is telling the story:",
+          "image": "https://umbraco.com/media/5817/hhglobal_responsive.jpg?anchor=center&mode=crop&width=375&height=355&rnd=132078354850000000",
+          "industry": "Service",
+          "customer": "HH Global",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/hh-global/"
+        },
+        {
+          "title": "NetConstruct",
+          "description": "Remember the proverb “the cobbler’s children go barefoot”? Well for the UK agency NetConstruct, this is definitely not the case. They recently redesigned their own website so well that it even earned them an Umbraco Award this year for Best Design. NetConstruct wanted a simpler, cleaner taxonomy with far more flexibility to express their creativity, stretching the boundaries for design, interactivity and best practice. Check out how they achieved that using Umbraco CMS.",
+          "image": "https://umbraco.com/media/2219/untitled-1.jpg?anchor=center&mode=crop&width=375&height=355&rnd=131515054930000000",
+          "industry": "Service",
+          "customer": "NetConstruct",
+          "country": "uk",
+          "language": "en",
+          "url": "https://umbraco.com/case-studies-testimonials/netconstruct/"
+        }
+      ]
+    }
+  ]
 }

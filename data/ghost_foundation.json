@@ -1,42 +1,44 @@
 {
-        "title": "Ghost Foundation",
-        "logo": "",
-        "country": "uk",
-        "presence": ["uk"],
-        "website": "https://ghost.org/",
-        "founded_year": "2012",
-        "kpi_dict": {
-          "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2017": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          },
-          "2016": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
-          }
-        },
-        "free_software_list": [{
-                "title": "Ghost",
-                "logo": "",
-                "website": "https://ghost.org/",
-                "category_list": ["Application"],
-                "source_code_download": "https://github.com/TryGhost/Ghost",
-                "source_code_profile": "https://www.openhub.net/p/ghost/analyses/latest/languages_summary",
-                "commercial_support": "https://ghost.org/enterprise/",
-                "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_(blogging_platform)",
-                "success_case_list": []
-        }]
+  "title": "Ghost Foundation",
+  "logo": "",
+  "country": "uk",
+  "presence": ["uk"],
+  "website": "https://ghost.org/",
+  "founded_year": "2012",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Ghost",
+      "logo": "",
+      "website": "https://ghost.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://github.com/TryGhost/Ghost",
+      "source_code_profile": "https://www.openhub.net/p/ghost/analyses/latest/languages_summary",
+      "commercial_support": "https://ghost.org/enterprise/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ghost_(blogging_platform)",
+      "success_case_list": []
+    }
+  ]
 }
