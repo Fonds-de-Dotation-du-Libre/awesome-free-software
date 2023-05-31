@@ -114,18 +114,6 @@
       ]
     },
     {
-      "title": "ikats",
-      "logo": "https://ikats.org/img/Logo-ikats-icon.png",
-      "website": "https://ikats.org/",
-      "category_list": ["Analytics"],
-      "source_code_download": "https://github.com/IKATS/IKATS",
-      "source_code_profile": "",
-      "commercial_support": "https://ikats.org/support.html",
-      "wikipedia_url": "",
-      "success_case_list": [],
-      "description": "."
-    },
-    {
       "title": "orekit",
       "logo": "",
       "website": "https://www.orekit.org/",
