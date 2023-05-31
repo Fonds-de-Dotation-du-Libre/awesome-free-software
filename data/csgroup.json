@@ -139,9 +139,9 @@
     {
       "title": "orefeo-toolbox",
       "logo": "https://www.orfeo-toolbox.org/wp-content/uploads/2016/03/logo-orfeo-toolbox.png",
-      "website": "https://www.orfeo-toolbox.org/",
+      "website": "https://github.com/orfeotoolbox/OTB",
       "category_list": ["Analytics"],
-      "source_code_download": "https://www.orfeo-toolbox.org/download/",
+      "source_code_download": "https://github.com/orfeotoolbox/OTB/releases",
       "source_code_profile": "https://www.openhub.net/p/otb/analyses/latest/languages_summary",
       "commercial_support": "",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Orfeo_toolbox",
