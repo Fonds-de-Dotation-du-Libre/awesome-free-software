@@ -7,12 +7,6 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 ### Analytics
 
 
-#### ikats
-
-- Website: <https://ikats.org/>
-- Creator/vendor: [CS Group 🇫🇷](https://www.c-s.fr/)
-- [Commercial support](https://ikats.org/support.html)
-
 #### LinkedWiki
 
 - Website: <http://linkedwiki.com/map.php>
@@ -43,6 +37,8 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 - [Commercial support](https://www.openfoam.com/services/software.php)
 
 #### orefeo-toolbox
+
+<em>Github mirror of https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb.</em>
 
 - Website: <https://github.com/orfeotoolbox/OTB>
 - Creator/vendor: [CS Group 🇫🇷](https://www.c-s.fr/)
