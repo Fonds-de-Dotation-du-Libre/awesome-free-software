@@ -44,7 +44,7 @@ Your "yellow pages" of Enterprise Free Software Publishers, their products and s
 
 #### orefeo-toolbox
 
-- Website: <https://www.orfeo-toolbox.org/>
+- Website: <https://github.com/orfeotoolbox/OTB>
 - Creator/vendor: [CS Group 🇫🇷](https://www.c-s.fr/)
 
 #### Scikit Learn
