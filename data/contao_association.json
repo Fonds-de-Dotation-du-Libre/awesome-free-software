@@ -1,0 +1,44 @@
+{
+  "title": "Contao Association",
+  "logo": "https://association.contao.org/tl_files/layout/logo.png",
+  "country": "ch",
+  "presence": ["ch", "de", "at"],
+  "website": "https://association.contao.org/",
+  "founded_year": "2012",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Contao",
+      "logo": "https://contao.org/files/contao/logo/contao-logo-corporate.svg",
+      "website": "https://contao.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://contao.org/en/download.html",
+      "source_code_profile": "https://www.openhub.net/p/contao/analyses/latest/languages_summary",
+      "commercial_support": "https://contao.org/en/support.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Contao",
+      "success_case_list": []
+    }
+  ]
+}

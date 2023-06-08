@@ -1,0 +1,66 @@
+{
+  "title": "Artenum",
+  "logo": "http://www.artenum.com/layout/header_fond880.gif",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "http://www.artenum.com/",
+  "founded_year": "2001",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Keridwen",
+      "logo": "http://www.artenum.com/FR/logos/logo_web_keridwen.png",
+      "website": "http://dev.artenum.com/projects/keridwen",
+      "category_list": ["Developer"],
+      "source_code_download": "http://dev.artenum.com/projects/keridwen/community/download",
+      "source_code_profile": "",
+      "commercial_support": "http://dev.artenum.com/projects/keridwen/commercial/support",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Cassandra",
+      "logo": "http://www.artenum.com/FR/logos/Nlogo_cassandra-r.gif",
+      "website": "http://dev.artenum.com/projects/cassandra",
+      "category_list": ["Developer"],
+      "source_code_download": "http://dev.artenum.com/projects/cassandra/download",
+      "source_code_profile": "",
+      "commercial_support": "http://www.artenum.com/EN/Products-Cassandra.html",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Edge: ExtendeD Gdml Editor",
+      "logo": "http://www.artenum.com/FR/logos/logo_Edge_simple.png",
+      "website": "http://www.space-suite.com/edge/",
+      "category_list": ["Developer"],
+      "source_code_download": "http://www.space-suite.com/edge/#5.",
+      "source_code_profile": "",
+      "commercial_support": "http://www.space-suite.com/contact/request-dop/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
+}

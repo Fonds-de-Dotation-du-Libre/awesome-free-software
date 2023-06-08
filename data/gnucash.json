@@ -1,0 +1,45 @@
+{
+  "title": "GnuCash",
+  "logo": "https://www.gnucash.org/images/banner5.png",
+  "country": "be",
+  "presence": ["be"],
+  "website": "https://www.gnucash.org/",
+  "founded_year": "1998",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "GnuCash",
+      "logo": "https://www.gnucash.org/images/banner5.png",
+      "website": "https://www.gnucash.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://github.com/Gnucash/gnucash",
+      "source_code_profile": "https://www.openhub.net/p/gnucash/analyses/latest/languages_summary",
+      "commercial_support": "https://wiki.gnucash.org/wiki/Getting_Help",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/GnuCash",
+      "success_case_list": [],
+      "description": "GnuCash Double-Entry Accounting Program."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Key Identity",
+  "logo": "http://www.linotp.org/images/keyidentity_logo_h70.png",
+  "country": "de",
+  "presence": ["de"],
+  "website": "http://www.linotp.org/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "1560538",
+      "total_assets": "2744636",
+      "revenues": "-2929774",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "1422910",
+      "total_assets": "3557488",
+      "revenues": "-328422",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "LinOTP",
+      "logo": "http://www.linotp.org/images/LinOTP_Logo_rgb-89x30.png",
+      "website": "http://www.linotp.org/",
+      "category_list": ["Application"],
+      "source_code_download": "http://www.linotp.org/download.html",
+      "source_code_profile": "",
+      "commercial_support": "http://www.linotp.org/support.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/LinOTP",
+      "success_case_list": []
+    }
+  ]
+}

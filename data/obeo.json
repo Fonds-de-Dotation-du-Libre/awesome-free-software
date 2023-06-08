@@ -1,0 +1,203 @@
+{
+  "title": "Obeo",
+  "logo": "https://www.obeo.fr/images/logos/logo_obeo.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.obeo.fr/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "20439",
+      "total_assets": "3081853",
+      "revenues": "3464264",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "-56626",
+      "total_assets": "3053545",
+      "revenues": "3103023",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "-25721",
+      "total_assets": "3257803",
+      "revenues": "3669150",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Capella",
+      "logo": "https://www.polarsys.org/capella/images/logo_capella_big.png",
+      "website": "https://www.polarsys.org/capella/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.polarsys.org/capella/download.html",
+      "source_code_profile": "https://www.openhub.net/p/capella-arcadia/analyses/latest/languages_summary",
+      "commercial_support": "https://www.polarsys.org/capella/services.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Capella_(engineering)",
+      "success_case_list": [
+        {
+          "title": "Arcadia and Capella for a large complex mechanical system",
+          "description": "Rolls-Royce used Arcadia / Capella to define the architecture of a large civil aerospace turbofan engine, to manage system complexity and minimise the associated risk",
+          "image": "https://www.polarsys.org/capella/images/thumbs/thumb_casestudy_rollsroyce.png",
+          "industry": "Aviation",
+          "customer": "Rolls Royce",
+          "country": "uk",
+          "language": "en",
+          "url": "https://www.polarsys.org/capella/resources/pdf/Case_Study_Rolls_Royce.pdf"
+        },
+        {
+          "title": "Model-Based Systems Engineering Must Become a Team Sport",
+          "description": "This new MBSE approach based on Arcadia method and Capella tool is promising, this initiative shall be reinforced",
+          "image": "https://www.polarsys.org/capella/images/thumbs/thumb_casestudy_arianegroup.png",
+          "industry": "Aviation",
+          "customer": "Ariane Group",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.polarsys.org/capella/resources/pdf/Case_Study_ArianeGroup.pdf"
+        },
+        {
+          "title": "Driving Intelligent Transportation Systems with Capella",
+          "description": "The foreseen capability of Open Source solution Capella overcomes actual gaps that we have identified in commercial MBSE tools, in particular due to methodological automation aspects",
+          "image": "https://www.polarsys.org/capella/images/thumbs/thumb_casestudy_continental.png",
+          "industry": "Automotive",
+          "customer": "Continental",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.polarsys.org/capella/resources/pdf/Case_Study_Continental.pdf"
+        },
+        {
+          "title": "Progressive Deployment of MBSE Methods in French Nuclear Industry",
+          "description": "The progressive evaluation and integration of a Capella solution in support of our development process, especially once interface with our PLM solution, promises to be a strong asset in the deployment of efficient SE practices",
+          "image": "https://www.polarsys.org/capella/images/thumbs/thumb_casestudy_framatome.png",
+          "industry": "Energy",
+          "customer": "Framatome",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.polarsys.org/capella/resources/pdf/Case_Study_Framatome.pdf"
+        }
+      ]
+    },
+    {
+      "title": "UML Designer",
+      "logo": "http://www.umldesigner.org/images/logo_UMLDesigner.png",
+      "website": "http://www.umldesigner.org/",
+      "category_list": ["Application"],
+      "source_code_download": "http://www.umldesigner.org/download/",
+      "source_code_profile": "",
+      "commercial_support": "http://www.umldesigner.org/support/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/UML_Designer",
+      "success_case_list": []
+    },
+    {
+      "title": "IS Designer",
+      "logo": "",
+      "website": "https://www.obeo.fr/en/products/is-designer",
+      "category_list": ["Application"],
+      "source_code_download": "https://github.com/ObeoNetwork/InformationSystem",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Agile Specification and JavaEE Industrialization",
+          "description": "Created for the French Department of Defense (Ministère des Armées), Information System Designer has been successfully used on several major projects. On one single project (6,000 days/men, 600,000 SLOC) IS Designer automatically generated 80% of the source code.",
+          "image": "https://www.obeo.fr/images/logos/references/mindef.png",
+          "industry": "Public Administration & Government",
+          "customer": "Ministère des Armées",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.obeo.fr/ressources/case_studies/CaseStudyMINDEF_EN.pdf"
+        }
+      ],
+      "description": "Un outil open-source complet pour décrire visuellement les applications de votre système d’information."
+    },
+    {
+      "title": "Obeo Designer",
+      "logo": "https://www.obeodesigner.com/images/logos/logo_obeodesigner.png",
+      "website": "https://www.obeodesigner.com/en/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.obeodesigner.com/en/download",
+      "source_code_profile": "",
+      "commercial_support": "https://www.obeodesigner.com/en/support",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Reuse of satellites software architectures",
+          "description": "Sirius has been used to create a modeling workbench for the European Space Agency that supports a generic architecture for on-board satellites applications. This workbench aims to make software development faster in the context of a reduced schedule, to allow late definition or changes to cope with the various system integration strategies",
+          "image": "https://www.obeo.fr/images/logos/references/esa_transp.png",
+          "industry": "Aviation",
+          "customer": "ESA",
+          "country": "es",
+          "language": "en",
+          "url": "https://www.obeo.fr/ressources/case_studies/CaseStudyESA_EN.pdf"
+        },
+        {
+          "title": "Modeling P&C insurance products",
+          "description": "The MAIF (a French insurance company) needed a tool providing a structured, centralized and unified vision of P&C (property and casualty) products (e.g. fire or accident) for its insurance business experts. Obeo has developed a graphical modeling workbench allowing users to directly configure insurance products (server, intranet and new web applications).",
+          "image": "https://www.obeo.fr/images/logos/references/maif.png",
+          "industry": "Insurance",
+          "customer": "MAIF",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.obeo.fr/ressources/case_studies/CaseStudyMAIF_EN.pdf"
+        },
+        {
+          "title": "Industrialize the software design",
+          "description": "As part of a business application architecture updating process, Pôle Emploi is seeking to industrialize its procedures and its JavaEE development methodology. Obeo supplied a custom modeling tool and code generators allowing to the public service to reduce delivery times and to ensure greater control of subcontractor relations",
+          "image": "https://www.obeo.fr/images/logos/references/pole_emploi.png",
+          "industry": "Public Administration & Government",
+          "customer": "Pôle de Émploi",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.obeo.fr/ressources/case_studies/CaseStudyPoleEmploi_EN.pdf"
+        },
+        {
+          "title": "UML adaptation and code generation",
+          "description": "CEA DAM (French Atomic Energy Commission, Military Affairs Division) needed to ease the development and the upgradability of its simulation modules. The approach adopted by Obeo involves describing the modules in UML independent of the execution technology and to generate automatically efficient code for massively parallel computers",
+          "image": "UML adaptation and code generation",
+          "industry": "Energy",
+          "customer": "CEA",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.obeo.fr/ressources/case_studies/CaseStudyCEADAM_EN.pdf"
+        },
+        {
+          "title": "Software migration of 4.5 million lines of code",
+          "description": "Following the SUN announcement of the shutdown of the UDS-Forte platform, Obeo developped a solution to migrate the DGFiP business layer application to the Java technology. All the delivery milestones and quality requirements have been met: the Java code generated fully meets the target architecture for optimum maintenance, and the number of manual adjustments made was less than 4.10-4 (fewer than 4 per 10,000 lines of code).",
+          "image": "https://www.obeo.fr/images/logos/references/min_efi_transp.png",
+          "industry": "Public Administration & Government",
+          "customer": "Diréction Général des Finances Publiques",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.obeo.fr/ressources/case_studies/CaseStudyHelios_EN.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Acceleo",
+      "logo": "https://www.eclipse.org/acceleo/common_assets/images/logos/logo_acceleo.png",
+      "website": "https://www.eclipse.org/acceleo/",
+      "category_list": ["Application"],
+      "source_code_download": "https://www.eclipse.org/acceleo/download.html",
+      "source_code_profile": "https://www.openhub.net/p/acceleo-eclipse/analyses/latest/languages_summary",
+      "commercial_support": "https://www.eclipse.org/acceleo/support.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Acceleo",
+      "success_case_list": []
+    },
+    {
+      "title": "M2Doc",
+      "logo": "http://www.m2doc.org/images/logo_M2Doc.png",
+      "website": "http://www.m2doc.org/",
+      "category_list": ["Application"],
+      "source_code_download": "http://www.m2doc.org/download/",
+      "source_code_profile": "",
+      "commercial_support": "http://www.m2doc.org/support/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
+}

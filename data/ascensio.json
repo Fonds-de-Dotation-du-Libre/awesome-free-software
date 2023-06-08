@@ -1,0 +1,155 @@
+{
+  "title": "Ascensio System",
+  "logo": "https://static-www.onlyoffice.com/images/logo_small.svg",
+  "country": "lv",
+  "presence": ["lv"],
+  "website": "https://www.onlyoffice.com/",
+  "founded_year": "2009",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "OnlyOffice",
+      "logo": "https://static-www.onlyoffice.com/images/logo_small.svg",
+      "website": "",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.onlyoffice.com/en/download.aspx",
+      "source_code_profile": "https://www.openhub.net/p/ONLYOFFICE/analyses/latest/languages_summary",
+      "commercial_support": "https://www.onlyoffice.com/en/support.aspx",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OnlyOffice",
+      "success_case_list": [
+        {
+          "title": "IGV Austria",
+          "description": "How IGV Austria saves time and money with ONLYOFFICE",
+          "image": "",
+          "industry": "Insurance",
+          "customer": "IGV Austria",
+          "country": "at",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/igv-austria.aspx"
+        },
+        {
+          "title": "Maisto bankas",
+          "description": "How a сharitable project collected food worth 300,000 EUR",
+          "image": "",
+          "industry": "Public Administration & Government",
+          "customer": "Maisto bankas",
+          "country": "lt",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/maisto-banko.aspx"
+        },
+        {
+          "title": "Ro-Bo.Ru",
+          "description": "How we've implemented an ecological program on time with ONLYOFFICE",
+          "image": "",
+          "industry": "Commerce",
+          "customer": "Ro-Bo.Ru",
+          "country": "ru",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/robo-ru.aspx"
+        },
+        {
+          "title": "SPD Kreisverband",
+          "description": "How to organize effective cooperation within a political association",
+          "image": "https://static-www.onlyoffice.com/images/clients/case-studies/stephan_muster.png",
+          "industry": "Public Administration & Government",
+          "customer": "SPD Kreisverband",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/spd-kreisverband.aspx"
+        },
+        {
+          "title": "Samara Institute of Business Education",
+          "description": "How can an educational establishment avoid immersing into chaos",
+          "image": "",
+          "industry": "Public Administration & Government",
+          "customer": "Samara Institute of Business Education",
+          "country": "ru",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/business-education.aspx"
+        },
+        {
+          "title": "ASTU",
+          "description": "How to complete a project on time with ONLYOFFICE",
+          "image": "",
+          "industry": "Consulting",
+          "customer": "ASTU",
+          "country": "ru",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/astu.aspx"
+        },
+        {
+          "title": "PC-Rubriek de Monitor",
+          "description": "How I keep my blog using ONLYOFFICE",
+          "image": "",
+          "industry": "Media",
+          "customer": "PC-Rubriek de Monitor",
+          "country": "nl",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/pcrubriekdemonitor.aspx"
+        },
+        {
+          "title": "Rostov Regional Intellectual Game Club",
+          "description": "How ONLYOFFICE helps develop the intellectual potential of the country",
+          "image": "",
+          "industry": "Entertainment",
+          "customer": "Rostov Regional Intellectual Game Club",
+          "country": "ru",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/rostov-club.aspx"
+        },
+        {
+          "title": "Stammtisch",
+          "description": "How young gamers improve their workflow on the network",
+          "image": "",
+          "industry": "Entertainment",
+          "customer": "Stammtisch",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/stammtisch.aspx"
+        },
+        {
+          "title": "St. Skatepark Zuidlaren",
+          "description": "How to organize а great local spot for sport activities with ONLYOFFICE",
+          "image": "https://static-www.onlyoffice.com/images/clients/case-studies/skatepark_zuidlaren.png",
+          "industry": "Entertainment",
+          "customer": "St. Skatepark Zuidlaren",
+          "country": "nl",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/skatepark-zuidlaren.aspx"
+        },
+        {
+          "title": "ICG Europe",
+          "description": "How to make your business grow with ONLYOFFICE",
+          "image": "https://static-www.onlyoffice.com/images/clients/case-studies/icgeurope.png",
+          "industry": "Commerce",
+          "customer": "ICG Europe",
+          "country": "lt",
+          "language": "en",
+          "url": "https://www.onlyoffice.com/en/success-stories/icgeurope.aspx"
+        }
+      ]
+    }
+  ]
+}

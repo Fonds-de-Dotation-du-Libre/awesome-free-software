@@ -1,0 +1,227 @@
+{
+  "title": "Nexedi",
+  "logo": "http://www.nexedi.com/img/nexedi-logo.png",
+  "country": "fr",
+  "presence": ["fr", "de", "jp", "cn"],
+  "website": "http://www.nexedi.com",
+  "founded_year": "2001",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "20",
+      "earnings": "341478",
+      "total_assets": "5098147",
+      "revenues": "2146776",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "20",
+      "earnings": "572158",
+      "total_assets": "4527005",
+      "revenues": "1651903",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "ERP5",
+      "logo": "https://www.erp5.com/img/erp-logo.png",
+      "website": "https://erp5.nexedi.com/",
+      "category_list": ["Application"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/erp5/repository/archive.zip?ref=master",
+      "source_code_profile": "https://www.openhub.net/p/erp5/analyses/latest/languages_summary",
+      "commercial_support": "http://www.nexedi.com/service/nexedi-service-erp5",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/ERP5",
+      "success_case_list": [
+        {
+          "title": "Zawee runs its local fashion shops and eCommerce website with ERP5",
+          "description": "Zawee run its fashion retail business with two shops in Paris and its online shop weinparis.com with ERP5. Thanks to ERP5 Trade, ERP5 PDM and ERP5 POS, Zawee has complete control over its inventory of clothes, bags and accessories in all variations of colours and sizes. With EPR5 eCommerce Zawee can use the same product catalogue for online and offline sales. ERP5‘s social network integration allows Zawee to motivate its clients to promote Zawee products by rewarding facebook likes with loyalty points for shop discounts.",
+          "image": "http://mes-petites-boutiques.com/blog/wp-content/uploads/2015/07/DSC_3813_resultat.jpg",
+          "industry": "Web",
+          "customer": "Zawee",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.nexedi.com/success/erp5-Zawee.Success.Case"
+        },
+        {
+          "title": "GKR:Local html5 App and central ERP5 to manage supply-production-sales data for 14 companies",
+          "description": "GKR international group, the leader of China's rubber industry specialising in rubber planting, processing, sales and R&D, has implemented an exemplary purchase-production-sales data acquisition and management system for its 14 subsidiaries throughout Southeast Asia and China in only 3 months. It was accomplished by developing an easy-to-use HTML5 web application integrated to a central ERP5.",
+          "image": "http://www.nexedi.com/P-GKR-Media.Image.Factory.Production.Satun.Thailand?display=medium&format=jpg",
+          "industry": "Manufacturing",
+          "customer": "Guankeng Rubber Group",
+          "country": "cn",
+          "language": "en",
+          "url": "https://www.nexedi.com/success/erp5-GKR.Success.Case"
+        },
+        {
+          "title": "广东省广垦橡胶集团三个月内成功部署基于HTML5离线技术的跨国ERP系统",
+          "description": "跨国集团公司广垦橡胶集团在三个月内为其位于中国和东南亚的14个子公司部署了一套示范性的供产销数据采集处理系统。该系统包含离线HTML5应用，开源ERP5中心系统平台和GrandeNet应用分发网络。",
+          "image": "http://www.nexedi.com/P-GKR-Media.Image.Factory.Production.Satun.Thailand?display=medium&format=jpg",
+          "industry": "Manufacturing",
+          "customer": "广东省广垦橡胶集团",
+          "country": "cn",
+          "language": "zh",
+          "url": "http://www.nexedi.com/zh/P-GKR-Press.Launch.Announcement"
+        },
+        {
+          "title": "ERP5 Implementation in Aerospace Industry:Integrated Order Management Solution for TerraSAR-X Commercial Service Segment",
+          "description": "Airbus DS Geo GmbH, a 100% subsidiary of Airbus Defence and Space, holds the exclusive commercial exploitation rights for the TerraSAR-X radar earth observation satellite and uses ERP5 as part of the service segment for the commercial distribution of data from the TerraSAR-X Mission . The initial implementation of the ERP5 for the TerraSAR-X Service Segment was realised by Nexedi and Logica and went into production in 2006, after which Nexedi took sole responsibility for managing the system and its technical evolution.",
+          "image": "http://www.nexedi.com/success/erp5-Airbus.Success.Case/NXD-Media.Image.Client.Infoterra?display=medium&format=png",
+          "industry": "Aerospace",
+          "customer": "Airbus DS Geo Gmbh",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.erp5.com/success/erp5-Airbus.Success.Case"
+        },
+        {
+          "title": "Single integrated front and back office solution to power an eBusiness",
+          "description": "Sanef Tolling has chosen ERP5 to power its eBusiness related to management of Electronic Toll Collection for British citizens driving on French motorways. The Sanef Tolling website and the related eBusiness was able to be launched within one month from the beginning of the project because both the Frontoffice and Backoffice had been fully integrated thanks to ERP5.",
+          "image": "http://www.nexedi.com/success/erp5-SanefTolling.Success.Case/erp5-Screenshot.SanefTolling.Website.Home?display=large&format=png",
+          "industry": "Tolling",
+          "customer": "Sanef",
+          "country": ["fr", "gb"],
+          "language": "en",
+          "url": "https://www.erp5.com/success/erp5-SanefTolling.Success.Case"
+        }
+      ]
+    },
+    {
+      "title": "SlapOS",
+      "logo": "http://www.nexedi.com/NXD-Media.Logo.Slapos.Svg?quality=75.0&display=large&format=png",
+      "website": "https://slapos.nexedi.com/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/slapos/repository/archive.zip?ref=master",
+      "source_code_profile": "https://www.openhub.net/p/SlapOS/analyses/latest/languages_summary",
+      "commercial_support": "http://www.nexedi.com/service/nexedi-service-slapos",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Wendelin",
+      "logo": "http://www.nexedi.com/graphic-Wendelin.logo?quality=75.0&display=large&format=png",
+      "website": "https://wendelin.nexedi.com/",
+      "category_list": ["Analytics"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/wendelin/repository/archive.zip?ref=master",
+      "source_code_profile": "https://www.openhub.net/p/wendelin/analyses/latest/languages_summary",
+      "commercial_support": "http://www.nexedi.com/service/nexedi-service-slapos/service/nexedi-service-wendelin",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Renderjs",
+      "logo": "https://www.nexedi.com/NXD-Media.Logo.Renderjs?display=thumbnail&format=png",
+      "website": "https://renderjs.nexedi.com/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/renderjs/repository/archive.zip?ref=master",
+      "source_code_profile": "https://www.openhub.net/p/renderjs/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "jIO",
+      "logo": "https://www.nexedi.com/NXD-Media.Logo.Jio?display=thumbnail&format=png",
+      "website": "https://jio.nexedi.com/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/jio/repository/archive.zip?ref=master",
+      "source_code_profile": "https://www.openhub.net/p/jio/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Re6st",
+      "logo": "https://www.nexedi.com/NXD-Media.Logo.Re6st.Inverted?display=thumbnail&format=png",
+      "website": "https://re6st.nexedi.com/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/re6stnet/repository/archive.zip?ref=master",
+      "source_code_profile": "https://openhub.net/p/re6st/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "NEO",
+      "logo": "https://www.nexedi.com/NXD-Media.Logo.Neo.Inverted?display=thumbnail&format=png",
+      "website": "https://neo.nexedi.com/",
+      "category_list": ["Database"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/neoppod.git/repository/archive.zip?ref=master",
+      "source_code_profile": "https://openhub.net/p/neoppod/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Nayuos",
+      "logo": "https://nayuos.nexedi.com/NXD-Media.Logo.Nayuos?format=png",
+      "website": "https://nayuos.nexedi.com/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://nayuos.nexedi.com/#build-releases",
+      "source_code_profile": "https://www.openhub.net/p/nayuos/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "ShaCache",
+      "logo": "https://stack.nexedi.com/nexedi-free-software/NXD-Media.Logo.Shacache?display=thumbnail&format=png",
+      "website": "https://shacache.nexedi.com",
+      "category_list": ["Application"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/slapos.libnetworkcache",
+      "source_code_profile": "https://www.openhub.net/p/shacache/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Caucase",
+      "logo": "https://stack.nexedi.com/nexedi-free-software/NXD-Media.Logo.Caucase?display=thumbnail&format=png",
+      "website": "https://caucase.nexedi.com/",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/caucase/",
+      "source_code_profile": "https://www.openhub.net/p/caucase/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Webrunner",
+      "logo": "https://stack.nexedi.com/nexedi-free-software/NXD-Media.Logo.Webrunner?display=thumbnail&format=png",
+      "website": "https://webrunner.nexedi.com/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/slapos.toolbox",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Cloudooo",
+      "logo": "https://stack.nexedi.com/nexedi-free-software/NXD-Media.Logo.Cloudooo?display=thumbnail&format=png",
+      "website": "https://cloudooo.nexedi.com/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://lab.nexedi.com/nexedi/cloudooo",
+      "source_code_profile": "https://www.openhub.net/p/cloudooo/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "OfficeJS",
+      "logo": "https://stack.nexedi.com/nexedi-free-software/NXD-Media.Logo.Officejs?display=thumbnail&format=png",
+      "website": "https://officejs.nexedi.com/",
+      "category_list": ["Application"],
+      "source_code_download": "https://stack.nexedi.com/nexedi-free-software/href=",
+      "source_code_profile": "https://openhub.net/p/officejs/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
+}

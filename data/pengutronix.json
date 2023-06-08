@@ -1,0 +1,89 @@
+{
+  "title": "Pengutronix",
+  "logo": "https://www.pengutronix.de/static/img/eisscholle-pinguin.svg",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://www.pengutronix.de/",
+  "founded_year": "2001",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Barebox",
+      "logo": "https://www.pengutronix.de/thumbs/pages/software/barebox_small.thumb.png",
+      "website": "https://www.barebox.org",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://www.barebox.org/download/",
+      "source_code_profile": "https://www.openhub.net/p/barebox/analyses/latest/languages_summary",
+      "commercial_support": "https://www.pengutronix.de/de/services/embedded-linux-consulting.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Barebox",
+      "success_case_list": []
+    },
+    {
+      "title": "PTXDist",
+      "logo": "https://www.pengutronix.de/thumbs/pages/software/ptxdist_small.thumb.png",
+      "website": "https://www.ptxdist.org/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://public.pengutronix.de/software/ptxdist/",
+      "source_code_profile": "https://www.openhub.net/p/ptxdist/analyses/latest/languages_summary",
+      "commercial_support": "https://www.pengutronix.de/de/services/embedded-linux-consulting.html",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "DistroKit",
+      "logo": "https://www.ptxdist.org/images/DistroKitLogo.png",
+      "website": "https://www.pengutronix.de/de/software/distrokit.html",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://git.pengutronix.de/cgit/DistroKit/",
+      "source_code_profile": "https://www.openhub.net/p/DistroKit/analyses/latest/languages_summary",
+      "commercial_support": "https://www.pengutronix.de/de/services/embedded-linux-consulting.html",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "RAUC",
+      "logo": "https://www.pengutronix.de/thumbs/pages/software/RAUC_Logo_300dpi.thumb.png",
+      "website": "https://www.rauc.io/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://www.rauc.io/pages/download.html",
+      "source_code_profile": "https://www.openhub.net/p/rauc/analyses/latest/languages_summary",
+      "commercial_support": "https://www.pengutronix.de/de/services/embedded-linux-consulting.html",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Labgrid",
+      "logo": "https://www.pengutronix.de/thumbs/pages/software/labgrid_logo.thumb.png",
+      "website": "https://labgrid.readthedocs.io/en/latest/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://github.com/labgrid-project/labgrid",
+      "source_code_profile": "",
+      "commercial_support": "https://www.pengutronix.de/de/services/embedded-linux-consulting.html",
+      "wikipedia_url": "",
+      "success_case_list": [],
+      "description": "embedded systems control library for development, testing and installation."
+    }
+  ]
+}

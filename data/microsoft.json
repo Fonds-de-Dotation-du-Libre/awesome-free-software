@@ -1,0 +1,44 @@
+{
+  "title": "Microsoft",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
+  "country": "us",
+  "presence": ["worldwide"],
+  "website": "https://www.microsoft.com/",
+  "founded_year": "1975",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Visual Studio Code",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png",
+      "website": "https://code.visualstudio.com/",
+      "category_list": ["Developer"],
+      "source_code_download": "http://code.visualstudio.com/download#stable-downloads",
+      "source_code_profile": "https://www.openhub.net/p/vscode/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
+      "success_case_list": []
+    }
+  ]
+}

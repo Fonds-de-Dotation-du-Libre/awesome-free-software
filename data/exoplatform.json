@@ -1,0 +1,106 @@
+{
+  "title": "Exoplatform",
+  "logo": "https://www.exoplatform.com/wp-content/themes/westand-child/assets/images/logo.png",
+  "country": "fr",
+  "presence": ["eu", "us", "mea"],
+  "website": "https://www.exoplatform.com/",
+  "founded_year": "2003",
+  "kpi_dict": {
+    "2018": {
+      "staff": "20",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "5000000",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "10",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Exoplatform",
+      "logo": "http://linkedwiki.com/images/logo_button.png",
+      "website": "https://www.exoplatform.com/technology/",
+      "category_list": ["Application"],
+      "source_code_download": "https://github.com/exoplatform/platform-public-distributions",
+      "source_code_profile": "https://www.openhub.net/p/exo_platform/analyses/latest/languages_summary",
+      "commercial_support": "https://www.openhub.net/p/exo_platform",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/EXo_platform",
+      "success_case_list": [
+        {
+          "title": "Oman Business Forum",
+          "description": "The Oman Business Forum (OBF) is a professional platform and forum for enhanced and facilitated dialogue and joint action between the Sharaka Public-Private Task Force and graduates of the Diwan of Royal Court’s National Leadership Programs; a nucleus for current and future decision-makers. It is an initiative launched by Sharaka – the Public-Private Partnership Taskforce, in February 2018. Its core mission is to foster public and private sector collaboration to unlock growth opportunities in Oman.",
+          "image": "https://www.exoplatform.com/wp-content/uploads/2019/05/OMAN-Business-Forum-Case-Study.png",
+          "industry": "Public Administration & Government",
+          "customer": "Oman Business Forum",
+          "country": "om",
+          "language": "en",
+          "url": "https://www.exoplatform.com/oman-business-forum-case-study/"
+        },
+        {
+          "title": "Regional government builds a collaborative intranet for its employees.",
+          "description": "The Elysée Palace is the heart of the Presidency of the French Republic. It supports and assists the President in the execution of his duties. This is why the residence wanted to build a collaborative intranet. The redesign of the intranet to add a modern collaborative and social dimension has been initiated with the aim of facilitating the exchange and promotion of information",
+          "image": "https://www.exoplatform.com/wp-content/uploads/2019/04/CG95-logo.png",
+          "industry": "Public Administration & Government",
+          "customer": "Val D'Oise",
+          "country": "om",
+          "language": "en",
+          "url": "https://www.exoplatform.com/case-study-the-local-government-of-val-doise/"
+        },
+        {
+          "title": "French presidential residence optimizes staff efficiency through a collaborative and mobile intranet",
+          "description": "Regional government builds a collaborative intranet for its employees. The local government of Val d’Oise in France is located just outside Paris and serves over one million citizens. It is in charge of the administration of local resources for infrastructure, school transportation, housing, sanitation, education and other social services. Nearly 4000 administrative officers are employed by the local government, organized into various departments and project-specific groups.",
+          "image": "https://www.exoplatform.com/wp-content/uploads/2017/01/CaseStudy_elysee.png",
+          "industry": "Public Administration & Government",
+          "customer": "Elysée Palace",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.exoplatform.com/customer-case-study-elysee/"
+        },
+        {
+          "title": "Mutavie doubled the traffic through its website and integrated customer portal",
+          "description": "Mutavie is the life insurance subsidiary of MACIF, a major mutual insurance provider in France. It distributes life insurance savings products on behalf of MACIF and other partner companies, managing a portfolio of more than 21 billion euros for more than 1.2 million subscribers. Muavie wanted to modernize its website while equipping itself with a powerful tool, allowing the digital team to regain control over the content and some development while being able to offer secure transactional services to its customers.",
+          "image": "https://www.exoplatform.com/wp-content/uploads/2019/04/logo-mutavie.png",
+          "industry": "Insurance",
+          "customer": "Mutavie",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.exoplatform.com/customer-case-study-mutavie/"
+        },
+        {
+          "title": "Vivalto Santé Case Study",
+          "description": "Founded in 2009, Vivalto Santé is one of the leading providers of private hospital services in France today. Vivalto currently runs a network of 27 private healthcare facilities in the French regions of Brittany, Normandy, Loire Valley, Ile de France and Rhône Alpes. Across its different facilities, Vivalto has about 3,800 beds, 1,700 healthcare practitioners and 5,350 employees.",
+          "image": "https://www.exoplatform.com/wp-content/uploads/2019/04/Logo-vivalto.png",
+          "industry": "Life Sciences",
+          "customer": "Vivalto Santé",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.exoplatform.com/vivalto-sante-case-study/"
+        },
+        {
+          "title": "TIM Case Study",
+          "description": "Founded in 1994 through a merger of several state-owned companies, the company offers a variety of services, such as telephone, mobile and DSL data services. TIM is present in both Italy and Brazil. with respectively 31.6 million mobile lines and 19.3 million fixed accesses in Italy and 56.6 million mobile lines in Brazil. In Italy, TIM is covering 80% of households reached with their fixed ultra-broadband network and over 98% of the population covered by LTE, while in Brazil 3,138 cities covered by 4G.",
+          "image": "https://www.exoplatform.com/wp-content/uploads/2019/04/logo-tim.png",
+          "industry": "Telecommunication",
+          "customer": "TIM",
+          "country": "fr",
+          "language": "en",
+          "url": "https://www.exoplatform.com/tim-case-study/"
+        }
+      ],
+      "description": "eXo Platform Public Distributions."
+    }
+  ]
+}

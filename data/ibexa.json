@@ -1,0 +1,75 @@
+{
+  "title": "ibexa",
+  "logo": "https://ez.no/bundles/eznodesign/images/logo-ez.svg",
+  "country": "no",
+  "presence": ["de", "jp", "pl", "us", "no", "fi", "fr"],
+  "website": "https://ez.no/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "115952",
+      "total_assets": "5029032",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "4456554",
+      "revenues": "338254",
+      "public_source": "true"
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "ez platform dxp",
+      "logo": "https://ez.no/bundles/eznodesign/images/logo-ez.svg",
+      "website": "https://ezplatform.com/",
+      "category_list": ["Application"],
+      "source_code_download": "https://ezplatform.com/",
+      "source_code_profile": "https://www.openhub.net/p/eZPublish/analyses/latest/languages_summary",
+      "commercial_support": "https://ez.no/Services/Support-Maintenance",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/EZ_Platform",
+      "success_case_list": [
+        {
+          "title": "Dadat Bank",
+          "description": "DADAT - Die ALLES Direktbank - Wie eine neue Bank im heiß umkämpften Markt entsteht",
+          "image": "https://ez.no/var/ezflow_site/storage/images/home/clients-partners/clients/dadat-bank/656213-1-eng-GB/DADAT-Bank.png",
+          "industry": "Finance",
+          "customer": "Dadat Bank",
+          "country": "de",
+          "language": "de",
+          "url": "https://ez.no/de/Forms/DADAT-Die-ALLES-Direktbank"
+        },
+        {
+          "title": "Austrian Mint",
+          "description": "Case Study: Münze Österreich - Flexibilität, modernes Design und perfekte Usability für den neuen Onlineshop",
+          "image": "https://ez.no/var/ezflow_site/storage/images/home/clients-partners/clients/austrian-mint/656230-1-eng-GB/Austrian-Mint.png",
+          "industry": "Finance",
+          "customer": "Austrian Mint",
+          "country": "at",
+          "language": "en",
+          "url": "https://ez.no/de/Forms/Case-Study-Muenze-Oesterreich/"
+        },
+        {
+          "title": "homeandsmart.de",
+          "description": "homeandsmart.de - Suchmaschinenoptimierung und Multi-Site Publishing mit eZ Platform Enterprise Edition",
+          "image": "https://ez.no/var/ezflow_site/storage/images/home/clients-partners/clients/homeandsmart.de/656562-1-eng-GB/homeandsmart.de.png",
+          "industry": "Retail",
+          "customer": "homeandsmart.de",
+          "country": "de",
+          "language": "en",
+          "url": "https://ez.no/de/Forms/homeandsmart.de/"
+        }
+      ]
+    }
+  ]
+}

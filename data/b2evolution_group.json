@@ -1,0 +1,44 @@
+{
+  "title": "B2Evolution Group",
+  "logo": "https://b2evolution.net/rsc/img/b2evolution_254x52.png",
+  "country": "lu",
+  "presence": ["lu", "fr", "uk"],
+  "website": "https://b2evolution.net/",
+  "founded_year": "2003",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "B2Evolution",
+      "logo": "https://b2evolution.net/rsc/img/b2evolution_254x52.png",
+      "website": "http://www.mondorescue.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://b2evolution.net/downloads/",
+      "source_code_profile": "https://www.openhub.net/p/b2evolution/analyses/latest/languages_summary",
+      "commercial_support": "https://b2evolution.net/about/pro-support",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/B2evolution",
+      "success_case_list": []
+    }
+  ]
+}
