@@ -1,0 +1,185 @@
+{
+  "title": "PMB Services",
+  "logo": "https://www.sigb.net/temp/cms_vign/medium/section48.jpeg",
+  "country": "fr",
+  "presence": ["fr", "es"],
+  "website": "https://www.sigb.net/",
+  "founded_year": "2004",
+  "kpi_dict": {
+    "2018": {
+      "staff": "34",
+      "earnings": "-106300",
+      "total_assets": "1581600",
+      "revenues": "2118400",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "32",
+      "earnings": "159100",
+      "total_assets": "1913700 ",
+      "revenues": "2403800",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "PMB",
+      "logo": "https://www.sigb.net/temp/cms_vign/medium/section48.jpeg",
+      "website": "https://www.sigb.net/index.php?lvl=cmspage&pageid=6&id_rubrique=1&opac_view=1",
+      "category_list": ["Application"],
+      "source_code_download": "https://forge.sigb.net/redmine/login",
+      "source_code_profile": "",
+      "commercial_support": "https://www.sigb.net/index.php?lvl=cmspage&pageid=6&id_rubrique=71&opac_view=1",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/PMB_(software)",
+      "success_case_list": [
+        {
+          "title": "Base de données documentaire du réseau des Chambres d'Agriculture",
+          "description": "Fonctionnalités mise en oeuvre : Charte responsive | Developments | Formulaire de dépôt | SSO & LDAP Synchronization | Views | Constructions de requêtes webservices",
+          "image": "https://www.sigb.net/img_cache/c67bfdfd5829fe66dfd841352394603d.png",
+          "industry": "Public Administration & Government",
+          "customer": "APCA",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=998"
+        },
+        {
+          "title": "Ré-informatisation des centres de documentation du CH et de l'IFSI de Pontoise avec PMB",
+          "description": "Fonctionnalités mise en oeuvre : Responsive Charter | Views",
+          "image": "https://www.sigb.net/img_cache/b37d1ccd87a1ca915046363ff7c37206.png",
+          "industry": "Public Administration & Government",
+          "customer": "Centre Hospitalier René-Dubos",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=1046"
+        },
+        {
+          "title": "Communauté de Communes Provence d'Argens en Verdon",
+          "description": "",
+          "image": "https://www.sigb.net/img_cache/d2fe9a4eaeb059526742f8b8ce289f3d.png",
+          "industry": "Public Administration & Government",
+          "customer": "Communauté de Communes Provence d'Argens en Verdon",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=1074"
+        },
+        {
+          "title": "Mise en réseau de 10 bibliothèques ",
+          "description": "Fonctionnalités mise en oeuvre : RFID. Nombre de documents : 64027",
+          "image": "https://www.sigb.net/img_cache/bb695ef3b4e81a237628adec597215bd.png",
+          "industry": "Public Administration & Government",
+          "customer": "Communauté de Communes Sud Avesnois",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=861"
+        },
+        {
+          "title": "Harmonisation et fusion des bases de données et traitement documentaire",
+          "description": "L'informatisation de l'Institut français du cheval et de l'équitation s'est déroulée en plusieurs étapes : 1. harmonisation et fusion (ou mutualisation) des bases de données actuelles, 2. mise œuvre de la solution de traitement documentaire selon les spécificités de la structure 3. mise en œuvre de l'interface de diffusion des données selon les spécificités de la structure La médiathèque de l'IFCE détient un fonds documentaire unique, scientifique, technique et patrimonial de plus de 50 000 références, en perpétuelle évolution. Grâce au portail Open Clever réalisé par PMB Services, les usagers peuvent effectuer facilement une recherche documentaire, générer une bibliographie personnalisée ou encore consulter des listes thématiques. Fonctionnalités mise en oeuvre : Chameleon Charter | Responsive Charter | SDI - Documentary product | Developments | RFID | OAI Server | SSO & LDAP Synchronization | Views | Intégration d'un thésaurus existant",
+          "image": "https://www.sigb.net/img_cache/6a55cb3db45eeb10bc28b3685e0799b4.png",
+          "industry": "Public Administration & Government",
+          "customer": "IFCE - Institut Français du Cheval et de l'Equitation",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=994"
+        },
+        {
+          "title": "Ré-informatisation en réseau des 2 bibliothèques de l'IPAG",
+          "description": "Fonctionnalités mise en oeuvre : Passage du portail en Anglais",
+          "image": "https://www.sigb.net/img_cache/2098005405d839eb40e736c7795e8e81.png",
+          "industry": "Public Administration & Government",
+          "customer": "IPAG - Business School",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=1102"
+        },
+        {
+          "title": "Accompagnement documentaire personnalisé à la recherche d'information pour les publics de l'IRTS-IDS Normandie",
+          "description": "Le Centre de Ressources en Information Sociale (CERIS) de l’IRTS-IDS Normandie est spécialisé dans le secteur des sciences sociales et de l’action sociale. Accompagnement documentaire personnalisé à la recherche d'information pour les publics de l'IRTS-IDS Normandie. Accès à plus de 100 revues spécialisées en ligne via un abonnement au portail web Cairn.info et son bouquet de revues « travail social ». Dossiers documentaires thématiques et numériques, accessibles depuis le portail documentaire du CERIS. Expositions thématiques au CERIS en complément des contenus de formation (exemples : les pédagogues, médiations éducatives, politiques sociales). Travail en réseau : le CERIS fait partie du réseau documentaire national PRISME. Au niveau régional, pour élargir l'accès à l'information sur certaines thématiques, le CERIS collabore avec le Centre de ressources autisme de Normandie et le IREPS Haute-Normandie (Instance régionale d'éducation et de promotion de la santé). Fonctionnalités mise en oeuvre : SDI - Documentary product",
+          "image": "https://www.sigb.net/styles/sigb2017/images/bkg_petale.jpg?type=section&id=23&mode=large",
+          "industry": "Public Administration & Government",
+          "customer": "IRTS Normandie",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=1097"
+        },
+        {
+          "title": "Mise en oeuvre de PMB avec migration - Audit/Paramétrage - Portail documentaire - Formations aux fonctionnalités de PMB",
+          "description": "Fonctionnalités mise en oeuvre : Developments | Responsive Charter",
+          "image": "https://www.sigb.net/img_cache/d68b080439de6bb9588f6046457a7284.png",
+          "industry": "Public Administration & Government",
+          "customer": "IRTS PACA-Corse",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=1003"
+        },
+        {
+          "title": "SSO & LDAP Synchronization",
+          "description": "Fonctionnalités mise en oeuvre : Views | SSO & LDAP Synchronization",
+          "image": "https://www.sigb.net/img_cache/b07379a07a0cf2d04d5966640721189d.png",
+          "industry": "Public Administration & Government",
+          "customer": "MSF France",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=506"
+        },
+        {
+          "title": "Mise en œuvre d'un portail Pagéo en 2015 avec option 'Responsive'",
+          "description": "Mise en œuvre d'un portail Pagéo en 2015 avec option 'Responsive' Fusion des catalogues de Rouen et Reims en un seul en 2017. Développement d'un script personnalisé Contribution au développement permettant le tracking de la DSI et des mails sortants Fonctionnalités mise en oeuvre : Developments | Responsive Charter",
+          "image": "https://www.sigb.net/img_cache/d9e646e6f8476fa21344f7a6e9dcd4cb.png",
+          "industry": "Education",
+          "customer": "NEOMA Business School - Campus de ROUEN & REIMS",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=737"
+        },
+        {
+          "title": "Mise en œuvre d'un portail Open Clever en 2018",
+          "description": "Fonctionnalités mise en oeuvre : SSO & LDAP Synchronization | Developments",
+          "image": "https://www.sigb.net/vig_num.php?explnum_id=465",
+          "industry": "Public Administration & Government",
+          "customer": "ONISEP",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=517"
+        },
+        {
+          "title": "Ré-informatiser la « Bibliothèque centrale » et la « Bibliothèque musicale",
+          "description": "Radio France souhaitait se doter d’un outil qui puisse assurer : - Des fonctions classiques de gestion de bibliothèque (SIGB) enrichies de toutes les fonctions de gestion d’ouvrages et de revues numériques. - Des fonctions de gestion et de description de documents très spécifiques que sont les partitions et les matériels d’orchestre et qui constituent 80% du fonds de la bibliothèque musicale, ainsi qu’une part essentielle de son activité. - Des fonctionnalités de Gestion Electronique de Documents (GED) pour assurer la gestion des documents numérisés (« manuscrits », partitions et matériel d’orchestre, dossiers documentaires dans le futur…). L’objectif était de ré-informatiser la « Bibliothèque centrale » et la « Bibliothèque musicale ». Le projet a débuté par la migration et la fusion des 2 bases existantes LORIS vers une base PMB unique. La volonté de Radio France était de profiter de cette ré-informatisation pour passer au modèle relationnel de données FRBR pour leur catalogue. Des ateliers de modélisation ont été organisés pour définir les schémas de données à implémenter. C’est à partir de ces ateliers de spécifications que le logiciel PMB a été enrichi de toutes les fonctionnalités liées au catalogage FRBR et que les données de Radio France ont été traitées pour créer les liens entre les différentes entités du modèle. PMB Services a aussi développé, dans PMB, toute la gestion spécifique des partitions musicales en intégrant un module de gestion des nomenclatures. Le portail constitue le dernier élément clé du projet et permet aux usagers de faire des recherches dans les fonds, de naviguer dans les références par rebonds directement en lien avec la modélisation de données qui a été faite. Des « vues » ont été mises en œuvre dans le portail pour permettre des recherches spécifiques dans la « bibliothèque principale » ou dans la « bibliothèque musicale ». Des développements complémentaires sont en cours actuellement avec Radio France pour rendre encore plus simple et ergonomique le catalogage FRBR.",
+          "image": "https://www.sigb.net/img_cache/4893f864bde3e36efa76b0a42c1912e3.png",
+          "industry": "Media",
+          "customer": "Radio France",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=860"
+        },
+        {
+          "title": "Fusion de 7 bases PMB pour créer une base documentaire unique pour le réseau international d'écoles",
+          "description": "",
+          "image": "https://www.sigb.net/img_cache/73b4f2d7567cb22ff98c4f6872d01ac4.png",
+          "industry": "Education",
+          "customer": "SEK International Schools Barcelone",
+          "country": "es",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=1114"
+        },
+        {
+          "title": "Mise en oeuvre d'un portail contributif",
+          "description": "Mise en oeuvre d'un portail contributif autour de la convention de New York de 1958. Présentation des articles de loi par juridiction. Génération automatisée d'un guide en ligne à partir de contenu éditorial. Fonctionnalités mise en oeuvre : Custom search",
+          "image": "https://www.sigb.net/img_cache/72d34da2bf51626fde6691949790a0f4.png",
+          "industry": "Media",
+          "customer": "Shearman and Sterling - Uncitral Projet",
+          "country": "fr",
+          "language": "fr",
+          "url": "https://www.sigb.net/index.php?lvl=notice_display&id=485"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Commerce guys",
+  "logo": "https://commerceguys.com/sites/default/files/commerce_guys_logo.png",
+  "country": "fr",
+  "presence": ["fr", "gb", "us"],
+  "website": "https://commerceguys.com/",
+  "founded_year": "2008",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Drupal Commerce",
+      "logo": "https://drupalcommerce.org/sites/default/files/DCLogo_2C_on_white_0.png",
+      "website": "https://drupalcommerce.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://ftp.drupal.org/files/projects/drupal-8.1.1.tar.gz",
+      "source_code_profile": "https://www.openhub.net/p/drupalcommerce/analyses/latest/languages_summary",
+      "commercial_support": "https://commerceguys.com/what-we-do/support",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Drupal_Commerce",
+      "success_case_list": [
+        {
+          "title": "Lush",
+          "description": "Lush Cosmetics is a £360m revenue business with over 900 shops in 51 countries, and needed to significantly grow their multi-channel business. They implemented their new flagship eCommerce system for the U.K. in March 2014, built with Commerce Guys on Drupal Commerce technology. It’s the embodiment of Content, Community and Commerce and about as advanced as it gets.",
+          "image": "https://drupalcommerce.org/sites/default/files/showcase-screens/lush-front-page.png",
+          "industry": "Health",
+          "customer": "Lush",
+          "country": "gb",
+          "language": "en",
+          "url": "https://drupalcommerce.org/showcase/site/lush"
+        },
+        {
+          "title": "Enterprise Booking Platform built with Drupal 7",
+          "description": "The goal of the project was to implement a state-of-the-art web experience, which fulfills the needs of the Eurocentres target groups. The new website had to be user-friendly and cross-cultural, utilizing the latest trends in the Internet industry (e.g. mashups, Ajax, social media).",
+          "image": "https://drupalcommerce.org/sites/default/files/showcase-screens/Screen%20Shot%202012-10-04%20at%2011.48.43%20AM.png",
+          "industry": "Travel",
+          "customer": "Eurocentres",
+          "country": "worldwide",
+          "language": "en",
+          "url": "https://www.drupal.org/node/1121326"
+        }
+      ]
+    }
+  ]
+}

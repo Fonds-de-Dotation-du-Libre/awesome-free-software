@@ -1,0 +1,44 @@
+{
+  "title": "C12G Labs",
+  "logo": "http://opennebula.systems/wp-content/uploads/opennebula_logo_dark_bg_s.png",
+  "country": "es",
+  "presence": ["es"],
+  "website": "http://opennebula.systems/",
+  "founded_year": "2010",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Open Nebula",
+      "logo": "https://opennebula.org/wp-content/uploads/2019/04/img-logo-blue.svg",
+      "website": "https://opennebula.org/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://opennebula.org/use/",
+      "source_code_profile": "https://www.openhub.net/p/opennebula/analyses/latest/languages_summary",
+      "commercial_support": "https://support.opennebula.pro/hc/en-us",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OpenNebula",
+      "success_case_list": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Drupal",
+  "logo": "https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg",
+  "country": "be",
+  "presence": ["world"],
+  "website": "https://www.drupal.org/association",
+  "founded_year": "1999",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Drupal Core",
+      "logo": "https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg",
+      "website": "https://www.drupal.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.drupal.org/download",
+      "source_code_profile": "https://www.openhub.net/p/drupal/analyses/latest/languages_summary",
+      "commercial_support": "https://www.drupal.org/support",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Drupal",
+      "success_case_list": [
+        {
+          "title": "Ministry of the Interior of the State of North Rhine-Westphalia",
+          "description": "Websites for public administration are associated with very special requirements for the content management system, for example with regards to privacy and accessibility. With deGov, publicplan GmbH responds precisely to these requirements and offers the federal, state and local authorities corresponding services based on open source software. On behalf of d-NRW AöR, publicplan has created a system tailored to the requirements of the state of NRW: nrwGOV. The foundation for this was the open source software deGov....",
+          "image": "https://www.drupal.org/files/styles/grid-10/public/puplicplan_screenshot.jpg?itok=Bcetd35C",
+          "industry": "Public Administration & Government",
+          "customer": "Ministry of the Interior of the State of North Rhine-Westphalia",
+          "country": "de",
+          "language": "en",
+          "url": "https://www.drupal.org/case-study/ministry-of-the-interior-of-the-state-of-north-rhine-westphalia"
+        },
+        {
+          "title": "Molson Coors",
+          "description": "Acquia and Ameex Technologies Corporation teams decided on component-based architecture to create new templates and mini-sites. Using the component-based architecture and identifying common components led to rapid development, and the Acquia desktop allowed multiple developers to work individually then seamlessly sync their code. ",
+          "image": "https://www.drupal.org/files/styles/grid-10/public/Molson%20Coors%202.png?itok=6FV9Rv_v",
+          "industry": "Manufacturing",
+          "customer": "Molson Coors",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.drupal.org/case-study/molson-coors"
+        },
+        {
+          "title": "Major League Soccer (MLS)",
+          "description": "Major League Soccer (MLS Digital) is a professional soccer league representing the sport's highest level in both the United States and Canada. Since its initial season in 1996, the league has expanded to include 22 teams - 19 in the U.S. and 3 in Canada. The organization sought Phase2’s assistance to migrate each team’s site to a single Drupal 7 platform.",
+          "image": "https://www.drupal.org/files/MLS_Screen_Mobile.png",
+          "industry": "Entertainment",
+          "customer": "Major League Soccer (MLS)",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.drupal.org/case-study/major-league-soccer-mls"
+        },
+        {
+          "title": "Pinterest for Business",
+          "description": "Working closely with the engineering and design teams at Pinterest, Phase2 architected a Drupal 8 system to elevate their global brand and drive growth via a new suite of marketing, business, and community sites",
+          "image": "https://www.drupal.org/files/Pinterest_Screen_full.png",
+          "industry": "Web",
+          "customer": "Pinterest for Business",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.drupal.org/case-study/pinterest-for-business"
+        },
+        {
+          "title": "Open Y: Drupal Distribution for YMCA's",
+          "description": "The Open Y is an open-source customer experience (CX) platform and Drupal 8 distribution specifically built for YMCAs to fuel the Y movement. It was founded by some of the largest YMCA associations in North America including YMCA of Greater Twin Cities, YMCA of Greater Seattle and YMCA of Greater Houston.",
+          "image": "https://www.drupal.org/files/MacBook%20Mockup%203.png",
+          "industry": "Entertainment",
+          "customer": "YMCA",
+          "country": "us",
+          "language": "en",
+          "url": "https://www.drupal.org/case-study/open-y-drupal-distribution-for-ymcas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "title": "SensioLabs",
+  "logo": "http://portis-ed.fr/wp-content/uploads/SensioLabs_Logo.png",
+  "country": "fr",
+  "presence": ["fr", "de", "us", "gb"],
+  "website": "https://sensiolabs.com/",
+  "founded_year": "1998",
+  "kpi_dict": {
+    "2018": {
+      "staff": "58",
+      "earnings": "",
+      "total_assets": "7201516",
+      "revenues": "",
+      "public_source": "true"
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "-7641",
+      "total_assets": "7393141",
+      "revenues": "7962118",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Symfony",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Symfony2.svg",
+      "website": "http://symfony.com/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://github.com/symfony/symfony/archive/master.zip",
+      "source_code_profile": "https://www.openhub.net/p/symfony/analyses/latest/languages_summary",
+      "commercial_support": "https://sensiolabs.com/en/professional-services/index.html",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Symfony",
+      "success_case_list": [
+        {
+          "title": "Vogue France",
+          "description": "...",
+          "image": "https://symfony.com/media/cache/project_show/uploads/showcase/32fa97a5fdd28158d063ac600ff1f917.jpeg",
+          "industry": "Media",
+          "customer": "Vogue France",
+          "country": "fr",
+          "language": "en",
+          "url": "https://symfony.com/showcase/67"
+        },
+        {
+          "title": "Swiss Open Government Data",
+          "description": "...",
+          "image": "https://symfony.com/media/cache/project_show/uploads/showcase/f0a28027adfefbd67b4189a302518d8f.png",
+          "industry": "Public Administration & Government",
+          "customer": "Swiss Federal Council",
+          "country": "ch",
+          "language": "en",
+          "url": "https://symfony.com/showcase/8"
+        }
+      ],
+      "description": "The Symfony PHP framework."
+    },
+    {
+      "title": "Swift Mailer",
+      "logo": "http://swiftmailer.org/images/logo.png",
+      "website": "http://swiftmailer.org/",
+      "category_list": ["Communication"],
+      "source_code_download": "https://github.com/swiftmailer/swiftmailer/archive/5.x.zip",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": [],
+      "description": "Comprehensive mailing tools for PHP."
+    },
+    {
+      "title": "TWIG",
+      "logo": "http://image.slidesharecdn.com/twigtemplating-131030083856-phpapp01/95/twig-templating-6-638.jpg?cb=1383127689",
+      "website": "http://twig.sensiolabs.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://github.com/twigphp/Twig/archive/1.x.zip",
+      "source_code_profile": "https://www.openhub.net/p/php-twig/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Twig_(template_engine)",
+      "success_case_list": [],
+      "description": "Twig, the flexible, fast, and secure template language for PHP."
+    },
+    {
+      "title": "SILEX",
+      "logo": "https://static.oc-static.com/prod/courses/illustrations/illu_premiers-pas-avec-le-framework-php-silex.png",
+      "website": "http://silex.sensiolabs.org/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://github.com/silexphp/Silex/archive/1.3.zip",
+      "source_code_profile": "https://www.openhub.net/p/fabpots_Silex/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Silex_(web_framework)",
+      "success_case_list": [],
+      "description": "[DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components."
+    }
+  ]
+}

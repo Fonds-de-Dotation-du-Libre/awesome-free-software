@@ -1,0 +1,44 @@
+{
+  "title": "Koseven Developers",
+  "logo": "https://koseven.dev/assets/images/koseven.png",
+  "country": "es",
+  "presence": ["es"],
+  "website": "https://koseven.dev/",
+  "founded_year": "2010",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Koseven (Kohana)",
+      "logo": "https://koseven.dev/assets/images/koseven.png",
+      "website": "https://koseven.dev/",
+      "category_list": ["Developer"],
+      "source_code_download": "https://koseven.dev/",
+      "source_code_profile": "https://www.openhub.net/p/ko3/analyses/latest/languages_summary",
+      "commercial_support": "https://koseven.dev/help",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kohana_(framework)",
+      "success_case_list": []
+    }
+  ]
+}

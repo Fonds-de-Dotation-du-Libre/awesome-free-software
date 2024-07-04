@@ -1,0 +1,66 @@
+{
+  "title": "Pentaho",
+  "logo": "http://www.pentaho.com/sites/default/files/uploads/resources/thumbnails/pentaho-hgc-logo.png",
+  "country": "us",
+  "presence": ["us", "gb", "be", "es", "de", "fr"],
+  "website": "http://www.pentaho.com/",
+  "founded_year": "2004",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Mondrian",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Modrian_logo.png",
+      "website": "http://community.pentaho.com/projects/mondrian/",
+      "category_list": ["Analytics"],
+      "source_code_download": "https://github.com/pentaho/mondrian/archive/master.zip",
+      "source_code_profile": "https://www.openhub.net/p/mondrian/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mondrian_OLAP_server",
+      "success_case_list": [
+        {
+          "title": "BT Assure Cyber Embeds Pentaho for Big Data Blending and Analytics",
+          "description": "Comprehensive and fully integrated cyber security service now delivers even faster, more precise insights",
+          "image": "http://www.pentaho.com/sites/default/files/2bt-logo.png",
+          "industry": "Telecommunication",
+          "customer": "BT",
+          "country": "gb",
+          "language": "en",
+          "url": "http://www.pentaho.com/bt-assure-cyber-embeds-pentaho-big-data-blending-and-analytics"
+        },
+        {
+          "title": "Caterpillar Marine Asset Intelligence provides their customers with a 360° view of their equipment to predict machinery failure",
+          "description": "Weka with PDI, helps clients blend a 360° view of equipment to predict machinery failure.",
+          "image": "http://www.pentaho.com/sites/default/files/2cat-logo.png",
+          "industry": "Construction",
+          "customer": "CAT",
+          "country": "us",
+          "language": "en",
+          "url": "http://www.pentaho.com/customers/caterpillar-marine-asset-intelligence"
+        }
+      ],
+      "description": "Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "e.foundation",
+  "logo": "https://e.foundation/wp-content/uploads/logo-noir_Plan-de-travail-1.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://e.foundation/",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "/e/",
+      "logo": "https://e.foundation/wp-content/uploads/logo-noir_Plan-de-travail-1.png",
+      "website": "https://e.foundation/products/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://gitlab.e.foundation/e/wiki/en/wikis/devices-list",
+      "source_code_profile": "",
+      "commercial_support": "https://e.foundation/get-support/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki//e/_(operating_system)",
+      "success_case_list": []
+    }
+  ]
+}

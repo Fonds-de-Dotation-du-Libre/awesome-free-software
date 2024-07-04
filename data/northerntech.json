@@ -1,0 +1,128 @@
+{
+  "title": "Northern Tech",
+  "logo": "https://northern.tech/user/themes/northerntech/images/header-logo-white.png",
+  "country": "fi",
+  "presence": ["fi", "us"],
+  "website": "https://northern.tech",
+  "founded_year": "2008",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "16",
+      "earnings": "143000",
+      "total_assets": "",
+      "revenues": "3112000",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Mender",
+      "logo": "https://mender.io/user/themes/mender/images/optimized/logowhite400px.png",
+      "website": "https://mender.io/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://github.com/mendersoftware/mender",
+      "source_code_profile": "https://www.openhub.net/p/mender/analyses/latest/languages_summary",
+      "commercial_support": "https://mender.io/support-and-services/professional-services",
+      "wikipedia_url": "",
+      "success_case_list": [
+        {
+          "title": "Blokable",
+          "description": "I liked the idea it wasn’t something I needed to maintain. OTA updates are now really easy to build and roll out and the security capabilities such as code signing are easy to understand.",
+          "image": "https://mender.io/user/pages/03.learn/01.customer-case-studies/_cases/blokable.png",
+          "industry": "Construction",
+          "customer": "Blokable",
+          "country": "us",
+          "language": "en",
+          "url": "https://mender.io/learn/customer-case-studies"
+        },
+        {
+          "title": "GridX",
+          "description": "Atomic updates with built-in rollback is a key requirement. We need to make sure our devices continue to work with automated rollback if the update didn’t take for any reason. Mender provided that crucial capability.",
+          "image": "https://mender.io/user/pages/03.learn/01.customer-case-studies/_cases/gridxcase.png",
+          "industry": "Energy",
+          "customer": "GridX",
+          "country": "de",
+          "language": "en",
+          "url": "https://mender.io/learn/customer-case-studies"
+        },
+        {
+          "title": "IOTAS",
+          "description": "We tried a number of OTA tools and Mender was by far the easiest to integrate into our board. The Mender community was also very active which eased our concerns around support for this new product we are deploying.",
+          "image": "https://mender.io/user/pages/03.learn/01.customer-case-studies/_cases/logo-IOTAS-Bk.svg",
+          "industry": "Construction",
+          "customer": "IOTAS",
+          "country": "us",
+          "language": "en",
+          "url": "https://mender.io/learn/customer-case-studies"
+        },
+        {
+          "title": "Kinestral",
+          "description": "Deploying software updates can induce a good amount of unease. With Mender, we can now confidently deploy OTA as security and reliability are central and not an afterthought.",
+          "image": "https://mender.io/user/pages/03.learn/01.customer-case-studies/_cases/Kinestralcase.png",
+          "industry": "Construction",
+          "customer": "Kinestral",
+          "country": "us",
+          "language": "en",
+          "url": "https://mender.io/learn/customer-case-studies"
+        }
+      ],
+      "description": "Mender over-the-air software updater client."
+    },
+    {
+      "title": "CFEngine",
+      "logo": "https://northern.tech/user/pages/02.products/03.CFEngine/logospacingCFEngine.png",
+      "website": "https://cfengine.com/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://cfengine.com/product/free-download/",
+      "source_code_profile": "https://www.openhub.net/p/cfengine/analyses/latest/languages_summary",
+      "commercial_support": "https://cfengine.com/support/",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/CFEngine",
+      "success_case_list": [
+        {
+          "title": "LinkedIn",
+          "description": "LinkedIn operates one of the world’s premier online professional networks, allowing members to manage and share their professional identity online, find jobs, connect with other professionals, and locate business opportunities. With CFEngine LinkedIn automates IT infrastructure and operations, reducing costs and boosting efficiency.",
+          "image": "https://cfengine.com/wp-content/uploads/2014/11/linkedin_cfengine_case_study1-620x800.png",
+          "industry": "Web",
+          "customer": "LinkedIn",
+          "country": "us",
+          "language": "en",
+          "url": "http://cfengine.com/case-studies/linkedin-case-study/"
+        },
+        {
+          "title": "Locaweb",
+          "description": "Locaweb operates one of the largest IT infrastructure deployments in South America to provide IaaS and PaaS services to end customers. Locaweb has grown exponentially since its inception 15 years ago. Today, Locaweb has approximately 250,000 customers and roughly 30% of the hosting market.",
+          "image": "https://cfengine.com/wp-content/uploads/2015/01/locaweb-case-study.png",
+          "industry": "Web",
+          "customer": "Locaweb",
+          "country": "br",
+          "language": "en",
+          "url": "http://cfengine.com/case-studies/locaweb-case-study/"
+        },
+        {
+          "title": "Percolate",
+          "description": "Percolate is one of the world’s leading web and mobile marketing software and service vendors, with an annual growth of 50%. Through automation and AWS spot-instances, Percolate has reduced IT-Operations costs 10x and increased developer efficiency.",
+          "image": "http://cfengine.com/wp-content/uploads/2015/04/Percolate-CFEngine-Case-Study.png",
+          "industry": "Web",
+          "customer": "Percolate",
+          "country": "us",
+          "language": "en",
+          "url": "http://cfengine.com/case-studies/percolate/"
+        }
+      ]
+    }
+  ]
+}

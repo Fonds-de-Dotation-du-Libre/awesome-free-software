@@ -1,0 +1,55 @@
+{
+  "title": "Entrou'vert",
+  "logo": "https://www.entrouvert.com/static/entrouvert/img/logo.png",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://www.entrouvert.com/i",
+  "founded_year": "2002",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "8",
+      "earnings": "514600",
+      "total_assets": "1673300 ",
+      "revenues": "1577300",
+      "public_source": "true"
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Authentic 2",
+      "logo": "https://dev.entrouvert.org/themes/eoredmine/images/eo-sansnom.png",
+      "website": "https://dev.entrouvert.org/projects/authentic",
+      "category_list": ["Middleware"],
+      "source_code_download": "http://pypi.python.org/pypi/authentic2/",
+      "source_code_profile": "",
+      "commercial_support": "https://www.entrouvert.com/identite-numerique/services/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "Lasso",
+      "logo": "https://dev.entrouvert.org/themes/eoredmine/images/eo-sansnom.png",
+      "website": "http://dev.entrouvert.org/projects/lasso",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://dev.entrouvert.org/projects/lasso/wiki/Download_page",
+      "source_code_profile": "https://www.openhub.net/p/p_3888/analyses/latest/languages_summary",
+      "commercial_support": "https://www.entrouvert.com/identite-numerique/services/",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
+}

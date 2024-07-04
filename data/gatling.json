@@ -1,0 +1,65 @@
+{
+  "title": "Gatling",
+  "logo": "https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg",
+  "country": "fr",
+  "presence": ["fr", "de", "nl"],
+  "website": "https://gatling.io/",
+  "founded_year": "2015",
+  "kpi_dict": {
+    "2018": {
+      "staff": "10",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Gatling",
+      "logo": "https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg",
+      "website": "https://gatling.io/open-source/",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://repo1.maven.org/maven2/io/gatling/highcharts/gatling-charts-highcharts-bundle/3.2.0/gatling-charts-highcharts-bundle-3.2.0-bundle.zip",
+      "source_code_profile": "https://www.openhub.net/p/gatling/analyses/latest/languages_summary",
+      "commercial_support": "https://gatling.io/consulting-and-training/",
+      "wikipedia_url": "https://fr.wikipedia.org/wiki/Gatling_(logiciel)",
+      "success_case_list": [
+        {
+          "title": "Continuous Integration Workflow",
+          "description": "Open-Xchange is committed to deliver the most scalable, modern and trusted web-based collaboration and productivity solutions to the smartest companies. Our focus on multi-million user installations at the hosting and telco segment introduces a natural requirement on rigorous load and stress testing. Using Gatling at our continuous integration workflow makes sure that regressions with regards to performance are spotted early during the development cycle.",
+          "image": "https://gatling.io/wp-content/uploads/2019/04/OX-300x117.png",
+          "industry": "Software",
+          "customer": "Open-Xchange",
+          "country": "de",
+          "language": "en",
+          "url": "https://gatling.io/user-stories/development/"
+        },
+        {
+          "title": "Continuous Integration Workflow",
+          "description": "Gatling helps KLM to move from a project oriented to a continuous delivery organization by enabling the integration of load and performance testing into the continuous delivery process. Being a developer friendly tool, that integrates well with other development tools used at KLM, Gatling was quickly adopted by developers in the product teams. By integrating performance tests in the delivery pipeline, the teams get daily feedback on performance during a sprint, so that they can detect and solve issues early in the development process.",
+          "image": "",
+          "industry": "Aeorospace",
+          "customer": "KLM",
+          "country": "ln",
+          "language": "en",
+          "url": "https://gatling.io/user-stories/travel/"
+        }
+      ]
+    }
+  ]
+}

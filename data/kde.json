@@ -1,0 +1,55 @@
+{
+  "title": "KDE Association",
+  "logo": "https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-source.svg",
+  "country": "de",
+  "presence": ["de"],
+  "website": "https://kde.org/",
+  "founded_year": "1996",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "Umbrello UML Editor",
+      "logo": "",
+      "website": "https://umbrello.kde.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://umbrello.kde.org/installation.php",
+      "source_code_profile": "https://www.openhub.net/p/umbrello/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/KDE_Applications#List_of_applications_part_of_the_bundle",
+      "success_case_list": []
+    },
+    {
+      "title": "Calligra Suite",
+      "logo": "https://calligra.org/assets/img/app_icon.svg",
+      "website": "https://calligra.org/",
+      "category_list": ["Application"],
+      "source_code_download": "https://calligra.org/download/",
+      "source_code_profile": "https://www.openhub.net/p/calligra/analyses/latest/languages_summary",
+      "commercial_support": "",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Calligra",
+      "success_case_list": []
+    }
+  ]
+}

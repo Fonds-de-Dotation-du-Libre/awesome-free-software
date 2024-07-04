@@ -1,0 +1,99 @@
+{
+  "title": "Riverband Limited",
+  "logo": "https://www.riverbankcomputing.com/@@/resources/logo.png",
+  "country": "uk",
+  "presence": ["uk"],
+  "website": "https://riverbankcomputing.com/news",
+  "founded_year": "",
+  "kpi_dict": {
+    "2018": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2017": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    },
+    "2016": {
+      "staff": "",
+      "earnings": "",
+      "total_assets": "",
+      "revenues": "",
+      "public_source": ""
+    }
+  },
+  "free_software_list": [
+    {
+      "title": "PyQt",
+      "logo": "",
+      "website": "https://riverbankcomputing.com/software/pyqt/intro",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://www.riverbankcomputing.com/software/pyqt/download5",
+      "source_code_profile": "",
+      "commercial_support": "https://www.riverbankcomputing.com/commercial/pyqt",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/PyQt",
+      "success_case_list": []
+    },
+    {
+      "title": "PyQt3d",
+      "logo": "",
+      "website": "https://www.riverbankcomputing.com/software/pyqt3d/intro",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://www.riverbankcomputing.com/software/pyqt3d/download",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "PyQtChart",
+      "logo": "",
+      "website": "https://www.riverbankcomputing.com/software/pyqtchart/intro",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://www.riverbankcomputing.com/software/pyqtchart/download",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "PyQtDataVisualization",
+      "logo": "",
+      "website": "https://www.riverbankcomputing.com/software/pyqtdatavisualization/intro",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://www.riverbankcomputing.com/software/pyqtdatavisualization/download",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "PyQtPurchasing",
+      "logo": "",
+      "website": "https://www.riverbankcomputing.com/software/pyqtpurchasing/intro",
+      "category_list": ["Middleware"],
+      "source_code_download": "https://www.riverbankcomputing.com/software/pyqtpurchasing/download",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    },
+    {
+      "title": "PyQtWebEngine",
+      "logo": "",
+      "website": "https://www.riverbankcomputing.com/software/pyqtwebengine/intro",
+      "category_list": ["Developer"],
+      "source_code_download": "https://www.riverbankcomputing.com/software/pyqtwebengine/download",
+      "source_code_profile": "",
+      "commercial_support": "",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
+}
