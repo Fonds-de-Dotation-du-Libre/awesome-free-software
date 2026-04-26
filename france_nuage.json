@@ -1,0 +1,22 @@
+{
+  "title": "France Nuage",
+  "logo": "https://france-nuage.fr/images/fr/svg/logo.svg",
+  "country": "fr",
+  "presence": ["fr"],
+  "website": "https://france-nuage.fr",
+  "founded_year": "2023",
+  "kpi_dict": {},
+  "free_software_list": [
+    {
+      "title": "France Nuage Plateforme",
+      "logo": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website": "https://france-nuage.fr",
+      "category_list": ["Infrastructure"],
+      "source_code_download": "https://github.com/France-Nuage/plateforme",
+      "source_code_profile": "",
+      "commercial_support": "https://france-nuage.fr",
+      "wikipedia_url": "",
+      "success_case_list": []
+    }
+  ]
+}
