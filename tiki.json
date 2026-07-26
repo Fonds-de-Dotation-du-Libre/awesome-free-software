@@ -1,0 +1,54 @@
+{
+    "title": "Tiki Software Community Association",
+    "logo": "https://tiki.org/img/tiki/tikilogo.png",
+    "country": "ca",
+    "presence": [
+      "ca"
+    ],
+    "website": "https://tiki.org/Tiki-Software-Community-Association",
+    "founded_year": "2009",
+    "kpi_dict": {
+      "2018": {
+        "staff": "",
+        "earnings": "",
+        "total_assets": "",
+        "revenues": "",
+        "public_source": "https://tiki.org/Tiki-Software-Community-Association"
+      },
+      "2017": {
+        "staff": "",
+        "earnings": "",
+        "total_assets": "",
+        "revenues": "",
+        "public_source": "https://tiki.org/Tiki-Software-Community-Association"
+      },
+      "2016": {
+        "staff": "",
+        "earnings": "",
+        "total_assets": "",
+        "revenues": "",
+        "public_source": "https://tiki.org/Tiki-Software-Community-Association"
+      }
+    },
+    "free_software_list": [
+      {
+        "title": "Tiki Wiki CMS Groupware",
+        "logo": "https://tiki.org/img/tiki/tikilogo.png",
+        "website": "https://tiki.org/HomePage",
+        "category_list": [
+          "CMS",
+          "Wiki",
+          "Groupware",
+          "Collaboration",
+          "Knowledge Management",
+          "Intranet",
+          "Extranet",
+          "Low-code"
+        ],
+        "source_code_download": "https://gitlab.com/tikiwiki/tiki/-/archive/master/tiki-master.tar.gz",
+        "source_code_profile": "https://openhub.net/p/tikiwiki",
+        "commercial_support": "https://tiki.org/Consultants",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tiki_Wiki_CMS_Groupware",
+      }
+    ]
+}
